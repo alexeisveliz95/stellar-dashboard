@@ -1,7 +1,7 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-05-15 15:44`
+> 🕒 Última actualización: `2026-05-15 16:01`
 > 📦 **25** proyectos curados en **4** categorías
 
 ---
@@ -16,5 +16,3 @@
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 
 ---
-
-**Engine migrado a ContentItem Architecture**
