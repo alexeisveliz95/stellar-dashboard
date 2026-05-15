@@ -2,7 +2,7 @@
 
 > [!info] Resumen de Categoría
 > **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **90.6k**
-> Actualizado: `2026-05-15 16:01`
+> Actualizado: `2026-05-15 20:32`
 
 ---
 
