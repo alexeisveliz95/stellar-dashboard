@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stellar Dashboard</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --green: #3fb950;
+      --orange: #d29922;
+      --pink: #f778ba;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+
+    /* Header */
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 32px 0 24px;
+      margin-bottom: 40px;
+    }
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--accent), var(--pink));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    header p { color: var(--text-muted); margin-top: 4px; }
+
+    /* Stats bar */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px;
+      text-align: center;
+    }
+    .stat-card .value { font-size: 1.8rem; font-weight: 700; }
+    .stat-card .label { font-size: 0.85rem; color: var(--text-muted); margin-top: 4px; }
+    .stat-card.repos .value { color: var(--accent); }
+    .stat-card.categories .value { color: var(--green); }
+    .stat-card.posts .value { color: var(--orange); }
+    .stat-card.stars .value { color: var(--pink); }
+
+    /* Section */
+    .section { margin-bottom: 40px; }
+    .section h2 {
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* Category grid */
+    .cat-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 12px;
+    }
+    .cat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 20px;
+      transition: border-color 0.2s;
+    }
+    .cat-card:hover { border-color: var(--accent); }
+    .cat-card a {
+      color: var(--text);
+      text-decoration: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .cat-card .cat-name { font-weight: 600; }
+    .cat-card .cat-meta { color: var(--text-muted); font-size: 0.85rem; }
+
+    /* Trending list */
+    .trend-list { list-style: none; }
+    .trend-list li {
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .trend-list li:last-child { border-bottom: none; }
+    .trend-list a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .trend-list a:hover { text-decoration: underline; }
+
+    /* Repo table */
+    .repo-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+    .repo-table th {
+      text-align: left;
+      padding: 10px 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+      border-bottom: 2px solid var(--border);
+    }
+    .repo-table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--border);
+    }
+    .repo-table .repo-name a { color: var(--accent); text-decoration: none; }
+    .repo-table .repo-name a:hover { text-decoration: underline; }
+    .repo-table .repo-desc {
+      color: var(--text-muted);
+      max-width: 400px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .repo-table .repo-stars { text-align: right; font-weight: 600; }
+    .repo-table tr:hover td { background: rgba(88,166,255,0.04); }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 24px 0;
+      margin-top: 40px;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    /* Top repos */
+    .top-repos {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .top-repos .repo-row {
+      display: flex;
+      align-items: center;
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .top-repos .repo-row:last-child { border-bottom: none; }
+    .top-repos .rank {
+      width: 32px;
+      font-weight: 700;
+      color: var(--text-muted);
+    }
+    .top-repos .rank.gold { color: #ffd700; }
+    .top-repos .rank.silver { color: #c0c0c0; }
+    .top-repos .rank.bronze { color: #cd7f32; }
+    .top-repos .info { flex: 1; }
+    .top-repos .info a { color: var(--accent); text-decoration: none; font-weight: 600; }
+    .top-repos .info a:hover { text-decoration: underline; }
+    .top-repos .info .desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+    .top-repos .growth {
+      text-align: right;
+      color: var(--green);
+      font-weight: 600;
+      font-size: 0.9rem;
+      min-width: 80px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>✨ Stellar Dashboard</h1>
+      <p>Repos curados, categorías y tendencias de GitHub</p>
+    </header>
+
+    <!-- Stats -->
+    <div class="stats">
+      <div class="stat-card repos">
+        <div class="value">16</div>
+        <div class="label">Repos curados</div>
+      </div>
+      <div class="stat-card categories">
+        <div class="value">9</div>
+        <div class="label">Categorías activas</div>
+      </div>
+      <div class="stat-card posts">
+        <div class="value">1</div>
+        <div class="label">Posts publicados</div>
+      </div>
+      <div class="stat-card stars">
+        <div class="value">162k</div>
+        <div class="label">Estrellas acumuladas</div>
+      </div>
+    </div>
+
+    <!-- Top Repos -->
+    <div class="section">
+      <h2>🔥 Top Repos</h2>
+      <div class="top-repos">
+        
+        <div class="repo-row">
+          <div class="rank gold">
+            #1
+          </div>
+          <div class="info">
+            <a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">forrestchang/andrej-karpathy-skills</a>
+            <div class="desc">A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa...</div>
+          </div>
+          <div class="growth">+2829</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank silver">
+            #2
+          </div>
+          <div class="info">
+            <a href="https://github.com/ruvnet/ruflo" target="_blank">ruvnet/ruflo</a>
+            <div class="desc">🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous work...</div>
+          </div>
+          <div class="growth">+2441</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank bronze">
+            #3
+          </div>
+          <div class="info">
+            <a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">Hmbown/DeepSeek-TUI</a>
+            <div class="desc">Coding agent for DeepSeek models that runs in your terminal</div>
+          </div>
+          <div class="growth">+2389</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank ">
+            #4
+          </div>
+          <div class="info">
+            <a href="https://github.com/msitarzewski/agency-agents" target="_blank">msitarzewski/agency-agents</a>
+            <div class="desc">A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea...</div>
+          </div>
+          <div class="growth">+1228</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank ">
+            #5
+          </div>
+          <div class="info">
+            <a href="https://github.com/docusealco/docuseal" target="_blank">docusealco/docuseal</a>
+            <div class="desc">Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</div>
+          </div>
+          <div class="growth">+929</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank ">
+            #6
+          </div>
+          <div class="info">
+            <a href="https://github.com/D4Vinci/Scrapling" target="_blank">D4Vinci/Scrapling</a>
+            <div class="desc">🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!</div>
+          </div>
+          <div class="growth">+915</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank ">
+            #7
+          </div>
+          <div class="info">
+            <a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">AIDC-AI/Pixelle-Video</a>
+            <div class="desc">🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine</div>
+          </div>
+          <div class="growth">+724</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank ">
+            #8
+          </div>
+          <div class="info">
+            <a href="https://github.com/bwya77/vscode-dark-islands" target="_blank">bwya77/vscode-dark-islands</a>
+            <div class="desc">VSCode theme based off the easemate IDE and Jetbrains islands theme</div>
+          </div>
+          <div class="growth">+665</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank ">
+            #9
+          </div>
+          <div class="info">
+            <a href="https://github.com/virattt/dexter" target="_blank">virattt/dexter</a>
+            <div class="desc">An autonomous agent for deep financial research</div>
+          </div>
+          <div class="growth">+660</div>
+        </div>
+        
+        <div class="repo-row">
+          <div class="rank ">
+            #10
+          </div>
+          <div class="info">
+            <a href="https://github.com/jwasham/coding-interview-university" target="_blank">jwasham/coding-interview-university</a>
+            <div class="desc">A complete computer science study plan to become a software engineer.</div>
+          </div>
+          <div class="growth">+497</div>
+        </div>
+        
+      </div>
+    </div>
+
+    <!-- Categories -->
+    <div class="section">
+      <h2>📂 Categorías</h2>
+      <div class="cat-grid">
+        
+        <div class="cat-card">
+          <a href="Categorias/AI_&_Data_Science.md" target="_blank">
+            <span class="cat-name">AI & Data Science</span>
+            <span class="cat-meta">48 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Automation_&_DevOps.md" target="_blank">
+            <span class="cat-name">Automation & DevOps</span>
+            <span class="cat-meta">8 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Cybersecurity_&_Hacking.md" target="_blank">
+            <span class="cat-name">Cybersecurity & Hacking</span>
+            <span class="cat-meta">5 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Mobile_Development.md" target="_blank">
+            <span class="cat-name">Mobile Development</span>
+            <span class="cat-meta">3 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Otros.md" target="_blank">
+            <span class="cat-name">Otros</span>
+            <span class="cat-meta">30 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/PlayStation_Homebrew_&_Linux.md" target="_blank">
+            <span class="cat-name">PlayStation Homebrew & Linux</span>
+            <span class="cat-meta">3 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Python_&_Backend.md" target="_blank">
+            <span class="cat-name">Python & Backend</span>
+            <span class="cat-meta">0 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Web3_&_Blockchain.md" target="_blank">
+            <span class="cat-name">Web3 & Blockchain</span>
+            <span class="cat-meta">4 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Web_Development.md" target="_blank">
+            <span class="cat-name">Web Development</span>
+            <span class="cat-meta">8 repos</span>
+          </a>
+        </div>
+        
+      </div>
+    </div>
+
+    <!-- Trending history -->
+    
+    <div class="section">
+      <h2>📈 Historial de Tendencias</h2>
+      <ul class="trend-list">
+        
+        <li><a href="Tendencias/Trending-2026-05-05.md" target="_blank">2026-05-05</a></li>
+        
+        <li><a href="Tendencias/Trending-2026-05-04.md" target="_blank">2026-05-04</a></li>
+        
+        <li><a href="Tendencias/Trending-2026-05-03.md" target="_blank">2026-05-03</a></li>
+        
+        <li><a href="Tendencias/Trending-2026-05-02.md" target="_blank">2026-05-02</a></li>
+        
+        <li><a href="Tendencias/Trending-2026-05-01.md" target="_blank">2026-05-01</a></li>
+        
+      </ul>
+    </div>
+    
+
+    <footer>
+      Generado automáticamente por <strong>Stellar Content Engine</strong> &middot;
+      2026-05-15 19:29 UTC
+    </footer>
+  </div>
+</body>
+</html>
