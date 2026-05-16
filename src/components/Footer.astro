@@ -1,0 +1,26 @@
+---
+export interface Props {
+  lastUpdated?: string;
+}
+
+const { lastUpdated } = Astro.props;
+---
+
+<footer>
+  Generado por <strong>Stellar Content Engine</strong>
+  {lastUpdated && `· ${lastUpdated} UTC`}
+  · <a href="https://github.com/alexeisveliz95/stellar-dashboard">GitHub</a>
+</footer>
+
+<style>
+  footer {
+    border-top: 1px solid var(--surface-border);
+    padding: 28px 0;
+    margin-top: 20px;
+    text-align: center;
+    color: var(--text-dim);
+    font-size: 0.82rem;
+  }
+
+  footer strong { color: var(--text-muted); }
+</style>

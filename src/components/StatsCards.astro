@@ -1,0 +1,85 @@
+---
+export interface StatItem {
+  value: string;
+  label: string;
+  icon?: string;
+  accent: "blue" | "green" | "orange" | "pink";
+  href?: string;
+}
+
+export interface Props {
+  stats: StatItem[];
+  columns?: number;
+}
+
+const { stats, columns = 4 } = Astro.props;
+
+const accentMap: Record<string, { bar: string; text: string }> = {
+  blue:   { bar: "from-stellar-accent to-stellar-purple", text: "text-stellar-accent" },
+  green:  { bar: "from-stellar-green to-stellar-accent",  text: "text-stellar-green" },
+  orange: { bar: "from-stellar-orange to-stellar-pink",   text: "text-stellar-orange" },
+  pink:   { bar: "from-stellar-pink to-stellar-purple",   text: "text-stellar-pink" },
+};
+---
+
+<div
+  class="stats-grid"
+  style={`--cols: ${columns}`}
+>
+  {stats.map((s) => {
+    const a = accentMap[s.accent] || accentMap.blue;
+    const content = (
+      <div class="stat-card group">
+        <div class={`bar ${a.bar}`} />
+        <div class="p-5 text-center">
+          {s.icon && <div class="text-2xl mb-2">{s.icon}</div>}
+          <div class={`text-3xl font-extrabold tracking-tight ${a.text}`}>{s.value}</div>
+          <div class="text-stellar-dim text-xs uppercase tracking-wider mt-1.5 font-medium">{s.label}</div>
+        </div>
+      </div>
+    );
+    return s.href ? <a href={s.href}>{content}</a> : content;
+  })}
+</div>
+
+<style>
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(var(--cols, 4), 1fr);
+    gap: 16px;
+    margin: 32px 0 44px;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: var(--radius);
+    backdrop-filter: blur(8px);
+    transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    cursor: default;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stat-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(88, 166, 255, 0.3);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  }
+
+  .bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .stat-card:hover .bar { opacity: 1; }
+
+  @media (max-width: 640px) {
+    .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  }
+</style>

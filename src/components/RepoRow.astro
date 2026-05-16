@@ -1,0 +1,112 @@
+---
+import type { ProjectRow } from "../lib/types";
+
+export interface Props {
+  project: ProjectRow;
+  rank?: number;
+  showRank?: boolean;
+}
+
+const { project, rank = 0, showRank = false } = Astro.props;
+
+let rankClass = "";
+let rankLabel = "";
+if (showRank && rank === 1) { rankClass = "gold"; rankLabel = "🥇"; }
+else if (showRank && rank === 2) { rankClass = "silver"; rankLabel = "🥈"; }
+else if (showRank && rank === 3) { rankClass = "bronze"; rankLabel = "🥉"; }
+else if (showRank) { rankLabel = `#${rank}`; }
+---
+
+<div class="repo-row">
+  {showRank && <div class={`rank ${rankClass}`}>{rankLabel}</div>}
+  <div class="info">
+    <a href={project.url} target="_blank" rel="noopener">{project.name}</a>
+    {project.description && <div class="desc">{project.description}</div>}
+  </div>
+  <div class="meta">
+    <span class="stars">{project.stars}</span>
+    <span class="score">{project.score.toFixed(2)}</span>
+    <span class="momentum">{project.momentumBar}</span>
+  </div>
+</div>
+
+<style>
+  .repo-row {
+    display: flex;
+    align-items: center;
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--surface-border);
+    transition: background 0.15s;
+    gap: 12px;
+  }
+
+  .repo-row:last-child { border-bottom: none; }
+  .repo-row:hover { background: rgba(88, 166, 255, 0.04); }
+
+  .rank {
+    width: 36px;
+    font-weight: 700;
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  .rank.gold { color: #ffd700; font-size: 1.1rem; }
+  .rank.silver { color: #c0c0c0; }
+  .rank.bronze { color: #cd7f32; }
+
+  .info { flex: 1; min-width: 0; }
+
+  .info a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+
+  .info a:hover { text-decoration: underline; }
+
+  .info .desc {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin-top: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 420px;
+  }
+
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-shrink: 0;
+  }
+
+  .stars {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .stars::before { content: '★'; color: var(--orange); margin-right: 3px; }
+
+  .score {
+    color: var(--purple);
+    font-size: 0.82rem;
+    font-weight: 600;
+  }
+
+  .momentum {
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 640px) {
+    .repo-row { flex-wrap: wrap; padding: 12px 14px; }
+    .info .desc { max-width: 180px; }
+    .meta { gap: 10px; }
+  }
+</style>

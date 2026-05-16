@@ -1,0 +1,147 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import TrendingTable from "../../components/TrendingTable.astro";
+import TrendingTopFive from "../../components/TrendingTopFive.astro";
+import { loadTrending, loadAllTrending } from "../../lib/mdParser";
+
+export async function getStaticPaths() {
+  const all = loadAllTrending();
+  return all.map((report) => ({
+    params: { slug: report.slug },
+  }));
+}
+
+export interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.params;
+const report = loadTrending(slug ?? "");
+
+if (!report) {
+  return Astro.redirect("/stellar-dashboard", 302);
+}
+
+const allTrending = loadAllTrending();
+const headerTitle = `🔥 Trending ${report.date} · Stellar Dashboard`;
+const headerDesc = `${report.totalRepos} repos · ${report.hotZone} en zona HOT`;
+---
+
+<BaseLayout title={headerTitle} description={headerDesc}>
+  <Header
+    title={`🔥 GitHub Trending — ${report.date}`}
+    subtitle={`${report.totalRepos} repos analizados · ${report.hotZone} en zona HOT · +${report.totalStarsGained} estrellas`}
+  />
+
+  {report.topRepo && (
+    <section class="section fade-in insight-section">
+      <div class="insight">
+        🏆 <strong>Repo del día:</strong>{' '}
+        <a href={report.topRepo.url} target="_blank" rel="noopener">{report.topRepo.name}</a>
+        {' '}lideró con <strong>+{report.topRepo.growth.toLocaleString()}</strong> estrellas
+        ({report.topRepo.growthPercent})
+        <blockquote>{report.topRepo.description}</blockquote>
+      </div>
+    </section>
+  )}
+
+  <section class="section fade-in">
+    <h2>📊 Ranking de Momentum</h2>
+    <TrendingTable ranking={report.ranking} />
+  </section>
+
+  {report.topFive.length > 0 && (
+    <section class="section fade-in">
+      <h2>🏅 Top 5 — Detalle</h2>
+      <TrendingTopFive items={report.topFive} />
+    </section>
+  )}
+
+  <div class="nav-links">
+    <a href="/stellar-dashboard" class="back-link">← Volver al Dashboard</a>
+    <div class="trend-nav">
+      {allTrending.length > 0 && (() => {
+        const idx = allTrending.findIndex((t) => t.slug === report.slug);
+        const prev = idx < allTrending.length - 1 ? allTrending[idx + 1] : null;
+        const next = idx > 0 ? allTrending[idx - 1] : null;
+        return (
+          <>
+            {prev && <a href={`/stellar-dashboard/tendencias/${prev.slug}`}>← {prev.date}</a>}
+            {next && <a href={`/stellar-dashboard/tendencias/${next.slug}`}>{next.date} →</a>}
+          </>
+        );
+      })()}
+    </div>
+  </div>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .section { margin-bottom: 44px; }
+
+  .section h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 18px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--surface-border);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .insight {
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: var(--radius);
+    padding: 20px 24px;
+    font-size: 0.92rem;
+    color: var(--text);
+  }
+
+  .insight a { font-weight: 700; }
+  .insight strong { color: var(--green); }
+
+  .insight blockquote {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    border-left: 3px solid var(--surface-border);
+    padding-left: 14px;
+    margin-top: 10px;
+    font-style: italic;
+  }
+
+  .nav-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .back-link {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+  .back-link:hover { color: var(--accent); }
+
+  .trend-nav { display: flex; gap: 16px; }
+  .trend-nav a {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    padding: 4px 12px;
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: 20px;
+    transition: all 0.2s;
+  }
+  .trend-nav a:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--accent-glow);
+  }
+</style>

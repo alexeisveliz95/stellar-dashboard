@@ -1,0 +1,75 @@
+---
+export interface Props {
+  value: string;
+  label: string;
+  type: "repos" | "categories" | "days" | "stars";
+}
+
+const { value, label, type } = Astro.props;
+const classType = type;
+---
+
+<div class="stat-card {classType}">
+  <div class="value">{value}</div>
+  <div class="label">{label}</div>
+</div>
+
+<style>
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: var(--radius);
+    padding: 22px 16px;
+    text-align: center;
+    backdrop-filter: blur(8px);
+    transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    cursor: default;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .stat-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(88, 166, 255, 0.3);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  }
+
+  .stat-card:hover::before { opacity: 1; }
+
+  .stat-card.repos::before { background: linear-gradient(90deg, var(--accent), var(--purple)); }
+  .stat-card.categories::before { background: linear-gradient(90deg, var(--green), var(--accent)); }
+  .stat-card.days::before { background: linear-gradient(90deg, var(--orange), var(--pink)); }
+  .stat-card.stars::before { background: linear-gradient(90deg, var(--pink), var(--purple)); }
+
+  .stat-card .value {
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+  }
+
+  .stat-card .label {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    margin-top: 6px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .repos .value { color: var(--accent); }
+  .categories .value { color: var(--green); }
+  .days .value { color: var(--orange); }
+  .stars .value { color: var(--pink); }
+</style>

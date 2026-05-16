@@ -1,0 +1,154 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import DashboardHeader from "../components/DashboardHeader.astro";
+import StatsCards from "../components/StatsCards.astro";
+import CategoryGrid from "../components/CategoryGrid.astro";
+import RepoTable from "../components/RepoTable.astro";
+import TrendChart from "../components/TrendChart.astro";
+import Footer from "../components/Footer.astro";
+import {
+  parseDashboard,
+  loadAllCategories,
+  loadLatestTrending,
+  loadAllTrending,
+} from "../lib/mdParser";
+
+const dashboard = parseDashboard();
+const categories = loadAllCategories();
+const latestTrending = loadLatestTrending();
+const allTrending = loadAllTrending();
+
+const allProjects = categories.flatMap((c) =>
+  c.projects.map((p) => ({ ...p, _category: c.name }))
+);
+allProjects.sort((a, b) => b.score - a.score);
+
+const totalRawStars = allProjects.reduce((sum, p) => sum + p.starsRaw, 0);
+const fmtStars =
+  totalRawStars >= 1_000_000
+    ? (totalRawStars / 1_000_000).toFixed(1) + "M"
+    : totalRawStars >= 1_000
+      ? (totalRawStars / 1_000).toFixed(1) + "k"
+      : String(totalRawStars);
+---
+
+<BaseLayout>
+  <DashboardHeader
+    title="Stellar Dashboard"
+    subtitle="Repos curados · Categorías · Tendencias de GitHub"
+    lastUpdated={dashboard.lastUpdated}
+    stats={[
+      { label: "Repos curados", value: String(dashboard.totalItems) },
+      { label: "Categorías", value: String(dashboard.activeCategories) },
+      { label: "Días con datos", value: String(allTrending.length) },
+      { label: "Estrellas", value: fmtStars },
+    ]}
+  />
+
+  <StatsCards
+    stats={[
+      { value: String(dashboard.totalItems), label: "Repos curados", icon: "📦", accent: "blue", href: "#repos" },
+      { value: String(dashboard.activeCategories), label: "Categorías activas", icon: "📂", accent: "green", href: "#categorias" },
+      { value: String(allTrending.length), label: "Días con datos", icon: "📈", accent: "orange" },
+      { value: fmtStars, label: "Estrellas totales", icon: "⭐", accent: "pink" },
+    ]}
+  />
+
+  {
+    latestTrending && (
+      <section id="tendencias" class="my-11 fade-in" style="animation-delay: 0.3s">
+        <div class="flex items-center justify-between mb-4 pb-2.5 border-b border-surface-border">
+          <h2 class="text-xl font-bold flex items-center gap-2.5">
+            🔥 Trending hoy <span class="text-xs font-semibold bg-stellar-accent-glow text-stellar-accent px-2.5 py-0.5 rounded-full">{latestTrending.date}</span>
+          </h2>
+          <a
+            href={`/stellar-dashboard/tendencias/${latestTrending.slug}`}
+            class="text-xs text-stellar-muted hover:text-stellar-accent transition-colors"
+          >
+            Ver completo →
+          </a>
+        </div>
+
+        {
+          latestTrending.topRepo && (
+            <div class="bg-surface border border-surface-border rounded-[8px] p-3.5 mb-3.5 text-sm text-stellar-muted">
+              🏆 <a href={latestTrending.topRepo.url} target="_blank" rel="noopener" class="font-semibold text-stellar-accent hover:underline">{latestTrending.topRepo.name}</a>
+              lideró con <strong class="text-stellar-green">+{latestTrending.topRepo.growth.toLocaleString()}</strong> estrellas ({latestTrending.topRepo.growthPercent})
+            </div>
+          )
+        }
+
+        <TrendChart ranking={latestTrending.ranking} maxBars={10} height={220} />
+      </section>
+    )
+  }
+
+  <section id="repos" class="my-11 fade-in" style="animation-delay: 0.4s">
+    <RepoTable
+      projects={allProjects}
+      title="Todos los repositorios"
+      searchable={true}
+      sortable={true}
+    />
+  </section>
+
+  <section id="categorias" class="my-11 fade-in" style="animation-delay: 0.5s">
+    <CategoryGrid categories={categories} searchable={true} title="Categorías" />
+  </section>
+
+  {
+    allTrending.length > 0 && (
+      <section class="my-11 fade-in" style="animation-delay: 0.6s">
+        <h2 class="text-xl font-bold mb-4 pb-2.5 border-b border-surface-border flex items-center gap-2.5">
+          📈 Historial de Tendencias
+          <span class="text-xs font-semibold bg-stellar-accent-glow text-stellar-accent px-2.5 py-0.5 rounded-full">{allTrending.length}</span>
+        </h2>
+        <div class="trend-pills">
+          {allTrending.map((t) => (
+            <a href={`/stellar-dashboard/tendencias/${t.slug}`} class="trend-pill">
+              <span class="font-semibold">{t.date}</span>
+              <span class="text-stellar-dim text-xs">{t.totalRepos} repos</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <Footer lastUpdated={dashboard.lastUpdated} />
+</BaseLayout>
+
+<style>
+  .trend-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .trend-pill {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 8px 18px;
+    background: var(--surface);
+    border: 1px solid var(--surface-border);
+    border-radius: 20px;
+    transition: all 0.2s;
+  }
+
+  .trend-pill:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--accent-glow);
+    transform: translateY(-1px);
+  }
+
+  .fade-in {
+    animation: fadeIn 0.8s ease-out both;
+  }
+</style>

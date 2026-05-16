@@ -1,0 +1,76 @@
+---
+export interface Props {
+  title: string;
+  subtitle?: string;
+  stats?: { label: string; value: string }[];
+  lastUpdated?: string;
+}
+
+const { title, subtitle, stats, lastUpdated } = Astro.props;
+const grad = "bg-gradient-to-r from-stellar-accent via-stellar-purple to-stellar-pink bg-clip-text text-transparent";
+---
+
+<header class="pt-12 pb-8 text-center relative">
+  <nav class="flex justify-center gap-6 mb-6 text-sm">
+    <a href="/stellar-dashboard/" class="text-stellar-muted hover:text-stellar-accent transition-colors">Dashboard</a>
+    <a href="/stellar-dashboard/#categorias" class="text-stellar-muted hover:text-stellar-accent transition-colors">Categorías</a>
+    <a href="/stellar-dashboard/#tendencias" class="text-stellar-muted hover:text-stellar-accent transition-colors">Tendencias</a>
+  </nav>
+
+  <h1 class="text-[2.6rem] font-extrabold tracking-tight {grad} animate-[fadeIn_0.8s_ease-out]">
+    {title}
+  </h1>
+  <span class="absolute -top-1 right-[15%] text-2xl opacity-30">✦</span>
+
+  {subtitle && (
+    <p class="text-stellar-muted mt-2 text-lg animate-[fadeIn_0.8s_ease-out_0.15s_both]">{subtitle}</p>
+  )}
+
+  {stats && stats.length > 0 && (
+    <div class="flex justify-center gap-8 mt-6 text-sm animate-[fadeIn_0.8s_ease-out_0.25s_both]">
+      {stats.map((s) => (
+        <div class="text-center">
+          <div class="text-xl font-bold text-stellar-text">{s.value}</div>
+          <div class="text-stellar-dim text-xs uppercase tracking-wider">{s.label}</div>
+        </div>
+      ))}
+    </div>
+  )}
+
+  {lastUpdated && (
+    <div class="mt-4 text-xs text-stellar-dim animate-[fadeIn_0.8s_ease-out_0.35s_both]">
+      Última actualización: <span class="text-stellar-muted">{lastUpdated}</span>
+    </div>
+  )}
+</header>
+
+<style>
+  header::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #58a6ff, #bc8cff, #f778ba, transparent);
+  }
+
+  nav a { position: relative; }
+  nav a::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: currentColor;
+    transform: scaleX(0);
+    transition: transform 0.2s;
+  }
+  nav a:hover::after { transform: scaleX(1); }
+
+  @media (max-width: 640px) {
+    header h1 { font-size: 1.8rem; }
+    .stats { gap: 12px; }
+  }
+</style>
