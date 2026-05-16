@@ -14,11 +14,11 @@ export function trendChart() {
     hoveredRow: null as AlpineTrendRow | null,
 
     init() {
-      const script = this.$el.querySelector(
-        'script[type="application/json"]',
-      ) as HTMLScriptElement | null
-      if (script) {
-        this.ranking = JSON.parse(script.textContent ?? '[]')
+      const el = this.$el.querySelector(
+        '[hidden]',
+      ) as HTMLElement | null
+      if (el) {
+        this.ranking = JSON.parse(el.textContent ?? '[]')
       }
       const mb = this.$el.dataset.maxBars
       if (mb) this.maxBars = parseInt(mb, 10)

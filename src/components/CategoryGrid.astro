@@ -25,14 +25,14 @@ const emojiMap: Record<string, string> = {
 const serialized = categories.map((cat) => ({
   title: "name" in cat ? cat.name : "",
   slug: "slug" in cat ? cat.slug : "",
-  count: "projects" in cat ? cat.projects : ("totalProjects" in cat ? cat.totalProjects : 0),
+  count: "projects" in cat ? cat.projects.length : ("totalProjects" in cat ? cat.totalProjects : 0),
   description: "description" in cat ? (cat.description || "") : "",
   emoji: emojiMap[("name" in cat ? cat.name : "")] || "📁",
 }));
 ---
 
     <section id="categorias" class="my-11" x-data="categoryGrid" x-cloak>
-  <script type="application/json">{JSON.stringify(serialized)}</script>
+  <div hidden>{JSON.stringify(serialized)}</div>
 
   {title && (
     <h2 class="text-xl font-bold mb-4 pb-2.5 border-b border-surface-border flex items-center gap-2.5">

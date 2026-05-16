@@ -12,10 +12,13 @@ export function categoryGrid() {
     filtered: [] as AlpineCategory[],
     search: '',
 
-    init(data: AlpineCategory[]) {
-      this.all = data
-      this.filtered = [...data]
-      this.apply()
+    init() {
+      const el = this.$el.querySelector(
+        '[hidden]',
+      ) as HTMLElement | null
+      if (!el) return
+      this.all = JSON.parse(el.textContent ?? '[]')
+      this.filtered = [...this.all]
     },
 
     apply() {

@@ -23,7 +23,7 @@ const serialized = projects.map((p, i) => ({
 ---
 
     <section class="my-11" x-data="repoTable" x-cloak>
-  <script type="application/json">{JSON.stringify(serialized)}</script>
+  <div hidden>{JSON.stringify(serialized)}</div>
 
   {title && (
     <h2 class="text-xl font-bold mb-4 pb-2.5 border-b border-surface-border flex items-center gap-2.5">

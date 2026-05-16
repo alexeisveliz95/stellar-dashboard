@@ -17,11 +17,11 @@ export function repoTable() {
     filterKey: 'all',
 
     init() {
-      const script = this.$el.querySelector(
-        'script[type="application/json"]',
-      ) as HTMLScriptElement | null
-      if (!script) return
-      this.all = JSON.parse(script.textContent ?? '[]')
+      const el = this.$el.querySelector(
+        '[hidden]',
+      ) as HTMLElement | null
+      if (!el) return
+      this.all = JSON.parse(el.textContent ?? '[]')
       this.filtered = [...this.all]
     },
 
