@@ -1,27 +1,16 @@
 # 📂 Cybersecurity & Hacking
 
-> [!info] Resumen
-> **5 repos** curados · ⭐ Top: **71.7k** · Acumulado: **111.5k** estrellas · Actualizado: `2026-05-05`
+> [!info] Resumen de Categoría
+> **2 proyectos** · ⭐ Mejor score: **0.70** · Estrellas totales: **186.1k**
+> Actualizado: `2026-05-16 09:11`
 
 ---
 
-## 🔥 Popular
+## 📋 Proyectos Destacados
 
-| Proyecto | ⭐ Stars | Descripción |
-| :--- | ---: | :--- |
-| [**hackingtool**](https://github.com/Z4nzu/hackingtool) | 71.7k | ALL IN ONE Hacking Tool For Hackers |
-| [**sniffnet**](https://github.com/GyulyVGC/sniffnet) | 37.2k | Comfortably monitor your Internet traffic |
+| Proyecto | Score | Stars | Momentum | Descripción |
+| :--- | ---: | ---: | ---: | :--- |
+| [**everything-claude-code**](https://github.com/affaan-m/everything-claude-code) | **0.70** | 184.1k | `░░░░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
+| [**vps-audit**](https://github.com/vernu/vps-audit) | **0.69** | 1.9k | `░░░░░░░░░░` | lightweight, dependency-free bash script for security, performance auditing and infrastructure… |
 
-## ⭐ Notable
-
-| Proyecto | ⭐ Stars | Descripción |
-| :--- | ---: | :--- |
-| [**vps-audit**](https://github.com/vernu/vps-audit) | 1.9k | lightweight, dependency-free bash script for security, performance auditing and… |
-
-## 🌱 Emerging
-
-| Proyecto | ⭐ Stars | Descripción |
-| :--- | ---: | :--- |
-| [**Whatsapp-Spy**](https://github.com/wellrodrig/Whatsapp-Spy) | 340 | WhatsApp Spy is an app designed to monitor and log all on-screen texts whenever a user… |
-| [**Sara**](https://github.com/caster0x00/Sara) | 315 | MikroTik RouterOS Security Inspector |
-
+---

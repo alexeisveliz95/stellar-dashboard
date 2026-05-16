@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **5 proyectos** · ⭐ Mejor score: **0.81** · Estrellas totales: **276.5k**
-> Actualizado: `2026-05-16 08:47`
+> **5 proyectos** · ⭐ Mejor score: **0.81** · Estrellas totales: **276.6k**
+> Actualizado: `2026-05-16 09:11`
 
 ---
 
