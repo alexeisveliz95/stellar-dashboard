@@ -2,7 +2,7 @@
 
 > [!info] Resumen de Categoría
 > **44 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **1.1M**
-> Actualizado: `2026-05-17 08:55`
+> Actualizado: `2026-05-17 09:16`
 
 ---
 
@@ -14,10 +14,10 @@
 | [**Shadowbroker**](https://github.com/BigBodyCobain/Shadowbroker) | **1.00** | 6.7k | `██░░░░░░░░` | Open-source intelligence for the global theater. Track everything from the corporate/private… |
 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 23.6k | `██░░░░░░░░` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and… |
 | [**shannon**](https://github.com/KeygraphHQ/shannon) | **1.00** | 42.5k | `█░░░░░░░░░` | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It… |
-| [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.94** | 11.7k | `██████████` | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.94** | 11.8k | `██████████` | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 | [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 62.1k | `█░░░░░░░░░` | 12 Lessons to Get Started Building AI Agents |
 | [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **0.88** | 2.6k | `█░░░░░░░░░` | The secure, validated skill registry for professional AI coding agents. Extend Antigravity,… |
-| [**DreamServer**](https://github.com/Light-Heart-Labs/DreamServer) | **0.79** | 958 | `██████░░░░` | Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and… |
+| [**DreamServer**](https://github.com/Light-Heart-Labs/DreamServer) | **0.79** | 961 | `██████░░░░` | Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and… |
 | [**QuantDinger**](https://github.com/brokermr810/QuantDinger) | **0.70** | 5.5k | `░░░░░░░░░░` | AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading,… |
 | [**OctoBot**](https://github.com/Drakkar-Software/OctoBot) | **0.70** | 5.9k | `░░░░░░░░░░` | Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on… |
 | [**fff**](https://github.com/dmtrKovalenko/fff) | **0.70** | 6.1k | `░░░░░░░░░░` | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and… |

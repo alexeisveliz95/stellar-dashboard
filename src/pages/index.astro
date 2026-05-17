@@ -37,12 +37,6 @@ const fmtStars =
     title="Stellar Dashboard"
     subtitle="Repos curados · Categorías · Tendencias de GitHub"
     lastUpdated={dashboard.lastUpdated}
-    stats={[
-      { label: "Repos curados", value: String(dashboard.totalItems) },
-      { label: "Categorías", value: String(dashboard.activeCategories) },
-      { label: "Días con datos", value: String(allTrending.length) },
-      { label: "Estrellas", value: fmtStars },
-    ]}
   />
 
   <StatsCards
