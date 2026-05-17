@@ -1,8 +1,8 @@
 # 📂 Automation & DevOps
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.70** · Estrellas totales: **12.5k**
-> Actualizado: `2026-05-16 09:11`
+> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **49.2k**
+> Actualizado: `2026-05-17 08:34`
 
 ---
 
@@ -10,6 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**pyautogui**](https://github.com/asweigart/pyautogui) | **0.70** | 12.5k | `░░░░░░░░░░` | A cross-platform GUI automation Python module for human beings. Used to programmatically… |
+| [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **1.00** | 35.3k | `██████████` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/ |
+| [**pyautogui**](https://github.com/asweigart/pyautogui) | **0.70** | 12.5k | `█░░░░░░░░░` | A cross-platform GUI automation Python module for human beings. Used to programmatically… |
+| [**Google-Maps-Scrapper**](https://github.com/zohaibbashir/Google-Maps-Scrapper) | **0.57** | 671 | `█░░░░░░░░░` | This code is used to perform web scraping and data extraction from Google Maps. It is… |
+| [**MikroDash**](https://github.com/SecOps-7/MikroDash) | **0.54** | 398 | `█░░░░░░░░░` | Real-time MikroTik RouterOS v7 dashboard. Streams live CPU, traffic, wireless clients, DHCP,… |
+| [**cli**](https://github.com/withoneai/cli) | **0.52** | 223 | `█░░░░░░░░░` | A command-line tool to give your agents access to any app, create workflows and manage your… |
+| [**poke-cli**](https://github.com/digitalghost-dev/poke-cli) | **0.52** | 176 | `█░░░░░░░░░` | A hybrid CLI/TUI tool written in Go for viewing Pokémon data from the terminal! Also doubles… |
 
 ---
