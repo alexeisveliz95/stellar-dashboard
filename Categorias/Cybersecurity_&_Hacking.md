@@ -1,8 +1,8 @@
 # 📂 Cybersecurity & Hacking
 
 > [!info] Resumen de Categoría
-> **4 proyectos** · ⭐ Mejor score: **0.70** · Estrellas totales: **262.5k**
-> Actualizado: `2026-05-17 08:34`
+> **4 proyectos** · ⭐ Mejor score: **0.70** · Estrellas totales: **262.6k**
+> Actualizado: `2026-05-17 08:55`
 
 ---
 
