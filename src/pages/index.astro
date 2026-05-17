@@ -22,6 +22,7 @@ const allProjects = categories.flatMap((c) =>
   c.projects.map((p) => ({ ...p, _category: c.name }))
 );
 allProjects.sort((a, b) => b.score - a.score);
+const topProjects = allProjects.slice(0, 20);
 
 const totalRawStars = allProjects.reduce((sum, p) => sum + p.starsRaw, 0);
 const fmtStars =
@@ -79,8 +80,8 @@ const fmtStars =
 
   <section id="repos" class="my-11 fade-in" style="animation-delay: 0.4s">
     <RepoTable
-      projects={allProjects}
-      title="Todos los repositorios"
+      projects={topProjects}
+      title="Top 20 Repositorios"
       searchable={true}
       sortable={true}
     />

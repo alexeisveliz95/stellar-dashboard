@@ -2,7 +2,7 @@
 
 > [!info] Resumen de Categoría
 > **59 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **2.0M**
-> Actualizado: `2026-05-17 09:16`
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -42,7 +42,7 @@
 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **0.40** | 7.5k | `░░░░░░░░░░` | "Vibe-Trading: Your Personal Trading Agent" |
 | [**cheat-sheet-pdf**](https://github.com/sk3pp3r/cheat-sheet-pdf) | **0.40** | 2.3k | `░░░░░░░░░░` | 📜 A Cheat-Sheet Collection from the WWW |
 | [**awesome-mcp-servers**](https://github.com/appcypher/awesome-mcp-servers) | **0.40** | 5.5k | `░░░░░░░░░░` | Awesome MCP Servers - A curated list of Model Context Protocol servers |
-| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **0.40** | 154.1k | `░░░░░░░░░░` | The agent that grows with you |
+| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **0.40** | 154.2k | `░░░░░░░░░░` | The agent that grows with you |
 | [**n8n-workflows**](https://github.com/Zie619/n8n-workflows) | **0.40** | 54.4k | `░░░░░░░░░░` | all of the workflows of n8n i could find (also from the site itself) |
 | [**watchdog**](https://github.com/gorakhargosh/watchdog) | **0.40** | 7.3k | `░░░░░░░░░░` | Python library and shell utilities to monitor filesystem events. |
 | [**Python**](https://github.com/TheAlgorithms/Python) | **0.40** | 221.1k | `░░░░░░░░░░` | All Algorithms implemented in Python |

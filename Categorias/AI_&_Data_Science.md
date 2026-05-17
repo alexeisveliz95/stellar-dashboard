@@ -2,7 +2,7 @@
 
 > [!info] Resumen de Categoría
 > **44 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **1.1M**
-> Actualizado: `2026-05-17 09:16`
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -15,9 +15,9 @@
 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 23.6k | `██░░░░░░░░` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and… |
 | [**shannon**](https://github.com/KeygraphHQ/shannon) | **1.00** | 42.5k | `█░░░░░░░░░` | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It… |
 | [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.94** | 11.8k | `██████████` | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 62.1k | `█░░░░░░░░░` | 12 Lessons to Get Started Building AI Agents |
+| [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 62.2k | `█░░░░░░░░░` | 12 Lessons to Get Started Building AI Agents |
 | [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **0.88** | 2.6k | `█░░░░░░░░░` | The secure, validated skill registry for professional AI coding agents. Extend Antigravity,… |
-| [**DreamServer**](https://github.com/Light-Heart-Labs/DreamServer) | **0.79** | 961 | `██████░░░░` | Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and… |
+| [**DreamServer**](https://github.com/Light-Heart-Labs/DreamServer) | **0.79** | 964 | `██████░░░░` | Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and… |
 | [**QuantDinger**](https://github.com/brokermr810/QuantDinger) | **0.70** | 5.5k | `░░░░░░░░░░` | AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading,… |
 | [**OctoBot**](https://github.com/Drakkar-Software/OctoBot) | **0.70** | 5.9k | `░░░░░░░░░░` | Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on… |
 | [**fff**](https://github.com/dmtrKovalenko/fff) | **0.70** | 6.1k | `░░░░░░░░░░` | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and… |
@@ -35,7 +35,7 @@
 | [**OpenBB**](https://github.com/OpenBB-finance/OpenBB) | **0.60** | 67.7k | `░░░░░░░░░░` | Financial data platform for analysts, quants and AI agents. |
 | [**logocreator**](https://github.com/Nutlope/logocreator) | **0.60** | 7.0k | `░░░░░░░░░░` | A free + OSS logo generator powered by Flux on Together AI |
 | [**magika**](https://github.com/google/magika) | **0.60** | 17.0k | `░░░░░░░░░░` | Fast and accurate AI powered file content types detection |
-| [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **0.60** | 76.3k | `░░░░░░░░░░` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **0.60** | 76.4k | `░░░░░░░░░░` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.60** | 110.6k | `░░░░░░░░░░` | LLM inference in C/C++ |
 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | **0.60** | 3.8k | `░░░░░░░░░░` | Become a cracked AI/ML Research Engineer |
 | [**twenty**](https://github.com/twentyhq/twenty) | **0.60** | 45.9k | `░░░░░░░░░░` | The open alternative to Salesforce, designed for AI. |
