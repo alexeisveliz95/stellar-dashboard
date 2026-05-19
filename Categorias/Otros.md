@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **8 proyectos** · ⭐ Mejor score: **0.82** · Estrellas totales: **202.8k**
-> Actualizado: `2026-05-18 08:39`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,13 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**codegraph**](https://github.com/colbymchenry/codegraph) | **0.82** | 3.8k | `██████████` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens,… |
-| [**listmonk**](https://github.com/knadh/listmonk) | **0.80** | 20.7k | `█░░░░░░░░░` | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard.… |
-| [**agents-towards-production**](https://github.com/NirDiamant/agents-towards-production) | **0.80** | 20.1k | `█░░░░░░░░░` | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to… |
-| [**analytics**](https://github.com/plausible/analytics) | **0.80** | 25.6k | `█░░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**Ghost**](https://github.com/TryGhost/Ghost) | **0.80** | 53.5k | `█░░░░░░░░░` | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
-| [**cal.diy**](https://github.com/calcom/cal.diy) | **0.70** | 43.5k | `█░░░░░░░░░` | Scheduling infrastructure for absolutely everyone. |
-| [**medusa**](https://github.com/medusajs/medusa) | **0.70** | 33.7k | `█░░░░░░░░░` | The world's most flexible commerce platform. |
-| [**dograh**](https://github.com/dograh-hq/dograh) | **0.56** | 1.9k | `█████░░░░░` | Open Source Voice Agent Platform |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
