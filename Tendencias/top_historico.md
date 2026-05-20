@@ -14,6 +14,3 @@
 | 2026-05-19 | **1** | [openhuman](https://github.com/tinyhumansai/openhuman) | +3941 | 18.8k | `0.96` |
 | 2026-05-19 | **2** | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | +1439 | 12.9k | `0.83` |
 | 2026-05-19 | **3** | [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | +1420 | 15.7k | `0.83` |
-| 2026-05-20 | **1** | [openhuman](https://github.com/tinyhumansai/openhuman) | +3973 | 22.5k | `0.95` |
-| 2026-05-20 | **2** | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | +3164 | 14.7k | `0.86` |
-| 2026-05-20 | **3** | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | +1955 | 139.2k | `1.00` |
