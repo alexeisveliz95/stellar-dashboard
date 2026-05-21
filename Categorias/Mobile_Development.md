@@ -1,8 +1,8 @@
 # 📂 Mobile Development
 
 > [!info] Resumen de Categoría
-> **3 proyectos** · ⭐ Mejor score: **0.99** · Estrellas totales: **44.5k**
-> Actualizado: `2026-05-21 08:26`
+> **5 proyectos** · ⭐ Mejor score: **0.50** · Estrellas totales: **59.8k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,8 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **0.99** | 38.8k | `█░░░░░░░░░` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/ |
-| [**streambert**](https://github.com/truelockmc/streambert) | **0.96** | 3.4k | `█████████░` | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in… |
-| [**files.md**](https://github.com/zakirullin/files.md) | **0.80** | 2.4k | `██████████` | 🌱 Private, quiet space for thinking. A simple app for your .md files. |
+| [**termux-app**](https://github.com/termux/termux-app) | **0.50** | 55.1k | `░░░░░░░░░░` | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [**ubuntu-on-android**](https://github.com/RandomCoderOrg/ubuntu-on-android) | **0.45** | 1.5k | `░░░░░░░░░░` | Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is… |
+| [**DroidDesk**](https://github.com/orailnoor/DroidDesk) | **0.43** | 1.3k | `░░░░░░░░░░` | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR,… |
+| [**openclaw-android**](https://github.com/AidanPark/openclaw-android) | **0.35** | 1.5k | `░░░░░░░░░░` | Run OpenClaw on Android with a single command — no proot, no Linux |
+| [**ios-builder**](https://github.com/MobAI-App/ios-builder) | **0.25** | 455 | `░░░░░░░░░░` | Sin descripción |
 
 ---
