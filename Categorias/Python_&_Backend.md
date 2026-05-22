@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **0.98** · Estrellas totales: **207.7k**
+> Actualizado: `2026-05-22 08:17`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [**OpenWA**](https://github.com/rmyndharis/OpenWA) | **0.98** | 5.6k | `██████████` | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| [**superpowers**](https://github.com/obra/superpowers) | **0.94** | 202.1k | `█░░░░░░░░░` | An agentic skills framework & software development methodology that works. |
 
 ---
