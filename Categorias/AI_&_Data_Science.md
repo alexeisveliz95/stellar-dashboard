@@ -1,8 +1,8 @@
 # 📂 AI & Data Science
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **251.5k**
-> Actualizado: `2026-05-25 08:50`
+> **8 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **289.0k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,11 +10,13 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 17.4k | `██████████` | Learn it. Build it. Ship it for others. |
-| [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 153.2k | `██░░░░░░░░` | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's… |
-| [**multica**](https://github.com/multica-ai/multica) | **1.00** | 32.8k | `██░░░░░░░░` | The open-source managed agents platform. Turn coding agents into real teammates — assign… |
-| [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 25.9k | `█░░░░░░░░░` | Kronos: A Foundation Model for the Language of Financial Markets |
-| [**cmux**](https://github.com/manaflow-ai/cmux) | **1.00** | 19.2k | `███░░░░░░░` | Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents |
-| [**skills**](https://github.com/dotnet/skills) | **1.00** | 3.0k | `██████░░░░` | Repository for skills to assist AI coding agents with .NET and C# |
+| [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 24.6k | `█░░░░░░░░░` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and… |
+| [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **1.00** | 4.2k | `██████████` | The secure, validated skill registry for professional AI coding agents. Extend Antigravity,… |
+| [**Shadowbroker**](https://github.com/BigBodyCobain/Shadowbroker) | **1.00** | 7.9k | `███░░░░░░░` | Open-source intelligence for the global theater. Track everything from the corporate/private… |
+| [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) | **1.00** | 20.9k | `█░░░░░░░░░` | What are the principles we can use to build LLM-powered software that is actually good enough… |
+| [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 37.5k | `█░░░░░░░░░` | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis… |
+| [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.96** | 18.8k | `███████░░░` | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 63.8k | `█░░░░░░░░░` | 12 Lessons to Get Started Building AI Agents |
+| [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.90** | 111.3k | `█░░░░░░░░░` | LLM inference in C/C++ |
 
 ---
