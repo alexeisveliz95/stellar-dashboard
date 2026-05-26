@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **4 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **189.5k**
-> Actualizado: `2026-05-26 08:25`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,9 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **1.00** | 16.1k | `███████░░░` | Open source repository of plugins primarily intended for knowledge workers to use in Claude… |
-| [**codegraph**](https://github.com/colbymchenry/codegraph) | **1.00** | 26.4k | `██████████` | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent —… |
-| [**gstack**](https://github.com/garrytan/gstack) | **0.98** | 102.8k | `█░░░░░░░░░` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng… |
-| [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **0.98** | 44.2k | `█░░░░░░░░░` | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
