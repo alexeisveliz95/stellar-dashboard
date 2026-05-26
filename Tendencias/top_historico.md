@@ -14,3 +14,6 @@
 | 2026-05-19 | **1** | [openhuman](https://github.com/tinyhumansai/openhuman) | +3941 | 18.8k | `0.96` |
 | 2026-05-19 | **2** | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | +1439 | 12.9k | `0.83` |
 | 2026-05-19 | **3** | [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | +1420 | 15.7k | `0.83` |
+| 2026-05-26 | **1** | [Understand-Anything](https://github.com/Lum1104/Understand-Anything) | +5604 | 33.0k | `1.00` |
+| 2026-05-26 | **2** | [codegraph](https://github.com/colbymchenry/codegraph) | +3161 | 26.4k | `1.00` |
+| 2026-05-26 | **3** | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | +3154 | 19.5k | `1.00` |
