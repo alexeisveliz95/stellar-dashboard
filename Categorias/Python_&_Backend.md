@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
-> Actualizado: `2026-05-17 09:29`
+> **1 proyectos** · ⭐ Mejor score: **0.94** · Estrellas totales: **52.5k**
+> Actualizado: `2026-05-27 08:33`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [**jellyfin**](https://github.com/jellyfin/jellyfin) | **0.94** | 52.5k | `██████████` | The Free Software Media System - Server Backend & API |
 
 ---
