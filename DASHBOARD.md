@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-05-19 08:19`
-> 📦 **15** proyectos curados en **3** categorías
+> 🕒 Última actualización: `2026-05-29 08:36`
+> 📦 **16** proyectos curados en **6** categorías
 
 ---
 
@@ -10,21 +10,22 @@
 
 | # | Repositorio | Score | Stars | Categoría |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **1.00** | 37.1k | Automation & DevOps |
-| 🥈 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 24.6k | AI & Data Science |
-| 🥉 | [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **1.00** | 4.2k | AI & Data Science |
-| **4** | [**Shadowbroker**](https://github.com/BigBodyCobain/Shadowbroker) | **1.00** | 7.9k | AI & Data Science |
-| **5** | [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) | **1.00** | 20.9k | AI & Data Science |
-| **6** | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 37.5k | AI & Data Science |
-| **7** | [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.96** | 18.8k | AI & Data Science |
-| **8** | [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 63.8k | AI & Data Science |
-| **9** | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.90** | 111.3k | AI & Data Science |
-| **10** | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | Otros |
-| **11** | [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | Otros |
-| **12** | [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | Otros |
-| **13** | [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | Otros |
-| **14** | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | Otros |
-| **15** | [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | Otros |
+| 🥇 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 67.9k | AI & Data Science |
+| 🥈 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 197.8k | Cybersecurity & Hacking |
+| 🥉 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | **1.00** | 27.2k | AI & Data Science |
+| **4** | [**stop-slop**](https://github.com/hardikpandya/stop-slop) | **1.00** | 6.6k | AI & Data Science |
+| **5** | [**twenty**](https://github.com/twentyhq/twenty) | **1.00** | 48.1k | AI & Data Science |
+| **6** | [**Understand-Anything**](https://github.com/Lum1104/Understand-Anything) | **1.00** | 43.6k | Automation & DevOps |
+| **7** | [**MOSS-TTS**](https://github.com/OpenMOSS/MOSS-TTS) | **1.00** | 2.4k | AI & Data Science |
+| **8** | [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) | **1.00** | 17.9k | Cybersecurity & Hacking |
+| **9** | [**crawl4ai**](https://github.com/unclecode/crawl4ai) | **0.98** | 67.2k | Web Development |
+| **10** | [**English-level-up-tips**](https://github.com/byoungd/English-level-up-tips) | **0.96** | 49.1k | Otros |
+| **11** | [**harness**](https://github.com/revfactory/harness) | **0.95** | 4.0k | Otros |
+| **12** | [**markitdown**](https://github.com/microsoft/markitdown) | **0.94** | 128.3k | Otros |
+| **13** | [**superpowers**](https://github.com/obra/superpowers) | **0.94** | 211.7k | Python & Backend |
+| **14** | [**skills**](https://github.com/anthropics/skills) | **0.91** | 143.2k | Otros |
+| **15** | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **0.91** | 506.8k | Otros |
+| **16** | [**FreeDomain**](https://github.com/DigitalPlatDev/FreeDomain) | **0.89** | 171.1k | Otros |
 
 ---
 
@@ -32,9 +33,9 @@
 
 | # | Repositorio | 🚀 Hoy | Stars | Momentum |
 | :---: | :--- | ---: | ---: | :--- |
-| 🔥 **1** | [**openhuman**](https://github.com/tinyhumansai/openhuman) | +3941 | 18.8k | `██████████` |
-| 🔥 **2** | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | +1439 | 12.9k | `█████░░░░░` |
-| 🔥 **3** | [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | +1420 | 15.7k | `████░░░░░░` |
+| 🔥 **1** | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | +4698 | 67.9k | `████████░░` |
+| 🔥 **2** | [**Understand-Anything**](https://github.com/Lum1104/Understand-Anything) | +3776 | 43.6k | `██████████` |
+| 🔥 **3** | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | +2234 | 27.2k | `█████████░` |
 
 ---
 
@@ -42,8 +43,11 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | :---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 6 | **0.96** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.94** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.98** |
 
 ---
