@@ -14,6 +14,3 @@
 | 2026-05-19 | **1** | [openhuman](https://github.com/tinyhumansai/openhuman) | +3941 | 18.8k | `0.96` |
 | 2026-05-19 | **2** | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | +1439 | 12.9k | `0.83` |
 | 2026-05-19 | **3** | [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | +1420 | 15.7k | `0.83` |
-| 2026-05-29 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +4698 | 67.9k | `1.00` |
-| 2026-05-29 | **2** | [Understand-Anything](https://github.com/Lum1104/Understand-Anything) | +3776 | 43.6k | `1.00` |
-| 2026-05-29 | **3** | [taste-skill](https://github.com/Leonxlnx/taste-skill) | +2234 | 27.2k | `1.00` |
