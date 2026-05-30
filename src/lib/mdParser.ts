@@ -165,7 +165,7 @@ export function parseTrendingFile(filename: string): TrendingReport | null {
 
     const descMatch = section.match(/> \[!note\] (.+?)\n/);
     const starsMatch2 = section.match(/⭐ Stars totales\s*\|\s*\*\*([\d.kM]+)\*\*\s*·\s*(.+?)\s*·\s*(.+?)\s*\|/);
-    const growthMatch = section.match(/🚀 Crecimiento hoy\s*\|\s*\*\+?(\d[\d,]*)\*\*/);
+    const growthMatch = section.match(/🚀 Crecimiento hoy\s*\|\s*\*\*\+?(\d[\d,]*)\*\*/);
     const momMatch = section.match(/📊 Momentum\s*\|\s*`(.+?)`/);
     const scoreMatch = section.match(/🏷️ Score\s*\|\s*`([\d.]+)`/);
 

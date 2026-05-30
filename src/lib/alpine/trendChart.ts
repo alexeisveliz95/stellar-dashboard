@@ -49,7 +49,8 @@ export function trendChart() {
     },
 
     truncateName(name: string) {
-      return name.length > 10 ? name.slice(0, 8) + '\u2026' : name
+      // Aumentamos el límite para dar más espacio a los nombres largos
+      return name.length > 20 ? name.slice(0, 18) + '\u2026' : name
     },
 
     setHover(row: AlpineTrendRow | null) {

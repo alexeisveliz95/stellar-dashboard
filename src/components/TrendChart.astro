@@ -51,6 +51,8 @@ const serialized = ranking.map((row) => ({
           class="bar-col"
           x-on:mouseenter="setHover(row)"
           x-on:mouseleave="clearHover()"
+          x-bind:aria-label="`${row.name}: +${formatGrowth(row.growth)} estrellas hoy (#${row.rank})`"
+          role="img"
         >
           <div class="bar-value text-xs font-semibold text-stellar-dim" x-text="'+' + formatGrowth(row.growth)">
           </div>

@@ -102,6 +102,7 @@ const serialized = projects.map((p, i) => ({
             x-show="repo.description"
             class="text-xs text-stellar-muted mt-0.5 truncate max-w-[420px]"
             x-text="repo.description"
+            x-bind:title="repo.description"
           />
         </div>
         <div class="w-[70px] text-right text-sm font-semibold text-stellar-dim flex-shrink-0">
