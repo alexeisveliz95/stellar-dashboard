@@ -34,6 +34,11 @@ const serialized = projects.map((p, i) => ({
     </h2>
   )}
 
+  <div class="text-xs text-stellar-dim mb-3 p-2.5 rounded-lg bg-surface/50 border border-surface-border/50">
+    <strong class="text-stellar-muted">Score:</strong> Calidad del proyecto (0–1). Se basa en stars, actividad y relevancia.
+    <strong class="text-stellar-muted ml-3">Momentum:</strong> Crecimiento de estrellas hoy. <code>░░░░░░░░░░</code> = sin actividad trending.
+  </div>
+
   <div class="flex flex-wrap gap-3 mb-4 items-center">
     {searchable && (
       <input
