@@ -58,7 +58,7 @@ const serialized = ranking.map((row) => ({
           </div>
           <div
             class="bar"
-            x-bind:class="row.hot ? 'bg-gradient-to-t from-stellar-orange to-stellar-pink' : 'bg-gradient-to-t from-stellar-accent to-stellar-purple'"
+            x-bind:class="row.hot ? 'bg-gradient-to-t from-fuchsia-500 to-purple-500' : 'bg-gradient-to-t from-cyan-400 to-blue-500'"
             x-bind:style="'height: ' + barHeight(row.growth) + '%'"
           />
           <div class="bar-label">

@@ -1,10 +1,14 @@
 ---
+import MiniSparkline from "./MiniSparkline.astro";
+
 export interface StatItem {
   value: string;
   label: string;
   icon?: string;
   accent: "blue" | "green" | "orange" | "pink";
   href?: string;
+  sparkline?: number[];
+  sparklineColor?: string;
 }
 
 export interface Props {
@@ -35,6 +39,16 @@ const accentMap: Record<string, { bar: string; text: string }> = {
           {s.icon && <div class="text-2xl mb-2">{s.icon}</div>}
           <div class={`text-3xl font-extrabold tracking-tight ${a.text}`}>{s.value}</div>
           <div class="text-stellar-dim text-xs uppercase tracking-wider mt-1.5 font-medium">{s.label}</div>
+          {s.sparkline && s.sparkline.length > 1 && (
+            <div class="mt-2 flex justify-center">
+              <MiniSparkline
+                data={s.sparkline}
+                color={s.sparklineColor || "#58a6ff"}
+                width={100}
+                height={24}
+              />
+            </div>
+          )}
         </div>
       </div>
     );

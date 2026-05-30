@@ -14,6 +14,8 @@ import {
   loadLatestTrending,
   loadAllTrending,
 } from "../lib/mdParser";
+import fs from "node:fs";
+import path from "node:path";
 
 const dashboard = parseDashboard();
 const categories = loadAllCategories();
@@ -31,6 +33,31 @@ const fmtStars =
     : totalRawStars >= 1_000
       ? (totalRawStars / 1_000).toFixed(1) + "k"
       : String(totalRawStars);
+
+// Generate sparkline data from trending files
+function getStarsHistory(): number[] {
+  try {
+    const trendDir = path.join(process.cwd(), "Tendencias");
+    const files = fs.readdirSync(trendDir)
+      .filter(f => f.startsWith("Trending-") && f.endsWith(".md"))
+      .sort()
+      .slice(-7); // Last 7 days
+    
+    return files.map(file => {
+      const raw = fs.readFileSync(path.join(trendDir, file), "utf-8");
+      const match = raw.match(/\*\*\+([\d.kM]+) estrellas\*\* acumuladas/);
+      if (!match) return 0;
+      const val = match[1];
+      if (val.includes("k")) return parseFloat(val) * 1000;
+      if (val.includes("M")) return parseFloat(val) * 1000000;
+      return parseFloat(val) || 0;
+    });
+  } catch {
+    return [];
+  }
+}
+
+const starsHistory = getStarsHistory();
 ---
 
 <BaseLayout>
@@ -45,7 +72,14 @@ const fmtStars =
       { value: String(dashboard.totalItems), label: "Repos curados", icon: "📦", accent: "blue", href: "#trending" },
       { value: String(dashboard.activeCategories), label: "Categorías activas", icon: "📂", accent: "green", href: "#categorias" },
       { value: String(allTrending.length), label: "Días con datos", icon: "📈", accent: "orange" },
-      { value: fmtStars, label: "Estrellas totales", icon: "⭐", accent: "pink" },
+      { 
+        value: fmtStars, 
+        label: "Estrellas totales", 
+        icon: "⭐", 
+        accent: "pink",
+        sparkline: starsHistory,
+        sparklineColor: "#f778ba",
+      },
     ]}
   />
 
