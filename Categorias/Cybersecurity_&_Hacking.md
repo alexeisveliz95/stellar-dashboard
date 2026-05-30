@@ -1,8 +1,8 @@
 # 📂 Cybersecurity & Hacking
 
 > [!info] Resumen de Categoría
-> **4 proyectos** · ⭐ Mejor score: **0.70** · Estrellas totales: **262.6k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **217.0k**
+> Actualizado: `2026-05-30 06:18`
 
 ---
 
@@ -10,9 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**everything-claude-code**](https://github.com/affaan-m/everything-claude-code) | **0.70** | 185.3k | `░░░░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
-| [**vps-audit**](https://github.com/vernu/vps-audit) | **0.69** | 1.9k | `░░░░░░░░░░` | lightweight, dependency-free bash script for security, performance auditing and infrastructure… |
-| [**hackingtool**](https://github.com/Z4nzu/hackingtool) | **0.60** | 75.1k | `░░░░░░░░░░` | ALL IN ONE Hacking Tool For Hackers |
-| [**Sara**](https://github.com/caster0x00/Sara) | **0.43** | 316 | `░░░░░░░░░░` | MikroTik RouterOS Security Inspector |
+| [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) | **1.00** | 18.2k | `██████████` | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 198.7k | `████░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
 
 ---
