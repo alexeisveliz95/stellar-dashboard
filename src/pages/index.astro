@@ -3,7 +3,9 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import DashboardHeader from "../components/DashboardHeader.astro";
 import StatsCards from "../components/StatsCards.astro";
 import CategoryGrid from "../components/CategoryGrid.astro";
-import RepoTable from "../components/RepoTable.astro";
+import TrendingNowTable from "../components/TrendingNowTable.astro";
+import QualityTable from "../components/QualityTable.astro";
+import CuratedTable from "../components/CuratedTable.astro";
 import TrendChart from "../components/TrendChart.astro";
 import Footer from "../components/Footer.astro";
 import {
@@ -21,8 +23,6 @@ const allTrending = loadAllTrending();
 const allProjects = categories.flatMap((c) =>
   c.projects.map((p) => ({ ...p, _category: c.name }))
 );
-allProjects.sort((a, b) => b.score - a.score);
-const topProjects = allProjects.slice(0, 20);
 
 const totalRawStars = allProjects.reduce((sum, p) => sum + p.starsRaw, 0);
 const fmtStars =
@@ -42,7 +42,7 @@ const fmtStars =
 
   <StatsCards
     stats={[
-      { value: String(dashboard.totalItems), label: "Repos curados", icon: "📦", accent: "blue", href: "#repos" },
+      { value: String(dashboard.totalItems), label: "Repos curados", icon: "📦", accent: "blue", href: "#trending" },
       { value: String(dashboard.activeCategories), label: "Categorías activas", icon: "📂", accent: "green", href: "#categorias" },
       { value: String(allTrending.length), label: "Días con datos", icon: "📈", accent: "orange" },
       { value: fmtStars, label: "Estrellas totales", icon: "⭐", accent: "pink" },
@@ -51,10 +51,10 @@ const fmtStars =
 
   {
     latestTrending && (
-      <section id="tendencias" class="my-11 fade-in" style="animation-delay: 0.3s">
+      <section id="trending" class="my-11 fade-in" style="animation-delay: 0.3s">
         <div class="flex items-center justify-between mb-4 pb-2.5 border-b border-surface-border">
           <h2 class="text-xl font-bold flex items-center gap-2.5">
-            🔥 Trending hoy <span class="text-xs font-semibold bg-stellar-accent-glow text-stellar-accent px-2.5 py-0.5 rounded-full">{latestTrending.date}</span>
+            🔥 Trending Now <span class="text-xs font-semibold bg-stellar-accent-glow text-stellar-accent px-2.5 py-0.5 rounded-full">{latestTrending.date}</span>
           </h2>
           <a
             href={`/stellar-dashboard/tendencias/${latestTrending.slug}`}
@@ -74,17 +74,25 @@ const fmtStars =
         }
 
         <TrendChart ranking={latestTrending.ranking} maxBars={10} height={220} />
+        <div class="mt-4">
+          <TrendingNowTable ranking={latestTrending.ranking} maxRows={10} />
+        </div>
       </section>
     )
   }
 
-  <section id="repos" class="my-11 fade-in" style="animation-delay: 0.4s">
-    <RepoTable
-      projects={topProjects}
-      title="Top 20 Repositorios"
-      searchable={true}
-      sortable={true}
-    />
+  <section class="my-11 fade-in" style="animation-delay: 0.4s">
+    <h2 class="text-xl font-bold mb-4 pb-2.5 border-b border-surface-border flex items-center gap-2.5">
+      🏆 Best Quality — Mejores calificados
+    </h2>
+    <QualityTable projects={allProjects} maxRows={10} />
+  </section>
+
+  <section class="my-11 fade-in" style="animation-delay: 0.45s">
+    <h2 class="text-xl font-bold mb-4 pb-2.5 border-b border-surface-border flex items-center gap-2.5">
+      ⭐ Top Stars — Más populares
+    </h2>
+    <CuratedTable projects={allProjects} maxRows={10} />
   </section>
 
   <section id="categorias" class="my-11 fade-in" style="animation-delay: 0.5s">
@@ -119,7 +127,6 @@ const fmtStars =
     flex-wrap: wrap;
     gap: 10px;
   }
-
   .trend-pill {
     display: inline-flex;
     flex-direction: column;
@@ -135,14 +142,12 @@ const fmtStars =
     border-radius: 20px;
     transition: all 0.2s;
   }
-
   .trend-pill:hover {
     color: var(--accent);
     border-color: var(--accent);
     background: var(--accent-glow);
     transform: translateY(-1px);
   }
-
   .fade-in {
     animation: fadeIn 0.8s ease-out both;
   }

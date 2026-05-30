@@ -215,7 +215,11 @@ export function loadTrending(slug: string): TrendingReport | null {
 
 export function loadLatestTrending(): TrendingReport | null {
   const files = readDir("Tendencias");
-  return files.length > 0 ? parseTrendingFile(files[0]) : null;
+  for (const f of files) {
+    const report = parseTrendingFile(f);
+    if (report) return report;
+  }
+  return null;
 }
 
 // ── Helpers ─────────────────────────────────────────────────────────────────
