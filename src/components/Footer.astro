@@ -1,4 +1,6 @@
 ---
+import VisitCounter from "./VisitCounter.astro";
+
 export interface Props {
   lastUpdated?: string;
 }
@@ -10,6 +12,7 @@ const { lastUpdated } = Astro.props;
   Generado por <strong>Stellar Content Engine</strong>
   {lastUpdated && `· ${lastUpdated} UTC`}
   · <a href="https://github.com/alexeisveliz95/stellar-dashboard">GitHub</a>
+  · Visitas: <VisitCounter />
 </footer>
 
 <style>

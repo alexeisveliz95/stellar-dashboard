@@ -1,0 +1,16 @@
+<span id="visit-count" class="visit-counter">...</span>
+
+<script>
+  const key = "stellar-visits";
+  const count = parseInt(localStorage.getItem(key) || "0") + 1;
+  localStorage.setItem(key, String(count));
+  const el = document.getElementById("visit-count");
+  if (el) el.textContent = count.toLocaleString();
+</script>
+
+<style>
+  .visit-counter {
+    font-weight: 600;
+    color: var(--accent);
+  }
+</style>
