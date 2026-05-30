@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **1 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **22.7k**
+> Actualizado: `2026-05-30 19:56`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | **1.00** | 22.7k | `██████████` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and… |
 
 ---
