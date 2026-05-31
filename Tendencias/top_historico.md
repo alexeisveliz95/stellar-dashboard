@@ -14,6 +14,6 @@
 | 2026-05-19 | **1** | [openhuman](https://github.com/tinyhumansai/openhuman) | +3941 | 18.8k | `0.96` |
 | 2026-05-19 | **2** | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | +1439 | 12.9k | `0.83` |
 | 2026-05-19 | **3** | [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | +1420 | 15.7k | `0.83` |
-| 2026-05-30 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2775 | 71.9k | `1.00` |
-| 2026-05-30 | **2** | [markitdown](https://github.com/microsoft/markitdown) | +2473 | 132.2k | `1.00` |
-| 2026-05-30 | **3** | [liteparse](https://github.com/run-llama/liteparse) | +929 | 7.9k | `0.98` |
+| 2026-05-31 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2768 | 72.6k | `1.00` |
+| 2026-05-31 | **2** | [markitdown](https://github.com/microsoft/markitdown) | +2470 | 133.2k | `1.00` |
+| 2026-05-31 | **3** | [liteparse](https://github.com/run-llama/liteparse) | +925 | 8.1k | `0.98` |
