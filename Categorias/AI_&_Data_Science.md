@@ -1,8 +1,8 @@
 # 📂 AI & Data Science
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **235.2k**
-> Actualizado: `2026-05-31 08:02`
+> **8 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **289.0k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,11 +10,13 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 72.6k | `██░░░░░░░░` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 128.5k | `█░░░░░░░░░` | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase,… |
-| [**project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | **1.00** | 27.4k | `█░░░░░░░░░` | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools,… |
-| [**train-llm-from-scratch**](https://github.com/FareedKhan-dev/train-llm-from-scratch) | **0.97** | 2.4k | `██████░░░░` | A straightforward method for training your LLM, from downloading data to generating text. |
-| [**stable-worldmodel**](https://github.com/galilai-group/stable-worldmodel) | **0.87** | 1.5k | `██████████` | A platform for reproducible world model research and evaluation |
-| [**MOSS-TTS**](https://github.com/OpenMOSS/MOSS-TTS) | **0.86** | 2.7k | `█░░░░░░░░░` | MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and… |
+| [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 24.6k | `█░░░░░░░░░` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and… |
+| [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **1.00** | 4.2k | `██████████` | The secure, validated skill registry for professional AI coding agents. Extend Antigravity,… |
+| [**Shadowbroker**](https://github.com/BigBodyCobain/Shadowbroker) | **1.00** | 7.9k | `███░░░░░░░` | Open-source intelligence for the global theater. Track everything from the corporate/private… |
+| [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) | **1.00** | 20.9k | `█░░░░░░░░░` | What are the principles we can use to build LLM-powered software that is actually good enough… |
+| [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 37.5k | `█░░░░░░░░░` | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis… |
+| [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.96** | 18.8k | `███████░░░` | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 63.8k | `█░░░░░░░░░` | 12 Lessons to Get Started Building AI Agents |
+| [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.90** | 111.3k | `█░░░░░░░░░` | LLM inference in C/C++ |
 
 ---
