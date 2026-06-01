@@ -8,6 +8,8 @@ import type {
   TrendingReport,
   TrendingRow,
   TopFiveDetail,
+  CuratedPicksReport,
+  CuratedWeek,
 } from "./types";
 import { readFile, readDir, ROOT } from "./io";
 
@@ -220,6 +222,24 @@ export function loadLatestTrending(): TrendingReport | null {
     if (report) return report;
   }
   return null;
+}
+
+// ── data/repos/curated_picks.json ────────────────────────────────────────────
+
+export function loadCuratedPicks(): CuratedWeek | null {
+  const relPath = "data/repos/curated_picks.json";
+  if (!fs.existsSync(path.join(ROOT, relPath))) return null;
+
+  let parsed: CuratedPicksReport;
+  try {
+    const raw = readFile(relPath);
+    parsed = JSON.parse(raw);
+  } catch {
+    return null;
+  }
+
+  if (!parsed?.weeks?.length) return null;
+  return parsed.weeks[parsed.weeks.length - 1];
 }
 
 // ── Helpers ─────────────────────────────────────────────────────────────────

@@ -74,3 +74,27 @@ export interface TopFiveDetail {
   tierIcon: string;
   threshold: string;
 }
+
+export interface CuratedPick {
+  name: string;
+  url: string;
+  score: number;
+  stars: number;
+  growth: number;
+  momentum: number;
+  language: string | null;
+  description: string | null;
+}
+
+export interface CuratedWeek {
+  week_id: string;
+  week_start: string;
+  generated_at: string;
+  picks: CuratedPick[];
+}
+
+export interface CuratedPicksReport {
+  version: number;
+  updated_at: string;
+  weeks: CuratedWeek[];
+}

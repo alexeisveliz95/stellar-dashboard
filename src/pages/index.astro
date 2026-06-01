@@ -6,6 +6,7 @@ import CategoryGrid from "../components/CategoryGrid.astro";
 import TrendingNowTable from "../components/TrendingNowTable.astro";
 import QualityTable from "../components/QualityTable.astro";
 import CuratedTable from "../components/CuratedTable.astro";
+import CuratedPicksSection from "../components/CuratedPicksSection.astro";
 import TrendChart from "../components/TrendChart.astro";
 import Footer from "../components/Footer.astro";
 import {
@@ -13,6 +14,7 @@ import {
   loadAllCategories,
   loadLatestTrending,
   loadAllTrending,
+  loadCuratedPicks,
 } from "../lib/mdParser";
 import fs from "node:fs";
 import path from "node:path";
@@ -21,6 +23,7 @@ const dashboard = parseDashboard();
 const categories = loadAllCategories();
 const latestTrending = loadLatestTrending();
 const allTrending = loadAllTrending();
+const curatedWeek = loadCuratedPicks();
 
 const allProjects = categories.flatMap((c) =>
   c.projects.map((p) => ({ ...p, _category: c.name }))
@@ -128,6 +131,18 @@ const starsHistory = getStarsHistory();
     </h2>
     <CuratedTable projects={allProjects} maxRows={10} />
   </section>
+
+  {curatedWeek && (
+    <section class="my-11 fade-in" style="animation-delay: 0.475s">
+      <h2 class="text-xl font-bold mb-4 pb-2.5 border-b border-surface-border flex items-center gap-2.5">
+        🎯 Curated Picks
+        <span class="text-xs font-semibold bg-stellar-accent-glow text-stellar-accent px-2.5 py-0.5 rounded-full">
+          Top 10 de la semana · auto-curado
+        </span>
+      </h2>
+      <CuratedPicksSection week={curatedWeek} />
+    </section>
+  )}
 
   <section id="categorias" class="my-11 fade-in" style="animation-delay: 0.5s">
     <CategoryGrid categories={categories} searchable={true} title="Categorías" />
