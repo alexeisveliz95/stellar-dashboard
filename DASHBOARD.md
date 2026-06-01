@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-05-30 01:54`
-> 📦 **17** proyectos curados en **3** categorías
+> 🕒 Última actualización: `2026-06-01 17:17`
+> 📦 **32** proyectos curados en **9** categorías
 
 ---
 
@@ -55,9 +55,15 @@ _No hay repos guardados aún. Star repos en GitHub para que aparezcan aquí._
 ## 📌 Categorías
 
 | Categoría | Proyectos | Mejor Score |
-| :--- | :---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
-| [**Otros**](Categorias/Otros.md) | 8 | **0.97** |
+| :--- | ---: | ---: |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 4 | **0.70** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
+| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
