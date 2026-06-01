@@ -1,7 +1,7 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-06-01 17:17`
+> 🕒 Última actualización: `2026-06-01 14:03`
 > 📦 **32** proyectos curados en **9** categorías
 
 ---
@@ -46,9 +46,20 @@
 
 ## ⭐ Curated Picks
 
-> Tus repos favoritos guardados manualmente
+> Top 10 de la semana · auto-curado · 1 semanas en rotación
 
-_No hay repos guardados aún. Star repos en GitHub para que aparezcan aquí._
+| # | Repositorio | Score | ⭐ Stars | 🚀 Growth | 🏷️ Category |
+| :---: | :--- | ---: | ---: | ---: | :--- |
+| 1 | [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **1.00** | 4.2k | +1244 | `W23` |
+| 2 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **1.00** | 37.1k | +1049 | `W23` |
+| 3 | [**Shadowbroker**](https://github.com/BigBodyCobain/Shadowbroker) | **1.00** | 7.9k | +767 | `W23` |
+| 4 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 23.6k | +764 | `W23` |
+| 5 | [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) | **1.00** | 20.9k | +399 | `W23` |
+| 6 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 37.5k | +310 | `W23` |
+| 7 | [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.96** | 18.8k | +3941 | `W23` |
+| 8 | [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 63.8k | +1012 | `W23` |
+| 9 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.90** | 111.3k | +213 | `W23` |
+| 10 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | +1439 | `W23` |
 
 ---
 

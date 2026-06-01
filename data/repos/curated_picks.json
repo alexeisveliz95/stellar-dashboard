@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-01T18:03:05.030812+00:00",
+  "weeks": [
+    {
+      "week_id": "2026-W23",
+      "week_start": "2026-06-01",
+      "generated_at": "2026-06-01T18:03:05.030812+00:00",
+      "picks": [
+        {
+          "name": "agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "score": 1.0,
+          "stars": 4200,
+          "growth": 1244,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "score": 1.0,
+          "stars": 37100,
+          "growth": 1049,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Shadowbroker",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "score": 1.0,
+          "stars": 7900,
+          "growth": 767,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "score": 1.0,
+          "stars": 23600,
+          "growth": 764,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "12-factor-agents",
+          "url": "https://github.com/humanlayer/12-factor-agents",
+          "score": 1.0,
+          "stars": 20900,
+          "growth": 399,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "score": 1.0,
+          "stars": 37500,
+          "growth": 310,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "score": 0.96,
+          "stars": 18800,
+          "growth": 3941,
+          "momentum": 0.7,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "score": 0.9,
+          "stars": 63800,
+          "growth": 1012,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "score": 0.9,
+          "stars": 111300,
+          "growth": 213,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "score": 0.83,
+          "stars": 12900,
+          "growth": 1439,
+          "momentum": 0.4,
+          "language": null,
+          "description": null
+        }
+      ]
+    }
+  ]
+}
