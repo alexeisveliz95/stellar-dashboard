@@ -380,6 +380,34 @@
       .repo-row .meta { gap: 10px; }
       .cat-grid { grid-template-columns: 1fr; }
     }
+
+    .curated-meta {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0 0 12px 4px;
+      flex-wrap: wrap;
+    }
+    .curated-meta .week-badge {
+      background: rgba(88, 166, 255, 0.12);
+      border: 1px solid var(--surface-border);
+      color: var(--accent);
+      font-weight: 600;
+      font-size: 0.78rem;
+      padding: 4px 12px;
+      border-radius: 999px;
+    }
+    .curated-meta .curated-note {
+      color: var(--text-dim);
+      font-size: 0.82rem;
+    }
+    .pick-row .meta .score {
+      color: var(--accent);
+      font-weight: 700;
+      font-size: 0.95rem;
+      min-width: 36px;
+      text-align: right;
+    }
   </style>
 </head>
 <body>
@@ -391,7 +419,7 @@
 
     <div class="stats">
       <div class="stat-card repos">
-        <div class="value">12</div>
+        <div class="value">16</div>
         <div class="label">Repos curados</div>
       </div>
       <div class="stat-card categories">
@@ -399,11 +427,11 @@
         <div class="label">Categorías activas</div>
       </div>
       <div class="stat-card days">
-        <div class="value">7</div>
+        <div class="value">11</div>
         <div class="label">Días activos</div>
       </div>
       <div class="stat-card stars">
-        <div class="value">643.2k</div>
+        <div class="value">1.1M</div>
         <div class="label">Estrellas acumuladas</div>
       </div>
     </div>
@@ -417,14 +445,14 @@
             🥇
           </div>
           <div class="info">
-            <a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener">mattpocock/skills</a>
+            <a href="https://github.com/microsoft/markitdown" target="_blank" rel="noopener">microsoft/markitdown</a>
             
-            <div class="desc">Skills for Real Engineers. Straight from my .claude directory.</div>
+            <div class="desc">Python tool for converting files and office documents to Markdown.</div>
             
           </div>
           <div class="meta">
-            <span class="stars">85.5k</span>
-            <span class="growth">+3.1k</span>
+            <span class="stars">136.4k</span>
+            <span class="growth">+2.8k</span>
           </div>
         </div>
         
@@ -433,13 +461,13 @@
             🥈
           </div>
           <div class="info">
-            <a href="https://github.com/ruvnet/RuView" target="_blank" rel="noopener">ruvnet/RuView</a>
+            <a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank" rel="noopener">harry0703/MoneyPrinterTurbo</a>
             
-            <div class="desc">π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection…</div>
+            <div class="desc">利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</div>
             
           </div>
           <div class="meta">
-            <span class="stars">57.7k</span>
+            <span class="stars">76.1k</span>
             <span class="growth">+1.9k</span>
           </div>
         </div>
@@ -449,14 +477,14 @@
             🥉
           </div>
           <div class="info">
-            <a href="https://github.com/obra/superpowers" target="_blank" rel="noopener">obra/superpowers</a>
+            <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener">codecrafters-io/build-your-own-x</a>
             
-            <div class="desc">An agentic skills framework & software development methodology that works.</div>
+            <div class="desc">Master programming by recreating your favorite technologies from scratch.</div>
             
           </div>
           <div class="meta">
-            <span class="stars">193.1k</span>
-            <span class="growth">+1.6k</span>
+            <span class="stars">509.8k</span>
+            <span class="growth">+1.2k</span>
           </div>
         </div>
         
@@ -465,14 +493,14 @@
             #4
           </div>
           <div class="info">
-            <a href="https://github.com/tinyhumansai/openhuman" target="_blank" rel="noopener">tinyhumansai/openhuman</a>
+            <a href="https://github.com/OpenBMB/VoxCPM" target="_blank" rel="noopener">OpenBMB/VoxCPM</a>
             
-            <div class="desc">Your Personal AI super intelligence. Private, Simple and extremely powerful.</div>
+            <div class="desc">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</div>
             
           </div>
           <div class="meta">
-            <span class="stars">9.4k</span>
-            <span class="growth">+1.3k</span>
+            <span class="stars">23.9k</span>
+            <span class="growth">+635</span>
           </div>
         </div>
         
@@ -481,14 +509,14 @@
             #5
           </div>
           <div class="info">
-            <a href="https://github.com/supertone-inc/supertonic" target="_blank" rel="noopener">supertone-inc/supertonic</a>
+            <a href="https://github.com/FareedKhan-dev/train-llm-from-scratch" target="_blank" rel="noopener">FareedKhan-dev/train-llm-from-scratch</a>
             
-            <div class="desc">Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.</div>
+            <div class="desc">A straightforward method for training your LLM, from downloading data to generating text.</div>
             
           </div>
           <div class="meta">
-            <span class="stars">6.2k</span>
-            <span class="growth">+719</span>
+            <span class="stars">3.4k</span>
+            <span class="growth">+626</span>
           </div>
         </div>
         
@@ -497,14 +525,14 @@
             #6
           </div>
           <div class="info">
-            <a href="https://github.com/anthropics/skills" target="_blank" rel="noopener">anthropics/skills</a>
+            <a href="https://github.com/D4Vinci/Scrapling" target="_blank" rel="noopener">D4Vinci/Scrapling</a>
             
-            <div class="desc">Public repository for Agent Skills</div>
+            <div class="desc">🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!</div>
             
           </div>
           <div class="meta">
-            <span class="stars">135.4k</span>
-            <span class="growth">+689</span>
+            <span class="stars">57.4k</span>
+            <span class="growth">+606</span>
           </div>
         </div>
         
@@ -513,14 +541,14 @@
             #7
           </div>
           <div class="info">
-            <a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank" rel="noopener">K-Dense-AI/scientific-agent-skills</a>
+            <a href="https://github.com/anthropics/claude-code" target="_blank" rel="noopener">anthropics/claude-code</a>
             
-            <div class="desc">A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.</div>
+            <div class="desc">Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster …</div>
             
           </div>
           <div class="meta">
-            <span class="stars">22.6k</span>
-            <span class="growth">+646</span>
+            <span class="stars">129.2k</span>
+            <span class="growth">+489</span>
           </div>
         </div>
         
@@ -529,14 +557,14 @@
             #8
           </div>
           <div class="info">
-            <a href="https://github.com/oven-sh/bun" target="_blank" rel="noopener">oven-sh/bun</a>
+            <a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank" rel="noopener">Crosstalk-Solutions/project-nomad</a>
             
-            <div class="desc">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</div>
+            <div class="desc">Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep …</div>
             
           </div>
           <div class="meta">
-            <span class="stars">90.7k</span>
-            <span class="growth">+448</span>
+            <span class="stars">27.9k</span>
+            <span class="growth">+374</span>
           </div>
         </div>
         
@@ -545,14 +573,14 @@
             #9
           </div>
           <div class="info">
-            <a href="https://github.com/joeseesun/qiaomu-anything-to-notebooklm" target="_blank" rel="noopener">joeseesun/qiaomu-anything-to-notebooklm</a>
+            <a href="https://github.com/nesquena/hermes-webui" target="_blank" rel="noopener">nesquena/hermes-webui</a>
             
-            <div class="desc">Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown…</div>
+            <div class="desc">Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!</div>
             
           </div>
           <div class="meta">
-            <span class="stars">2.8k</span>
-            <span class="growth">+438</span>
+            <span class="stars">10.4k</span>
+            <span class="growth">+357</span>
           </div>
         </div>
         
@@ -561,51 +589,196 @@
             #10
           </div>
           <div class="info">
-            <a href="https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization" target="_blank" rel="noopener">NVIDIA-AI-Blueprints/video-search-and-summarization</a>
+            <a href="https://github.com/revfactory/harness" target="_blank" rel="noopener">revfactory/harness</a>
             
-            <div class="desc">Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.</div>
+            <div class="desc">A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.</div>
             
           </div>
           <div class="meta">
-            <span class="stars">1.2k</span>
-            <span class="growth">+308</span>
+            <span class="stars">4.9k</span>
+            <span class="growth">+323</span>
           </div>
         </div>
         
       </div>
     </div>
 
+    
+    <div class="section">
+      <h2>🎯 Curated Picks <span class="count-badge">Top 10 · auto-curado</span></h2>
+      <div class="curated-meta">
+        <span class="week-badge">📅 2026-W23</span>
+        <span class="curated-note">10 repos auto-curados · semana del 2026-06-01</span>
+      </div>
+      <div class="top-repos">
+        
+        <div class="repo-row pick-row">
+          <div class="rank gold">
+            🥇
+          </div>
+          <div class="info">
+            <a href="https://github.com/tech-leads-club/agent-skills" target="_blank" rel="noopener">agent-skills</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">1.00</span>
+            <span class="stars">4.2k</span>
+            <span class="growth">+1.2k</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank silver">
+            🥈
+          </div>
+          <div class="info">
+            <a href="https://github.com/HKUDS/CLI-Anything" target="_blank" rel="noopener">CLI-Anything</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">1.00</span>
+            <span class="stars">37.1k</span>
+            <span class="growth">+1.0k</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank bronze">
+            🥉
+          </div>
+          <div class="info">
+            <a href="https://github.com/BigBodyCobain/Shadowbroker" target="_blank" rel="noopener">Shadowbroker</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">1.00</span>
+            <span class="stars">7.9k</span>
+            <span class="growth">+767</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank ">
+            #4
+          </div>
+          <div class="info">
+            <a href="https://github.com/K-Dense-AI/scientific-agent-skills" target="_blank" rel="noopener">scientific-agent-skills</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">1.00</span>
+            <span class="stars">23.6k</span>
+            <span class="growth">+764</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank ">
+            #5
+          </div>
+          <div class="info">
+            <a href="https://github.com/humanlayer/12-factor-agents" target="_blank" rel="noopener">12-factor-agents</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">1.00</span>
+            <span class="stars">20.9k</span>
+            <span class="growth">+399</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank ">
+            #6
+          </div>
+          <div class="info">
+            <a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank" rel="noopener">daily_stock_analysis</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">1.00</span>
+            <span class="stars">37.5k</span>
+            <span class="growth">+310</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank ">
+            #7
+          </div>
+          <div class="info">
+            <a href="https://github.com/tinyhumansai/openhuman" target="_blank" rel="noopener">openhuman</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">0.96</span>
+            <span class="stars">18.8k</span>
+            <span class="growth">+3.9k</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank ">
+            #8
+          </div>
+          <div class="info">
+            <a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank" rel="noopener">ai-agents-for-beginners</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">0.90</span>
+            <span class="stars">63.8k</span>
+            <span class="growth">+1.0k</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank ">
+            #9
+          </div>
+          <div class="info">
+            <a href="https://github.com/ggml-org/llama.cpp" target="_blank" rel="noopener">llama.cpp</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">0.90</span>
+            <span class="stars">111.3k</span>
+            <span class="growth">+213</span>
+          </div>
+        </div>
+        
+        <div class="repo-row pick-row">
+          <div class="rank ">
+            #10
+          </div>
+          <div class="info">
+            <a href="https://github.com/Imbad0202/academic-research-skills" target="_blank" rel="noopener">academic-research-skills</a>
+            
+            
+          </div>
+          <div class="meta">
+            <span class="score">0.83</span>
+            <span class="stars">12.9k</span>
+            <span class="growth">+1.4k</span>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+    
+
     <div class="section">
       <h2>📂 Categorías <span class="count-badge">9</span></h2>
       <div class="cat-grid">
-        
-        <div class="cat-card">
-          <a href="Categorias/Cybersecurity_&_Hacking.md" target="_blank">
-            <span class="cat-name"><span class="emoji">🛡️</span>Cybersecurity & Hacking</span>
-            <span class="cat-count">5 repos</span>
-          </a>
-        </div>
-        
-        <div class="cat-card">
-          <a href="Categorias/Web3_&_Blockchain.md" target="_blank">
-            <span class="cat-name"><span class="emoji">🤖</span>Web3 & Blockchain</span>
-            <span class="cat-count">4 repos</span>
-          </a>
-        </div>
-        
-        <div class="cat-card">
-          <a href="Categorias/Mobile_Development.md" target="_blank">
-            <span class="cat-name"><span class="emoji">📱</span>Mobile Development</span>
-            <span class="cat-count">3 repos</span>
-          </a>
-        </div>
-        
-        <div class="cat-card">
-          <a href="Categorias/PlayStation_Homebrew_&_Linux.md" target="_blank">
-            <span class="cat-name"><span class="emoji">🎮</span>PlayStation Homebrew & Linux</span>
-            <span class="cat-count">3 repos</span>
-          </a>
-        </div>
         
         <div class="cat-card">
           <a href="Categorias/AI_&_Data_Science.md" target="_blank">
@@ -622,6 +795,20 @@
         </div>
         
         <div class="cat-card">
+          <a href="Categorias/Cybersecurity_&_Hacking.md" target="_blank">
+            <span class="cat-name"><span class="emoji">🛡️</span>Cybersecurity & Hacking</span>
+            <span class="cat-count">0 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Mobile_Development.md" target="_blank">
+            <span class="cat-name"><span class="emoji">📱</span>Mobile Development</span>
+            <span class="cat-count">0 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
           <a href="Categorias/Otros.md" target="_blank">
             <span class="cat-name"><span class="emoji">📦</span>Otros</span>
             <span class="cat-count">0 repos</span>
@@ -629,8 +816,22 @@
         </div>
         
         <div class="cat-card">
+          <a href="Categorias/PlayStation_Homebrew_&_Linux.md" target="_blank">
+            <span class="cat-name"><span class="emoji">🎮</span>PlayStation Homebrew & Linux</span>
+            <span class="cat-count">0 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
           <a href="Categorias/Python_&_Backend.md" target="_blank">
             <span class="cat-name"><span class="emoji">🐍</span>Python & Backend</span>
+            <span class="cat-count">0 repos</span>
+          </a>
+        </div>
+        
+        <div class="cat-card">
+          <a href="Categorias/Web3_&_Blockchain.md" target="_blank">
+            <span class="cat-name"><span class="emoji">🤖</span>Web3 & Blockchain</span>
             <span class="cat-count">0 repos</span>
           </a>
         </div>
@@ -647,8 +848,16 @@
 
     
     <div class="section">
-      <h2>📈 Historial de Tendencias <span class="count-badge">7</span></h2>
+      <h2>📈 Historial de Tendencias <span class="count-badge">11</span></h2>
       <ul class="trend-list">
+        
+        <li><a href="Tendencias/top_historico.md" target="_blank">top_historico</a></li>
+        
+        <li><a href="Tendencias/Trending-2026-05-19.md" target="_blank">2026-05-19</a></li>
+        
+        <li><a href="Tendencias/Trending-2026-05-18.md" target="_blank">2026-05-18</a></li>
+        
+        <li><a href="Tendencias/Trending-2026-05-17.md" target="_blank">2026-05-17</a></li>
         
         <li><a href="Tendencias/Trending-2026-05-16.md" target="_blank">2026-05-16</a></li>
         
@@ -669,7 +878,7 @@
     
 
     <footer>
-      Generado por <strong>Stellar Content Engine</strong> · 2026-05-16 12:58 UTC
+      Generado por <strong>Stellar Content Engine</strong> · 2026-06-01 18:29 UTC
     </footer>
   </div>
 </body>
