@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.91** · Estrellas totales: **23.6k**
-> Actualizado: `2026-06-01 10:14`
+> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**supermemory**](https://github.com/supermemoryai/supermemory) | **0.91** | 23.6k | `██████████` | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
 
 ---
