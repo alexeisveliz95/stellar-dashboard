@@ -640,3 +640,15 @@ canvas { max-width: 100%; }
     transition: none;
   }
 }
+
+/* ===== Sparkline ===== */
+.sparkline {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: 40px;
+  margin: 8px 0;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 6px;
+  padding: 2px 4px;
+}
