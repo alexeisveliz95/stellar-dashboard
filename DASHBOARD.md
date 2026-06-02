@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-06-02 18:30`
-> 📦 **32** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-06-02 18:53`
+> 📦 **18** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | 70.2k | +3.6k | — |
-| 2 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | 28.4k | +2.1k | — |
-| 3 | [**markitdown**](https://github.com/microsoft/markitdown) | 130.3k | +1.9k | — |
-| 4 | [**English-level-up-tips**](https://github.com/byoungd/English-level-up-tips) | 49.7k | +1.6k | — |
-| 5 | [**ECC**](https://github.com/affaan-m/ECC) | 198.7k | +1.4k | — |
-| 6 | [**FreeDomain**](https://github.com/DigitalPlatDev/FreeDomain) | 172.0k | +1.3k | — |
-| 7 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 507.5k | +866 | — |
-| 8 | [**liteparse**](https://github.com/run-llama/liteparse) | 7.4k | +701 | — |
-| 9 | [**stop-slop**](https://github.com/hardikpandya/stop-slop) | 7.1k | +617 | — |
-| 10 | [**twenty**](https://github.com/twentyhq/twenty) | 48.5k | +578 | — |
+| 1 | [**markitdown**](https://github.com/microsoft/markitdown) | 140.8k | +3.6k | Python |
+| 2 | [**hermes-webui**](https://github.com/nesquena/hermes-webui) | 12.4k | +1.7k | Python |
+| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 203.5k | +1.6k | JavaScript |
+| 4 | [**headroom**](https://github.com/chopratejas/headroom) | 5.8k | +1.3k | Python |
+| 5 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | 59.0k | +1.2k | Python |
+| 6 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | 25.0k | +779 | Python |
+| 7 | [**supermemory**](https://github.com/supermemoryai/supermemory) | 24.5k | +677 | TypeScript |
+| 8 | [**machine-learning-for-trading**](https://github.com/stefan-jansen/machine-learning-for-trading) | 18.4k | +570 | Jupyter Notebook |
+| 9 | [**flowsint**](https://github.com/reconurge/flowsint) | 4.4k | +190 | TypeScript |
+| 10 | [**Open-LLM-VTuber**](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 8.2k | +65 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 70.2k | AI & Data Science |
-| 🥈 | [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) | **1.00** | 18.2k | Cybersecurity & Hacking |
-| 🥉 | [**twenty**](https://github.com/twentyhq/twenty) | **1.00** | 48.5k | AI & Data Science |
-| 4 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 128.0k | AI & Data Science |
-| 5 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | **1.00** | 28.4k | AI & Data Science |
-| 6 | [**project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | **1.00** | 27.0k | AI & Data Science |
-| 7 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 198.7k | Cybersecurity & Hacking |
-| 8 | [**stop-slop**](https://github.com/hardikpandya/stop-slop) | **1.00** | 7.1k | AI & Data Science |
-| 9 | [**stable-worldmodel**](https://github.com/galilai-group/stable-worldmodel) | **0.98** | 1.3k | AI & Data Science |
-| 10 | [**liteparse**](https://github.com/run-llama/liteparse) | **0.97** | 7.4k | Otros |
+| 🥇 | [**headroom**](https://github.com/chopratejas/headroom) | **1.00** | 5.8k | AI & Data Science |
+| 🥈 | [**markitdown**](https://github.com/microsoft/markitdown) | **1.00** | 140.8k | Otros |
+| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 203.5k | Cybersecurity & Hacking |
+| 4 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | **1.00** | 59.0k | Web Development |
+| 5 | [**hermes-webui**](https://github.com/nesquena/hermes-webui) | **1.00** | 12.4k | Web Development |
+| 6 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | **1.00** | 25.0k | Web Development |
+| 7 | [**machine-learning-for-trading**](https://github.com/stefan-jansen/machine-learning-for-trading) | **1.00** | 18.4k | AI & Data Science |
+| 8 | [**supermemory**](https://github.com/supermemoryai/supermemory) | **1.00** | 24.5k | Python & Backend |
+| 9 | [**Open-LLM-VTuber**](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | **0.89** | 8.2k | AI & Data Science |
+| 10 | [**flowsint**](https://github.com/reconurge/flowsint) | **0.76** | 4.4k | Mobile Development |
 
 ---
 
@@ -67,14 +67,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 4 | **0.70** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.76** |
+| [**Otros**](Categorias/Otros.md) | 2 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

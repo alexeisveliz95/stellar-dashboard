@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **3 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **96.4k**
+> Actualizado: `2026-06-02 18:53`
 
 ---
 
@@ -10,6 +10,8 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**Scrapling**](https://github.com/D4Vinci/Scrapling) | **1.00** | 59.0k | `█░░░░░░░░░` | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a… |
+| [**hermes-webui**](https://github.com/nesquena/hermes-webui) | **1.00** | 12.4k | `██████████` | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | **1.00** | 25.0k | `██░░░░░░░░` | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and… |
 
 ---
