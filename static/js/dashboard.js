@@ -1,4 +1,30 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // ── Counter-up animation for hero stats ──
+  const counters = document.querySelectorAll("[data-counter]");
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  if (counters.length > 0 && !reduce) {
+    const animateCounter = (el) => {
+      const target = parseInt(el.dataset.counter, 10) || 0;
+      const suffix = el.dataset.suffix || "";
+      const duration = 1200;
+      const start = performance.now();
+      const format = (n) => {
+        if (target >= 1000) return (n / 1000).toFixed(1) + "k";
+        return String(Math.round(n));
+      };
+      const tick = (now) => {
+        const elapsed = now - start;
+        const t = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - t, 3);
+        el.textContent = suffix + format(target * eased);
+        if (t < 1) requestAnimationFrame(tick);
+      };
+      requestAnimationFrame(tick);
+    };
+    counters.forEach(animateCounter);
+  }
+
   if (typeof Chart === "undefined") {
     console.warn("Chart.js no cargó, se omite el chart");
     return;

@@ -12,23 +12,23 @@
   <p class="hero-sub">{{ .Site.Params.description }}</p>
   <div class="hero-stats">
     <div class="stat">
-      <div class="stat-num">{{ len $cats }}</div>
+      <div class="stat-num" data-counter="{{ len $cats }}">{{ len $cats }}</div>
       <div class="stat-label">Categorías</div>
     </div>
     <div class="stat">
-      <div class="stat-num">{{ $latest.total_repos | default 0 }}</div>
+      <div class="stat-num" data-counter="{{ $latest.total_repos | default 0 }}">{{ $latest.total_repos | default 0 }}</div>
       <div class="stat-label">Trending hoy</div>
     </div>
     <div class="stat">
-      <div class="stat-num">{{ $latest.hot_zone | default 0 }}</div>
+      <div class="stat-num" data-counter="{{ $latest.hot_zone | default 0 }}">{{ $latest.hot_zone | default 0 }}</div>
       <div class="stat-label">En zona HOT</div>
     </div>
     <div class="stat">
-      <div class="stat-num">{{ $latest.growth_fmt | default "0" }}</div>
+      <div class="stat-num" data-counter="{{ $latest.growth_raw | default 0 }}" data-suffix="+">{{ $latest.growth_fmt | default "0" }}</div>
       <div class="stat-label">⭐ nuevas</div>
     </div>
     <div class="stat">
-      <div class="stat-num">{{ len $curated }}</div>
+      <div class="stat-num" data-counter="{{ len $curated }}">{{ len $curated }}</div>
       <div class="stat-label">Picks curados</div>
     </div>
   </div>
