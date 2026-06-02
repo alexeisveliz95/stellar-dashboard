@@ -29,7 +29,7 @@
         </thead>
         <tbody>
           {{ range first 10 .ranking }}
-          <tr class="{{ if .hot }}hot-row{{ end }}">
+          <tr class="{{ if .hot }}hot-row{{ end }}" data-section="trending">
             <td class="rank-cell">
               {{ if .hot }}🔥{{ else }}📈{{ end }}
               <strong>{{ .rank }}</strong>

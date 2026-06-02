@@ -14,14 +14,16 @@
 {{ $sorted := sort $allRepos "stars" "desc" }}
 {{ $top := first $limit $sorted }}
 
-<section class="section" id="stars">
+<section class="section" id="stars" data-section="stars">
   <div class="section-head">
     <h2>⭐ Top Stars</h2>
     <span class="section-tag">Top {{ $limit }} por estrellas</span>
   </div>
   <div class="repo-list">
     {{ range $i, $r := $top }}
-    <article class="repo-row">
+    <article class="repo-row searchable"
+             data-search="{{ $r.name | lower }} {{ $r.description | lower }}"
+             data-section="stars">
       <div class="repo-rank">#{{ add 1 $i }}</div>
       <div class="repo-body">
         <h3 class="repo-title">

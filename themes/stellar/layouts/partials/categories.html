@@ -1,6 +1,6 @@
 {{ $cats := .cats }}
 
-<section class="section" id="categories">
+<section class="section" id="categories" data-section="categories">
   <div class="section-head">
     <h2>📂 Categorías</h2>
     <a class="section-tag" href='{{ "categorias/" | relURL }}'>Ver todas las {{ len $cats }} →</a>
@@ -8,7 +8,10 @@
 
   <div class="category-grid">
     {{ range $cats }}
-    <article class="category-card">
+    <article class="category-card searchable"
+             data-search="{{ .name | lower }} {{ .slug | lower }}"
+             data-section="categories"
+             data-category="{{ .slug }}">
       <a href='{{ "categorias/" | relURL }}{{ .slug }}/' class="cat-link">
         <div class="category-head">
           <span class="cat-emoji">{{ .emoji }}</span>

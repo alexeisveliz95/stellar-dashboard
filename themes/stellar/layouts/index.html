@@ -34,6 +34,7 @@
   </div>
 </section>
 
+{{ partial "search-bar.html" . }}
 {{ partial "trending-now.html" (dict "trend" $latest) }}
 {{ partial "best-quality.html" (dict "cats" $cats "limit" .Site.Params.maxBestQuality) }}
 {{ partial "top-stars.html" (dict "cats" $cats "limit" .Site.Params.maxTopStars) }}
