@@ -23,13 +23,13 @@
   <div class="repo-grid">
     {{ range $i, $r := $top }}
     <article class="repo-card">
-      <div class="repo-score">{{ printf "%.2f" $r.score }}</div>
+      <div class="repo-score" data-tooltip="Score de calidad: balance entre tracción (estrellas) y consistencia (momentum). Escala 0–10.">{{ printf "%.2f" $r.score }}</div>
       <h3 class="repo-title">
         <a href="{{ $r.url }}" target="_blank" rel="noopener">{{ $r.name }}</a>
       </h3>
       <div class="repo-meta">
         <span class="meta-item">⭐ {{ $r.stars_fmt }}</span>
-        <code class="momentum small">{{ $r.momentum }}</code>
+        <code class="momentum small" data-tooltip="Tasa de crecimiento de estrellas en los últimos 7 días, normalizada por escala del repo.">{{ $r.momentum }}</code>
       </div>
       <p class="repo-desc">{{ $r.description }}</p>
     </article>

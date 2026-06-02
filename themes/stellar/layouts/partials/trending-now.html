@@ -3,7 +3,7 @@
 <section class="section" id="trending">
   <div class="section-head">
     <h2>🔥 Trending Now — {{ .date }}</h2>
-    <span class="section-tag">{{ .total_repos }} repos · {{ .hot_zone }} HOT · +{{ .growth_fmt }} ⭐</span>
+    <span class="section-tag">{{ .total_repos }} repos · <span data-tooltip="Repos con crecimiento > 5× el promedio de la semana">{{ .hot_zone }} HOT</span> · +{{ .growth_fmt }} ⭐</span>
   </div>
 
   {{ with .top_repo }}
@@ -42,7 +42,7 @@
             </td>
             <td class="num">{{ .stars_fmt }}</td>
             <td class="num growth">+{{ lang.FormatNumber 0 .growth }}</td>
-            <td><code class="momentum">{{ .momentum }}</code></td>
+            <td><code class="momentum" data-tooltip="Velocidad de crecimiento relativa: estrellas/hora ponderada por escala">{{ .momentum }}</code></td>
           </tr>
           {{ end }}
         </tbody>

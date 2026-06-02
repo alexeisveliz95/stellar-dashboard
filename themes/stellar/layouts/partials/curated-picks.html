@@ -15,7 +15,7 @@
       <div class="curated-head">
         <span class="curated-rank">#{{ add 1 $i }}</span>
         {{ with $p.language }}<span class="curated-lang">{{ . }}</span>{{ end }}
-        <span class="curated-score">⭐ {{ lang.FormatNumber 2 ($p.score | default 0) }}</span>
+        <span class="curated-score" data-tooltip="Score editorial del bot: combina tracción, momentum y relevancia para la semana.">⭐ {{ lang.FormatNumber 2 ($p.score | default 0) }}</span>
       </div>
       <h3 class="repo-title">
         <a href="{{ $p.url }}" target="_blank" rel="noopener">{{ $p.name }}</a>
