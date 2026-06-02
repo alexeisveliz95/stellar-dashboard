@@ -6,6 +6,7 @@ resources/
 data/categorias.json
 data/tendencias.json
 data/dashboard_meta.json
+data/heatmap.json
 content/categorias/
 content/tendencias/
 .env
