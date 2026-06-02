@@ -1,8 +1,8 @@
 # 📂 AI & Data Science
 
 > [!info] Resumen de Categoría
-> **8 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **254.9k**
-> Actualizado: `2026-06-02 09:01`
+> **8 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **289.0k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 77.4k | `██░░░░░░░░` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 33.1k | `█░░░░░░░░░` | The design language that makes your AI harness better at design. |
-| [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 82.1k | `█░░░░░░░░░` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [**train-llm-from-scratch**](https://github.com/FareedKhan-dev/train-llm-from-scratch) | **1.00** | 3.9k | `██████████` | A straightforward method for training your LLM, from downloading data to generating text. |
-| [**heretic**](https://github.com/p-e-w/heretic) | **1.00** | 23.2k | `█░░░░░░░░░` | Fully automatic censorship removal for language models |
-| [**oh-my-pi**](https://github.com/can1357/oh-my-pi) | **0.99** | 9.7k | `██░░░░░░░░` | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python,… |
-| [**machine-learning-for-trading**](https://github.com/stefan-jansen/machine-learning-for-trading) | **0.83** | 18.1k | `█░░░░░░░░░` | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
-| [**fff**](https://github.com/dmtrKovalenko/fff) | **0.82** | 7.3k | `█░░░░░░░░░` | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and… |
+| [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 24.6k | `█░░░░░░░░░` | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and… |
+| [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **1.00** | 4.2k | `██████████` | The secure, validated skill registry for professional AI coding agents. Extend Antigravity,… |
+| [**Shadowbroker**](https://github.com/BigBodyCobain/Shadowbroker) | **1.00** | 7.9k | `███░░░░░░░` | Open-source intelligence for the global theater. Track everything from the corporate/private… |
+| [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) | **1.00** | 20.9k | `█░░░░░░░░░` | What are the principles we can use to build LLM-powered software that is actually good enough… |
+| [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 37.5k | `█░░░░░░░░░` | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis… |
+| [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.96** | 18.8k | `███████░░░` | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 63.8k | `█░░░░░░░░░` | 12 Lessons to Get Started Building AI Agents |
+| [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.90** | 111.3k | `█░░░░░░░░░` | LLM inference in C/C++ |
 
 ---
