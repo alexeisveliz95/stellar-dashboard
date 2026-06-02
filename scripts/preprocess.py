@@ -247,6 +247,75 @@ def category_emoji(name: str, meta: dict[str, str]) -> str:
     return meta.get(name, "📁")
 
 
+def generate_og_image(trends: list, cats_count: int, curated_count: int, out_path: Path) -> None:
+    """Generate static/og-image.svg with current trending data.
+
+    Used for OpenGraph/Twitter card preview (1200x630).
+    """
+    latest = trends[0] if trends else {}
+    top = latest.get("top_repo") or {}
+    trending_count = latest.get("total_repos", 0)
+    hot_count = latest.get("hot_zone", 0)
+    growth_raw = latest.get("growth_raw", 0)
+    growth_k = f"{growth_raw / 1000:.1f}k" if growth_raw >= 1000 else str(growth_raw)
+    date = latest.get("date", "—")
+    top_name = (top.get("name") or "—").replace("&", "&amp;").replace("<", "&lt;")
+    top_growth = top.get("growth", 0)
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="50%" stop-color="#161c2f"/>
+      <stop offset="100%" stop-color="#0f1424"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="85%" cy="70%" r="35%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <text x="60" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="36" font-weight="700" fill="#7c5cff">✦</text>
+  <text x="110" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="30" font-weight="700" fill="#e6e9f2">Stellar Dashboard</text>
+  <text x="60" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" fill="#8a93a8">Repos curados · Categorías · Tendencias de GitHub</text>
+
+  <text x="60" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600" fill="#ff6b9d">🔥 Trending Now — {date}</text>
+  <text x="60" y="275" font-family="monospace" font-size="18" fill="#5a6378">// #1 hoy</text>
+  <text x="60" y="330" font-family="monospace" font-size="44" font-weight="700" fill="#e6e9f2">{top_name}</text>
+  <text x="60" y="380" font-family="monospace" font-size="22" fill="#4ade80">+{top_growth} ⭐ estrellas hoy</text>
+
+  <g transform="translate(60, 470)">
+    <rect x="0" y="0" width="220" height="120" rx="14" fill="#161c2f" stroke="#1f2841" stroke-width="1"/>
+    <text x="110" y="55" text-anchor="middle" font-family="monospace" font-size="40" font-weight="700" fill="#00d4ff">{cats_count}</text>
+    <text x="110" y="85" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a93a8">CATEGORÍAS</text>
+
+    <rect x="240" y="0" width="220" height="120" rx="14" fill="#161c2f" stroke="#1f2841" stroke-width="1"/>
+    <text x="350" y="55" text-anchor="middle" font-family="monospace" font-size="40" font-weight="700" fill="#00d4ff">{trending_count}</text>
+    <text x="350" y="85" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a93a8">TRENDING HOY</text>
+
+    <rect x="480" y="0" width="220" height="120" rx="14" fill="#161c2f" stroke="#1f2841" stroke-width="1"/>
+    <text x="590" y="55" text-anchor="middle" font-family="monospace" font-size="40" font-weight="700" fill="#ff5e5e">{hot_count}</text>
+    <text x="590" y="85" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a93a8">EN ZONA HOT</text>
+
+    <rect x="720" y="0" width="220" height="120" rx="14" fill="#161c2f" stroke="#1f2841" stroke-width="1"/>
+    <text x="830" y="55" text-anchor="middle" font-family="monospace" font-size="40" font-weight="700" fill="#4ade80">+{growth_k}</text>
+    <text x="830" y="85" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a93a8">⭐ NUEVAS</text>
+  </g>
+</svg>
+'''
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(svg, encoding="utf-8")
+    print(f"✅ og-image.svg ({len(svg)} bytes)")
+
+
 def main() -> None:
     p = argparse.ArgumentParser(description="Preprocess engine data for Hugo")
     p.add_argument("--root", default=".", help="Repo root")
@@ -296,6 +365,8 @@ def main() -> None:
         encoding="utf-8",
     )
     print(f"✅ dashboard_meta.json: {dashboard_meta}")
+
+    generate_og_image(trends, len(cats), 0, root / "static" / "og-image.svg")
 
 
 if __name__ == "__main__":

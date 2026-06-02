@@ -6,7 +6,12 @@
   <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.description }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta name="theme-color" content="#0a0e1a">
+  <link rel="canonical" href="{{ .Permalink }}">
   <link rel="icon" type="image/svg+xml" href='{{ "favicon.svg" | relURL }}'>
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} — Trending" href='{{ "index.xml" | relURL }}'>
+
+  {{ partial "opengraph.html" . }}
+
   <link rel="stylesheet" href='{{ "css/style.css" | relURL }}'>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
   <script src='{{ "js/dashboard.js" | relURL }}' defer></script>
