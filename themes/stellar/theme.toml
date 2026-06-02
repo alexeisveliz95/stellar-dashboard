@@ -1,0 +1,9 @@
+name = "Stellar"
+license = "MIT"
+description = "Theme dark futurista para Stellar Content Engine"
+homepage = "https://github.com/alexeisveliz95/stellar-dashboard"
+minVersion = "0.112.0"
+
+[author]
+  name = "alexei Sveliz"
+  home = "https://github.com/alexeisveliz95"

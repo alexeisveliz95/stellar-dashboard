@@ -1,4 +1,4 @@
-name: Deploy Astro Dashboard
+name: Deploy Hugo Dashboard
 
 on:
   push:
@@ -19,16 +19,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+
+      - uses: actions/setup-python@v5
         with:
-          node-version: 22
-          cache: npm
-      - run: npm ci
-      - run: npm run build
+          python-version: "3.12"
+
+      - uses: actions/setup-hugo@v2
+        with:
+          hugo-version: "0.162.1"
+          extended: true
+
+      - name: Run preprocessor (md → JSON for Hugo)
+        run: python3 scripts/preprocess.py --root .
+
+      - name: Build with Hugo
+        run: hugo --minify
+
       - uses: actions/configure-pages@v5
+
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: public
 
   deploy:
     runs-on: ubuntu-latest

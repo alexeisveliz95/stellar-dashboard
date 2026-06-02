@@ -1,0 +1,34 @@
+baseURL = "https://alexeisveliz95.github.io/stellar-dashboard/"
+title = "Stellar Dashboard"
+locale = "es-es"
+defaultContentLanguage = "es"
+
+theme = "stellar"
+
+enableRobotsTXT = true
+disableKinds = ["RSS", "sitemap", "taxonomy", "term"]
+
+[params]
+  description = "Repos curados · Categorías · Tendencias de GitHub"
+  brand = "Stellar Content Engine"
+  cssTheme = "dark"
+  maxTopRepos = 10
+  maxBestQuality = 10
+  maxTopStars = 10
+  maxCurated = 10
+  maxTrendingHistory = 24
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 2
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]

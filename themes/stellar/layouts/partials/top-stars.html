@@ -1,0 +1,36 @@
+{{ $cats := .cats }}
+{{ $limit := .limit }}
+
+{{ $allRepos := slice }}
+{{ range $cats }}
+  {{ range .projects }}
+    {{ $allRepos = $allRepos | append (dict
+      "name" .name "url" .url "score" .score
+      "stars" .stars "stars_fmt" .stars_fmt
+      "momentum" .momentum "description" .description
+    ) }}
+  {{ end }}
+{{ end }}
+{{ $sorted := sort $allRepos "stars" "desc" }}
+{{ $top := first $limit $sorted }}
+
+<section class="section" id="stars">
+  <div class="section-head">
+    <h2>⭐ Top Stars</h2>
+    <span class="section-tag">Top {{ $limit }} por estrellas</span>
+  </div>
+  <div class="repo-list">
+    {{ range $i, $r := $top }}
+    <article class="repo-row">
+      <div class="repo-rank">#{{ add 1 $i }}</div>
+      <div class="repo-body">
+        <h3 class="repo-title">
+          <a href="{{ $r.url }}" target="_blank" rel="noopener">{{ $r.name }}</a>
+          <span class="stars">⭐ {{ $r.stars_fmt }}</span>
+        </h3>
+        <p class="repo-desc">{{ $r.description }}</p>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>

@@ -1,0 +1,36 @@
+{{ $trends := .trends }}
+{{ $limit := .limit }}
+
+<section class="section" id="history">
+  <div class="section-head">
+    <h2>📜 Historial de Tendencias</h2>
+    <span class="section-tag">Últimas {{ len $trends }} semanas</span>
+  </div>
+
+  <div class="history-list">
+    {{ range first $limit $trends }}
+    <article class="history-row">
+      <div class="history-date">{{ .date }}</div>
+      <div class="history-stats">
+        <span class="hist-pill">{{ .total_repos }} repos</span>
+        <span class="hist-pill hot">{{ .hot_zone }} 🔥</span>
+        <span class="hist-pill">+{{ .growth_fmt }} ⭐</span>
+      </div>
+      {{ with .top_repo }}
+      <div class="history-top">
+        🏆 <a href="{{ .url }}" target="_blank" rel="noopener"><strong>{{ .name }}</strong></a>
+        <span class="growth">+{{ lang.FormatNumber 0 .growth }} ⭐ ({{ .growth_pct }}%)</span>
+      </div>
+      {{ end }}
+      <div class="history-top3">
+        {{ range first 3 .ranking }}
+        <span class="top3-pill">
+          <span class="top3-rank">#{{ .rank }}</span>
+          <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
+        </span>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>

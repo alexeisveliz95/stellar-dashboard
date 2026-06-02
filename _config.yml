@@ -1,9 +1,0 @@
-title: Stellar Dashboard
-description: Repos curados, categorías y tendencias de GitHub
-# Jekyll desactivado — el sitio lo genera Astro
-# El deploy lo maneja .github/workflows/deploy.yml
-# Estos archivos se mantienen como fuente de datos para la build
-include:
-  - Categorias/
-  - Tendencias/
-  - DASHBOARD.md

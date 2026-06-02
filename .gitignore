@@ -1,5 +1,11 @@
 node_modules/
 dist/
+public/
+resources/
+.hugo_build.lock
+data/categorias.json
+data/tendencias.json
+data/dashboard_meta.json
 .env
 *.local
 .DS_Store

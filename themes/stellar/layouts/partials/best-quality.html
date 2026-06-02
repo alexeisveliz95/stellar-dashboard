@@ -1,0 +1,38 @@
+{{ $cats := .cats }}
+{{ $limit := .limit }}
+
+{{ $allRepos := slice }}
+{{ range $cats }}
+  {{ range .projects }}
+    {{ $allRepos = $allRepos | append (dict
+      "name" .name "url" .url "owner" (index .url 8 | strings.TrimPrefix "/")
+      "score" .score "stars" .stars "stars_fmt" .stars_fmt
+      "momentum" .momentum "description" .description
+      "category" $.cats
+    ) }}
+  {{ end }}
+{{ end }}
+{{ $sorted := sort $allRepos "score" "desc" }}
+{{ $top := first $limit $sorted }}
+
+<section class="section" id="quality">
+  <div class="section-head">
+    <h2>💎 Best Quality</h2>
+    <span class="section-tag">Top {{ $limit }} por score</span>
+  </div>
+  <div class="repo-grid">
+    {{ range $i, $r := $top }}
+    <article class="repo-card">
+      <div class="repo-score">{{ printf "%.2f" $r.score }}</div>
+      <h3 class="repo-title">
+        <a href="{{ $r.url }}" target="_blank" rel="noopener">{{ $r.name }}</a>
+      </h3>
+      <div class="repo-meta">
+        <span class="meta-item">⭐ {{ $r.stars_fmt }}</span>
+        <code class="momentum small">{{ $r.momentum }}</code>
+      </div>
+      <p class="repo-desc">{{ $r.description }}</p>
+    </article>
+    {{ end }}
+  </div>
+</section>

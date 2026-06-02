@@ -1,0 +1,32 @@
+{{ $picks := .picks }}
+{{ $latestWeek := .week }}
+{{ $limit := .limit }}
+
+<section class="section" id="curated">
+  <div class="section-head">
+    <h2>🎯 Curated Picks</h2>
+    <span class="section-tag">Semana {{ $latestWeek.week_id }} · {{ $latestWeek.week_start }} · {{ len $picks }} picks</span>
+  </div>
+  <p class="section-intro">Selección semanal curada por el bot — los más prometedores para echar un vistazo esta semana.</p>
+
+  <div class="curated-grid">
+    {{ range $i, $p := first $limit $picks }}
+    <article class="curated-card">
+      <div class="curated-head">
+        <span class="curated-rank">#{{ add 1 $i }}</span>
+        {{ with $p.language }}<span class="curated-lang">{{ . }}</span>{{ end }}
+        <span class="curated-score">⭐ {{ lang.FormatNumber 2 ($p.score | default 0) }}</span>
+      </div>
+      <h3 class="repo-title">
+        <a href="{{ $p.url }}" target="_blank" rel="noopener">{{ $p.name }}</a>
+      </h3>
+      <div class="curated-meta">
+        <span>⭐ {{ lang.FormatNumber 0 ($p.stars | default 0) }}</span>
+        {{ with $p.growth }}<span class="growth">+{{ lang.FormatNumber 0 . }} hoy</span>{{ end }}
+        {{ with $p.momentum }}<span>Momentum {{ lang.FormatNumber 1 . }}</span>{{ end }}
+      </div>
+      {{ with $p.description }}<p class="curated-desc">{{ . }}</p>{{ end }}
+    </article>
+    {{ end }}
+  </div>
+</section>

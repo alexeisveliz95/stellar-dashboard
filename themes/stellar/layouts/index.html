@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{ $cats := site.Data.categorias.categories }}
+{{ $trends := site.Data.tendencias.trends }}
+{{ $latest := index $trends 0 }}
+{{ $curatedData := site.Data.repos.curated_picks }}
+{{ $latestWeek := index $curatedData.weeks 0 }}
+{{ $curated := $latestWeek.picks }}
+
+<section class="hero">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <h1 class="hero-title">✦ Stellar Dashboard</h1>
+  <p class="hero-sub">{{ .Site.Params.description }}</p>
+  <div class="hero-stats">
+    <div class="stat">
+      <div class="stat-num">{{ len $cats }}</div>
+      <div class="stat-label">Categorías</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">{{ $latest.total_repos | default 0 }}</div>
+      <div class="stat-label">Trending hoy</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">{{ $latest.hot_zone | default 0 }}</div>
+      <div class="stat-label">En zona HOT</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">{{ $latest.growth_fmt | default "0" }}</div>
+      <div class="stat-label">⭐ nuevas</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">{{ len $curated }}</div>
+      <div class="stat-label">Picks curados</div>
+    </div>
+  </div>
+</section>
+
+{{ partial "trending-now.html" (dict "trend" $latest) }}
+{{ partial "best-quality.html" (dict "cats" $cats "limit" .Site.Params.maxBestQuality) }}
+{{ partial "top-stars.html" (dict "cats" $cats "limit" .Site.Params.maxTopStars) }}
+{{ partial "curated-picks.html" (dict "picks" $curated "week" $latestWeek "limit" .Site.Params.maxCurated) }}
+{{ partial "categories.html" (dict "cats" $cats) }}
+{{ partial "trend-history.html" (dict "trends" $trends "limit" .Site.Params.maxTrendingHistory) }}
+
+{{ end }}
