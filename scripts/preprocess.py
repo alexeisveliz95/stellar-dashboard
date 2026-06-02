@@ -194,9 +194,9 @@ def parse_dashboard_md(path: Path) -> dict:
         m = re.search(r"Actualizado:\s*`([^`]+)`", raw)
         if m:
             updated = m.group(1).strip()
-    m = re.search(r"\*\*(\d+)\s*proyectos?\s*curados\*\*", raw)
+    m = re.search(r"\*\*(\d+)\*\*\s*proyectos?\s*curados", raw)
     total_projects = int(m.group(1)) if m else 0
-    m = re.search(r"en\s*\*\*(\d+)\s*categor[ií]as\*\*", raw)
+    m = re.search(r"en\s*\*\*(\d+)\*\*\s*categor[ií]as", raw)
     active_cats = int(m.group(1)) if m else 0
     return {
         "last_updated": updated,
