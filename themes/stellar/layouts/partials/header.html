@@ -13,7 +13,7 @@
       <a href="#history">Historial</a>
     </nav>
     <div class="brand-meta">
-      {{ with site.Data.dashboard_meta }}
+      {{ with hugo.Data.dashboard_meta }}
         {{ if .last_updated }}<span class="meta-pill">⟳ {{ .last_updated }}</span>{{ end }}
       {{ end }}
     </div>

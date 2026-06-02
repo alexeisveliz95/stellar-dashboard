@@ -1,8 +1,8 @@
 {{ define "main" }}
-{{ $cats := site.Data.categorias.categories }}
-{{ $trends := site.Data.tendencias.trends }}
+{{ $cats := hugo.Data.categorias.categories }}
+{{ $trends := hugo.Data.tendencias.trends }}
 {{ $latest := index $trends 0 }}
-{{ $curatedData := site.Data.repos.curated_picks }}
+{{ $curatedData := hugo.Data.repos.curated_picks }}
 {{ $latestWeek := index $curatedData.weeks 0 }}
 {{ $curated := $latestWeek.picks }}
 
