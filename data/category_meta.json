@@ -1,0 +1,12 @@
+{
+  "_comment": "Mapeo explícito categoría → emoji. Editar manualmente si se quiere cambiar un emoji. Sin heurísticas, sin sorpresas.",
+  "AI & Data Science": "🤖",
+  "Automation & DevOps": "⚡",
+  "Cybersecurity & Hacking": "🛡️",
+  "Mobile Development": "📱",
+  "Otros": "📦",
+  "PlayStation Homebrew & Linux": "🎮",
+  "Python & Backend": "🐍",
+  "Web Development": "🌐",
+  "Web3 & Blockchain": "⛓️"
+}

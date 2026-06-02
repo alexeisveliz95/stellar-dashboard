@@ -12,7 +12,7 @@
       <div class="category-head">
         <span class="cat-emoji">{{ .emoji }}</span>
         <h3 class="cat-name">{{ .name }}</h3>
-        <span class="cat-count">{{ .total_projects }} proyectos</span>
+        <span class="cat-count">{{ .total_projects }} {{ if eq (printf "%v" .total_projects) "1" }}proyecto{{ else }}proyectos{{ end }}</span>
       </div>
       <div class="category-stats">
         <span>Mejor: <strong>{{ printf "%.2f" .best_score }}</strong></span>

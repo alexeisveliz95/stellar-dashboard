@@ -38,6 +38,41 @@ def fmt_stars(n: int) -> str:
     return str(n)
 
 
+def normalize_growth(val: str) -> int:
+    """Normalize various growth formats to a single int.
+
+    Accepts: '+14,741', '+14.8k', '+8,320', '14741', '1.2M'
+    Returns: int (14741, 14800, 8320, 14741, 1200000)
+    """
+    if not val:
+        return 0
+    s = val.strip().lstrip("+").replace(",", "").replace(" ", "")
+    m = re.match(r"^([\d.]+)\s*([kKmM]?)$", s)
+    if not m:
+        return 0
+    num, suf = m.groups()
+    n = float(num)
+    if suf.lower() == "k":
+        return int(n * 1_000)
+    if suf.lower() == "m":
+        return int(n * 1_000_000)
+    return int(n)
+
+
+def load_category_meta(path: Path) -> dict[str, str]:
+    """Load explicit category → emoji mapping from JSON.
+
+    Falls back to {} if file doesn't exist or is invalid.
+    """
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return {k: v for k, v in data.items() if not k.startswith("_")}
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
 def slugify(text: str) -> str:
     s = text.lower()
     s = s.replace("&", "and")
@@ -106,6 +141,7 @@ def parse_tendencia(path: Path) -> dict | None:
     total_match = re.search(r"\*\*(\d+)\s*repos?\*\*\s*analizados", raw)
     hot_match = re.search(r"\*\*(\d+)\s*en zona HOT\*\*", raw)
     growth_match = re.search(r"\*\*\+?([\d.kKmM,]+)\s*estrellas\*\*\s*acumuladas", raw)
+    growth_int = normalize_growth(growth_match.group(1)) if growth_match else 0
 
     top_repo = None
     top_match = re.search(
@@ -118,7 +154,7 @@ def parse_tendencia(path: Path) -> dict | None:
         top_repo = {
             "name": top_match.group("name").strip(),
             "url": top_match.group("url").strip(),
-            "growth": int(top_match.group(3).replace(",", "")),
+            "growth": normalize_growth(top_match.group(3)),
             "growth_pct": float(top_match.group(4)),
         }
     desc_match = re.search(
@@ -176,7 +212,8 @@ def parse_tendencia(path: Path) -> dict | None:
         "filename": path.name,
         "total_repos": int(total_match.group(1)) if total_match else len(ranking),
         "hot_zone": int(hot_match.group(1)) if hot_match else 0,
-        "growth_fmt": growth_match.group(1).strip() if growth_match else "0",
+        "growth_fmt": fmt_stars(growth_int),
+        "growth_raw": growth_int,
         "top_repo": top_repo,
         "ranking": ranking,
     }
@@ -205,18 +242,9 @@ def parse_dashboard_md(path: Path) -> dict:
     }
 
 
-def category_emoji(name: str) -> str:
-    mapping = {
-        "ai": "🤖", "data": "📊", "automation": "⚡", "devops": "🔧",
-        "web": "🌐", "blockchain": "⛓️", "web3": "⛓️", "cybersecurity": "🛡️",
-        "hacking": "🛡️", "mobile": "📱", "playstation": "🎮", "homebrew": "🎮",
-        "linux": "🐧", "python": "🐍", "backend": "⚙️", "otros": "📦",
-        "other": "📁",
-    }
-    for key, emoji in mapping.items():
-        if key in name.lower():
-            return emoji
-    return "📁"
+def category_emoji(name: str, meta: dict[str, str]) -> str:
+    """Resolve emoji from explicit meta mapping; fallback to generic."""
+    return meta.get(name, "📁")
 
 
 def main() -> None:
@@ -225,6 +253,7 @@ def main() -> None:
     args = p.parse_args()
 
     root = Path(args.root).resolve()
+    cat_meta = load_category_meta(root / "data" / "category_meta.json")
 
     cats_dir = root / "Categorias"
     cats = []
@@ -232,7 +261,7 @@ def main() -> None:
         for f in sorted(cats_dir.glob("*.md")):
             data = parse_categoria(f)
             if data:
-                data["emoji"] = category_emoji(data["name"])
+                data["emoji"] = category_emoji(data["name"], cat_meta)
                 cats.append(data)
     cats.sort(key=lambda c: c["total_projects"], reverse=True)
 

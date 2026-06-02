@@ -40,5 +40,4 @@
 {{ partial "curated-picks.html" (dict "picks" $curated "week" $latestWeek "limit" .Site.Params.maxCurated) }}
 {{ partial "categories.html" (dict "cats" $cats) }}
 {{ partial "trend-history.html" (dict "trends" $trends "limit" .Site.Params.maxTrendingHistory) }}
-
 {{ end }}
