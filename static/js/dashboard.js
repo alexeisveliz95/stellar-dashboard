@@ -18,11 +18,23 @@ document.addEventListener("DOMContentLoaded", function () {
         const t = Math.min(elapsed / duration, 1);
         const eased = 1 - Math.pow(1 - t, 3);
         el.textContent = suffix + format(target * eased);
-        if (t < 1) requestAnimationFrame(tick);
+        if (t < 1) {
+          requestAnimationFrame(tick);
+        } else {
+          el.classList.add("is-visible");
+        }
       };
-      requestAnimationFrame(tick);
+      // First frame: start at 0 hidden, then reveal on first tick
+      el.textContent = suffix + format(0);
+      requestAnimationFrame((t) => {
+        el.classList.add("is-visible");
+        tick(t);
+      });
     };
     counters.forEach(animateCounter);
+  } else {
+    // Reduced motion: just show final values immediately
+    counters.forEach((el) => el.classList.add("is-visible"));
   }
 
   // ── Live search + filters ──
