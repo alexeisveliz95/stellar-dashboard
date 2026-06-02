@@ -335,6 +335,29 @@ def write_content_stub(path: Path, fm: dict, body: str = "") -> None:
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def enrich_curated_picks(root: Path) -> None:
+    """Add stars_fmt to curated_picks.json so Hugo templates don't need
+    to do number formatting (avoids the 4.200 Spanish locale issue)."""
+    src = root / "data" / "repos" / "curated_picks.json"
+    if not src.exists():
+        return
+    try:
+        data = json.loads(src.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return
+
+    changed = False
+    for week in data.get("weeks", []):
+        for pick in week.get("picks", []):
+            if "stars_fmt" not in pick and "stars" in pick:
+                pick["stars_fmt"] = fmt_stars(int(pick["stars"]))
+                changed = True
+
+    if changed:
+        src.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"✅ curated_picks.json: added stars_fmt to {sum(len(w.get('picks', [])) for w in data.get('weeks', []))} picks")
+
+
 def build_heatmap_data(trends: list, weeks_back: int = 12) -> dict:
     """Build calendar heatmap data: 7 rows × N columns (weeks).
 
@@ -497,6 +520,7 @@ def main() -> None:
     generate_og_image(trends, len(cats), 0, root / "static" / "og-image.svg")
 
     heatmap = build_heatmap_data(trends, weeks_back=12)
+    enrich_curated_picks(root)
     (out_dir / "heatmap.json").write_text(
         json.dumps(heatmap, ensure_ascii=False, indent=2),
         encoding="utf-8",

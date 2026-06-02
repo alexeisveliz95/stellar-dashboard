@@ -24,7 +24,7 @@
         <a href="{{ $p.url }}" target="_blank" rel="noopener">{{ $p.name }}</a>
       </h3>
       <div class="curated-meta">
-        <span>⭐ {{ lang.FormatNumber 0 ($p.stars | default 0) }}</span>
+        <span>⭐ {{ $p.stars_fmt | default (lang.FormatNumber 0 ($p.stars | default 0)) }}</span>
         {{ with $p.growth }}<span class="growth">+{{ lang.FormatNumber 0 . }} hoy</span>{{ end }}
         {{ with $p.momentum }}<span>Momentum {{ lang.FormatNumber 1 . }}</span>{{ end }}
       </div>
