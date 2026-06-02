@@ -569,13 +569,6 @@ a:hover { color: var(--accent); text-decoration: underline; }
 .top3-pill a { color: var(--text-dim); }
 .top3-pill a:hover { color: var(--accent-2); text-decoration: none; }
 
-@media (max-width: 600px) {
-  .hero-title { font-size: 32px; }
-  .section-head h2 { font-size: 20px; }
-  .history-link { grid-template-columns: 1fr; }
-  .history-date, .history-stats { grid-column: 1; }
-}
-
 /* ===== Footer ===== */
 .site-footer {
   border-top: 1px solid var(--border);
