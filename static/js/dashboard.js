@@ -7,11 +7,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const canvas = document.getElementById("trendingChart");
   if (!canvas) return;
 
+  const dataEl = document.getElementById("trending-data");
+  if (!dataEl) return;
+
   let data = [];
   try {
-    data = JSON.parse(canvas.dataset.labels || "[]");
+    data = JSON.parse(dataEl.textContent || "[]");
   } catch (e) {
-    console.error("labels inválidas", e);
+    console.error("trending-data inválido", e);
     return;
   }
 
