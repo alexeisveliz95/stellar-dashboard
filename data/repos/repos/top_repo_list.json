@@ -1,0 +1,325 @@
+[
+  {
+    "id": "github_trending_chopratejas_headroom",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "url": "https://github.com/chopratejas/headroom",
+    "stars": 5812,
+    "growth": 1266,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_microsoft_markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "url": "https://github.com/microsoft/markitdown",
+    "stars": 140845,
+    "growth": 3616,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 203505,
+    "growth": 1597,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_D4Vinci_Scrapling",
+    "name": "D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "stars": 59010,
+    "growth": 1196,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ],
+    "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_nesquena_hermes-webui",
+    "name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 12429,
+    "growth": 1725,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_OpenBMB_VoxCPM",
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "stars": 25005,
+    "growth": 779,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "audio",
+      "deeplearning",
+      "minicpm",
+      "multilingual",
+      "python",
+      "pytorch",
+      "speech",
+      "speech-synthesis",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "voice-cloning",
+      "voice-design",
+      "voxcpm"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_stefan-jansen_machine-learning-for-trading",
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "stars": 18356,
+    "growth": 570,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Jupyter Notebook",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "finance",
+      "investment",
+      "investment-strategies",
+      "machine-learning",
+      "ml4t-workflow",
+      "synthetic-data",
+      "trading",
+      "trading-agent",
+      "trading-strategies"
+    ]
+  },
+  {
+    "id": "github_trending_supermemoryai_supermemory",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "stars": 24522,
+    "growth": 677,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "agent-memory",
+      "ai-memory",
+      "cloudflare-kv",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "drizzle-orm",
+      "memory",
+      "postgres",
+      "remix",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Open-LLM-VTuber_Open-LLM-VTuber",
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "stars": 8243,
+    "growth": 65,
+    "score": 0.8922,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-companion",
+      "ai-vtuber",
+      "ai-waifu",
+      "chatbots",
+      "live2d",
+      "live2d-web",
+      "llm",
+      "neuro-sama",
+      "ollama"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_reconurge_flowsint",
+    "name": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "url": "https://github.com/reconurge/flowsint",
+    "stars": 4407,
+    "growth": 190,
+    "score": 0.7555,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "investigation",
+      "osint",
+      "python",
+      "recon"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_jamwithai_production-agentic-rag-course",
+    "name": "jamwithai/production-agentic-rag-course",
+    "description": "",
+    "url": "https://github.com/jamwithai/production-agentic-rag-course",
+    "stars": 6323,
+    "growth": 31,
+    "score": 0.6577,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "MIT"
+  }
+]
