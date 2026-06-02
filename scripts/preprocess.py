@@ -316,6 +316,81 @@ def generate_og_image(trends: list, cats_count: int, curated_count: int, out_pat
     print(f"✅ og-image.svg ({len(svg)} bytes)")
 
 
+def write_content_stub(path: Path, fm: dict, body: str = "") -> None:
+    """Write a Hugo content stub with YAML frontmatter and optional body."""
+    lines = ["---"]
+    for key, val in fm.items():
+        if isinstance(val, (int, float)):
+            lines.append(f"{key}: {val}")
+        elif isinstance(val, bool):
+            lines.append(f"{key}: {'true' if val else 'false'}")
+        else:
+            escaped = str(val).replace('"', '\\"')
+            lines.append(f'{key}: "{escaped}"')
+    lines.append("---")
+    if body:
+        lines.append("")
+        lines.append(body)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def generate_content_stubs(cats: list, trends: list, root: Path) -> None:
+    """Generate Hugo content stubs for category and trend sub-pages.
+
+    Creates:
+      - content/categorias/_index.md  (section root)
+      - content/categorias/<slug>.md  (one per category)
+      - content/tendencias/_index.md  (section root)
+      - content/tendencias/<slug>.md  (one per trend)
+    """
+    content_dir = root / "content"
+
+    # Categorias section root
+    write_content_stub(
+        content_dir / "categorias" / "_index.md",
+        {
+            "title": "Categorías",
+            "description": "Repos curados por categoría",
+        },
+    )
+
+    # Per-category stubs
+    for cat in cats:
+        slug = cat.get("slug") or slugify(cat["name"])
+        write_content_stub(
+            content_dir / "categorias" / f"{slug}.md",
+            {
+                "title": f"{cat.get('emoji', '📁')} {cat['name']}",
+                "slug": slug,
+                "weight": -cat.get("total_projects", 0),
+            },
+        )
+
+    # Tendencias section root
+    write_content_stub(
+        content_dir / "tendencias" / "_index.md",
+        {
+            "title": "Historial de Tendencias",
+            "description": "Trending de GitHub por fecha",
+        },
+    )
+
+    # Per-trend stubs (weight = newer first)
+    for i, trend in enumerate(trends):
+        slug = trend.get("slug") or slugify(trend.get("date", ""))
+        write_content_stub(
+            content_dir / "tendencias" / f"{slug}.md",
+            {
+                "title": f"🔥 {trend.get('date', '—')}",
+                "slug": slug,
+                "weight": -i,
+            },
+        )
+
+    print(f"✅ content stubs: {len(cats)} categorias, {len(trends)} tendencias")
+
+
 def main() -> None:
     p = argparse.ArgumentParser(description="Preprocess engine data for Hugo")
     p.add_argument("--root", default=".", help="Repo root")
@@ -367,6 +442,8 @@ def main() -> None:
     print(f"✅ dashboard_meta.json: {dashboard_meta}")
 
     generate_og_image(trends, len(cats), 0, root / "static" / "og-image.svg")
+
+    generate_content_stubs(cats, trends, root)
 
 
 if __name__ == "__main__":

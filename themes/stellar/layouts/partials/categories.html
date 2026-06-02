@@ -3,32 +3,34 @@
 <section class="section" id="categories">
   <div class="section-head">
     <h2>📂 Categorías</h2>
-    <span class="section-tag">{{ len $cats }} categorías curadas</span>
+    <a class="section-tag" href='{{ "categorias/" | relURL }}'>Ver todas las {{ len $cats }} →</a>
   </div>
 
   <div class="category-grid">
     {{ range $cats }}
     <article class="category-card">
-      <div class="category-head">
-        <span class="cat-emoji">{{ .emoji }}</span>
-        <h3 class="cat-name">{{ .name }}</h3>
-        <span class="cat-count">{{ .total_projects }} {{ if eq (printf "%v" .total_projects) "1" }}proyecto{{ else }}proyectos{{ end }}</span>
-      </div>
-      <div class="category-stats">
-        <span>Mejor: <strong>{{ printf "%.2f" .best_score }}</strong></span>
-        <span>Total: <strong>{{ .total_stars_fmt }}</strong></span>
-      </div>
-      <ul class="category-repos">
-        {{ range first 4 .projects }}
-        <li>
-          <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
-          <span class="mini-score">{{ printf "%.2f" .score }}</span>
-        </li>
-        {{ end }}
-      </ul>
-      <div class="category-footer">
-        <span class="muted">Actualizado: {{ .updated }}</span>
-      </div>
+      <a href='{{ "categorias/" | relURL }}{{ .slug }}/' class="cat-link">
+        <div class="category-head">
+          <span class="cat-emoji">{{ .emoji }}</span>
+          <h3 class="cat-name">{{ .name }}</h3>
+          <span class="cat-count">{{ .total_projects }} {{ if eq (printf "%v" .total_projects) "1" }}proyecto{{ else }}proyectos{{ end }}</span>
+        </div>
+        <div class="category-stats">
+          <span>Mejor: <strong>{{ printf "%.2f" .best_score }}</strong></span>
+          <span>Total: <strong>{{ .total_stars_fmt }}</strong></span>
+        </div>
+        <ul class="category-repos">
+          {{ range first 4 .projects }}
+          <li>
+            <span class="mini-name">{{ .name }}</span>
+            <span class="mini-score">{{ printf "%.2f" .score }}</span>
+          </li>
+          {{ end }}
+        </ul>
+        <div class="category-footer">
+          <span class="view-detail">Ver detalle →</span>
+        </div>
+      </a>
     </article>
     {{ end }}
   </div>

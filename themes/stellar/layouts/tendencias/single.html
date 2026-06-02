@@ -1,0 +1,72 @@
+{{ define "main" }}
+{{ $slug := .File.BaseFileName }}
+{{ $trends := hugo.Data.tendencias.trends }}
+{{ $trend := false }}
+{{ range $trends }}{{ if eq .slug $slug }}{{ $trend = . }}{{ end }}{{ end }}
+
+{{ if eq $trend false }}
+<section class="page-hero">
+  <h1>404 — Fecha no encontrada</h1>
+  <p><a href='{{ "tendencias/" | relURL }}'>← Volver al historial</a></p>
+</section>
+{{ else }}
+<section class="page-hero">
+  <h1>🔥 Trending — {{ $trend.date }}</h1>
+  <p>
+    <strong>{{ $trend.total_repos }}</strong> repos analizados ·
+    <strong>{{ $trend.hot_zone }}</strong> en zona HOT ·
+    <strong>+{{ $trend.growth_fmt }}</strong> ⭐ acumuladas
+  </p>
+  <p class="meta"><a href='{{ "tendencias/" | relURL }}'>← Volver al historial</a></p>
+</section>
+
+{{ with $trend.top_repo }}
+<div class="top-repo-card">
+  <div class="rank">🏆 #1 del día</div>
+  <div class="top-name"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></div>
+  <div class="top-growth">+{{ lang.FormatNumber 0 .growth }} ⭐ hoy · {{ .growth_pct }}% de su total</div>
+  {{ with .description }}<div class="top-desc">{{ . }}</div>{{ end }}
+</div>
+{{ end }}
+
+<div class="trend-grid">
+  <div class="trend-list">
+    <table class="repo-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Repositorio</th>
+          <th class="num">⭐ Total</th>
+          <th class="num">🚀 Hoy</th>
+          <th>Momentum</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $trend.ranking }}
+        <tr class="{{ if .hot }}hot-row{{ end }}">
+          <td class="rank-cell">
+            {{ if .hot }}🔥{{ else }}📈{{ end }}
+            <strong>{{ .rank }}</strong>
+          </td>
+          <td>
+            <a href="{{ .url }}" target="_blank" rel="noopener" class="repo-link">
+              <strong>{{ .name }}</strong>
+            </a>
+            <span class="owner">@{{ .owner }}</span>
+          </td>
+          <td class="num">{{ .stars_fmt }}</td>
+          <td class="num growth">+{{ lang.FormatNumber 0 .growth }}</td>
+          <td><code class="momentum" data-tooltip="Velocidad de crecimiento relativa">{{ .momentum }}</code></td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  <div class="trend-chart">
+    <h3>Top momentum</h3>
+    <canvas id="trendingChart" height="320"></canvas>
+    <script type="application/json" id="trending-data">{{ jsonify (first 10 $trend.ranking) }}</script>
+  </div>
+</div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ $trends := hugo.Data.tendencias.trends }}
+<section class="page-hero">
+  <h1>📜 Historial de Tendencias</h1>
+  <p>{{ len $trends }} días de trending de GitHub archivados. Click en cualquier día para ver el ranking completo, los #1 HOT y el top momentum.</p>
+</section>
+
+<div class="history-list">
+  {{ range $trends }}
+  <article class="history-row">
+    <a href='{{ "tendencias/" | relURL }}{{ .slug }}/' class="history-link">
+      <div class="history-date">{{ .date }}</div>
+      <div class="history-stats">
+        <span class="hist-pill">{{ .total_repos }} repos</span>
+        <span class="hist-pill hot">{{ .hot_zone }} 🔥</span>
+        <span class="hist-pill">+{{ .growth_fmt }} ⭐</span>
+      </div>
+      {{ with .top_repo }}
+      <div class="history-top">
+        🏆 <strong>{{ .name }}</strong>
+        <span class="growth">+{{ lang.FormatNumber 0 .growth }} ⭐</span>
+      </div>
+      {{ end }}
+      <span class="view-detail">Ver detalle del día →</span>
+    </a>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

@@ -4,52 +4,47 @@
 <section class="section" id="history">
   <div class="section-head">
     <h2>📜 Historial de Tendencias</h2>
-    <span class="section-tag">Últimas {{ len $trends }} semanas</span>
+    <a class="section-tag" href='{{ "tendencias/" | relURL }}'>Ver historial completo ({{ len $trends }}) →</a>
   </div>
 
   <div class="history-list">
     {{ range first $limit $trends }}
     <article class="history-row">
-      <div class="history-date">{{ .date }}</div>
-      <div class="history-stats">
-        <span class="hist-pill">{{ .total_repos }} repos</span>
-        <span class="hist-pill hot">{{ .hot_zone }} 🔥</span>
-        <span class="hist-pill">+{{ .growth_fmt }} ⭐</span>
-      </div>
-      {{ with .top_repo }}
-      <div class="history-top">
-        🏆 <a href="{{ .url }}" target="_blank" rel="noopener"><strong>{{ .name }}</strong></a>
-        <span class="growth">+{{ lang.FormatNumber 0 .growth }} ⭐ ({{ .growth_pct }}%)</span>
-      </div>
-      {{ end }}
-      {{ with .ranking }}
-        {{ $top5 := first 5 . }}
-        {{ $max := 0 }}
-        {{ range $top5 }}{{ if gt .growth $max }}{{ $max = .growth }}{{ end }}{{ end }}
-        {{ if gt $max 0 }}
-        <svg class="sparkline" viewBox="0 0 200 40" preserveAspectRatio="none" aria-label="Top 5 momentum">
-          {{ range $top5 }}
-            {{ $barW := 32 }}
-            {{ $gap := 8 }}
-            {{ $h := div (mul .growth 36) $max }}
-            {{ $x := mul (sub .rank 1) (add $barW $gap) }}
-            {{ $y := sub 38 $h }}
-            <rect x="{{ $x }}" y="{{ $y }}" width="{{ $barW }}" height="{{ $h }}" rx="3"
-                  fill="{{ if .hot }}#ff5e5e{{ else }}#00d4ff{{ end }}" opacity="0.85"/>
-            <text x="{{ add $x (div $barW 2) }}" y="13" text-anchor="middle"
-                  font-family="monospace" font-size="9" fill="#e6e9f2" font-weight="700">#{{ .rank }}</text>
+      <a href='{{ "tendencias/" | relURL }}{{ .slug }}/' class="history-link">
+        <div class="history-date">{{ .date }}</div>
+        <div class="history-stats">
+          <span class="hist-pill">{{ .total_repos }} repos</span>
+          <span class="hist-pill hot">{{ .hot_zone }} 🔥</span>
+          <span class="hist-pill">+{{ .growth_fmt }} ⭐</span>
+        </div>
+        {{ with .top_repo }}
+        <div class="history-top">
+          🏆 <strong>{{ .name }}</strong>
+          <span class="growth">+{{ lang.FormatNumber 0 .growth }} ⭐</span>
+        </div>
+        {{ end }}
+        {{ with .ranking }}
+          {{ $top5 := first 5 . }}
+          {{ $max := 0 }}
+          {{ range $top5 }}{{ if gt .growth $max }}{{ $max = .growth }}{{ end }}{{ end }}
+          {{ if gt $max 0 }}
+          <svg class="sparkline" viewBox="0 0 200 40" preserveAspectRatio="none" aria-label="Top 5 momentum">
+            {{ range $top5 }}
+              {{ $barW := 32 }}
+              {{ $gap := 8 }}
+              {{ $h := div (mul .growth 36) $max }}
+              {{ $x := mul (sub .rank 1) (add $barW $gap) }}
+              {{ $y := sub 38 $h }}
+              <rect x="{{ $x }}" y="{{ $y }}" width="{{ $barW }}" height="{{ $h }}" rx="3"
+                    fill="{{ if .hot }}#ff5e5e{{ else }}#00d4ff{{ end }}" opacity="0.85"/>
+              <text x="{{ add $x (div $barW 2) }}" y="13" text-anchor="middle"
+                    font-family="monospace" font-size="9" fill="#e6e9f2" font-weight="700">#{{ .rank }}</text>
+            {{ end }}
+          </svg>
           {{ end }}
-        </svg>
         {{ end }}
-      {{ end }}
-      <div class="history-top3">
-        {{ range first 3 .ranking }}
-        <span class="top3-pill">
-          <span class="top3-rank">#{{ .rank }}</span>
-          <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
-        </span>
-        {{ end }}
-      </div>
+        <span class="view-detail">Ver detalle del día →</span>
+      </a>
     </article>
     {{ end }}
   </div>

@@ -1,7 +1,7 @@
 {{ $title := cond .IsHome .Site.Title (printf "%s — %s" .Title .Site.Title) }}
 {{ $desc := .Site.Params.description }}
 {{ $url := .Permalink }}
-{{ $img := printf "%sog-image.svg" $url }}
+{{ $img := "og-image.svg" | absURL }}
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ .Site.Title }}">

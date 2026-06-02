@@ -6,6 +6,8 @@ resources/
 data/categorias.json
 data/tendencias.json
 data/dashboard_meta.json
+content/categorias/
+content/tendencias/
 .env
 *.local
 .DS_Store

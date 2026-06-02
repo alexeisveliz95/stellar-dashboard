@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{ $slug := .File.BaseFileName }}
+{{ $cats := hugo.Data.categorias.categories }}
+{{ $cat := false }}
+{{ range $cats }}{{ if eq .slug $slug }}{{ $cat = . }}{{ end }}{{ end }}
+
+{{ if eq $cat false }}
+<section class="page-hero">
+  <h1>404 — Categoría no encontrada</h1>
+  <p><a href='{{ "categorias/" | relURL }}'>← Volver al listado de categorías</a></p>
+</section>
+{{ else }}
+<section class="page-hero">
+  <h1>{{ $cat.emoji }} {{ $cat.name }}</h1>
+  <p>
+    <strong>{{ $cat.total_projects }}</strong> {{ if eq (printf "%v" $cat.total_projects) "1" }}proyecto{{ else }}proyectos{{ end }} ·
+    <strong>{{ printf "%.2f" $cat.best_score }}</strong> mejor score ·
+    <strong>{{ $cat.total_stars_fmt }}</strong> ⭐ totales
+  </p>
+  <p class="meta">Actualizado: {{ $cat.updated }} · <a href='{{ "categorias/" | relURL }}'>← Todas las categorías</a></p>
+</section>
+
+<div class="repo-grid">
+  {{ range $cat.projects }}
+  <article class="repo-card">
+    <div class="repo-score" data-tooltip="Score de calidad: balance entre tracción y consistencia.">{{ printf "%.2f" .score }}</div>
+    <h3 class="repo-title">
+      <a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>
+    </h3>
+    <div class="repo-meta">
+      <span>⭐ {{ .stars_fmt }}</span>
+      {{ with .momentum }}<code class="momentum small" data-tooltip="Tasa de crecimiento de estrellas en los últimos 7 días.">{{ . }}</code>{{ end }}
+    </div>
+    {{ with .description }}<p class="repo-desc">{{ . }}</p>{{ end }}
+  </article>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}

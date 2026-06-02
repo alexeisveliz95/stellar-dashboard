@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{ $cats := hugo.Data.categorias.categories }}
+<section class="page-hero">
+  <h1>📂 Categorías</h1>
+  <p>Explora los {{ len $cats }} categorías curadas por el bot. Cada una contiene los repos más relevantes de su nicho, ordenados por score de calidad.</p>
+</section>
+
+<div class="category-grid">
+  {{ range $cats }}
+  <article class="category-card">
+    <a href='{{ "categorias/" | relURL }}{{ .slug }}/' class="cat-link">
+      <div class="category-head">
+        <span class="cat-emoji">{{ .emoji }}</span>
+        <h3 class="cat-name">{{ .name }}</h3>
+        <span class="cat-count">{{ .total_projects }} {{ if eq (printf "%v" .total_projects) "1" }}proyecto{{ else }}proyectos{{ end }}</span>
+      </div>
+      <div class="category-stats">
+        <span>Mejor: <strong>{{ printf "%.2f" .best_score }}</strong></span>
+        <span>Total: <strong>{{ .total_stars_fmt }}</strong></span>
+      </div>
+      <ul class="category-repos">
+        {{ range first 4 .projects }}
+        <li>
+          <span class="mini-name">{{ .name }}</span>
+          <span class="mini-score">{{ printf "%.2f" .score }}</span>
+        </li>
+        {{ end }}
+      </ul>
+      <div class="category-footer">
+        <span class="view-detail">Ver detalle →</span>
+      </div>
+    </a>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

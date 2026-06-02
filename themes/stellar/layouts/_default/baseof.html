@@ -13,7 +13,9 @@
   {{ partial "opengraph.html" . }}
 
   <link rel="stylesheet" href='{{ "css/style.css" | relURL }}'>
+  {{ if or .IsHome (eq .Section "tendencias") }}
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+  {{ end }}
   <script src='{{ "js/dashboard.js" | relURL }}' defer></script>
 </head>
 <body>

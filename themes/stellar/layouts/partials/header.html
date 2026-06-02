@@ -5,12 +5,9 @@
       <span class="brand-name">{{ .Site.Title }}</span>
     </a>
     <nav class="nav">
-      <a href="#trending">Trending</a>
-      <a href="#quality">Top Quality</a>
-      <a href="#stars">Top Stars</a>
-      <a href="#curated">Curados</a>
-      <a href="#categories">Categorías</a>
-      <a href="#history">Historial</a>
+      <a href='{{ "categorias/" | relURL }}'>Categorías</a>
+      <a href='{{ "tendencias/" | relURL }}'>Tendencias</a>
+      <a href='{{ "/" | relURL }}#trending'>Trending</a>
     </nav>
     <div class="brand-meta">
       {{ with hugo.Data.dashboard_meta }}
