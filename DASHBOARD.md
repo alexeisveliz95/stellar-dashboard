@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-06-03 09:24`
-> 📦 **18** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-06-03 10:45`
+> 📦 **32** proyectos curados en **9** categorías
 
 ---
 
@@ -67,14 +67,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.72** |
-| [**Otros**](Categorias/Otros.md) | 2 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 4 | **0.70** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
+| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
-| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
