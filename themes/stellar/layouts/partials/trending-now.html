@@ -15,44 +15,36 @@
   </div>
   {{ end }}
 
-  <div class="trend-grid">
-    <div class="trend-list">
-      <table class="repo-table">
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>Repositorio</th>
-            <th class="num">⭐ Total</th>
-            <th class="num">🚀 Hoy</th>
-            <th>Momentum</th>
-          </tr>
-        </thead>
-        <tbody>
-          {{ range first 10 .ranking }}
-          <tr class="{{ if .hot }}hot-row{{ end }}" data-section="trending">
-            <td class="rank-cell">
-              {{ if .hot }}🔥{{ else }}📈{{ end }}
-              <strong>{{ .rank }}</strong>
-            </td>
-            <td>
-              <a href="{{ .url }}" target="_blank" rel="noopener" class="repo-link">
-                <strong>{{ .name }}</strong>
-              </a>
-              <span class="owner">@{{ .owner }}</span>
-            </td>
-            <td class="num">{{ .stars_fmt }}</td>
-            <td class="num growth">+{{ lang.FormatNumber 0 .growth }}</td>
-            <td><code class="momentum" data-tooltip="Velocidad de crecimiento relativa: estrellas/hora ponderada por escala">{{ .momentum }}</code></td>
-          </tr>
-          {{ end }}
-        </tbody>
-      </table>
-    </div>
-    <div class="trend-chart">
-      <h3>Top momentum</h3>
-      <canvas id="trendingChart" height="320"></canvas>
-      <script type="application/json" id="trending-data">{{ jsonify (first 10 .ranking) }}</script>
-    </div>
+  <div class="trend-chart">
+    <h3>📊 Top momentum — ⭐ ganadas hoy</h3>
+    <canvas id="trendingChart" height="320"></canvas>
+    <script type="application/json" id="trending-data">{{ jsonify (first 10 .ranking) }}</script>
+  </div>
+
+  <div class="trending-cards">
+    {{ range first 10 .ranking }}
+    <article class="trend-card {{ if .hot }}hot{{ end }}" data-section="trending" data-search="{{ .name }} {{ .owner }} {{ .momentum }}">
+      <header class="trend-card-head">
+        <span class="trend-rank">{{ if .hot }}🔥{{ else }}📈{{ end }} <strong>#{{ .rank }}</strong></span>
+        <a href="{{ .url }}" target="_blank" rel="noopener" class="trend-name"><strong>{{ .name }}</strong></a>
+      </header>
+      <div class="trend-owner">@{{ .owner }}</div>
+      <div class="trend-stats">
+        <div class="trend-stat">
+          <span class="trend-stat-label">⭐ Total</span>
+          <span class="trend-stat-val">{{ .stars_fmt }}</span>
+        </div>
+        <div class="trend-stat">
+          <span class="trend-stat-label">🚀 Hoy</span>
+          <span class="trend-stat-val growth">+{{ lang.FormatNumber 0 .growth }}</span>
+        </div>
+        <div class="trend-stat">
+          <span class="trend-stat-label">Momentum</span>
+          <code class="momentum" data-tooltip="Velocidad de crecimiento relativa: estrellas/hora ponderada por escala">{{ .momentum }}</code>
+        </div>
+      </div>
+    </article>
+    {{ end }}
   </div>
 </section>
 {{ end }}
