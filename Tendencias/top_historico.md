@@ -17,3 +17,6 @@
 | 2026-06-02 | **1** | [markitdown](https://github.com/microsoft/markitdown) | +3616 | 140.8k | `1.00` |
 | 2026-06-02 | **2** | [hermes-webui](https://github.com/nesquena/hermes-webui) | +1725 | 12.4k | `1.00` |
 | 2026-06-02 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1597 | 203.5k | `1.00` |
+| 2026-06-03 | **1** | [markitdown](https://github.com/microsoft/markitdown) | +3618 | 142.0k | `1.00` |
+| 2026-06-03 | **2** | [hermes-webui](https://github.com/nesquena/hermes-webui) | +1722 | 12.8k | `1.00` |
+| 2026-06-03 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1533 | 204.7k | `1.00` |
