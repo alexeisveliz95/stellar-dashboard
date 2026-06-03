@@ -300,4 +300,86 @@ document.addEventListener("DOMContentLoaded", function () {
       },
     },
   });
+
+  // ── History timeline chart (growth per day across all weeks) ──
+  const tlCanvas = document.getElementById("historyTimeline");
+  if (tlCanvas) {
+    const tlDataEl = document.getElementById("history-timeline-data");
+    if (tlDataEl) {
+      let tl = { labels: [], values: [], hots: [] };
+      try {
+        tl = JSON.parse(tlDataEl.textContent || "{}");
+      } catch (e) {
+        console.error("history-timeline-data inválido", e);
+      }
+      if (tl.labels && tl.labels.length > 0) {
+        const tlBg = tl.hots.map((h) => {
+          if (h >= 15) return "rgba(255, 94, 94, 0.85)";
+          if (h >= 10) return "rgba(255, 159, 67, 0.8)";
+          if (h >= 5) return "rgba(0, 212, 255, 0.75)";
+          return "rgba(124, 92, 255, 0.7)";
+        });
+        const tlBorder = tl.hots.map((h) => {
+          if (h >= 15) return "rgba(255, 94, 94, 1)";
+          if (h >= 10) return "rgba(255, 159, 67, 1)";
+          if (h >= 5) return "rgba(0, 212, 255, 1)";
+          return "rgba(124, 92, 255, 1)";
+        });
+        new Chart(tlCanvas, {
+          type: "line",
+          data: {
+            labels: tl.labels,
+            datasets: [
+              {
+                label: "⭐ acumuladas",
+                data: tl.values,
+                backgroundColor: tlBg,
+                borderColor: "rgba(124, 92, 255, 0.9)",
+                borderWidth: 2,
+                pointBackgroundColor: tlBorder,
+                pointBorderColor: tlBorder,
+                pointRadius: 5,
+                pointHoverRadius: 7,
+                fill: true,
+                tension: 0.3,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: { display: false },
+              tooltip: {
+                callbacks: {
+                  label: (ctx) => {
+                    const hots = tl.hots[ctx.dataIndex] || 0;
+                    return [
+                      "+" + ctx.parsed.y.toLocaleString() + " ⭐",
+                      "🔥 " + hots + " HOT",
+                    ];
+                  },
+                },
+              },
+            },
+            scales: {
+              x: {
+                grid: { color: "rgba(255,255,255,0.04)" },
+                ticks: { color: "#8a93a8", font: { family: "monospace", size: 10 } },
+              },
+              y: {
+                grid: { color: "rgba(255,255,255,0.05)" },
+                ticks: {
+                  color: "#8a93a8",
+                  font: { family: "monospace" },
+                  callback: (v) => v >= 1000 ? (v / 1000).toFixed(1) + "k" : v,
+                },
+                beginAtZero: true,
+              },
+            },
+          },
+        });
+      }
+    }
+  }
 });
