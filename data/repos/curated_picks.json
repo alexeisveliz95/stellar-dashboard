@@ -15,8 +15,7 @@
           "growth": 1244,
           "momentum": 1.0,
           "language": null,
-          "description": null,
-          "stars_fmt": "4.2k"
+          "description": null
         },
         {
           "name": "CLI-Anything",
@@ -26,8 +25,7 @@
           "growth": 1049,
           "momentum": 0.1,
           "language": null,
-          "description": null,
-          "stars_fmt": "37.1k"
+          "description": null
         },
         {
           "name": "Shadowbroker",
@@ -37,8 +35,7 @@
           "growth": 767,
           "momentum": 0.3,
           "language": null,
-          "description": null,
-          "stars_fmt": "7.9k"
+          "description": null
         },
         {
           "name": "scientific-agent-skills",
@@ -48,8 +45,7 @@
           "growth": 764,
           "momentum": 0.1,
           "language": null,
-          "description": null,
-          "stars_fmt": "23.6k"
+          "description": null
         },
         {
           "name": "12-factor-agents",
@@ -59,8 +55,7 @@
           "growth": 399,
           "momentum": 0.1,
           "language": null,
-          "description": null,
-          "stars_fmt": "20.9k"
+          "description": null
         },
         {
           "name": "daily_stock_analysis",
@@ -70,8 +65,7 @@
           "growth": 310,
           "momentum": 0.1,
           "language": null,
-          "description": null,
-          "stars_fmt": "37.5k"
+          "description": null
         },
         {
           "name": "openhuman",
@@ -81,8 +75,7 @@
           "growth": 3941,
           "momentum": 0.7,
           "language": null,
-          "description": null,
-          "stars_fmt": "18.8k"
+          "description": null
         },
         {
           "name": "ai-agents-for-beginners",
@@ -92,8 +85,7 @@
           "growth": 1012,
           "momentum": 0.1,
           "language": null,
-          "description": null,
-          "stars_fmt": "63.8k"
+          "description": null
         },
         {
           "name": "llama.cpp",
@@ -103,8 +95,7 @@
           "growth": 213,
           "momentum": 0.1,
           "language": null,
-          "description": null,
-          "stars_fmt": "111.3k"
+          "description": null
         },
         {
           "name": "academic-research-skills",
@@ -114,8 +105,7 @@
           "growth": 1439,
           "momentum": 0.4,
           "language": null,
-          "description": null,
-          "stars_fmt": "12.9k"
+          "description": null
         }
       ]
     }
