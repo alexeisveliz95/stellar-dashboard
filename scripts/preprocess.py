@@ -411,6 +411,54 @@ def build_heatmap_data(trends: list, weeks_back: int = 12) -> dict:
     }
 
 
+def parse_my_saved(root: Path) -> dict:
+    """Read the user's GitHub Stars payload synced by the engine.
+
+    Input:  data/repos/my_saved.json  (written by engine, may not exist)
+    Output: data/my_saved.json        (Hugo data, with enriched fields)
+
+    Enrichments:
+      - owner          = full_name.split("/")[0]
+      - stars_fmt      = formatted string for display
+      - description_short = truncated 140 chars
+    """
+    src = root / "data" / "repos" / "my_saved.json"
+    if not src.exists():
+        out = {
+            "version": 1,
+            "updated_at": "",
+            "source": "github_stars",
+            "user": "alexeisveliz95",
+            "count": 0,
+            "repos": [],
+        }
+        return out
+    try:
+        data = json.loads(src.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {
+            "version": 1,
+            "updated_at": "",
+            "source": "github_stars",
+            "user": "alexeisveliz95",
+            "count": 0,
+            "repos": [],
+        }
+
+    for r in data.get("repos", []):
+        full = r.get("name", "")
+        r["owner"] = full.split("/")[0] if "/" in full else ""
+        if "stars_fmt" not in r and "stars" in r:
+            r["stars_fmt"] = fmt_stars(int(r["stars"]))
+        desc = r.get("description") or ""
+        if len(desc) > 140:
+            r["description_short"] = desc[:137].rstrip() + "…"
+        else:
+            r["description_short"] = desc
+
+    return data
+
+
 def generate_content_stubs(cats: list, trends: list, root: Path) -> None:
     """Generate Hugo content stubs for category and trend sub-pages.
 
@@ -419,6 +467,7 @@ def generate_content_stubs(cats: list, trends: list, root: Path) -> None:
       - content/categorias/<slug>.md  (one per category)
       - content/tendencias/_index.md  (section root)
       - content/tendencias/<slug>.md  (one per trend)
+      - content/guardados/_index.md   (section root for saved stars)
     """
     content_dir = root / "content"
 
@@ -464,7 +513,16 @@ def generate_content_stubs(cats: list, trends: list, root: Path) -> None:
             },
         )
 
-    print(f"✅ content stubs: {len(cats)} categorias, {len(trends)} tendencias")
+    # Guardados section root (always created; data may be empty)
+    write_content_stub(
+        content_dir / "guardados" / "_index.md",
+        {
+            "title": "📌 Mis Guardados",
+            "description": "Tus repos favoritos de GitHub sincronizados automáticamente",
+        },
+    )
+
+    print(f"✅ content stubs: {len(cats)} categorias, {len(trends)} tendencias, guardados/")
 
 
 def main() -> None:
@@ -526,6 +584,13 @@ def main() -> None:
         encoding="utf-8",
     )
     print(f"✅ heatmap.json: {len(heatmap['weeks'])} weeks, {sum(sum(1 for c in w if c['has_data']) for w in heatmap['weeks'])} cells with data")
+
+    my_saved = parse_my_saved(root)
+    (out_dir / "my_saved.json").write_text(
+        json.dumps(my_saved, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"✅ my_saved.json: {my_saved['count']} saved repos (updated {my_saved['updated_at'] or 'never'})")
 
     generate_content_stubs(cats, trends, root)
 

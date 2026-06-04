@@ -7,8 +7,10 @@ data/categorias.json
 data/tendencias.json
 data/dashboard_meta.json
 data/heatmap.json
+data/my_saved.json
 content/categorias/
 content/tendencias/
+content/guardados/
 .env
 *.local
 .DS_Store

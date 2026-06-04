@@ -1,0 +1,16 @@
+<article class="saved-card searchable"
+         data-section="saved"
+         data-search="{{ .name }} {{ .owner }} {{ .description }} {{ .language }}"
+         data-language="{{ .language }}">
+  <header class="saved-card-head">
+    <a href="{{ .url }}" target="_blank" rel="noopener" class="saved-name">
+      <strong>{{ .name }}</strong>
+    </a>
+    <div class="saved-owner">@{{ .owner }}</div>
+  </header>
+  <p class="saved-desc">{{ .description_short }}</p>
+  <footer class="saved-card-foot">
+    {{ with .language }}<span class="saved-lang">{{ . }}</span>{{ end }}
+    <span class="saved-stars" data-tooltip="Estrellas totales en GitHub">⭐ {{ .stars_fmt }}</span>
+  </footer>
+</article>

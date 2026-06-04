@@ -1,0 +1,108 @@
+{{ define "main" }}
+{{ $saved := hugo.Data.my_saved }}
+{{ $hasData := gt (len $saved.repos) 0 }}
+
+<section class="page-hero">
+  <h1>📌 Mis Guardados</h1>
+  {{ if $hasData }}
+  <p>{{ $saved.count }} repos sincronizados desde tus ⭐ de GitHub (usuario: <strong>{{ $saved.user }}</strong>).
+     {{ with $saved.updated_at }}Última sincronización: <strong>{{ . }}</strong>.{{ end }}
+     La sincronización corre mensualmente vía GitHub Actions.</p>
+  {{ else }}
+  <p>Aún no hay repos sincronizados. Configura el secret <code>GITHUB_STARS_PAT</code> en el engine
+     <code>stellar-content-engine</code> para que el workflow <code>fetch-stars.yml</code> pueda
+     sincronizar tus ⭐ de GitHub. Mientras tanto verás un estado vacío.</p>
+  {{ end }}
+</section>
+
+{{ if $hasData }}
+<section class="search-section saved-controls" data-section="saved">
+  <div class="search-inner">
+    <label class="search-label" for="saved-search">🔍 Buscar en tus guardados</label>
+    <div class="search-input-wrap">
+      <input
+        type="search"
+        id="saved-search"
+        class="search-input"
+        placeholder="Filtra por nombre, owner, lenguaje o descripción..."
+        autocomplete="off"
+        autocapitalize="off"
+        spellcheck="false"
+        aria-label="Buscar en guardados">
+      <button type="button" id="saved-clear" class="search-clear" aria-label="Limpiar búsqueda" hidden>×</button>
+    </div>
+    <div class="filter-toggles">
+      <span class="result-count" id="saved-count" aria-live="polite">{{ $saved.count }} repos</span>
+    </div>
+  </div>
+</section>
+
+<section class="section saved-section" data-section="saved">
+  <div class="saved-grid">
+    {{ range $saved.repos }}
+      {{ partial "saved-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+
+<script>
+  // Page-local search (independent from home's #live-search)
+  (function () {
+    const input = document.getElementById("saved-search");
+    const clear = document.getElementById("saved-clear");
+    const counter = document.getElementById("saved-count");
+    const cards = document.querySelectorAll(".saved-card");
+    const totalAll = cards.length;
+    if (!input || !cards.length) return;
+
+    let debounce = null;
+    const apply = () => {
+      const q = input.value.toLowerCase().trim();
+      let shown = 0;
+      cards.forEach((c) => {
+        const text = (c.dataset.search || "").toLowerCase();
+        const match = !q || text.includes(q);
+        c.hidden = !match;
+        if (match) shown++;
+      });
+      clear.hidden = !q;
+      counter.textContent = q
+        ? `${shown} / ${totalAll} coincidencia${shown === 1 ? "" : "s"}`
+        : `${totalAll} repos`;
+    };
+
+    input.addEventListener("input", () => {
+      clearTimeout(debounce);
+      debounce = setTimeout(apply, 120);
+    });
+    clear.addEventListener("click", () => {
+      input.value = "";
+      apply();
+      input.focus();
+    });
+  })();
+</script>
+
+{{ else }}
+<section class="section saved-empty" data-section="saved">
+  <div class="empty-state">
+    <div class="empty-icon">🔭</div>
+    <h2>Sin repos sincronizados todavía</h2>
+    <p>El engine aún no ha ejecutado <code>fetch_github_stars</code>. Cuando lo haga (cron mensual
+       el día 1 a las 03:00 UTC), tus ⭐ de GitHub aparecerán aquí automáticamente.</p>
+    <details class="empty-help">
+      <summary>¿Cómo lo configuro?</summary>
+      <ol>
+        <li>En el repo <code>stellar-content-engine</code>, ve a <em>Settings → Secrets → Actions</em>.</li>
+        <li>Asegúrate de que el secret <code>REPOSITORY_ACCESS_TOKEN</code> tenga scope
+            <code>read:user</code> + <code>public_repo</code>.</li>
+        <li>Dispara el workflow manualmente: <em>Actions → Fetch GitHub Stars → Run workflow</em>.</li>
+        <li>El archivo <code>data/repos/my_saved.json</code> se actualizará con tus stars.</li>
+        <li>En el próximo deploy del dashboard, esta página mostrará tus repos.</li>
+      </ol>
+    </details>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

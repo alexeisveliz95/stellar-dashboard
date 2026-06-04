@@ -5,6 +5,8 @@
 {{ $curatedData := hugo.Data.repos.curated_picks }}
 {{ $latestWeek := index $curatedData.weeks 0 }}
 {{ $curated := $latestWeek.picks }}
+{{ $saved := hugo.Data.my_saved }}
+{{ $savedCount := $saved.count | default 0 }}
 
 <section class="hero">
   <div class="hero-bg" aria-hidden="true"></div>
@@ -31,6 +33,12 @@
       <div class="stat-num" data-counter="{{ len $curated }}">{{ len $curated }}</div>
       <div class="stat-label">Picks curados</div>
     </div>
+    {{ if gt $savedCount 0 }}
+    <a class="stat stat-link" href='{{ "guardados/" | relURL }}' data-tooltip="Ver todos tus repos guardados de GitHub">
+      <div class="stat-num" data-counter="{{ $savedCount }}">{{ $savedCount }}</div>
+      <div class="stat-label">📌 Guardados</div>
+    </a>
+    {{ end }}
   </div>
 </section>
 
