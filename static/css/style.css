@@ -349,19 +349,7 @@ a:hover { color: var(--accent); text-decoration: underline; }
   transform: translateY(-2px);
   border-color: var(--accent);
 }
-.repo-score {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  font-family: var(--font-mono);
-  font-size: 16px;
-  color: var(--good);
-  font-weight: 700;
-  background: var(--bg-3);
-  padding: 2px 8px;
-  border-radius: 4px;
-}
-.repo-title { margin: 0 0 8px; padding-right: 60px; font-size: 16px; }
+.repo-title { margin: 0 0 8px; font-size: 16px; }
 .repo-title a { color: var(--text); }
 .repo-title a:hover { color: var(--accent-2); }
 .repo-meta {
@@ -382,6 +370,32 @@ a:hover { color: var(--accent); text-decoration: underline; }
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+.score-bar {
+  position: relative;
+  height: 4px;
+  background: var(--bg-3);
+  border-radius: 2px;
+  margin-top: 12px;
+}
+.score-fill {
+  position: absolute;
+  top: 0; left: 0; bottom: 0;
+  background: linear-gradient(90deg, var(--accent) 0%, var(--good) 100%);
+  border-radius: 2px;
+  transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s ease;
+}
+.score-label {
+  position: absolute;
+  top: -14px;
+  right: 0;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-dim);
+}
+.repo-card:hover .score-fill {
+  box-shadow: 0 0 8px rgba(124, 92, 255, 0.4);
 }
 
 /* ===== Repo list (Top Stars) ===== */
@@ -1102,6 +1116,11 @@ a.section-tag:hover {
   }
   .repo-card a, .curated-card a, .cat-link {
     min-height: 44px;
+  }
+  .repo-desc {
+    -webkit-line-clamp: 2;
+    font-size: 12px;
+    line-height: 1.4;
   }
   .curated-score { font-size: 12px; }
   .curated-meta { font-size: 12px; }

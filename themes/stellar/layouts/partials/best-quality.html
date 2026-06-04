@@ -25,7 +25,6 @@
     <article class="repo-card searchable"
              data-search="{{ $r.name | lower }} {{ $r.description | lower }}"
              data-section="quality">
-      <div class="repo-score" data-tooltip="Score de calidad: balance entre tracción (estrellas) y consistencia (momentum). Escala 0–10.">{{ printf "%.2f" $r.score }}</div>
       <h3 class="repo-title">
         <a href="{{ $r.url }}" target="_blank" rel="noopener">{{ $r.name }}</a>
       </h3>
@@ -34,6 +33,10 @@
         <code class="momentum small" data-tooltip="Tasa de crecimiento de estrellas en los últimos 7 días, normalizada por escala del repo.">{{ $r.momentum }}</code>
       </div>
       <p class="repo-desc">{{ $r.description }}</p>
+      <div class="score-bar" data-tooltip="Score: {{ printf "%.2f" $r.score }} — balance entre tracción y consistencia (0–1)">
+        <div class="score-fill" style="width: {{ printf "%.0f" (mul $r.score 100) }}%"></div>
+        <span class="score-label">{{ printf "%.2f" $r.score }}</span>
+      </div>
     </article>
     {{ end }}
   </div>
