@@ -18,7 +18,7 @@
   <div class="trend-chart">
     <h3>📊 Top momentum — ⭐ ganadas hoy</h3>
     <canvas id="trendingChart" height="320"></canvas>
-    <script type="application/json" id="trending-data">{{ jsonify (first 10 .ranking) }}</script>
+    <script type="application/json" id="trending-data">{{ jsonify (first 10 .ranking) | safeJS }}</script>
   </div>
 
   <div class="trending-cards">

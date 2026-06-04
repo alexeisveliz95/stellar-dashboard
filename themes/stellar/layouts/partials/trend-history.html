@@ -64,9 +64,9 @@
     <canvas id="historyTimeline" height="220"></canvas>
     <script type="application/json" id="history-timeline-data">
 {
-  "labels": {{ jsonify $chartLabels }},
-  "values": {{ jsonify $chartValues }},
-  "hots": {{ jsonify $chartHots }}
+  "labels": {{ jsonify $chartLabels | safeJS }},
+  "values": {{ jsonify $chartValues | safeJS }},
+  "hots": {{ jsonify $chartHots | safeJS }}
 }
     </script>
   </div>
