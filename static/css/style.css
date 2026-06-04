@@ -274,7 +274,11 @@ a:hover { color: var(--accent); text-decoration: underline; }
   padding: 16px;
   margin-bottom: 20px;
   position: relative;
-  min-height: 400px;
+}
+.trend-chart .chart-box {
+  position: relative;
+  width: 100%;
+  height: 380px;
 }
 .trend-chart h3 {
   margin: 0 0 12px;
@@ -745,6 +749,12 @@ a:hover { color: var(--accent); text-decoration: underline; }
   background: var(--bg-2);
   border: 1px solid var(--border);
   border-radius: var(--radius);
+  position: relative;
+}
+.history-chart-wrap .chart-box {
+  position: relative;
+  width: 100%;
+  height: 220px;
 }
 .history-chart-title {
   font-size: 14px;
@@ -754,10 +764,10 @@ a:hover { color: var(--accent); text-decoration: underline; }
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
-#historyTimeline { max-height: 220px; }
 @media (max-width: 600px) {
   .history-chart-wrap { padding: 12px; }
-  #historyTimeline { max-height: 160px; }
+  .history-chart-wrap .chart-box { height: 160px; }
+  .trend-chart .chart-box { height: 280px; }
 }
 
 /* ===== Footer ===== */
@@ -773,6 +783,12 @@ a:hover { color: var(--accent); text-decoration: underline; }
 
 /* ===== Charts canvas ===== */
 canvas { max-width: 100%; }
+.chart-box > canvas {
+  position: absolute !important;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
 
 /* ===== Tooltips ===== */
 [data-tooltip] {
