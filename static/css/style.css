@@ -570,7 +570,7 @@ a:hover { color: var(--accent); text-decoration: underline; }
 .muted { color: var(--text-mute); }
 
 /* ===== History ===== */
-.history-list { display: flex; flex-direction: column; gap: 10px; }
+.history-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
 .history-row {
   background: var(--bg-2);
   border: 1px solid var(--border);
@@ -1129,6 +1129,7 @@ a.section-tag:hover {
   .curated-meta { font-size: 12px; }
 
   /* History rows: stack */
+  .history-list { grid-template-columns: 1fr; }
   .history-link { grid-template-columns: 1fr; }
   .history-date { font-size: 14px; }
   .history-stats { gap: 4px; }
