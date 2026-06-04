@@ -258,8 +258,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const labels = data.map((r) => r.name);
   const growth = data.map((r) => r.growth);
-  const bg = data.map((r) => (r.hot ? "rgba(255, 94, 94, 0.7)" : "rgba(0, 212, 255, 0.6)"));
-  const border = data.map((r) => (r.hot ? "rgba(255, 94, 94, 1)" : "rgba(0, 212, 255, 1)"));
+  const bg = data.map((r) => (r.hot ? "rgba(0, 212, 255, 0.9)" : "rgba(0, 212, 255, 0.5)"));
+  const border = data.map((r) => (r.hot ? "rgba(124, 92, 255, 1)" : "rgba(0, 212, 255, 1)"));
+  const borderW = data.map((r) => (r.hot ? 2 : 1));
 
   new Chart(canvas, {
     type: "bar",
@@ -271,7 +272,7 @@ document.addEventListener("DOMContentLoaded", function () {
           data: growth,
           backgroundColor: bg,
           borderColor: border,
-          borderWidth: 1,
+          borderWidth: borderW,
           borderRadius: 4,
         },
       ],
@@ -314,17 +315,18 @@ document.addEventListener("DOMContentLoaded", function () {
       }
       if (tl.labels && tl.labels.length > 0) {
         const tlBg = tl.hots.map((h) => {
-          if (h >= 15) return "rgba(255, 94, 94, 0.85)";
-          if (h >= 10) return "rgba(255, 159, 67, 0.8)";
-          if (h >= 5) return "rgba(0, 212, 255, 0.75)";
-          return "rgba(124, 92, 255, 0.7)";
+          if (h >= 15) return "rgba(0, 212, 255, 0.45)";
+          if (h >= 10) return "rgba(0, 212, 255, 0.35)";
+          if (h >= 5) return "rgba(0, 212, 255, 0.25)";
+          return "rgba(0, 212, 255, 0.18)";
         });
         const tlBorder = tl.hots.map((h) => {
-          if (h >= 15) return "rgba(255, 94, 94, 1)";
-          if (h >= 10) return "rgba(255, 159, 67, 1)";
-          if (h >= 5) return "rgba(0, 212, 255, 1)";
-          return "rgba(124, 92, 255, 1)";
+          if (h >= 15) return "rgba(0, 212, 255, 1)";
+          if (h >= 10) return "rgba(0, 212, 255, 0.95)";
+          if (h >= 5) return "rgba(0, 212, 255, 0.85)";
+          return "rgba(0, 212, 255, 0.7)";
         });
+        const tlPointSize = tl.hots.map((h) => (h >= 10 ? 7 : 5));
         new Chart(tlCanvas, {
           type: "line",
           data: {
@@ -334,12 +336,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 label: "⭐ acumuladas",
                 data: tl.values,
                 backgroundColor: tlBg,
-                borderColor: "rgba(124, 92, 255, 0.9)",
+                borderColor: "rgba(0, 212, 255, 0.9)",
                 borderWidth: 2,
                 pointBackgroundColor: tlBorder,
                 pointBorderColor: tlBorder,
-                pointRadius: 5,
-                pointHoverRadius: 7,
+                pointRadius: tlPointSize,
+                pointHoverRadius: 9,
                 fill: true,
                 tension: 0.3,
               },
