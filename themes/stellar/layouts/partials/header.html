@@ -1,13 +1,13 @@
 <header class="site-header">
   <div class="container header-inner">
-    <a href='{{ "/" | relURL }}' class="brand">
+    <a href='{{ .Site.Home.RelPermalink }}' class="brand">
       <span class="brand-mark">✦</span>
       <span class="brand-name">{{ .Site.Title }}</span>
     </a>
     <nav class="nav">
       <a href='{{ "categorias/" | relURL }}'>Categorías</a>
       <a href='{{ "tendencias/" | relURL }}'>Tendencias</a>
-      <a href='{{ "/" | relURL }}#trending'>Trending</a>
+      <a href='{{ .Site.Home.RelPermalink }}#trending'>Trending</a>
     </nav>
     <div class="brand-meta">
       {{ with hugo.Data.dashboard_meta }}
