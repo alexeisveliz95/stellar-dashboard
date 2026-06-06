@@ -8,26 +8,46 @@
   <p class="section-intro">Cada columna es una semana (Lun-Dom). Las celdas coloreadas son días con datos de trending. Intensidad = ⭐ acumuladas ese día. Click para ver el detalle.</p>
 
   <div class="heatmap-wrap">
-    <div class="heatmap-y-labels" aria-hidden="true">
-      <span>L</span><span>M</span><span>X</span><span>J</span>
-      <span>V</span><span>S</span><span>D</span>
-    </div>
-    <div class="heatmap-grid">
-      {{ range $week := $heatmap.weeks }}
-      <div class="heatmap-col">
-        {{ range $cell := $week }}
-          {{ if $cell.has_data }}
-          <a class="heatmap-cell has-data"
-             href='{{ "tendencias/" | relURL }}{{ $cell.slug }}/'
-             data-tooltip="{{ $cell.date }}: +{{ $cell.growth_fmt }} ⭐ · #1 {{ $cell.top_name }}{{ if gt $cell.hot 0 }} · {{ $cell.hot }} HOT{{ end }}"
-             style="--intensity: {{ $cell.intensity }};"
-             aria-label="{{ $cell.date }}: {{ $cell.growth_fmt }} estrellas"></a>
+    <div class="heatmap-container">
+      <!-- X-axis month labels -->
+      <div class="heatmap-x-labels" aria-hidden="true">
+        {{ $monthSet := slice }}
+        {{ range $week := $heatmap.weeks }}
+          {{ $firstCell := index $week 0 }}
+          {{ $monthNum := substr $firstCell.date 5 2 }}
+          {{ if not (in $monthSet $monthNum) }}
+            {{ $monthSet = $monthSet | append $monthNum }}
+            {{ $monthAbbr := dateFormat "Jan" $firstCell.date }}
+            <span>{{ $monthAbbr }}</span>
           {{ else }}
-          <span class="heatmap-cell" style="--intensity: 0;" aria-hidden="true"></span>
+            <span></span>
           {{ end }}
         {{ end }}
       </div>
-      {{ end }}
+
+      <div style="display: flex; gap: 8px;">
+        <div class="heatmap-y-labels" aria-hidden="true">
+          <span>L</span><span>M</span><span>X</span><span>J</span>
+          <span>V</span><span>S</span><span>D</span>
+        </div>
+        <div class="heatmap-grid">
+          {{ range $week := $heatmap.weeks }}
+          <div class="heatmap-col">
+            {{ range $cell := $week }}
+              {{ if $cell.has_data }}
+              <a class="heatmap-cell has-data"
+                 href='{{ "tendencias/" | relURL }}{{ $cell.slug }}/'
+                 data-tooltip="{{ $cell.date }}: +{{ $cell.growth_fmt }} ⭐ · #1 {{ $cell.top_name }}{{ if gt $cell.hot 0 }} · {{ $cell.hot }} HOT{{ end }}"
+                 style="--intensity: {{ $cell.intensity }};"
+                 aria-label="{{ $cell.date }}: {{ $cell.growth_fmt }} estrellas"></a>
+              {{ else }}
+              <span class="heatmap-cell" style="--intensity: 0;" aria-hidden="true"></span>
+              {{ end }}
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
     </div>
   </div>
 

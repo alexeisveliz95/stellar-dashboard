@@ -577,7 +577,7 @@ def main() -> None:
 
     generate_og_image(trends, len(cats), 0, root / "static" / "og-image.svg")
 
-    heatmap = build_heatmap_data(trends, weeks_back=12)
+    heatmap = build_heatmap_data(trends, weeks_back=26)
     enrich_curated_picks(root)
     (out_dir / "heatmap.json").write_text(
         json.dumps(heatmap, ensure_ascii=False, indent=2),
