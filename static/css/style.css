@@ -255,7 +255,7 @@ a:hover { color: var(--accent); text-decoration: underline; }
 .repo-link { color: var(--text); }
 .repo-link:hover { color: var(--accent-2); }
 .owner { color: var(--text-mute); font-size: 12px; margin-left: 6px; }
-.hot-row { background: rgba(255, 94, 94, 0.04); }
+.hot-row { background: #2a3f6e10; }
 
 .momentum {
   font-family: var(--font-mono);
@@ -303,7 +303,7 @@ a:hover { color: var(--accent); text-decoration: underline; }
   transition: border-color 0.15s ease, transform 0.15s ease;
 }
 .trend-card:hover { border-color: var(--accent); transform: translateY(-1px); }
-.trend-card.hot { border-color: rgba(255, 94, 94, 0.3); background: linear-gradient(135deg, var(--bg-2) 0%, rgba(255, 94, 94, 0.04) 100%); }
+.trend-card.hot { border-color: #2a3f6e; background: linear-gradient(135deg, var(--bg-2) 0%, #2a3f6e10 100%); }
 .trend-card-head {
   display: flex;
   align-items: baseline;
@@ -614,7 +614,7 @@ a:hover { color: var(--accent); text-decoration: underline; }
   font-family: var(--font-mono);
   color: var(--text-dim);
 }
-.hist-pill.hot { background: rgba(255, 94, 94, 0.15); color: var(--hot); }
+.hist-pill.hot { background: #2a3f6e30; color: #2a3f6e; }
 .history-top {
   grid-column: 1 / -1;
   grid-row: 2;
