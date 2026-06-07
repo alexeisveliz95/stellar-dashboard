@@ -684,7 +684,12 @@ a:hover { color: var(--accent); text-decoration: underline; }
 }
 .history-row:hover .history-arrow { transform: translateX(4px); }
 .history-top .growth-pct { color: var(--warm); font-family: var(--font-mono); font-size: 11px; margin-left: 4px; }
-.history-link > svg.sparkline { grid-column: 4; grid-row: 1; }
+.history-link > svg.sparkline {
+  grid-column: 4;
+  grid-row: 1;
+  justify-self: center;
+  align-self: center;
+}
 @media (max-width: 600px) {
   .history-link { grid-template-columns: 4px 1fr; grid-template-rows: auto auto auto auto auto; }
   .intensity-bar { grid-column: 1; grid-row: 1 / 6; }
@@ -692,7 +697,13 @@ a:hover { color: var(--accent); text-decoration: underline; }
   .history-stats { grid-column: 2; grid-row: 2; }
   .history-top { grid-column: 2; grid-row: 3; }
   .history-desc { grid-column: 2; grid-row: 4; white-space: normal; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; }
-  .history-link > svg.sparkline { grid-column: 2; grid-row: 5; max-width: 100%; height: 48px; }
+  .history-link > svg.sparkline {
+    grid-column: 2;
+    grid-row: 5;
+    max-width: 100%;
+    height: 48px;
+    justify-self: center;
+  }
   .history-arrow { display: none; }
 }
 
@@ -844,7 +855,7 @@ canvas { max-width: 100%; }
   width: 100%;
   max-width: 220px;
   height: 40px;
-  margin: 8px 0;
+  margin: 8px auto;
   background: rgba(255, 255, 255, 0.02);
   border-radius: 6px;
   padding: 2px 4px;
