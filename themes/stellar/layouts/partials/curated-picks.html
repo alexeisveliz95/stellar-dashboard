@@ -2,7 +2,7 @@
 {{ $latestWeek := .week }}
 {{ $limit := .limit }}
 
-<section class="section" id="curated" data-section="curated">
+<section class="section" id="curated">
   <div class="section-head">
     <h2>🎯 Curated Picks</h2>
     <span class="section-tag">Semana {{ $latestWeek.week_id }} · {{ $latestWeek.week_start }} · {{ len $picks }} picks</span>
@@ -11,9 +11,7 @@
 
   <div class="curated-grid">
     {{ range $i, $p := first $limit $picks }}
-    <article class="curated-card searchable"
-             data-search="{{ $p.name | lower }} {{ $p.description | default "" | lower }}"
-             data-section="curated"
+    <article class="curated-card"
              data-language="{{ $p.language | default "" }}">
       <div class="curated-head">
         <span class="curated-rank">#{{ add 1 $i }}</span>

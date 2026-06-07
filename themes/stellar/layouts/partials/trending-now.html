@@ -25,7 +25,7 @@
 
   <div class="trending-cards">
     {{ range first 10 .ranking }}
-    <article class="trend-card {{ if .hot }}hot{{ end }}" data-section="trending" data-search="{{ .name }} {{ .owner }} {{ .momentum }}">
+    <article class="trend-card {{ if .hot }}hot{{ end }}">
       <header class="trend-card-head">
         <span class="trend-rank">{{ if .hot }}🔥{{ else }}📈{{ end }} <strong>#{{ .rank }}</strong></span>
         <a href="{{ .url }}" target="_blank" rel="noopener" class="trend-name"><strong>{{ .name }}</strong></a>

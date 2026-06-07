@@ -15,7 +15,7 @@
 {{ $sorted := sort $allRepos "score" "desc" }}
 {{ $top := first $limit $sorted }}
 
-<section class="section" id="quality" data-section="quality">
+<section class="section" id="quality">
   <div class="section-head">
     <h2>💎 Best Quality</h2>
     <span class="section-tag">Top {{ $limit }} por score</span>
@@ -23,8 +23,8 @@
   <div class="repo-grid">
     {{ range $i, $r := $top }}
     <article class="repo-card searchable"
-             data-search="{{ $r.name | lower }} {{ $r.description | lower }}"
-             data-section="quality">
+            
+            >
       <h3 class="repo-title">
         <a href="{{ $r.url }}" target="_blank" rel="noopener">{{ $r.name }}</a>
       </h3>

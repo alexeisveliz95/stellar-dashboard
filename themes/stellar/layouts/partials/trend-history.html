@@ -32,7 +32,7 @@
   {{ $chartHots = $chartHots | append (int .hot_zone) }}
 {{ end }}
 
-<section class="section" id="history" data-section="history">
+<section class="section" id="history">
   <div class="section-head">
     <h2>📜 Historial de Tendencias</h2>
     <a class="section-tag" href='{{ "tendencias/" | relURL }}'>Ver historial completo ({{ len $trends }}) →</a>
@@ -92,7 +92,7 @@
     {{ else if eq $wd 5 }}{{ $dow = "Vie" }}
     {{ else if eq $wd 6 }}{{ $dow = "Sáb" }}
     {{ end }}
-    <article class="history-row" data-section="history" data-search="{{ .date }} {{ with .top_repo }}{{ .name }}{{ end }}">
+    <article class="history-row">
       <a href='{{ "tendencias/" | relURL }}{{ .slug }}/' class="history-link">
         <div class="intensity-bar" style="--intensity: {{ $intensity }};" aria-hidden="true"></div>
         <div class="history-date-block">
