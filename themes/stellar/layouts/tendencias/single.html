@@ -64,8 +64,10 @@
   </div>
   <div class="trend-chart">
     <h3>Top momentum</h3>
-    <canvas id="trendingChart" height="320"></canvas>
-    <script type="application/json" id="trending-data">{{ jsonify (first 10 $trend.ranking) }}</script>
+    <div class="chart-box">
+      <canvas id="trendingChart"></canvas>
+    </div>
+    <script type="application/json" id="trending-data">{{ jsonify (first 10 $trend.ranking) | safeJS }}</script>
   </div>
 </div>
 {{ end }}
