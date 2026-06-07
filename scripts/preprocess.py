@@ -358,59 +358,6 @@ def enrich_curated_picks(root: Path) -> None:
         print(f"✅ curated_picks.json: added stars_fmt to {sum(len(w.get('picks', [])) for w in data.get('weeks', []))} picks")
 
 
-def build_heatmap_data(trends: list, weeks_back: int = 12) -> dict:
-    """Build calendar heatmap data: 7 rows × N columns (weeks).
-
-    Each cell: {date, has_data, growth, growth_fmt, slug, intensity}
-    intensity is normalized 0.0-1.0 vs the max growth in range.
-    """
-    import datetime as dt
-
-    by_date = {t["date"]: t for t in trends if t.get("date")}
-    if not by_date:
-        return {"weeks": [], "max_growth": 0}
-
-    newest_date = max(t["date"] for t in trends)
-    newest_dt = dt.datetime.strptime(newest_date, "%Y-%m-%d").date()
-
-    # Find Monday of the week containing the newest trending date
-    days_since_monday = newest_dt.weekday()  # 0=Mon
-    end_of_week = newest_dt + dt.timedelta(days=(6 - days_since_monday))
-    # Start: end_of_week - (weeks_back-1)*7 days
-    start_dt = end_of_week - dt.timedelta(days=(weeks_back - 1) * 7)
-
-    max_growth = max((t.get("growth_raw", 0) or 0) for t in trends) or 1
-
-    weeks = []
-    cur = start_dt
-    for _ in range(weeks_back):
-        week = []
-        for d in range(7):
-            day = cur + dt.timedelta(days=d)
-            date_str = day.strftime("%Y-%m-%d")
-            trend = by_date.get(date_str)
-            cell = {
-                "date": date_str,
-                "has_data": bool(trend),
-                "growth": trend.get("growth_raw", 0) if trend else 0,
-                "growth_fmt": trend.get("growth_fmt", "") if trend else "",
-                "slug": trend.get("slug", "") if trend else "",
-                "top_name": (trend.get("top_repo") or {}).get("name", "") if trend else "",
-                "hot": trend.get("hot_zone", 0) if trend else 0,
-            }
-            cell["intensity"] = round((cell["growth"] / max_growth), 3) if cell["has_data"] else 0.0
-            week.append(cell)
-        weeks.append(week)
-        cur = cur + dt.timedelta(days=7)
-
-    return {
-        "weeks": weeks,
-        "max_growth": max_growth,
-        "start_date": start_dt.strftime("%Y-%m-%d"),
-        "end_date": (end_of_week).strftime("%Y-%m-%d"),
-    }
-
-
 def parse_my_saved(root: Path) -> dict:
     """Read the user's GitHub Stars payload synced by the engine.
 
@@ -577,13 +524,7 @@ def main() -> None:
 
     generate_og_image(trends, len(cats), 0, root / "static" / "og-image.svg")
 
-    heatmap = build_heatmap_data(trends, weeks_back=26)
     enrich_curated_picks(root)
-    (out_dir / "heatmap.json").write_text(
-        json.dumps(heatmap, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-    print(f"✅ heatmap.json: {len(heatmap['weeks'])} weeks, {sum(sum(1 for c in w if c['has_data']) for w in heatmap['weeks'])} cells with data")
 
     my_saved = parse_my_saved(root)
     (out_dir / "my_saved.json").write_text(
