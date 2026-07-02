@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **16.4k**
+> Actualizado: `2026-07-02 08:02`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**video-use**](https://github.com/browser-use/video-use) | **1.00** | 13.4k | `██░░░░░░░░` | Edit videos with coding agents |
+| [**astryx**](https://github.com/facebook/astryx) | **0.95** | 3.0k | `██████████` | An open source design system that's fully customizable and agent ready |
 
 ---

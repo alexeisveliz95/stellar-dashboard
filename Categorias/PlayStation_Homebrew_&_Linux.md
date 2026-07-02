@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **7.8k**
+> Actualizado: `2026-07-02 08:02`
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
-| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
+| [**FluidVoice**](https://github.com/altic-dev/FluidVoice) | **1.00** | 5.7k | `████░░░░░░` | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement… |
+| [**Instatic**](https://github.com/CoreBunch/Instatic) | **0.92** | 2.1k | `██████████` | Instatic is a modern self-hosted visual CMS - get it running in 1 minute |
 
 ---

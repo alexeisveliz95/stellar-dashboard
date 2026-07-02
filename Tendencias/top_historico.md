@@ -20,3 +20,6 @@
 | 2026-06-03 | **1** | [markitdown](https://github.com/microsoft/markitdown) | +3618 | 142.0k | `1.00` |
 | 2026-06-03 | **2** | [hermes-webui](https://github.com/nesquena/hermes-webui) | +1722 | 12.8k | `1.00` |
 | 2026-06-03 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1533 | 204.7k | `1.00` |
+| 2026-07-02 | **1** | [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | +2470 | 8.7k | `1.00` |
+| 2026-07-02 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +2114 | 124.4k | `1.00` |
+| 2026-07-02 | **3** | [strix](https://github.com/usestrix/strix) | +1211 | 30.4k | `1.00` |

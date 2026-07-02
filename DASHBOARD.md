@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-01 14:10`
-> 📦 **32** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-02 08:02`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**markitdown**](https://github.com/microsoft/markitdown) | 142.0k | +3.6k | Python |
-| 2 | [**hermes-webui**](https://github.com/nesquena/hermes-webui) | 12.8k | +1.7k | Python |
-| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 204.7k | +1.5k | JavaScript |
-| 4 | [**headroom**](https://github.com/chopratejas/headroom) | 7.8k | +1.3k | Python |
-| 5 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | 59.6k | +1.2k | Python |
-| 6 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | 25.4k | +783 | Python |
-| 7 | [**supermemory**](https://github.com/supermemoryai/supermemory) | 24.9k | +680 | TypeScript |
-| 8 | [**machine-learning-for-trading**](https://github.com/stefan-jansen/machine-learning-for-trading) | 18.8k | +574 | Jupyter Notebook |
-| 9 | [**flowsint**](https://github.com/reconurge/flowsint) | 4.7k | +124 | TypeScript |
-| 10 | [**Open-LLM-VTuber**](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 8.6k | +66 | Python |
+| 1 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 8.7k | +2.5k | HTML |
+| 2 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 124.4k | +2.1k | Shell |
+| 3 | [**strix**](https://github.com/usestrix/strix) | 30.4k | +1.2k | Python |
+| 4 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 50.8k | +1.1k | Jupyter Notebook |
+| 5 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 9.9k | +1.0k | TypeScript |
+| 6 | [**astryx**](https://github.com/facebook/astryx) | 3.0k | +708 | TypeScript |
+| 7 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 16.9k | +694 | Python |
+| 8 | [**video-use**](https://github.com/browser-use/video-use) | 13.4k | +693 | Python |
+| 9 | [**herdr**](https://github.com/ogulcancelik/herdr) | 9.8k | +609 | Rust |
+| 10 | [**FluidVoice**](https://github.com/altic-dev/FluidVoice) | 5.7k | +572 | Swift |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**headroom**](https://github.com/chopratejas/headroom) | **1.00** | 7.8k | AI & Data Science |
-| 🥈 | [**markitdown**](https://github.com/microsoft/markitdown) | **1.00** | 142.0k | Otros |
-| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 204.7k | Cybersecurity & Hacking |
-| 4 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | **1.00** | 59.6k | Web Development |
-| 5 | [**hermes-webui**](https://github.com/nesquena/hermes-webui) | **1.00** | 12.8k | Web Development |
-| 6 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | **1.00** | 25.4k | Web Development |
-| 7 | [**machine-learning-for-trading**](https://github.com/stefan-jansen/machine-learning-for-trading) | **1.00** | 18.8k | AI & Data Science |
-| 8 | [**supermemory**](https://github.com/supermemoryai/supermemory) | **1.00** | 24.9k | Python & Backend |
-| 9 | [**Open-LLM-VTuber**](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | **0.89** | 8.6k | AI & Data Science |
-| 10 | [**flowsint**](https://github.com/reconurge/flowsint) | **0.72** | 4.7k | Mobile Development |
+| 🥇 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 124.4k | AI & Data Science |
+| 🥈 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 30.4k | Cybersecurity & Hacking |
+| 🥉 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **1.00** | 16.9k | Otros |
+| 4 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **1.00** | 8.7k | Otros |
+| 5 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 9.9k | AI & Data Science |
+| 6 | [**olmocr**](https://github.com/allenai/olmocr) | **1.00** | 18.4k | AI & Data Science |
+| 7 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 50.8k | AI & Data Science |
+| 8 | [**herdr**](https://github.com/ogulcancelik/herdr) | **1.00** | 9.8k | Otros |
+| 9 | [**FluidVoice**](https://github.com/altic-dev/FluidVoice) | **1.00** | 5.7k | PlayStation Homebrew & Linux |
+| 10 | [**video-use**](https://github.com/browser-use/video-use) | **1.00** | 13.4k | Web Development |
 
 ---
 
@@ -67,14 +67,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 10 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 4 | **0.70** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.89** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **1.00** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
