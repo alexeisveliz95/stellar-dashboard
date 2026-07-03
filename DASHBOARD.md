@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-02 09:24`
-> 📦 **32** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-03 07:54`
+> 📦 **25** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 8.7k | +2.5k | HTML |
-| 2 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 124.4k | +2.1k | Shell |
-| 3 | [**strix**](https://github.com/usestrix/strix) | 30.4k | +1.2k | Python |
-| 4 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 50.8k | +1.1k | Jupyter Notebook |
-| 5 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 9.9k | +1.0k | TypeScript |
-| 6 | [**astryx**](https://github.com/facebook/astryx) | 3.0k | +708 | TypeScript |
-| 7 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 16.9k | +694 | Python |
-| 8 | [**video-use**](https://github.com/browser-use/video-use) | 13.4k | +693 | Python |
-| 9 | [**herdr**](https://github.com/ogulcancelik/herdr) | 9.8k | +609 | Rust |
-| 10 | [**FluidVoice**](https://github.com/altic-dev/FluidVoice) | 5.7k | +572 | Swift |
+| 1 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 125.9k | +3.0k | Shell |
+| 2 | [**strix**](https://github.com/usestrix/strix) | 33.1k | +2.1k | Python |
+| 3 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 17.5k | +939 | Python |
+| 4 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 9.6k | +938 | HTML |
+| 5 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 81.8k | +926 | JavaScript |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | 244.9k | +897 | Shell |
+| 7 | [**video-use**](https://github.com/browser-use/video-use) | 14.0k | +554 | Python |
+| 8 | [**ECC**](https://github.com/affaan-m/ECC) | 225.4k | +486 | JavaScript |
+| 9 | [**career-ops**](https://github.com/santifer/career-ops) | 58.2k | +372 | JavaScript |
+| 10 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | 22.8k | +352 | JavaScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 124.4k | AI & Data Science |
-| 🥈 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 30.4k | Cybersecurity & Hacking |
-| 🥉 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **1.00** | 16.9k | Otros |
-| 4 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **1.00** | 8.7k | Otros |
-| 5 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 9.9k | AI & Data Science |
-| 6 | [**olmocr**](https://github.com/allenai/olmocr) | **1.00** | 18.4k | AI & Data Science |
-| 7 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 50.8k | AI & Data Science |
-| 8 | [**herdr**](https://github.com/ogulcancelik/herdr) | **1.00** | 9.8k | Otros |
-| 9 | [**FluidVoice**](https://github.com/altic-dev/FluidVoice) | **1.00** | 5.7k | PlayStation Homebrew & Linux |
-| 10 | [**video-use**](https://github.com/browser-use/video-use) | **1.00** | 13.4k | Web Development |
+| 🥇 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 33.1k | Cybersecurity & Hacking |
+| 🥈 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 81.8k | Web3 & Blockchain |
+| 🥉 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 125.9k | AI & Data Science |
+| 4 | [**career-ops**](https://github.com/santifer/career-ops) | **1.00** | 58.2k | AI & Data Science |
+| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 244.9k | Python & Backend |
+| 6 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 225.4k | Cybersecurity & Hacking |
+| 7 | [**langflow**](https://github.com/langflow-ai/langflow) | **1.00** | 151.0k | AI & Data Science |
+| 8 | [**pytorch**](https://github.com/pytorch/pytorch) | **0.99** | 101.3k | AI & Data Science |
+| 9 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | **0.97** | 22.8k | AI & Data Science |
+| 10 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **0.95** | 17.5k | Otros |
 
 ---
 
@@ -67,14 +67,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 4 | **0.70** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 5 | **0.95** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.92** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **1.00** |
 
 ---

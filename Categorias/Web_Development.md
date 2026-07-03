@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **2 proyectos** · ⭐ Mejor score: **0.92** · Estrellas totales: **108.7k**
+> Actualizado: `2026-07-03 07:54`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**video-use**](https://github.com/browser-use/video-use) | **0.92** | 14.0k | `██████████` | Edit videos with coding agents |
+| [**clean-code-javascript**](https://github.com/ryanmcdermott/clean-code-javascript) | **0.86** | 94.6k | `█░░░░░░░░░` | Clean Code concepts adapted for JavaScript |
 
 ---

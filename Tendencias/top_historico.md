@@ -23,3 +23,6 @@
 | 2026-07-02 | **1** | [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | +2470 | 8.7k | `1.00` |
 | 2026-07-02 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +2114 | 124.4k | `1.00` |
 | 2026-07-02 | **3** | [strix](https://github.com/usestrix/strix) | +1211 | 30.4k | `1.00` |
+| 2026-07-03 | **1** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +3032 | 125.9k | `1.00` |
+| 2026-07-03 | **2** | [strix](https://github.com/usestrix/strix) | +2137 | 33.1k | `1.00` |
+| 2026-07-03 | **3** | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | +939 | 17.5k | `0.95` |
