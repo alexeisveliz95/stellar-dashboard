@@ -1,29 +1,11 @@
 [
   {
-    "id": "github_trending_msitarzewski_agency-agents",
-    "name": "msitarzewski/agency-agents",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "stars": 124432,
-    "growth": 2114,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_usestrix_strix",
     "name": "usestrix/strix",
     "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
     "url": "https://github.com/usestrix/strix",
-    "stars": 30356,
-    "growth": 1211,
+    "stars": 33078,
+    "growth": 2137,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -58,13 +40,225 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_JuliusBrussee_caveman",
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 81830,
+    "growth": 926,
+    "score": 1.0,
+    "categories": [
+      "Web3 & Blockchain"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:web3-blockchain"
+    ],
+    "raw_topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_msitarzewski_agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "stars": 125932,
+    "growth": 3032,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_santifer_career-ops",
+    "name": "santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "url": "https://github.com/santifer/career-ops",
+    "stars": 58164,
+    "growth": 372,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "beginner-friendly",
+      "career",
+      "careerops",
+      "claude",
+      "claude-code",
+      "cli",
+      "first-timers-only",
+      "golang",
+      "good-first-issue",
+      "interview-prep",
+      "job-search",
+      "open-source",
+      "resume"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 244860,
+    "growth": 897,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 225380,
+    "growth": 486,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_langflow-ai_langflow",
+    "name": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "url": "https://github.com/langflow-ai/langflow",
+    "stars": 150954,
+    "growth": 117,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent",
+      "react-flow"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_pytorch_pytorch",
+    "name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "url": "https://github.com/pytorch/pytorch",
+    "stars": 101313,
+    "growth": 65,
+    "score": 0.992,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_openai_codex-plugin-cc",
+    "name": "openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "stars": 22821,
+    "growth": 352,
+    "score": 0.973,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "openai"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_HKUDS_Vibe-Trading",
     "name": "HKUDS/Vibe-Trading",
     "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
     "url": "https://github.com/HKUDS/Vibe-Trading",
-    "stars": 16920,
-    "growth": 694,
-    "score": 1.0,
+    "stars": 17528,
+    "growth": 939,
+    "score": 0.9546,
     "categories": [
       "Otros"
     ],
@@ -85,13 +279,31 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_browser-use_video-use",
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "url": "https://github.com/browser-use/video-use",
+    "stars": 14031,
+    "growth": 554,
+    "score": 0.9159,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_hasaneyldrm_exercises-dataset",
     "name": "hasaneyldrm/exercises-dataset",
     "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
     "url": "https://github.com/hasaneyldrm/exercises-dataset",
-    "stars": 8737,
-    "growth": 2470,
-    "score": 1.0,
+    "stars": 9554,
+    "growth": 938,
+    "score": 0.9127,
     "categories": [
       "Otros"
     ],
@@ -104,439 +316,120 @@
     ]
   },
   {
-    "id": "github_trending_diegosouzapw_OmniRoute",
-    "name": "diegosouzapw/OmniRoute",
-    "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 9884,
-    "growth": 1010,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "a2a",
-      "ai-agents",
-      "ai-gateway",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cline",
-      "codex",
-      "copilot",
-      "cursor",
-      "deepseek",
-      "free-ai",
-      "gemini",
-      "gemini-cli",
-      "llm-gateway",
-      "mcp",
-      "openai",
-      "openai-proxy",
-      "qwen",
-      "token-saver"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_allenai_olmocr",
-    "name": "allenai/olmocr",
-    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-    "url": "https://github.com/allenai/olmocr",
-    "stars": 18429,
-    "growth": 334,
-    "score": 1.0,
+    "id": "github_trending_harvard-edge_cs249r_book",
+    "name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "stars": 25819,
+    "growth": 68,
+    "score": 0.8877,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
-    "tags": [
-      "llm"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_microsoft_AI-For-Beginners",
-    "name": "microsoft/AI-For-Beginners",
-    "description": "12 Weeks, 24 Lessons, AI for All!",
-    "url": "https://github.com/microsoft/AI-For-Beginners",
-    "stars": 50828,
-    "growth": 1096,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Jupyter Notebook",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "artificial-intelligence",
-      "cnn",
-      "computer-vision",
-      "deep-learning",
-      "gan",
-      "machine-learning",
-      "microsoft-for-beginners",
-      "nlp",
-      "rnn"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ogulcancelik_herdr",
-    "name": "ogulcancelik/herdr",
-    "description": "agent multiplexer that lives in your terminal.",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "stars": 9826,
-    "growth": 609,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "agent",
-      "agent-orchestration",
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "coding-agents",
-      "developer-tools",
-      "devtools",
-      "multiplexer",
-      "rust",
-      "terminal",
-      "terminal-multiplexer",
-      "terminal-ui",
-      "tmux",
-      "tui",
-      "workspace-manager"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_altic-dev_FluidVoice",
-    "name": "altic-dev/FluidVoice",
-    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming soon.",
-    "url": "https://github.com/altic-dev/FluidVoice",
-    "stars": 5660,
-    "growth": 572,
-    "score": 1.0,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Swift",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "ai",
-      "dictation",
-      "ios",
-      "llama-cpp",
-      "macos",
-      "swift"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_browser-use_video-use",
-    "name": "browser-use/video-use",
-    "description": "Edit videos with coding agents",
-    "url": "https://github.com/browser-use/video-use",
-    "stars": 13411,
-    "growth": 693,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_yikart_AiToEarn",
-    "name": "yikart/AiToEarn",
-    "description": "Let's use AI to Earn!",
-    "url": "https://github.com/yikart/AiToEarn",
-    "stars": 22762,
-    "growth": 116,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "auto-publish",
-      "douyin",
-      "douyin-api",
-      "electron-app",
-      "electron-react",
-      "kuaishou",
-      "kwai",
-      "published",
-      "shipinhao",
-      "tool",
-      "xiaohongshu"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_logto-io_logto",
-    "name": "logto-io/logto",
-    "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-    "url": "https://github.com/logto-io/logto",
-    "stars": 13416,
-    "growth": 113,
-    "score": 0.9821,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "authentication",
-      "authorization",
-      "email",
-      "identity",
-      "jwt",
-      "login",
-      "logto",
-      "mfa",
-      "oauth2",
-      "openid-connect",
-      "password",
-      "passwordless",
-      "rbac",
-      "saml",
-      "signup",
-      "sms",
-      "social-login",
-      "sso",
-      "totp",
-      "typescript"
-    ],
-    "raw_license": "MPL-2.0"
-  },
-  {
-    "id": "github_trending_facebook_astryx",
-    "name": "facebook/astryx",
-    "description": "An open source design system that's fully customizable and agent ready",
-    "url": "https://github.com/facebook/astryx",
-    "stars": 3006,
-    "growth": 708,
-    "score": 0.9527,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_0xNyk_council-of-high-intelligence",
-    "name": "0xNyk/council-of-high-intelligence",
-    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-    "url": "https://github.com/0xNyk/council-of-high-intelligence",
-    "stars": 2813,
-    "growth": 161,
-    "score": 0.9248,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
     "tags": [
       "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "decision-making",
-      "deliberation",
-      "gemini",
-      "multi-llm",
-      "ollama",
-      "openai",
-      "prompt-engineering"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_CoreBunch_Instatic",
-    "name": "CoreBunch/Instatic",
-    "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-    "url": "https://github.com/CoreBunch/Instatic",
-    "stars": 2134,
-    "growth": 508,
-    "score": 0.9229,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "cms",
-      "css",
-      "css-framework",
-      "page-builder",
-      "static",
-      "website"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_refactoringhq_tolaria",
-    "name": "refactoringhq/tolaria",
-    "description": "Desktop app to manage markdown knowledge bases",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "stars": 18119,
-    "growth": 150,
-    "score": 0.8906,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_TencentCloud_CubeSandbox",
-    "name": "TencentCloud/CubeSandbox",
-    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-    "url": "https://github.com/TencentCloud/CubeSandbox",
-    "stars": 6939,
-    "growth": 79,
-    "score": 0.8704,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agents",
-      "container",
-      "sandbox"
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning",
+      "edge-machine-learning",
+      "embedded-ml",
+      "machine-learning",
+      "machine-learning-systems",
+      "mobile-ml",
+      "textbook",
+      "tinyml"
     ],
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_Unclecheng-li_VulnClaw",
-    "name": "Unclecheng-li/VulnClaw",
-    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-    "url": "https://github.com/Unclecheng-li/VulnClaw",
-    "stars": 1677,
-    "growth": 132,
-    "score": 0.8519,
+    "id": "github_trending_ryanmcdermott_clean-code-javascript",
+    "name": "ryanmcdermott/clean-code-javascript",
+    "description": "Clean Code concepts adapted for JavaScript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "stars": 94642,
+    "growth": 27,
+    "score": 0.8553,
     "categories": [
-      "AI & Data Science"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "JavaScript",
     "tags": [
-      "ai"
+      "nlp:web-development"
     ],
     "raw_topics": [
-      "ai",
-      "ai-agent",
-      "ai-tools",
-      "ctf",
-      "cybersecurity",
-      "openclaw",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "security-tools",
-      "skill"
+      "best-practices",
+      "clean-architecture",
+      "clean-code",
+      "composition",
+      "inheritance",
+      "javascript",
+      "principles"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Mebus_cupp",
-    "name": "Mebus/cupp",
-    "description": "Common User Passwords Profiler (CUPP)",
-    "url": "https://github.com/Mebus/cupp",
-    "stars": 6286,
-    "growth": 184,
-    "score": 0.8092,
+    "id": "github_trending_ChromeDevTools_chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "stars": 45226,
+    "growth": 104,
+    "score": 0.821,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_agentskills_agentskills",
+    "name": "agentskills/agentskills",
+    "description": "Specification and documentation for Agent Skills",
+    "url": "https://github.com/agentskills/agentskills",
+    "stars": 21743,
+    "growth": 86,
+    "score": 0.7415,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
     "raw_topics": [
-      "dictionary-attack",
-      "password",
-      "password-strength",
-      "weak-passwords",
-      "wordlist",
-      "wordlist-generator"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_togatoga_karukan",
-    "name": "togatoga/karukan",
-    "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-    "url": "https://github.com/togatoga/karukan",
-    "stars": 619,
-    "growth": 42,
-    "score": 0.7911,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "neural"
-    ],
-    "raw_topics": [
-      "fcitx5",
-      "ime",
-      "input-method",
-      "inputmethod",
-      "japanese",
-      "linux",
-      "macos",
-      "natural-language-processing",
-      "nlp",
-      "rust"
+      "agent-skills"
     ],
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_actions_checkout",
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "url": "https://github.com/actions/checkout",
+    "stars": 8199,
+    "growth": 26,
+    "score": 0.6209,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
   }
 ]

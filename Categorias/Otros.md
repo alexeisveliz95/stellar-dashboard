@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **5 proyectos** · ⭐ Mejor score: **0.95** · Estrellas totales: **102.2k**
-> Actualizado: `2026-07-03 07:54`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,10 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **0.95** | 17.5k | `█████░░░░░` | "Vibe-Trading: Your Personal Trading Agent" |
-| [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **0.91** | 9.6k | `██████████` | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target… |
-| [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **0.82** | 45.2k | `█░░░░░░░░░` | Chrome DevTools for coding agents |
-| [**agentskills**](https://github.com/agentskills/agentskills) | **0.74** | 21.7k | `█░░░░░░░░░` | Specification and documentation for Agent Skills |
-| [**checkout**](https://github.com/actions/checkout) | **0.62** | 8.2k | `█░░░░░░░░░` | Action for checking out a repo |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
