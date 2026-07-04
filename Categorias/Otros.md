@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **7 proyectos** · ⭐ Mejor score: **0.99** · Estrellas totales: **179.5k**
-> Actualizado: `2026-07-04 07:39`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,12 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **0.99** | 45.6k | `██░░░░░░░░` | Chrome DevTools for coding agents |
-| [**herdr**](https://github.com/ogulcancelik/herdr) | **0.95** | 11.0k | `██████████` | agent multiplexer that lives in your terminal. |
-| [**agentskills**](https://github.com/agentskills/agentskills) | **0.92** | 22.1k | `████░░░░░░` | Specification and documentation for Agent Skills |
-| [**elasticsearch**](https://github.com/elastic/elasticsearch) | **0.86** | 77.4k | `█░░░░░░░░░` | Free and Open Source, Distributed, RESTful Search Engine |
-| [**romm**](https://github.com/rommapp/romm) | **0.76** | 9.9k | `██████░░░░` | A beautiful, powerful, self-hosted rom manager and player. |
-| [**checkout**](https://github.com/actions/checkout) | **0.72** | 8.3k | `████░░░░░░` | Action for checking out a repo |
-| [**maven**](https://github.com/apache/maven) | **0.64** | 5.3k | `███░░░░░░░` | Apache Maven core |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

@@ -1,8 +1,8 @@
 # 📂 Web3 & Blockchain
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **83.2k**
-> Actualizado: `2026-07-04 07:39`
+> **4 proyectos** · ⭐ Mejor score: **0.50** · Estrellas totales: **72.6k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,9 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 83.2k | `██████████` | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by… |
+| [**hummingbot**](https://github.com/hummingbot/hummingbot) | **0.50** | 18.6k | `░░░░░░░░░░` | Open source software that helps you create and deploy high-frequency crypto trading bots |
+| [**opentrader**](https://github.com/Open-Trader/opentrader) | **0.50** | 2.6k | `░░░░░░░░░░` | 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the… |
+| [**freqtrade**](https://github.com/freqtrade/freqtrade) | **0.40** | 50.4k | `░░░░░░░░░░` | Free, open source crypto trading bot |
+| [**tvscreener**](https://github.com/deepentropy/tvscreener) | **0.30** | 1.0k | `░░░░░░░░░░` | TradingView Screener API - Stock, Crypto, Forex, Bond, Futures, Coin |
 
 ---
