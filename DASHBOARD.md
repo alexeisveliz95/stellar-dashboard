@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-03 09:28`
-> 📦 **32** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-04 07:39`
+> 📦 **21** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 125.9k | +3.0k | Shell |
-| 2 | [**strix**](https://github.com/usestrix/strix) | 33.1k | +2.1k | Python |
-| 3 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 17.5k | +939 | Python |
-| 4 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 9.6k | +938 | HTML |
-| 5 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 81.8k | +926 | JavaScript |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | 244.9k | +897 | Shell |
-| 7 | [**video-use**](https://github.com/browser-use/video-use) | 14.0k | +554 | Python |
-| 8 | [**ECC**](https://github.com/affaan-m/ECC) | 225.4k | +486 | JavaScript |
-| 9 | [**career-ops**](https://github.com/santifer/career-ops) | 58.2k | +372 | JavaScript |
-| 10 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | 22.8k | +352 | JavaScript |
+| 1 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 83.2k | +2.9k | JavaScript |
+| 2 | [**strix**](https://github.com/usestrix/strix) | 35.1k | +2.8k | Python |
+| 3 | [**superpowers**](https://github.com/obra/superpowers) | 245.7k | +1.2k | Shell |
+| 4 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 126.7k | +1.2k | Shell |
+| 5 | [**astryx**](https://github.com/facebook/astryx) | 4.9k | +885 | TypeScript |
+| 6 | [**cs249r_book**](https://github.com/harvard-edge/cs249r_book) | 26.3k | +793 | Python |
+| 7 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | 23.4k | +634 | JavaScript |
+| 8 | [**herdr**](https://github.com/ogulcancelik/herdr) | 11.0k | +478 | Rust |
+| 9 | [**agentskills**](https://github.com/agentskills/agentskills) | 22.1k | +406 | Python |
+| 10 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45.6k | +405 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 33.1k | Cybersecurity & Hacking |
-| 🥈 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 81.8k | Web3 & Blockchain |
-| 🥉 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 125.9k | AI & Data Science |
-| 4 | [**career-ops**](https://github.com/santifer/career-ops) | **1.00** | 58.2k | AI & Data Science |
-| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 244.9k | Python & Backend |
-| 6 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 225.4k | Cybersecurity & Hacking |
-| 7 | [**langflow**](https://github.com/langflow-ai/langflow) | **1.00** | 151.0k | AI & Data Science |
-| 8 | [**pytorch**](https://github.com/pytorch/pytorch) | **0.99** | 101.3k | AI & Data Science |
-| 9 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | **0.97** | 22.8k | AI & Data Science |
-| 10 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **0.95** | 17.5k | Otros |
+| 🥇 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 35.1k | Cybersecurity & Hacking |
+| 🥈 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | **1.00** | 23.4k | AI & Data Science |
+| 🥉 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 83.2k | Web3 & Blockchain |
+| 4 | [**cs249r_book**](https://github.com/harvard-edge/cs249r_book) | **1.00** | 26.3k | AI & Data Science |
+| 5 | [**pytorch**](https://github.com/pytorch/pytorch) | **1.00** | 101.5k | AI & Data Science |
+| 6 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 135.9k | AI & Data Science |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 245.7k | Python & Backend |
+| 8 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 126.7k | AI & Data Science |
+| 9 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **0.99** | 45.6k | Otros |
+| 10 | [**ansible**](https://github.com/ansible/ansible) | **0.98** | 69.2k | Automation & DevOps |
 
 ---
 
@@ -67,14 +67,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 4 | **0.70** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.98** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.97** |
+| [**Otros**](Categorias/Otros.md) | 7 | **0.99** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.89** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **1.00** |
 
 ---

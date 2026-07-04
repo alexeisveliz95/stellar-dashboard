@@ -26,3 +26,6 @@
 | 2026-07-03 | **1** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +3032 | 125.9k | `1.00` |
 | 2026-07-03 | **2** | [strix](https://github.com/usestrix/strix) | +2137 | 33.1k | `1.00` |
 | 2026-07-03 | **3** | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | +939 | 17.5k | `0.95` |
+| 2026-07-04 | **1** | [caveman](https://github.com/JuliusBrussee/caveman) | +2863 | 83.2k | `1.00` |
+| 2026-07-04 | **2** | [strix](https://github.com/usestrix/strix) | +2803 | 35.1k | `1.00` |
+| 2026-07-04 | **3** | [superpowers](https://github.com/obra/superpowers) | +1209 | 245.7k | `1.00` |
