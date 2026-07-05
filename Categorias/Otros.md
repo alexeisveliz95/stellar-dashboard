@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **5 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **163.7k**
+> Actualizado: `2026-07-05 19:50`
 
 ---
 
@@ -10,11 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 76.6k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) | **0.97** | 48.3k | `█░░░░░░░░░` | A hand-picked collection of the finest of resources for the most awesome of agents, Claude… |
+| [**herdr**](https://github.com/ogulcancelik/herdr) | **0.93** | 11.9k | `██████████` | agent multiplexer that lives in your terminal. |
+| [**romm**](https://github.com/rommapp/romm) | **0.81** | 10.5k | `███████░░░` | A beautiful, powerful, self-hosted rom manager and player. |
+| [**gastown**](https://github.com/gastownhall/gastown) | **0.71** | 16.3k | `█░░░░░░░░░` | Gas Town - multi-agent workspace manager |
 
 ---
