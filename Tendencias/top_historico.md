@@ -29,3 +29,6 @@
 | 2026-07-04 | **1** | [caveman](https://github.com/JuliusBrussee/caveman) | +2863 | 83.2k | `1.00` |
 | 2026-07-04 | **2** | [strix](https://github.com/usestrix/strix) | +2803 | 35.1k | `1.00` |
 | 2026-07-04 | **3** | [superpowers](https://github.com/obra/superpowers) | +1209 | 245.7k | `1.00` |
+| 2026-07-05 | **1** | [strix](https://github.com/usestrix/strix) | +1904 | 36.4k | `1.00` |
+| 2026-07-05 | **2** | [caveman](https://github.com/JuliusBrussee/caveman) | +1089 | 84.3k | `1.00` |
+| 2026-07-05 | **3** | [skills](https://github.com/mattpocock/skills) | +973 | 156.9k | `1.00` |
