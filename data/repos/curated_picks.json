@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-06-01T20:16:18.060314+00:00",
+  "updated_at": "2026-07-06T00:04:46.099591+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W28",
+      "week_start": "2026-07-06",
+      "generated_at": "2026-07-06T00:04:46.099591+00:00",
+      "picks": [
+        {
+          "name": "RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "score": 0.8,
+          "stars": 76600,
+          "growth": 198,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "score": 0.0,
+          "stars": 142000,
+          "growth": 3618,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "score": 0.0,
+          "stars": 76700,
+          "growth": 3325,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "score": 0.0,
+          "stars": 125900,
+          "growth": 3032,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "score": 0.0,
+          "stars": 83200,
+          "growth": 2863,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "strix",
+          "url": "https://github.com/usestrix/strix",
+          "score": 0.0,
+          "stars": 35100,
+          "growth": 2803,
+          "momentum": 0.4,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "score": 0.0,
+          "stars": 8700,
+          "growth": 2470,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "score": 0.0,
+          "stars": 12400,
+          "growth": 1725,
+          "momentum": 0.6,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.0,
+          "stars": 203500,
+          "growth": 1597,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "score": 0.0,
+          "stars": 25300,
+          "growth": 1519,
+          "momentum": 0.6,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W23",
       "week_start": "2026-06-01",
