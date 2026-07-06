@@ -1,17 +1,30 @@
 {
-    "version": 2,
-    "published_repo_names": [
-        "virattt/dexter"
-    ],
-    "published": [
-        {
-            "repo_name": "virattt/dexter",
-            "mode": "thread",
-            "generated_at": "2026-05-05T16:16:51.203258+00:00",
-            "output_file": "tweet_thread.txt"
-        }
-    ],
-    "stats": {
-        "generated_posts": 1
+  "version": 2,
+  "published_repo_names": [
+    "virattt/dexter",
+    "test/dual-write-repo"
+  ],
+  "published": [
+    {
+      "repo_name": "virattt/dexter",
+      "mode": "thread",
+      "generated_at": "2026-05-05T16:16:51.203258+00:00",
+      "output_file": "tweet_thread.txt"
+    },
+    {
+      "repo_name": "test/dual-write-repo",
+      "ts": "2026-07-05T14:12:48.136170+00:00",
+      "platform": "x",
+      "mode": "test"
+    },
+    {
+      "repo_name": "test/dual-write-repo",
+      "ts": "2026-07-05T14:13:24.883201+00:00",
+      "platform": "x",
+      "mode": "test"
     }
+  ],
+  "stats": {
+    "generated_posts": 1
+  }
 }
