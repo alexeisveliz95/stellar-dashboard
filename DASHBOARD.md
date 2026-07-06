@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-06 00:04`
-> 📦 **32** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-06 08:57`
+> 📦 **25** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | 25.3k | +1.5k | JavaScript |
-| 2 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | 16.6k | +1.4k | Rust |
-| 3 | [**strix**](https://github.com/usestrix/strix) | 36.9k | +1.1k | Python |
-| 4 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 84.7k | +1.0k | JavaScript |
-| 5 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 49.8k | +981 | JavaScript |
-| 6 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | 57.3k | +850 | JavaScript |
-| 7 | [**page-agent**](https://github.com/alibaba/page-agent) | 23.7k | +801 | TypeScript |
-| 8 | [**herdr**](https://github.com/ogulcancelik/herdr) | 11.9k | +650 | Rust |
-| 9 | [**astryx**](https://github.com/facebook/astryx) | 5.8k | +540 | TypeScript |
-| 10 | [**immich**](https://github.com/immich-app/immich) | 106.0k | +475 | TypeScript |
+| 1 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | 25.9k | +1.5k | JavaScript |
+| 2 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | 18.0k | +1.4k | Rust |
+| 3 | [**strix**](https://github.com/usestrix/strix) | 37.5k | +1.1k | Python |
+| 4 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 85.3k | +1.1k | JavaScript |
+| 5 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 50.5k | +981 | JavaScript |
+| 6 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | 58.1k | +863 | JavaScript |
+| 7 | [**page-agent**](https://github.com/alibaba/page-agent) | 24.3k | +805 | TypeScript |
+| 8 | [**herdr**](https://github.com/ogulcancelik/herdr) | 12.4k | +651 | Rust |
+| 9 | [**astryx**](https://github.com/facebook/astryx) | 6.2k | +522 | TypeScript |
+| 10 | [**immich**](https://github.com/immich-app/immich) | 106.3k | +470 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | **1.00** | 16.6k | AI & Data Science |
-| 🥈 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | **1.00** | 25.3k | AI & Data Science |
-| 🥉 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 49.8k | AI & Data Science |
-| 4 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | **1.00** | 57.3k | AI & Data Science |
-| 5 | [**claude-skills**](https://github.com/alirezarezvani/claude-skills) | **1.00** | 20.5k | Cybersecurity & Hacking |
-| 6 | [**cs249r_book**](https://github.com/harvard-edge/cs249r_book) | **1.00** | 26.8k | AI & Data Science |
-| 7 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 36.9k | Cybersecurity & Hacking |
-| 8 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 36.3k | AI & Data Science |
-| 9 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 84.7k | Web3 & Blockchain |
-| 10 | [**unity-mcp**](https://github.com/CoplayDev/unity-mcp) | **1.00** | 11.9k | AI & Data Science |
+| 🥇 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | **1.00** | 18.0k | AI & Data Science |
+| 🥈 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | **1.00** | 25.9k | AI & Data Science |
+| 🥉 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 50.5k | AI & Data Science |
+| 4 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | **1.00** | 58.1k | AI & Data Science |
+| 5 | [**claude-skills**](https://github.com/alirezarezvani/claude-skills) | **1.00** | 20.8k | Cybersecurity & Hacking |
+| 6 | [**page-agent**](https://github.com/alibaba/page-agent) | **1.00** | 24.3k | Web Development |
+| 7 | [**cs249r_book**](https://github.com/harvard-edge/cs249r_book) | **1.00** | 27.0k | AI & Data Science |
+| 8 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 37.5k | Cybersecurity & Hacking |
+| 9 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 36.7k | AI & Data Science |
+| 10 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 85.3k | Web3 & Blockchain |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 10 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 4 | **0.70** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 5 | **0.99** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **1.00** |
 
 ---

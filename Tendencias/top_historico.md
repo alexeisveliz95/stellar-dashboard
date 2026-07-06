@@ -35,3 +35,6 @@
 | 2026-07-05 | **1** | [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | +1519 | 25.3k | `1.00` |
 | 2026-07-05 | **2** | [meetily](https://github.com/Zackriya-Solutions/meetily) | +1409 | 16.6k | `1.00` |
 | 2026-07-05 | **3** | [strix](https://github.com/usestrix/strix) | +1121 | 36.9k | `1.00` |
+| 2026-07-06 | **1** | [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | +1532 | 25.9k | `1.00` |
+| 2026-07-06 | **2** | [meetily](https://github.com/Zackriya-Solutions/meetily) | +1409 | 18.0k | `1.00` |
+| 2026-07-06 | **3** | [strix](https://github.com/usestrix/strix) | +1114 | 37.5k | `1.00` |

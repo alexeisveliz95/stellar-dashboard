@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.86** · Estrellas totales: **24.6k**
-> Actualizado: `2026-07-05 19:50`
+> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) | **0.86** | 24.6k | `██████████` | Persistent file-based planning for AI coding agents and long-running agentic tasks.… |
+| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
+| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
 
 ---
