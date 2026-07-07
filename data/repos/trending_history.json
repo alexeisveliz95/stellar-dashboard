@@ -2,29 +2,79 @@
   "version": 2,
   "published_repo_names": [
     "virattt/dexter",
-    "test/dual-write-repo"
+    "test/dual-write-repo",
+    "Airplane Boneyards List and Map",
+    "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "AMD Ryzen AI Halo – $4k AI Dev Kit",
+    "asgeirtj/system_prompts_leaks",
+    "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+    "GLM 5.2 and the coming AI margin collapse"
   ],
   "published": [
     {
       "repo_name": "virattt/dexter",
-      "mode": "thread",
-      "generated_at": "2026-05-05T16:16:51.203258+00:00",
-      "output_file": "tweet_thread.txt"
+      "ts": "2026-05-05T16:16:51.203258",
+      "platform": "unknown",
+      "mode": "thread"
     },
     {
       "repo_name": "test/dual-write-repo",
-      "ts": "2026-07-05T14:12:48.136170+00:00",
+      "ts": "2026-07-05T14:12:48.136170",
       "platform": "x",
       "mode": "test"
     },
     {
-      "repo_name": "test/dual-write-repo",
-      "ts": "2026-07-05T14:13:24.883201+00:00",
-      "platform": "x",
-      "mode": "test"
+      "repo_name": "Airplane Boneyards List and Map",
+      "ts": "2026-07-05T16:18:49.935269",
+      "platform": "unknown",
+      "tg_message_id": "152"
+    },
+    {
+      "repo_name": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "ts": "2026-07-05T22:17:08.413362",
+      "platform": "unknown",
+      "tg_message_id": "158"
+    },
+    {
+      "repo_name": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "ts": "2026-07-06T00:18:29.436802",
+      "platform": "unknown",
+      "tg_message_id": "2073924498059821518"
+    },
+    {
+      "repo_name": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "ts": "2026-07-06T04:18:13.641235",
+      "platform": "unknown",
+      "tg_message_id": "161"
+    },
+    {
+      "repo_name": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "ts": "2026-07-06T21:38:59.740637",
+      "platform": "unknown",
+      "tg_message_id": "2074246746863964166"
+    },
+    {
+      "repo_name": "asgeirtj/system_prompts_leaks",
+      "ts": "2026-07-06T22:20:43.156422",
+      "platform": "unknown",
+      "tg_message_id": "163"
+    },
+    {
+      "repo_name": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "ts": "2026-07-06T22:52:33.665211",
+      "platform": "unknown",
+      "tg_message_id": "2074265260958068748"
+    },
+    {
+      "repo_name": "GLM 5.2 and the coming AI margin collapse",
+      "ts": "2026-07-06T23:43:46.657784+00:00",
+      "x_tweet_id": "2074278149995565123",
+      "tg_message_id": "165"
     }
   ],
   "stats": {
-    "generated_posts": 1
+    "generated_posts": 9
   }
 }
