@@ -10,7 +10,17 @@
     "AMD Ryzen AI Halo – $4k AI Dev Kit",
     "asgeirtj/system_prompts_leaks",
     "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-    "GLM 5.2 and the coming AI margin collapse"
+    "GLM 5.2 and the coming AI margin collapse",
+    "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "Taiganet.com, Home of the WS4000 Simulator",
+    "The ‘first’ AI-run ransomware attack still needed a human",
+    "addyosmani/agent-skills",
+    "Small AI Models Gain Traction In places with unreliable networks",
+    "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+    "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+    "Chat Control 1.0 and 2.0 Explained",
+    "MadsLorentzen/ai-job-search",
+    "Show HN: Davit, a Apple Containers UI"
   ],
   "published": [
     {
@@ -69,12 +79,70 @@
     },
     {
       "repo_name": "GLM 5.2 and the coming AI margin collapse",
-      "ts": "2026-07-06T23:43:46.657784+00:00",
-      "x_tweet_id": "2074278149995565123",
-      "tg_message_id": "165"
+      "ts": "2026-07-06T23:43:46.664453",
+      "platform": "unknown",
+      "tg_message_id": "2074278149995565123"
+    },
+    {
+      "repo_name": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "ts": "2026-07-07T00:02:44.807928",
+      "platform": "x",
+      "tg_message_id": "2074282923214119256"
+    },
+    {
+      "repo_name": "Taiganet.com, Home of the WS4000 Simulator",
+      "ts": "2026-07-07T00:19:21.037826",
+      "platform": "x",
+      "tg_message_id": "2074287102104080678"
+    },
+    {
+      "repo_name": "The ‘first’ AI-run ransomware attack still needed a human",
+      "ts": "2026-07-07T04:19:18.466228",
+      "platform": "telegram",
+      "tg_message_id": "168"
+    },
+    {
+      "repo_name": "addyosmani/agent-skills",
+      "ts": "2026-07-07T10:18:51.586092",
+      "platform": "telegram",
+      "tg_message_id": "169"
+    },
+    {
+      "repo_name": "Small AI Models Gain Traction In places with unreliable networks",
+      "ts": "2026-07-07T12:20:32.626048",
+      "platform": "x",
+      "tg_message_id": "2074468596000952365"
+    },
+    {
+      "repo_name": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+      "ts": "2026-07-07T16:20:40.683686",
+      "platform": "unknown"
+    },
+    {
+      "repo_name": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+      "ts": "2026-07-07T21:26:46.208288",
+      "platform": "unknown"
+    },
+    {
+      "repo_name": "Chat Control 1.0 and 2.0 Explained",
+      "ts": "2026-07-07T21:44:39.919837",
+      "platform": "x",
+      "tg_message_id": "2074610561891848508"
+    },
+    {
+      "repo_name": "MadsLorentzen/ai-job-search",
+      "ts": "2026-07-07T22:18:46.021763",
+      "platform": "unknown"
+    },
+    {
+      "repo_name": "Show HN: Davit, a Apple Containers UI",
+      "ts": "2026-07-08T00:18:51.123698+00:00",
+      "x_tweet_id": "2074649367227551891",
+      "platform": "x",
+      "tg_message_id": "172"
     }
   ],
   "stats": {
-    "generated_posts": 9
+    "generated_posts": 19
   }
 }

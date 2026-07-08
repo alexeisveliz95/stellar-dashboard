@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.75** · Estrellas totales: **4.3k**
-> Actualizado: `2026-07-08 07:22`
+> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**Website-downloader**](https://github.com/AhmadIbrahiim/Website-downloader) | **0.75** | 4.3k | `██████████` | 💡 Download the complete source code of any website (including all assets). [ Javascripts,… |
+| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
 
 ---

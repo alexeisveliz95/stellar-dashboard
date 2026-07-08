@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **4 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **139.9k**
-> Actualizado: `2026-07-08 07:22`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,9 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 78.7k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) | **0.96** | 49.4k | `█░░░░░░░░░` | A hand-picked collection of the finest of resources for the most awesome of agents, Claude… |
-| [**claude-video**](https://github.com/bradautomates/claude-video) | **0.96** | 5.5k | `██████████` | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes,… |
-| [**pocket-tts**](https://github.com/kyutai-labs/pocket-tts) | **0.94** | 6.4k | `█████░░░░░` | A TTS that fits in your CPU (and pocket) |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

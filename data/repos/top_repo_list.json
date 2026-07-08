@@ -1,67 +1,19 @@
 [
   {
-    "id": "github_trending_asgeirtj_system_prompts_leaks",
-    "name": "asgeirtj/system_prompts_leaks",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "stars": 52128,
-    "growth": 1378,
+    "id": "github_trending_MadsLorentzen_ai-job-search",
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "stars": 12276,
+    "growth": 2514,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "gpt"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-agents",
-      "anthropic",
-      "awesome",
-      "chatbot",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "deep-learning",
-      "education",
-      "gemini",
-      "generative-ai",
-      "google",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "open-source",
-      "openai",
-      "prompt-engineering"
-    ],
-    "raw_license": "CC0-1.0"
-  },
-  {
-    "id": "github_trending_addyosmani_agent-skills",
-    "name": "addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 71301,
-    "growth": 1112,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "tags": [
       "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
     ],
     "raw_license": "MIT"
   },
@@ -70,8 +22,8 @@
     "name": "Zackriya-Solutions/meetily",
     "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
     "url": "https://github.com/Zackriya-Solutions/meetily",
-    "stars": 19862,
-    "growth": 2494,
+    "stars": 21126,
+    "growth": 1777,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -106,12 +58,38 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_addyosmani_agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "stars": 72506,
+    "growth": 1317,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_ruvnet_RuView",
     "name": "ruvnet/RuView",
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "url": "https://github.com/ruvnet/RuView",
-    "stars": 77903,
-    "growth": 470,
+    "stars": 78712,
+    "growth": 1129,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -143,12 +121,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Leonxlnx_taste-skill",
-    "name": "Leonxlnx/taste-skill",
-    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "stars": 59506,
-    "growth": 1458,
+    "id": "github_trending_asgeirtj_system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "stars": 53379,
+    "growth": 1691,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -156,169 +134,62 @@
     "source": "github_trending",
     "language": "JavaScript",
     "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "ai",
-      "claude",
-      "claude-code",
-      "codex",
-      "coding",
-      "design",
-      "frontend",
-      "lowcode",
-      "nocode",
-      "skill",
-      "skills",
-      "vibecoding"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_alirezarezvani_claude-skills",
-    "name": "alirezarezvani/claude-skills",
-    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-    "url": "https://github.com/alirezarezvani/claude-skills",
-    "stars": 21361,
-    "growth": 610,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "agent-plugins",
-      "agent-skills",
-      "agentic-ai",
-      "ai-coding-agent",
-      "anthropic-claude",
-      "claude-ai",
-      "claude-code",
-      "claude-code-plugins",
-      "claude-code-skills",
-      "claude-skills",
-      "codex-skills",
-      "coding-agent-plugins",
-      "cursor-skills",
-      "developer-tools",
-      "gemini-cli-skills",
-      "openai-codex",
-      "openclaw",
-      "openclaw-plugins",
-      "openclaw-skills",
-      "prompt-engineering"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_openai_codex-plugin-cc",
-    "name": "openai/codex-plugin-cc",
-    "description": "Use Codex from Claude Code to review code or delegate tasks.",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "stars": 26443,
-    "growth": 906,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "openai"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_mvanhorn_last30days-skill",
-    "name": "mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "stars": 50035,
-    "growth": 458,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ai-prompts",
-      "ai-skill",
-      "bluesky",
-      "claude",
-      "claude-code",
-      "clawhub",
-      "deep-research",
-      "hackernews",
-      "instagram",
-      "openclaw",
-      "polymarket",
-      "recency",
-      "reddit",
-      "research",
-      "social-media",
-      "tiktok",
-      "trends",
-      "twitter",
-      "web-search",
-      "youtube"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_firecrawl_firecrawl",
-    "name": "firecrawl/firecrawl",
-    "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 146730,
-    "growth": 867,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:python-backend"
+      "gpt"
     ],
     "raw_topics": [
       "ai",
       "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-search",
-      "crawler",
-      "data-extraction",
-      "html-to-markdown",
+      "anthropic",
+      "awesome",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "deep-learning",
+      "education",
+      "gemini",
+      "generative-ai",
+      "google",
       "llm",
-      "markdown",
-      "scraper",
-      "scraping",
-      "web-crawler",
-      "web-data",
-      "web-data-extraction",
-      "web-scraper",
-      "web-scraping",
-      "web-search",
-      "webscraping"
+      "machine-learning",
+      "nlp",
+      "open-source",
+      "openai",
+      "prompt-engineering"
     ],
-    "raw_license": "AGPL-3.0"
+    "raw_license": "CC0-1.0"
+  },
+  {
+    "id": "github_trending_TencentCloud_CubeSandbox",
+    "name": "TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "stars": 8613,
+    "growth": 664,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agents",
+      "container",
+      "sandbox"
+    ],
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_steipete_CodexBar",
     "name": "steipete/CodexBar",
     "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
     "url": "https://github.com/steipete/CodexBar",
-    "stars": 16854,
-    "growth": 598,
+    "stars": 17121,
+    "growth": 376,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -337,102 +208,83 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_sindresorhus_awesome",
-    "name": "sindresorhus/awesome",
-    "description": "😎 Awesome lists about all kinds of interesting topics",
-    "url": "https://github.com/sindresorhus/awesome",
-    "stars": 482550,
-    "growth": 345,
+    "id": "github_trending_iOfficeAI_OfficeCLI",
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "stars": 10594,
+    "growth": 893,
     "score": 1.0,
     "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "raw_topics": [
-      "awesome",
-      "awesome-list",
-      "lists",
-      "resources",
-      "unicorns"
+    "language": "C#",
+    "tags": [
+      "ai"
     ],
-    "raw_license": "CC0-1.0"
-  },
-  {
-    "id": "github_trending_ogulcancelik_herdr",
-    "name": "ogulcancelik/herdr",
-    "description": "agent multiplexer that lives in your terminal.",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "stars": 13089,
-    "growth": 779,
-    "score": 0.902,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
     "raw_topics": [
       "agent",
-      "agent-orchestration",
       "ai",
-      "ai-agents",
       "claude-code",
       "cli",
       "codex",
-      "coding-agents",
-      "developer-tools",
-      "devtools",
-      "multiplexer",
-      "rust",
-      "terminal",
-      "terminal-multiplexer",
-      "terminal-ui",
-      "tmux",
-      "tui",
-      "workspace-manager"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_alibaba_zvec",
-    "name": "alibaba/zvec",
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "url": "https://github.com/alibaba/zvec",
-    "stars": 13686,
-    "growth": 382,
-    "score": 0.8793,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "db",
-      "embedded",
-      "faiss",
-      "hnsw",
-      "llm-memory",
-      "local",
-      "rag",
-      "search-engine",
-      "semantic-search",
-      "similarity-search",
-      "vector-database",
-      "vector-db"
+      "docx",
+      "excel",
+      "office",
+      "openclaw",
+      "pptx",
+      "presentation",
+      "skills",
+      "word",
+      "xlsx"
     ],
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_hesreallyhim_awesome-claude-code",
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "stars": 49356,
+    "growth": 144,
+    "score": 0.963,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agent-skills",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-claude-code",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant",
+      "coding-assistants",
+      "llm"
+    ],
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_bradautomates_claude-video",
     "name": "bradautomates/claude-video",
     "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
     "url": "https://github.com/bradautomates/claude-video",
-    "stars": 4587,
-    "growth": 427,
-    "score": 0.8692,
+    "stars": 5468,
+    "growth": 965,
+    "score": 0.9625,
     "categories": [
       "Otros"
     ],
@@ -441,45 +293,63 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_karakeep-app_karakeep",
-    "name": "karakeep-app/karakeep",
-    "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
-    "url": "https://github.com/karakeep-app/karakeep",
-    "stars": 27053,
-    "growth": 199,
-    "score": 0.8488,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "bookmark-manager",
-      "bookmarks",
-      "bookmarks-manager",
-      "nextjs",
-      "react-native",
-      "read-it-later",
-      "self-hosted"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_gastownhall_gastown",
-    "name": "gastownhall/gastown",
-    "description": "Gas Town - multi-agent workspace manager",
-    "url": "https://github.com/gastownhall/gastown",
-    "stars": 16796,
-    "growth": 291,
-    "score": 0.8118,
+    "id": "github_trending_kyutai-labs_pocket-tts",
+    "name": "kyutai-labs/pocket-tts",
+    "description": "A TTS that fits in your CPU (and pocket)",
+    "url": "https://github.com/kyutai-labs/pocket-tts",
+    "stars": 6376,
+    "growth": 531,
+    "score": 0.9386,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "Python",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_dotnet_skills",
+    "name": "dotnet/skills",
+    "description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "url": "https://github.com/dotnet/skills",
+    "stars": 4368,
+    "growth": 64,
+    "score": 0.7893,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "C#",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_AhmadIbrahiim_Website-downloader",
+    "name": "AhmadIbrahiim/Website-downloader",
+    "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+    "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+    "stars": 4269,
+    "growth": 140,
+    "score": 0.7455,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "assets",
+      "downloader",
+      "offline-web-pages",
+      "scraper"
+    ],
     "raw_license": "MIT"
   }
 ]
