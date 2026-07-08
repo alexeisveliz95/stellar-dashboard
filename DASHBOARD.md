@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-07 08:14`
-> 📦 **16** proyectos curados en **6** categorías
+> 🕒 Última actualización: `2026-07-08 07:22`
+> 📦 **34** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | 19.9k | +2.5k | Rust |
-| 2 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | 59.5k | +1.5k | JavaScript |
-| 3 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 52.1k | +1.4k | JavaScript |
-| 4 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 71.3k | +1.1k | JavaScript |
-| 5 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | 26.4k | +906 | JavaScript |
-| 6 | [**firecrawl**](https://github.com/firecrawl/firecrawl) | 146.7k | +867 | TypeScript |
-| 7 | [**herdr**](https://github.com/ogulcancelik/herdr) | 13.1k | +779 | Rust |
-| 8 | [**claude-skills**](https://github.com/alirezarezvani/claude-skills) | 21.4k | +610 | Python |
-| 9 | [**CodexBar**](https://github.com/steipete/CodexBar) | 16.9k | +598 | Swift |
-| 10 | [**RuView**](https://github.com/ruvnet/RuView) | 77.9k | +470 | Rust |
+| 1 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 12.3k | +2.5k | TypeScript |
+| 2 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | 21.1k | +1.8k | Rust |
+| 3 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 53.4k | +1.7k | JavaScript |
+| 4 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 72.5k | +1.3k | JavaScript |
+| 5 | [**RuView**](https://github.com/ruvnet/RuView) | 78.7k | +1.1k | Rust |
+| 6 | [**claude-video**](https://github.com/bradautomates/claude-video) | 5.5k | +965 | Python |
+| 7 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 10.6k | +893 | C# |
+| 8 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | 8.6k | +664 | Rust |
+| 9 | [**pocket-tts**](https://github.com/kyutai-labs/pocket-tts) | 6.4k | +531 | Python |
+| 10 | [**CodexBar**](https://github.com/steipete/CodexBar) | 17.1k | +376 | Swift |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 52.1k | AI & Data Science |
-| 🥈 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 71.3k | AI & Data Science |
-| 🥉 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | **1.00** | 19.9k | AI & Data Science |
-| 4 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 77.9k | Otros |
-| 5 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | **1.00** | 59.5k | AI & Data Science |
-| 6 | [**claude-skills**](https://github.com/alirezarezvani/claude-skills) | **1.00** | 21.4k | Cybersecurity & Hacking |
-| 7 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | **1.00** | 26.4k | AI & Data Science |
-| 8 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 50.0k | Web Development |
-| 9 | [**firecrawl**](https://github.com/firecrawl/firecrawl) | **1.00** | 146.7k | Python & Backend |
-| 10 | [**CodexBar**](https://github.com/steipete/CodexBar) | **1.00** | 16.9k | AI & Data Science |
+| 🥇 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 12.3k | AI & Data Science |
+| 🥈 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | **1.00** | 21.1k | AI & Data Science |
+| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 72.5k | AI & Data Science |
+| 4 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 78.7k | Otros |
+| 5 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 53.4k | AI & Data Science |
+| 6 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | **1.00** | 8.6k | AI & Data Science |
+| 7 | [**CodexBar**](https://github.com/steipete/CodexBar) | **1.00** | 17.1k | AI & Data Science |
+| 8 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 10.6k | AI & Data Science |
+| 9 | [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) | **0.96** | 49.4k | Otros |
+| 10 | [**claude-video**](https://github.com/bradautomates/claude-video) | **0.96** | 5.5k | Otros |
 
 ---
 
@@ -77,11 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.85** |
-| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.75** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
