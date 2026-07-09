@@ -8,3 +8,6 @@
 | 2026-07-08 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +2514 | 12.3k | `1.00` |
 | 2026-07-08 | **2** | [meetily](https://github.com/Zackriya-Solutions/meetily) | +1777 | 21.1k | `1.00` |
 | 2026-07-08 | **3** | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | +1691 | 53.4k | `1.00` |
+| 2026-07-09 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +5079 | 16.3k | `1.00` |
+| 2026-07-09 | **2** | [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | +1717 | 12.6k | `1.00` |
+| 2026-07-09 | **3** | [agent-skills](https://github.com/addyosmani/agent-skills) | +1297 | 75.0k | `1.00` |

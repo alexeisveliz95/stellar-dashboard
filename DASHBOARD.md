@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-08 08:38`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-09 08:21`
+> 📦 **32** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 12.3k | +2.5k | TypeScript |
-| 2 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | 21.1k | +1.8k | Rust |
-| 3 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 53.4k | +1.7k | JavaScript |
-| 4 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 72.5k | +1.3k | JavaScript |
-| 5 | [**RuView**](https://github.com/ruvnet/RuView) | 78.7k | +1.1k | Rust |
-| 6 | [**claude-video**](https://github.com/bradautomates/claude-video) | 5.5k | +965 | Python |
-| 7 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 10.6k | +893 | C# |
-| 8 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | 8.6k | +664 | Rust |
-| 9 | [**pocket-tts**](https://github.com/kyutai-labs/pocket-tts) | 6.4k | +531 | Python |
-| 10 | [**CodexBar**](https://github.com/steipete/CodexBar) | 17.1k | +376 | Swift |
+| 1 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 16.3k | +5.1k | TypeScript |
+| 2 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 12.6k | +1.7k | C# |
+| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 75.0k | +1.3k | JavaScript |
+| 4 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 54.6k | +1.2k | JavaScript |
+| 5 | [**PhotoGIMP**](https://github.com/Diolinux/PhotoGIMP) | 15.2k | +1.1k | CSS |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | 250.3k | +1.1k | Shell |
+| 7 | [**claude-video**](https://github.com/bradautomates/claude-video) | 6.3k | +951 | Python |
+| 8 | [**RuView**](https://github.com/ruvnet/RuView) | 79.4k | +799 | Rust |
+| 9 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | 9.1k | +564 | Rust |
+| 10 | [**zvec**](https://github.com/alibaba/zvec) | 14.6k | +395 | C++ |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 12.3k | AI & Data Science |
-| 🥈 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | **1.00** | 21.1k | AI & Data Science |
-| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 72.5k | AI & Data Science |
-| 4 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 78.7k | Otros |
-| 5 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 53.4k | AI & Data Science |
-| 6 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | **1.00** | 8.6k | AI & Data Science |
-| 7 | [**CodexBar**](https://github.com/steipete/CodexBar) | **1.00** | 17.1k | AI & Data Science |
-| 8 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 10.6k | AI & Data Science |
-| 9 | [**awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) | **0.96** | 49.4k | Otros |
-| 10 | [**claude-video**](https://github.com/bradautomates/claude-video) | **0.96** | 5.5k | Otros |
+| 🥇 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 16.3k | AI & Data Science |
+| 🥈 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 75.0k | AI & Data Science |
+| 🥉 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 79.4k | Otros |
+| 4 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 51.0k | Web Development |
+| 5 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 12.6k | AI & Data Science |
+| 6 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 54.6k | AI & Data Science |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 250.3k | Python & Backend |
+| 8 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | **1.00** | 9.1k | AI & Data Science |
+| 9 | [**zvec**](https://github.com/alibaba/zvec) | **0.96** | 14.6k | Python & Backend |
+| 10 | [**PhotoGIMP**](https://github.com/Diolinux/PhotoGIMP) | **0.95** | 15.2k | Otros |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.93** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 5 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
