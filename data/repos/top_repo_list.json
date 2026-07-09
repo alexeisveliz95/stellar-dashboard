@@ -4,8 +4,8 @@
     "name": "MadsLorentzen/ai-job-search",
     "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
     "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "stars": 12276,
-    "growth": 2514,
+    "stars": 16349,
+    "growth": 5079,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -18,52 +18,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Zackriya-Solutions_meetily",
-    "name": "Zackriya-Solutions/meetily",
-    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-    "url": "https://github.com/Zackriya-Solutions/meetily",
-    "stars": 21126,
-    "growth": 1777,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-meeting-assistant",
-      "llm",
-      "local-ai",
-      "mac",
-      "meeting-minutes",
-      "meeting-notes",
-      "offline-first",
-      "ollama",
-      "parakeet",
-      "privacy-focused",
-      "privacy-tools",
-      "rust",
-      "self-hosted",
-      "sortformer",
-      "speech-to-text",
-      "transcription",
-      "whisper",
-      "whisper-cpp",
-      "windows"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_addyosmani_agent-skills",
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 72506,
-    "growth": 1317,
+    "stars": 75038,
+    "growth": 1297,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -88,8 +48,8 @@
     "name": "ruvnet/RuView",
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "url": "https://github.com/ruvnet/RuView",
-    "stars": 78712,
-    "growth": 1129,
+    "stars": 79408,
+    "growth": 799,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -121,12 +81,86 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_mvanhorn_last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "stars": 51014,
+    "growth": 352,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_iOfficeAI_OfficeCLI",
+    "name": "iOfficeAI/OfficeCLI",
+    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "stars": 12595,
+    "growth": 1717,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "C#",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "claude-code",
+      "cli",
+      "codex",
+      "docx",
+      "excel",
+      "office",
+      "openclaw",
+      "pptx",
+      "presentation",
+      "skills",
+      "word",
+      "xlsx"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_asgeirtj_system_prompts_leaks",
     "name": "asgeirtj/system_prompts_leaks",
     "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "stars": 53379,
-    "growth": 1691,
+    "stars": 54554,
+    "growth": 1218,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -161,12 +195,40 @@
     "raw_license": "CC0-1.0"
   },
   {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 250266,
+    "growth": 1116,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_TencentCloud_CubeSandbox",
     "name": "TencentCloud/CubeSandbox",
     "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
     "url": "https://github.com/TencentCloud/CubeSandbox",
-    "stars": 8613,
-    "growth": 664,
+    "stars": 9113,
+    "growth": 564,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -184,107 +246,97 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_steipete_CodexBar",
-    "name": "steipete/CodexBar",
-    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-    "url": "https://github.com/steipete/CodexBar",
-    "stars": 17121,
-    "growth": 376,
-    "score": 1.0,
+    "id": "github_trending_alibaba_zvec",
+    "name": "alibaba/zvec",
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "url": "https://github.com/alibaba/zvec",
+    "stars": 14559,
+    "growth": 395,
+    "score": 0.9608,
     "categories": [
-      "AI & Data Science"
+      "Python & Backend"
     ],
     "source": "github_trending",
-    "language": "Swift",
+    "language": "C++",
     "tags": [
-      "openai"
+      "nlp:python-backend"
     ],
     "raw_topics": [
-      "ai",
-      "claude-code",
-      "codex",
-      "swift"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_iOfficeAI_OfficeCLI",
-    "name": "iOfficeAI/OfficeCLI",
-    "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "stars": 10594,
-    "growth": 893,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "C#",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "ai",
-      "claude-code",
-      "cli",
-      "codex",
-      "docx",
-      "excel",
-      "office",
-      "openclaw",
-      "pptx",
-      "presentation",
-      "skills",
-      "word",
-      "xlsx"
+      "agent-skills",
+      "db",
+      "embedded",
+      "faiss",
+      "hnsw",
+      "llm-memory",
+      "local",
+      "rag",
+      "search-engine",
+      "semantic-search",
+      "similarity-search",
+      "vector-database",
+      "vector-db"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_hesreallyhim_awesome-claude-code",
-    "name": "hesreallyhim/awesome-claude-code",
-    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code",
-    "stars": 49356,
-    "growth": 144,
-    "score": 0.963,
+    "id": "github_trending_Diolinux_PhotoGIMP",
+    "name": "Diolinux/PhotoGIMP",
+    "description": "A Patch for GIMP 3+ for Photoshop Users",
+    "url": "https://github.com/Diolinux/PhotoGIMP",
+    "stars": 15205,
+    "growth": 1125,
+    "score": 0.9455,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent-skills",
-      "agentic-code",
-      "agentic-coding",
-      "ai-workflow-optimization",
-      "ai-workflows",
-      "anthropic",
-      "anthropic-claude",
-      "awesome",
-      "awesome-claude-code",
-      "awesome-list",
-      "awesome-lists",
-      "awesome-resources",
-      "claude",
-      "claude-code",
-      "coding-agent",
-      "coding-agents",
-      "coding-assistant",
-      "coding-assistants",
-      "llm"
+    "language": "CSS",
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_argoproj_argo-cd",
+    "name": "argoproj/argo-cd",
+    "description": "Declarative Continuous Deployment for Kubernetes",
+    "url": "https://github.com/argoproj/argo-cd",
+    "stars": 23492,
+    "growth": 29,
+    "score": 0.9321,
+    "categories": [
+      "Automation & DevOps"
     ],
-    "raw_license": "NOASSERTION"
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "argo",
+      "argo-cd",
+      "cd",
+      "ci-cd",
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "devops",
+      "docker",
+      "gitops",
+      "hacktoberfest",
+      "helm",
+      "jsonnet",
+      "kubernetes",
+      "kustomize",
+      "pipeline"
+    ],
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_bradautomates_claude-video",
     "name": "bradautomates/claude-video",
     "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
     "url": "https://github.com/bradautomates/claude-video",
-    "stars": 5468,
-    "growth": 965,
-    "score": 0.9625,
+    "stars": 6291,
+    "growth": 951,
+    "score": 0.9288,
     "categories": [
       "Otros"
     ],
@@ -293,62 +345,119 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_kyutai-labs_pocket-tts",
-    "name": "kyutai-labs/pocket-tts",
-    "description": "A TTS that fits in your CPU (and pocket)",
-    "url": "https://github.com/kyutai-labs/pocket-tts",
-    "stars": 6376,
-    "growth": 531,
-    "score": 0.9386,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_dotnet_skills",
-    "name": "dotnet/skills",
-    "description": "Repository for skills to assist AI coding agents with .NET and C#",
-    "url": "https://github.com/dotnet/skills",
-    "stars": 4368,
-    "growth": 64,
-    "score": 0.7893,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "C#",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_AhmadIbrahiim_Website-downloader",
-    "name": "AhmadIbrahiim/Website-downloader",
-    "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
-    "url": "https://github.com/AhmadIbrahiim/Website-downloader",
-    "stars": 4269,
-    "growth": 140,
-    "score": 0.7455,
+    "id": "github_trending_TencentCloud_TencentDB-Agent-Memory",
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "stars": 7871,
+    "growth": 318,
+    "score": 0.887,
     "categories": [
       "Python & Backend"
     ],
     "source": "github_trending",
-    "language": "HTML",
+    "language": "TypeScript",
     "tags": [
       "nlp:python-backend"
     ],
     "raw_topics": [
-      "assets",
-      "downloader",
-      "offline-web-pages",
-      "scraper"
+      "agent",
+      "ai-agent",
+      "embedding",
+      "llm",
+      "local-first",
+      "long-term-memory",
+      "memory",
+      "openclaw-plugin",
+      "vector-search"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_prisma_prisma",
+    "name": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "url": "https://github.com/prisma/prisma",
+    "stars": 46682,
+    "growth": 46,
+    "score": 0.8093,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "cockroachdb",
+      "database",
+      "javascript",
+      "mariadb",
+      "mongo",
+      "mongodb",
+      "mongodb-orm",
+      "mssql",
+      "mysql",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresql",
+      "prisma",
+      "prisma-client",
+      "query-builder",
+      "sql-server",
+      "sqlite",
+      "sqlserver",
+      "typescript"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_huxingyi_autoremesher",
+    "name": "huxingyi/autoremesher",
+    "description": "Automatic quad remeshing tool",
+    "url": "https://github.com/huxingyi/autoremesher",
+    "stars": 2133,
+    "growth": 296,
+    "score": 0.8072,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_topics": [
+      "quadremesh",
+      "retopology"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_wonderwhy-er_DesktopCommanderMCP",
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "stars": 6438,
+    "growth": 28,
+    "score": 0.7206,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "code-analysis",
+      "code-generation",
+      "gemini-cli-extension",
+      "mcp",
+      "terminal-ai",
+      "terminal-automation",
+      "vibe-coding"
     ],
     "raw_license": "MIT"
   }
