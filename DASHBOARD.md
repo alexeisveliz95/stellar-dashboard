@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-09 09:50`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-10 08:15`
+> 📦 **24** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 16.3k | +5.1k | TypeScript |
-| 2 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 12.6k | +1.7k | C# |
-| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 75.0k | +1.3k | JavaScript |
-| 4 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 54.6k | +1.2k | JavaScript |
-| 5 | [**PhotoGIMP**](https://github.com/Diolinux/PhotoGIMP) | 15.2k | +1.1k | CSS |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | 250.3k | +1.1k | Shell |
-| 7 | [**claude-video**](https://github.com/bradautomates/claude-video) | 6.3k | +951 | Python |
-| 8 | [**RuView**](https://github.com/ruvnet/RuView) | 79.4k | +799 | Rust |
-| 9 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | 9.1k | +564 | Rust |
-| 10 | [**zvec**](https://github.com/alibaba/zvec) | 14.6k | +395 | C++ |
+| 1 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 76.3k | +2.6k | JavaScript |
+| 2 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 13.9k | +1.9k | C# |
+| 3 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | 100.3k | +1.4k | — |
+| 4 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 55.5k | +1.1k | JavaScript |
+| 5 | [**claude-video**](https://github.com/bradautomates/claude-video) | 6.9k | +718 | Python |
+| 6 | [**pentagi**](https://github.com/vxcontrol/pentagi) | 19.6k | +535 | Go |
+| 7 | [**U3-SDK**](https://github.com/SmartlyDressedGames/U3-SDK) | 2.2k | +524 | C# |
+| 8 | [**autoremesher**](https://github.com/huxingyi/autoremesher) | 2.5k | +403 | C++ |
+| 9 | [**prisma**](https://github.com/prisma/prisma) | 47.0k | +376 | TypeScript |
+| 10 | [**How-To-Secure-A-Linux-Server**](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 29.3k | +243 | — |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 16.3k | AI & Data Science |
-| 🥈 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 75.0k | AI & Data Science |
-| 🥉 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 79.4k | Otros |
-| 4 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 51.0k | Web Development |
-| 5 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 12.6k | AI & Data Science |
-| 6 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 54.6k | AI & Data Science |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 250.3k | Python & Backend |
-| 8 | [**CubeSandbox**](https://github.com/TencentCloud/CubeSandbox) | **1.00** | 9.1k | AI & Data Science |
-| 9 | [**zvec**](https://github.com/alibaba/zvec) | **0.96** | 14.6k | Python & Backend |
-| 10 | [**PhotoGIMP**](https://github.com/Diolinux/PhotoGIMP) | **0.95** | 15.2k | Otros |
+| 🥇 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 76.3k | AI & Data Science |
+| 🥈 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | **1.00** | 100.3k | Web Development |
+| 🥉 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 13.9k | AI & Data Science |
+| 4 | [**pentagi**](https://github.com/vxcontrol/pentagi) | **1.00** | 19.6k | Cybersecurity & Hacking |
+| 5 | [**prisma**](https://github.com/prisma/prisma) | **1.00** | 47.0k | Python & Backend |
+| 6 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 55.5k | AI & Data Science |
+| 7 | [**crawl4ai**](https://github.com/unclecode/crawl4ai) | **0.99** | 72.0k | Web Development |
+| 8 | [**claude-video**](https://github.com/bradautomates/claude-video) | **0.97** | 6.9k | Otros |
+| 9 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **0.94** | 47.3k | Otros |
+| 10 | [**How-To-Secure-A-Linux-Server**](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | **0.92** | 29.3k | Otros |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.88** |
+| [**Otros**](Categorias/Otros.md) | 5 | **0.97** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
