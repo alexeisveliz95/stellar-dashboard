@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **5 proyectos** · ⭐ Mejor score: **0.97** · Estrellas totales: **93.1k**
-> Actualizado: `2026-07-10 08:15`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,10 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**claude-video**](https://github.com/bradautomates/claude-video) | **0.97** | 6.9k | `██████░░░░` | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes,… |
-| [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **0.94** | 47.3k | `█░░░░░░░░░` | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| [**How-To-Secure-A-Linux-Server**](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | **0.92** | 29.3k | `█░░░░░░░░░` | An evolving how-to guide for securing a Linux server. |
-| [**autoremesher**](https://github.com/huxingyi/autoremesher) | **0.89** | 2.5k | `██████████` | Automatic quad remeshing tool |
-| [**pocket-tts**](https://github.com/kyutai-labs/pocket-tts) | **0.82** | 7.1k | `██░░░░░░░░` | A TTS that fits in your CPU (and pocket) |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

@@ -1,29 +1,11 @@
 [
   {
-    "id": "github_trending_MadsLorentzen_ai-job-search",
-    "name": "MadsLorentzen/ai-job-search",
-    "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "stars": 16349,
-    "growth": 5079,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_addyosmani_agent-skills",
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 75038,
-    "growth": 1297,
+    "stars": 76279,
+    "growth": 2554,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -44,79 +26,31 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_ruvnet_RuView",
-    "name": "ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "url": "https://github.com/ruvnet/RuView",
-    "stars": 79408,
-    "growth": 799,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "awesome",
-      "claude",
-      "densepose",
-      "esp32",
-      "firmware",
-      "home-assistant",
-      "home-automation",
-      "iot",
-      "monitoring",
-      "networking",
-      "npm",
-      "pose-estimation",
-      "react",
-      "rf",
-      "self-learning",
-      "skills",
-      "spatial-intelligence",
-      "typescript",
-      "wifi",
-      "wifi-security"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_mvanhorn_last30days-skill",
-    "name": "mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "stars": 51014,
-    "growth": 352,
+    "id": "github_trending_VoltAgent_awesome-design-md",
+    "name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "stars": 100256,
+    "growth": 1391,
     "score": 1.0,
     "categories": [
       "Web Development"
     ],
     "source": "github_trending",
-    "language": "Python",
     "tags": [
       "nlp:web-development"
     ],
     "raw_topics": [
-      "ai-prompts",
-      "ai-skill",
-      "bluesky",
-      "claude",
-      "claude-code",
-      "clawhub",
-      "deep-research",
-      "hackernews",
-      "instagram",
-      "openclaw",
-      "polymarket",
-      "recency",
-      "reddit",
-      "research",
-      "social-media",
-      "tiktok",
-      "trends",
-      "twitter",
-      "web-search",
-      "youtube"
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma",
+      "google-stitch",
+      "landing-page",
+      "vibe-coding",
+      "vibe-design",
+      "vibecoding"
     ],
     "raw_license": "MIT"
   },
@@ -125,8 +59,8 @@
     "name": "iOfficeAI/OfficeCLI",
     "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
     "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "stars": 12595,
-    "growth": 1717,
+    "stars": 13886,
+    "growth": 1929,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -155,12 +89,90 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_vxcontrol_pentagi",
+    "name": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "stars": 19649,
+    "growth": 535,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "self-hosted"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_prisma_prisma",
+    "name": "prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "url": "https://github.com/prisma/prisma",
+    "stars": 47041,
+    "growth": 376,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "cockroachdb",
+      "database",
+      "javascript",
+      "mariadb",
+      "mongo",
+      "mongodb",
+      "mongodb-orm",
+      "mssql",
+      "mysql",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresql",
+      "prisma",
+      "prisma-client",
+      "query-builder",
+      "sql-server",
+      "sqlite",
+      "sqlserver",
+      "typescript"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_asgeirtj_system_prompts_leaks",
     "name": "asgeirtj/system_prompts_leaks",
     "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "stars": 54554,
-    "growth": 1218,
+    "stars": 55478,
+    "growth": 1125,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -195,137 +207,20 @@
     "raw_license": "CC0-1.0"
   },
   {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 250266,
-    "growth": 1116,
-    "score": 1.0,
+    "id": "github_trending_unclecode_crawl4ai",
+    "name": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "stars": 72035,
+    "growth": 215,
+    "score": 0.9949,
     "categories": [
-      "Python & Backend"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Shell",
+    "language": "Python",
     "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_TencentCloud_CubeSandbox",
-    "name": "TencentCloud/CubeSandbox",
-    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-    "url": "https://github.com/TencentCloud/CubeSandbox",
-    "stars": 9113,
-    "growth": 564,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agents",
-      "container",
-      "sandbox"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_alibaba_zvec",
-    "name": "alibaba/zvec",
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "url": "https://github.com/alibaba/zvec",
-    "stars": 14559,
-    "growth": 395,
-    "score": 0.9608,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "db",
-      "embedded",
-      "faiss",
-      "hnsw",
-      "llm-memory",
-      "local",
-      "rag",
-      "search-engine",
-      "semantic-search",
-      "similarity-search",
-      "vector-database",
-      "vector-db"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_Diolinux_PhotoGIMP",
-    "name": "Diolinux/PhotoGIMP",
-    "description": "A Patch for GIMP 3+ for Photoshop Users",
-    "url": "https://github.com/Diolinux/PhotoGIMP",
-    "stars": 15205,
-    "growth": 1125,
-    "score": 0.9455,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "CSS",
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_argoproj_argo-cd",
-    "name": "argoproj/argo-cd",
-    "description": "Declarative Continuous Deployment for Kubernetes",
-    "url": "https://github.com/argoproj/argo-cd",
-    "stars": 23492,
-    "growth": 29,
-    "score": 0.9321,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:automation-devops"
-    ],
-    "raw_topics": [
-      "argo",
-      "argo-cd",
-      "cd",
-      "ci-cd",
-      "cicd",
-      "continuous-delivery",
-      "continuous-deployment",
-      "devops",
-      "docker",
-      "gitops",
-      "hacktoberfest",
-      "helm",
-      "jsonnet",
-      "kubernetes",
-      "kustomize",
-      "pipeline"
+      "nlp:web-development"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -334,9 +229,9 @@
     "name": "bradautomates/claude-video",
     "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
     "url": "https://github.com/bradautomates/claude-video",
-    "stars": 6291,
-    "growth": 951,
-    "score": 0.9288,
+    "stars": 6897,
+    "growth": 718,
+    "score": 0.9735,
     "categories": [
       "Otros"
     ],
@@ -345,82 +240,52 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_TencentCloud_TencentDB-Agent-Memory",
-    "name": "TencentCloud/TencentDB-Agent-Memory",
-    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "stars": 7871,
-    "growth": 318,
-    "score": 0.887,
+    "id": "github_trending_anthropics_claude-cookbooks",
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "stars": 47334,
+    "growth": 194,
+    "score": 0.9416,
     "categories": [
-      "Python & Backend"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "agent",
-      "ai-agent",
-      "embedding",
-      "llm",
-      "local-first",
-      "long-term-memory",
-      "memory",
-      "openclaw-plugin",
-      "vector-search"
-    ],
-    "raw_license": "NOASSERTION"
+    "language": "Jupyter Notebook",
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_prisma_prisma",
-    "name": "prisma/prisma",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-    "url": "https://github.com/prisma/prisma",
-    "stars": 46682,
-    "growth": 46,
-    "score": 0.8093,
+    "id": "github_trending_imthenachoman_How-To-Secure-A-Linux-Server",
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "description": "An evolving how-to guide for securing a Linux server.",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "stars": 29254,
+    "growth": 243,
+    "score": 0.9236,
     "categories": [
-      "Python & Backend"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:python-backend"
-    ],
     "raw_topics": [
-      "cockroachdb",
-      "database",
-      "javascript",
-      "mariadb",
-      "mongo",
-      "mongodb",
-      "mongodb-orm",
-      "mssql",
-      "mysql",
-      "nodejs",
-      "orm",
-      "postgres",
-      "postgresql",
-      "prisma",
-      "prisma-client",
-      "query-builder",
-      "sql-server",
-      "sqlite",
-      "sqlserver",
-      "typescript"
+      "cc-by-sa",
+      "hardening",
+      "hardening-steps",
+      "linux",
+      "linux-server",
+      "security",
+      "security-hardening",
+      "server"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "CC-BY-SA-4.0"
   },
   {
     "id": "github_trending_huxingyi_autoremesher",
     "name": "huxingyi/autoremesher",
     "description": "Automatic quad remeshing tool",
     "url": "https://github.com/huxingyi/autoremesher",
-    "stars": 2133,
-    "growth": 296,
-    "score": 0.8072,
+    "stars": 2451,
+    "growth": 403,
+    "score": 0.8867,
     "categories": [
       "Otros"
     ],
@@ -433,13 +298,46 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_SmartlyDressedGames_U3-SDK",
+    "name": "SmartlyDressedGames/U3-SDK",
+    "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+    "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+    "stars": 2205,
+    "growth": 524,
+    "score": 0.8793,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "C#",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_kyutai-labs_pocket-tts",
+    "name": "kyutai-labs/pocket-tts",
+    "description": "A TTS that fits in your CPU (and pocket)",
+    "url": "https://github.com/kyutai-labs/pocket-tts",
+    "stars": 7118,
+    "growth": 235,
+    "score": 0.8171,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_wonderwhy-er_DesktopCommanderMCP",
     "name": "wonderwhy-er/DesktopCommanderMCP",
     "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
     "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-    "stars": 6438,
-    "growth": 28,
-    "score": 0.7206,
+    "stars": 6708,
+    "growth": 185,
+    "score": 0.8089,
     "categories": [
       "Python & Backend"
     ],
