@@ -4,8 +4,8 @@
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 76279,
-    "growth": 2554,
+    "stars": 76989,
+    "growth": 1116,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -26,31 +26,45 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_VoltAgent_awesome-design-md",
-    "name": "VoltAgent/awesome-design-md",
-    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-    "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 100256,
-    "growth": 1391,
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 164965,
+    "growth": 1712,
     "score": 1.0,
     "categories": [
-      "Web Development"
+      "Otros"
     ],
     "source": "github_trending",
+    "language": "Shell",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 251974,
+    "growth": 1013,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
     "tags": [
-      "nlp:web-development"
+      "nlp:python-backend"
     ],
     "raw_topics": [
-      "awesome-list",
-      "design-md",
-      "design-system",
-      "design-tokens",
-      "figma",
-      "google-stitch",
-      "landing-page",
-      "vibe-coding",
-      "vibe-design",
-      "vibecoding"
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
     ],
     "raw_license": "MIT"
   },
@@ -59,8 +73,8 @@
     "name": "iOfficeAI/OfficeCLI",
     "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
     "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "stars": 13886,
-    "growth": 1929,
+    "stars": 14640,
+    "growth": 1224,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -89,245 +103,142 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_vxcontrol_pentagi",
-    "name": "vxcontrol/pentagi",
-    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "stars": 19649,
-    "growth": 535,
+    "id": "github_trending_hashicorp_terraform",
+    "name": "hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "url": "https://github.com/hashicorp/terraform",
+    "stars": 49228,
+    "growth": 172,
     "score": 1.0,
     "categories": [
-      "Cybersecurity & Hacking"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
     "language": "Go",
     "tags": [
-      "nlp:cybersecurity-hacking"
+      "nlp:automation-devops"
     ],
     "raw_topics": [
-      "ai-agents",
-      "ai-security-tool",
-      "anthropic",
-      "autonomous-agents",
-      "golang",
-      "gpt",
-      "graphql",
-      "multi-agent-system",
-      "offensive-security",
-      "open-source",
-      "openai",
-      "penetration-testing",
-      "penetration-testing-tools",
+      "cloud",
+      "cloud-management",
+      "graph",
+      "infrastructure-as-code",
+      "terraform"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_vercel_next_js",
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "url": "https://github.com/vercel/next.js",
+    "stars": 140785,
+    "growth": 191,
+    "score": 0.974,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "react"
+    ],
+    "raw_topics": [
+      "blog",
+      "browser",
+      "compiler",
+      "components",
+      "hybrid",
+      "nextjs",
+      "node",
       "react",
-      "security-automation",
-      "security-testing",
-      "security-tools",
-      "self-hosted"
+      "server-rendering",
+      "ssg",
+      "static",
+      "static-site-generator",
+      "universal",
+      "vercel"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_prisma_prisma",
-    "name": "prisma/prisma",
-    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-    "url": "https://github.com/prisma/prisma",
-    "stars": 47041,
-    "growth": 376,
-    "score": 1.0,
+    "id": "github_trending_oven-sh_bun",
+    "name": "oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "url": "https://github.com/oven-sh/bun",
+    "stars": 94403,
+    "growth": 209,
+    "score": 0.9715,
     "categories": [
-      "Python & Backend"
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx",
+      "nodejs",
+      "npm",
+      "react",
+      "rust",
+      "rust-lang",
+      "transpiler",
+      "typescript"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_microsoft_TypeScript",
+    "name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "url": "https://github.com/microsoft/TypeScript",
+    "stars": 109824,
+    "growth": 177,
+    "score": 0.9713,
+    "categories": [
+      "Web Development"
     ],
     "source": "github_trending",
     "language": "TypeScript",
     "tags": [
-      "nlp:python-backend"
+      "nlp:web-development"
     ],
     "raw_topics": [
-      "cockroachdb",
-      "database",
       "javascript",
-      "mariadb",
-      "mongo",
-      "mongodb",
-      "mongodb-orm",
-      "mssql",
-      "mysql",
-      "nodejs",
-      "orm",
-      "postgres",
-      "postgresql",
-      "prisma",
-      "prisma-client",
-      "query-builder",
-      "sql-server",
-      "sqlite",
-      "sqlserver",
+      "language",
+      "typechecker",
       "typescript"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_asgeirtj_system_prompts_leaks",
-    "name": "asgeirtj/system_prompts_leaks",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "stars": 55478,
-    "growth": 1125,
-    "score": 1.0,
+    "id": "github_trending_davila7_claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "stars": 28818,
+    "growth": 118,
+    "score": 0.9472,
     "categories": [
-      "AI & Data Science"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Python",
     "tags": [
-      "gpt"
+      "nlp:automation-devops"
     ],
     "raw_topics": [
-      "ai",
-      "ai-agents",
       "anthropic",
-      "awesome",
-      "chatbot",
-      "chatgpt",
+      "anthropic-claude",
       "claude",
-      "claude-code",
-      "codex",
-      "deep-learning",
-      "education",
-      "gemini",
-      "generative-ai",
-      "google",
-      "llm",
-      "machine-learning",
-      "nlp",
-      "open-source",
-      "openai",
-      "prompt-engineering"
+      "claude-code"
     ],
-    "raw_license": "CC0-1.0"
-  },
-  {
-    "id": "github_trending_unclecode_crawl4ai",
-    "name": "unclecode/crawl4ai",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-    "url": "https://github.com/unclecode/crawl4ai",
-    "stars": 72035,
-    "growth": 215,
-    "score": 0.9949,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_bradautomates_claude-video",
-    "name": "bradautomates/claude-video",
-    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-    "url": "https://github.com/bradautomates/claude-video",
-    "stars": 6897,
-    "growth": 718,
-    "score": 0.9735,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_anthropics_claude-cookbooks",
-    "name": "anthropics/claude-cookbooks",
-    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "url": "https://github.com/anthropics/claude-cookbooks",
-    "stars": 47334,
-    "growth": 194,
-    "score": 0.9416,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Jupyter Notebook",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_imthenachoman_How-To-Secure-A-Linux-Server",
-    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-    "description": "An evolving how-to guide for securing a Linux server.",
-    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-    "stars": 29254,
-    "growth": 243,
-    "score": 0.9236,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "raw_topics": [
-      "cc-by-sa",
-      "hardening",
-      "hardening-steps",
-      "linux",
-      "linux-server",
-      "security",
-      "security-hardening",
-      "server"
-    ],
-    "raw_license": "CC-BY-SA-4.0"
-  },
-  {
-    "id": "github_trending_huxingyi_autoremesher",
-    "name": "huxingyi/autoremesher",
-    "description": "Automatic quad remeshing tool",
-    "url": "https://github.com/huxingyi/autoremesher",
-    "stars": 2451,
-    "growth": 403,
-    "score": 0.8867,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "raw_topics": [
-      "quadremesh",
-      "retopology"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_SmartlyDressedGames_U3-SDK",
-    "name": "SmartlyDressedGames/U3-SDK",
-    "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-    "url": "https://github.com/SmartlyDressedGames/U3-SDK",
-    "stars": 2205,
-    "growth": 524,
-    "score": 0.8793,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "C#",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_kyutai-labs_pocket-tts",
-    "name": "kyutai-labs/pocket-tts",
-    "description": "A TTS that fits in your CPU (and pocket)",
-    "url": "https://github.com/kyutai-labs/pocket-tts",
-    "stars": 7118,
-    "growth": 235,
-    "score": 0.8171,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
     "raw_license": "MIT"
   },
   {
@@ -335,9 +246,9 @@
     "name": "wonderwhy-er/DesktopCommanderMCP",
     "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
     "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-    "stars": 6708,
-    "growth": 185,
-    "score": 0.8089,
+    "stars": 7487,
+    "growth": 328,
+    "score": 0.8804,
     "categories": [
       "Python & Backend"
     ],
@@ -358,5 +269,189 @@
       "vibe-coding"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_tailscale_tailscale",
+    "name": "tailscale/tailscale",
+    "description": "The easiest, most secure way to use WireGuard and 2FA.",
+    "url": "https://github.com/tailscale/tailscale",
+    "stars": 33750,
+    "growth": 143,
+    "score": 0.8755,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "raw_topics": [
+      "2fa",
+      "oauth",
+      "sso",
+      "tailscale",
+      "vpn",
+      "wireguard"
+    ],
+    "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_google-labs-code_stitch-skills",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "stars": 6830,
+    "growth": 117,
+    "score": 0.8672,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "cli"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_grpc_grpc",
+    "name": "grpc/grpc",
+    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "url": "https://github.com/grpc/grpc",
+    "stars": 45168,
+    "growth": 78,
+    "score": 0.8186,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_catchorg_Catch2",
+    "name": "catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "url": "https://github.com/catchorg/Catch2",
+    "stars": 20641,
+    "growth": 76,
+    "score": 0.8104,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_topics": [
+      "bdd",
+      "cpp",
+      "cpp14",
+      "framework",
+      "no-dependencies",
+      "tdd",
+      "test-framework",
+      "testing"
+    ],
+    "raw_license": "BSL-1.0"
+  },
+  {
+    "id": "github_trending_TencentCloud_TencentDB-Agent-Memory",
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "stars": 8328,
+    "growth": 123,
+    "score": 0.8073,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai-agent",
+      "embedding",
+      "llm",
+      "local-first",
+      "long-term-memory",
+      "memory",
+      "openclaw-plugin",
+      "vector-search"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_abseil_abseil-cpp",
+    "name": "abseil/abseil-cpp",
+    "description": "Abseil Common Libraries (C++)",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "stars": 17550,
+    "growth": 89,
+    "score": 0.7612,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_zeux_meshoptimizer",
+    "name": "zeux/meshoptimizer",
+    "description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "url": "https://github.com/zeux/meshoptimizer",
+    "stars": 8051,
+    "growth": 91,
+    "score": 0.7353,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "compression",
+      "gltf",
+      "gpu",
+      "mesh-processing",
+      "optimization",
+      "simplification"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_jbeder_yaml-cpp",
+    "name": "jbeder/yaml-cpp",
+    "description": "A YAML parser and emitter in C++",
+    "url": "https://github.com/jbeder/yaml-cpp",
+    "stars": 6108,
+    "growth": 69,
+    "score": 0.6769,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_chriskohlhoff_asio",
+    "name": "chriskohlhoff/asio",
+    "description": "Asio C++ Library",
+    "url": "https://github.com/chriskohlhoff/asio",
+    "stars": 6095,
+    "growth": 92,
+    "score": 0.6529,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]
