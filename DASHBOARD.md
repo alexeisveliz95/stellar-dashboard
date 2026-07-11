@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-10 09:46`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-11 07:05`
+> 📦 **35** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 76.3k | +2.6k | JavaScript |
-| 2 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 13.9k | +1.9k | C# |
-| 3 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | 100.3k | +1.4k | — |
-| 4 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 55.5k | +1.1k | JavaScript |
-| 5 | [**claude-video**](https://github.com/bradautomates/claude-video) | 6.9k | +718 | Python |
-| 6 | [**pentagi**](https://github.com/vxcontrol/pentagi) | 19.6k | +535 | Go |
-| 7 | [**U3-SDK**](https://github.com/SmartlyDressedGames/U3-SDK) | 2.2k | +524 | C# |
-| 8 | [**autoremesher**](https://github.com/huxingyi/autoremesher) | 2.5k | +403 | C++ |
-| 9 | [**prisma**](https://github.com/prisma/prisma) | 47.0k | +376 | TypeScript |
-| 10 | [**How-To-Secure-A-Linux-Server**](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 29.3k | +243 | — |
+| 1 | [**skills**](https://github.com/mattpocock/skills) | 165.0k | +1.7k | Shell |
+| 2 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 14.6k | +1.2k | C# |
+| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 77.0k | +1.1k | JavaScript |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | 252.0k | +1.0k | Shell |
+| 5 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7.5k | +328 | TypeScript |
+| 6 | [**bun**](https://github.com/oven-sh/bun) | 94.4k | +209 | Rust |
+| 7 | [**next.js**](https://github.com/vercel/next.js) | 140.8k | +191 | JavaScript |
+| 8 | [**TypeScript**](https://github.com/microsoft/TypeScript) | 109.8k | +177 | TypeScript |
+| 9 | [**terraform**](https://github.com/hashicorp/terraform) | 49.2k | +172 | Go |
+| 10 | [**tailscale**](https://github.com/tailscale/tailscale) | 33.8k | +143 | Go |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 76.3k | AI & Data Science |
-| 🥈 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | **1.00** | 100.3k | Web Development |
-| 🥉 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 13.9k | AI & Data Science |
-| 4 | [**pentagi**](https://github.com/vxcontrol/pentagi) | **1.00** | 19.6k | Cybersecurity & Hacking |
-| 5 | [**prisma**](https://github.com/prisma/prisma) | **1.00** | 47.0k | Python & Backend |
-| 6 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 55.5k | AI & Data Science |
-| 7 | [**crawl4ai**](https://github.com/unclecode/crawl4ai) | **0.99** | 72.0k | Web Development |
-| 8 | [**claude-video**](https://github.com/bradautomates/claude-video) | **0.97** | 6.9k | Otros |
-| 9 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **0.94** | 47.3k | Otros |
-| 10 | [**How-To-Secure-A-Linux-Server**](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | **0.92** | 29.3k | Otros |
+| 🥇 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 77.0k | AI & Data Science |
+| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 165.0k | Otros |
+| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 252.0k | Python & Backend |
+| 4 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 14.6k | AI & Data Science |
+| 5 | [**terraform**](https://github.com/hashicorp/terraform) | **1.00** | 49.2k | Automation & DevOps |
+| 6 | [**next.js**](https://github.com/vercel/next.js) | **0.97** | 140.8k | Web Development |
+| 7 | [**bun**](https://github.com/oven-sh/bun) | **0.97** | 94.4k | Web Development |
+| 8 | [**TypeScript**](https://github.com/microsoft/TypeScript) | **0.97** | 109.8k | Web Development |
+| 9 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **0.95** | 28.8k | Automation & DevOps |
+| 10 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | **0.88** | 7.5k | Python & Backend |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 2 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 3 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 3 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 5 | **0.97** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

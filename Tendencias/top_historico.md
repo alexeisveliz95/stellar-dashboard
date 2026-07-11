@@ -14,3 +14,6 @@
 | 2026-07-10 | **1** | [agent-skills](https://github.com/addyosmani/agent-skills) | +2554 | 76.3k | `1.00` |
 | 2026-07-10 | **2** | [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | +1929 | 13.9k | `1.00` |
 | 2026-07-10 | **3** | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | +1391 | 100.3k | `1.00` |
+| 2026-07-11 | **1** | [skills](https://github.com/mattpocock/skills) | +1712 | 165.0k | `1.00` |
+| 2026-07-11 | **2** | [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | +1224 | 14.6k | `1.00` |
+| 2026-07-11 | **3** | [agent-skills](https://github.com/addyosmani/agent-skills) | +1116 | 77.0k | `1.00` |
