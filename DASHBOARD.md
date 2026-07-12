@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-11 08:05`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-12 07:23`
+> 📦 **33** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**skills**](https://github.com/mattpocock/skills) | 165.0k | +1.7k | Shell |
-| 2 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | 14.6k | +1.2k | C# |
-| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 77.0k | +1.1k | JavaScript |
-| 4 | [**superpowers**](https://github.com/obra/superpowers) | 252.0k | +1.0k | Shell |
-| 5 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7.5k | +328 | TypeScript |
-| 6 | [**bun**](https://github.com/oven-sh/bun) | 94.4k | +209 | Rust |
-| 7 | [**next.js**](https://github.com/vercel/next.js) | 140.8k | +191 | JavaScript |
-| 8 | [**TypeScript**](https://github.com/microsoft/TypeScript) | 109.8k | +177 | TypeScript |
-| 9 | [**terraform**](https://github.com/hashicorp/terraform) | 49.2k | +172 | Go |
-| 10 | [**tailscale**](https://github.com/tailscale/tailscale) | 33.8k | +143 | Go |
+| 1 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7.8k | +909 | TypeScript |
+| 2 | [**pgrust**](https://github.com/malisper/pgrust) | 2.2k | +774 | Rust |
+| 3 | [**superpowers**](https://github.com/obra/superpowers) | 252.6k | +740 | Shell |
+| 4 | [**bun**](https://github.com/oven-sh/bun) | 94.6k | +658 | Rust |
+| 5 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | 7.2k | +340 | TypeScript |
+| 6 | [**next.js**](https://github.com/vercel/next.js) | 141.0k | +334 | JavaScript |
+| 7 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | 29.1k | +232 | Python |
+| 8 | [**terraform**](https://github.com/hashicorp/terraform) | 49.4k | +229 | Go |
+| 9 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | 48.0k | +219 | Jupyter Notebook |
+| 10 | [**abseil-cpp**](https://github.com/abseil/abseil-cpp) | 17.9k | +118 | C++ |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 77.0k | AI & Data Science |
-| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 165.0k | Otros |
-| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 252.0k | Python & Backend |
-| 4 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | **1.00** | 14.6k | AI & Data Science |
-| 5 | [**terraform**](https://github.com/hashicorp/terraform) | **1.00** | 49.2k | Automation & DevOps |
-| 6 | [**next.js**](https://github.com/vercel/next.js) | **0.97** | 140.8k | Web Development |
-| 7 | [**bun**](https://github.com/oven-sh/bun) | **0.97** | 94.4k | Web Development |
-| 8 | [**TypeScript**](https://github.com/microsoft/TypeScript) | **0.97** | 109.8k | Web Development |
-| 9 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **0.95** | 28.8k | Automation & DevOps |
-| 10 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | **0.88** | 7.5k | Python & Backend |
+| 🥇 | [**terraform**](https://github.com/hashicorp/terraform) | **1.00** | 49.4k | Automation & DevOps |
+| 🥈 | [**bun**](https://github.com/oven-sh/bun) | **1.00** | 94.6k | Web Development |
+| 🥉 | [**core**](https://github.com/home-assistant/core) | **1.00** | 88.8k | Automation & DevOps |
+| 4 | [**next.js**](https://github.com/vercel/next.js) | **1.00** | 141.0k | Web Development |
+| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 252.6k | Python & Backend |
+| 6 | [**ansible**](https://github.com/ansible/ansible) | **1.00** | 69.6k | Automation & DevOps |
+| 7 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **0.98** | 29.1k | Automation & DevOps |
+| 8 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | **0.98** | 7.2k | Automation & DevOps |
+| 9 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | **0.97** | 7.8k | Python & Backend |
+| 10 | [**next-ai-draw-io**](https://github.com/DayuanJiang/next-ai-draw-io) | **0.97** | 33.4k | AI & Data Science |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 2 | **0.97** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 5 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.81** |
+| [**Otros**](Categorias/Otros.md) | 6 | **0.93** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.94** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 4 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 5 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
