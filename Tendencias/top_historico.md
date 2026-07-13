@@ -20,3 +20,6 @@
 | 2026-07-12 | **1** | [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | +909 | 7.8k | `0.97` |
 | 2026-07-12 | **2** | [pgrust](https://github.com/malisper/pgrust) | +774 | 2.2k | `0.87` |
 | 2026-07-12 | **3** | [superpowers](https://github.com/obra/superpowers) | +740 | 252.6k | `1.00` |
+| 2026-07-13 | **1** | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | +768 | 21.0k | `1.00` |
+| 2026-07-13 | **2** | [Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | +609 | 7.1k | `0.96` |
+| 2026-07-13 | **3** | [pgrust](https://github.com/malisper/pgrust) | +518 | 2.6k | `0.90` |

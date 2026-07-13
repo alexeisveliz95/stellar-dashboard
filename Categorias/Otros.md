@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **134.5k**
+> Actualizado: `2026-07-13 08:02`
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **1.00** | 21.0k | `███░░░░░░░` | "Vibe-Trading: Your Personal Trading Agent" |
+| [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **1.00** | 48.6k | `█░░░░░░░░░` | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [**FlClash**](https://github.com/chen08209/FlClash) | **0.94** | 45.4k | `█░░░░░░░░░` | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and… |
+| [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | **0.90** | 3.4k | `██████████` | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from… |
+| [**t3code**](https://github.com/pingdotgg/t3code) | **0.76** | 13.8k | `█░░░░░░░░░` | Sin descripción |
+| [**background-agents**](https://github.com/ColeMurray/background-agents) | **0.65** | 2.3k | `█░░░░░░░░░` | An open-source background agents coding system |
 
 ---

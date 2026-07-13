@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-12 23:50`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-13 08:02`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7.8k | +909 | TypeScript |
-| 2 | [**pgrust**](https://github.com/malisper/pgrust) | 2.2k | +774 | Rust |
-| 3 | [**superpowers**](https://github.com/obra/superpowers) | 252.6k | +740 | Shell |
-| 4 | [**bun**](https://github.com/oven-sh/bun) | 94.6k | +658 | Rust |
-| 5 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | 7.2k | +340 | TypeScript |
-| 6 | [**next.js**](https://github.com/vercel/next.js) | 141.0k | +334 | JavaScript |
-| 7 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | 29.1k | +232 | Python |
-| 8 | [**terraform**](https://github.com/hashicorp/terraform) | 49.4k | +229 | Go |
-| 9 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | 48.0k | +219 | Jupyter Notebook |
-| 10 | [**abseil-cpp**](https://github.com/abseil/abseil-cpp) | 17.9k | +118 | C++ |
+| 1 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 21.0k | +768 | Python |
+| 2 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | 7.1k | +609 | C# |
+| 3 | [**pgrust**](https://github.com/malisper/pgrust) | 2.6k | +518 | Rust |
+| 4 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | 48.6k | +459 | Jupyter Notebook |
+| 5 | [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | 3.4k | +444 | Rust |
+| 6 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 119.0k | +408 | Python |
+| 7 | [**core**](https://github.com/home-assistant/core) | 89.2k | +400 | Python |
+| 8 | [**sharpemu**](https://github.com/par274/sharpemu) | 1.4k | +314 | C# |
+| 9 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | 29.3k | +274 | Python |
+| 10 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 8.1k | +210 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**terraform**](https://github.com/hashicorp/terraform) | **1.00** | 49.4k | Automation & DevOps |
-| 🥈 | [**bun**](https://github.com/oven-sh/bun) | **1.00** | 94.6k | Web Development |
-| 🥉 | [**core**](https://github.com/home-assistant/core) | **1.00** | 88.8k | Automation & DevOps |
-| 4 | [**next.js**](https://github.com/vercel/next.js) | **1.00** | 141.0k | Web Development |
-| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 252.6k | Python & Backend |
-| 6 | [**ansible**](https://github.com/ansible/ansible) | **1.00** | 69.6k | Automation & DevOps |
-| 7 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **0.98** | 29.1k | Automation & DevOps |
-| 8 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | **0.98** | 7.2k | Automation & DevOps |
-| 9 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | **0.97** | 7.8k | Python & Backend |
-| 10 | [**next-ai-draw-io**](https://github.com/DayuanJiang/next-ai-draw-io) | **0.97** | 33.4k | AI & Data Science |
+| 🥇 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **1.00** | 21.0k | Otros |
+| 🥈 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 119.0k | AI & Data Science |
+| 🥉 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **1.00** | 48.6k | Otros |
+| 4 | [**core**](https://github.com/home-assistant/core) | **1.00** | 89.2k | Automation & DevOps |
+| 5 | [**project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | **1.00** | 33.9k | AI & Data Science |
+| 6 | [**ai-hedge-fund**](https://github.com/virattt/ai-hedge-fund) | **1.00** | 61.5k | AI & Data Science |
+| 7 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **1.00** | 29.3k | Automation & DevOps |
+| 8 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | **0.96** | 7.1k | Mobile Development |
+| 9 | [**prefect**](https://github.com/PrefectHQ/prefect) | **0.94** | 23.3k | Automation & DevOps |
+| 10 | [**FlClash**](https://github.com/chen08209/FlClash) | **0.94** | 45.4k | Otros |
 
 ---
 
@@ -77,13 +77,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 3 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.96** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.82** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **0.90** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
