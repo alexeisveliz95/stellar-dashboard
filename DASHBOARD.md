@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-13 09:38`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-14 07:05`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 21.0k | +768 | Python |
-| 2 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | 7.1k | +609 | C# |
-| 3 | [**pgrust**](https://github.com/malisper/pgrust) | 2.6k | +518 | Rust |
-| 4 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | 48.6k | +459 | Jupyter Notebook |
-| 5 | [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | 3.4k | +444 | Rust |
-| 6 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 119.0k | +408 | Python |
-| 7 | [**core**](https://github.com/home-assistant/core) | 89.2k | +400 | Python |
-| 8 | [**sharpemu**](https://github.com/par274/sharpemu) | 1.4k | +314 | C# |
-| 9 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | 29.3k | +274 | Python |
-| 10 | [**DesktopCommanderMCP**](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 8.1k | +210 | TypeScript |
+| 1 | [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | 3.9k | +1.3k | Rust |
+| 2 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 67.7k | +1.2k | TypeScript |
+| 3 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 22.2k | +1.2k | Python |
+| 4 | [**graphify**](https://github.com/Graphify-Labs/graphify) | 85.2k | +1.1k | Python |
+| 5 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 120.0k | +996 | Python |
+| 6 | [**hallmark**](https://github.com/Nutlope/hallmark) | 5.5k | +794 | CSS |
+| 7 | [**spec-kit**](https://github.com/github/spec-kit) | 120.8k | +543 | Python |
+| 8 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 12.9k | +451 | HTML |
+| 9 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | 38.9k | +299 | JavaScript |
+| 10 | [**Win11Debloat**](https://github.com/Raphire/Win11Debloat) | 51.1k | +118 | PowerShell |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **1.00** | 21.0k | Otros |
-| 🥈 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 119.0k | AI & Data Science |
-| 🥉 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **1.00** | 48.6k | Otros |
-| 4 | [**core**](https://github.com/home-assistant/core) | **1.00** | 89.2k | Automation & DevOps |
-| 5 | [**project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | **1.00** | 33.9k | AI & Data Science |
-| 6 | [**ai-hedge-fund**](https://github.com/virattt/ai-hedge-fund) | **1.00** | 61.5k | AI & Data Science |
-| 7 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **1.00** | 29.3k | Automation & DevOps |
-| 8 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | **0.96** | 7.1k | Mobile Development |
-| 9 | [**prefect**](https://github.com/PrefectHQ/prefect) | **0.94** | 23.3k | Automation & DevOps |
-| 10 | [**FlClash**](https://github.com/chen08209/FlClash) | **0.94** | 45.4k | Otros |
+| 🥇 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 67.7k | Mobile Development |
+| 🥈 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 120.0k | AI & Data Science |
+| 🥉 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 5.5k | AI & Data Science |
+| 4 | [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 85.2k | Python & Backend |
+| 5 | [**spec-kit**](https://github.com/github/spec-kit) | **1.00** | 120.8k | Python & Backend |
+| 6 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 38.9k | AI & Data Science |
+| 7 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **0.99** | 22.2k | Otros |
+| 8 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **0.96** | 12.9k | Otros |
+| 9 | [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | **0.90** | 3.9k | Otros |
+| 10 | [**Win11Debloat**](https://github.com/Raphire/Win11Debloat) | **0.88** | 51.1k | Otros |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **0.99** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.86** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

@@ -23,3 +23,6 @@
 | 2026-07-13 | **1** | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | +768 | 21.0k | `1.00` |
 | 2026-07-13 | **2** | [Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | +609 | 7.1k | `0.96` |
 | 2026-07-13 | **3** | [pgrust](https://github.com/malisper/pgrust) | +518 | 2.6k | `0.90` |
+| 2026-07-14 | **1** | [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | +1295 | 3.9k | `0.90` |
+| 2026-07-14 | **2** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +1229 | 67.7k | `1.00` |
+| 2026-07-14 | **3** | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | +1153 | 22.2k | `0.99` |
