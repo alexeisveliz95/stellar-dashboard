@@ -26,3 +26,6 @@
 | 2026-07-14 | **1** | [destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | +1295 | 3.9k | `0.90` |
 | 2026-07-14 | **2** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +1229 | 67.7k | `1.00` |
 | 2026-07-14 | **3** | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | +1153 | 22.2k | `0.99` |
+| 2026-07-15 | **1** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +4276 | 69.6k | `1.00` |
+| 2026-07-15 | **2** | [graphify](https://github.com/Graphify-Labs/graphify) | +1851 | 86.8k | `1.00` |
+| 2026-07-15 | **3** | [skills](https://github.com/mattpocock/skills) | +1679 | 170.9k | `1.00` |

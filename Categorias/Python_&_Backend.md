@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **92.8k**
+> Actualizado: `2026-07-15 07:08`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 86.8k | `███████░░░` | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn… |
+| [**grok2api**](https://github.com/chenyme/grok2api) | **0.81** | 5.9k | `██████████` | 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关 |
 
 ---
