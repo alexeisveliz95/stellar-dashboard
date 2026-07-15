@@ -20,7 +20,45 @@
     "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
     "Chat Control 1.0 and 2.0 Explained",
     "MadsLorentzen/ai-job-search",
-    "Show HN: Davit, a Apple Containers UI"
+    "Show HN: Davit, a Apple Containers UI",
+    "Zackriya-Solutions/meetily",
+    "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "Show HN: Kastor – Terraform-style specs for AI agents",
+    "GPT‑Live",
+    "John Deere owners will get the right to repair equipment under FTC settlement",
+    "ruvnet/RuView",
+    "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "SmartlyDressedGames/U3-SDK",
+    "GPT-5.6",
+    "An AI agent startup just let its agent run its $100 million fundraise",
+    "Train sim created by just one person is being called the best ever made",
+    "VoltAgent/awesome-design-md",
+    "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "wonderwhy-er/DesktopCommanderMCP",
+    "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+    "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "AI 2040: Plan A",
+    "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+    "Modern Decor May Be Straining People's Brains",
+    "OpenAI bets on families as ChatGPT goes deeper into households",
+    "Stop Telling Me to Ask an LLM",
+    "catchorg/Catch2",
+    "Mesh LLM: distributed AI computing on iroh",
+    "Show HN: Ant – A JavaScript runtime and ecosystem",
+    "Automation Without Understanding",
+    "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+    "Dicklesworthstone/destructive_command_guard",
+    "OpenAI bets on families as ChatGPT goes deeper into households",
+    "Interrail: 6,379Km and 13 Countries over 7 weeks",
+    "Grok uploaded my user directory to xAI's servers",
+    "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "Building and shipping Mac and iOS apps without ever opening Xcode",
+    "OpenCut-app/OpenCut",
+    "The real AI race may no longer be at the frontier",
+    "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
   ],
   "published": [
     {
@@ -136,13 +174,241 @@
     },
     {
       "repo_name": "Show HN: Davit, a Apple Containers UI",
-      "ts": "2026-07-08T00:18:51.123698+00:00",
-      "x_tweet_id": "2074649367227551891",
+      "ts": "2026-07-08T00:18:51.130272",
       "platform": "x",
-      "tg_message_id": "172"
+      "tg_message_id": "2074649367227551891"
+    },
+    {
+      "repo_name": "Zackriya-Solutions/meetily",
+      "ts": "2026-07-08T04:21:02.279664",
+      "platform": "telegram",
+      "tg_message_id": "173"
+    },
+    {
+      "repo_name": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "ts": "2026-07-08T10:17:12.618496",
+      "platform": "telegram",
+      "tg_message_id": "175"
+    },
+    {
+      "repo_name": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "ts": "2026-07-08T12:19:09.371555",
+      "platform": "x",
+      "tg_message_id": "2074830633923207587"
+    },
+    {
+      "repo_name": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "ts": "2026-07-08T16:21:46.861835",
+      "platform": "telegram",
+      "tg_message_id": "178"
+    },
+    {
+      "repo_name": "GPT‑Live",
+      "ts": "2026-07-08T18:18:20.609028",
+      "platform": "x",
+      "tg_message_id": "2074921027222507875"
+    },
+    {
+      "repo_name": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "ts": "2026-07-09T00:17:11.219832",
+      "platform": "x",
+      "tg_message_id": "2075011327701975313"
+    },
+    {
+      "repo_name": "ruvnet/RuView",
+      "ts": "2026-07-09T04:20:41.705245",
+      "platform": "telegram",
+      "tg_message_id": "182"
+    },
+    {
+      "repo_name": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "ts": "2026-07-09T10:21:10.595514",
+      "platform": "telegram",
+      "tg_message_id": "184"
+    },
+    {
+      "repo_name": "SmartlyDressedGames/U3-SDK",
+      "ts": "2026-07-09T16:17:26.429170",
+      "platform": "telegram",
+      "tg_message_id": "186"
+    },
+    {
+      "repo_name": "GPT-5.6",
+      "ts": "2026-07-09T18:19:04.183743",
+      "platform": "x",
+      "tg_message_id": "2075283598232469599"
+    },
+    {
+      "repo_name": "An AI agent startup just let its agent run its $100 million fundraise",
+      "ts": "2026-07-09T22:21:26.013056",
+      "platform": "telegram",
+      "tg_message_id": "188"
+    },
+    {
+      "repo_name": "Train sim created by just one person is being called the best ever made",
+      "ts": "2026-07-10T00:21:08.640737",
+      "platform": "x",
+      "tg_message_id": "2075374716831842425"
+    },
+    {
+      "repo_name": "VoltAgent/awesome-design-md",
+      "ts": "2026-07-10T04:17:59.436593",
+      "platform": "telegram",
+      "tg_message_id": "191"
+    },
+    {
+      "repo_name": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "ts": "2026-07-10T10:21:56.569938",
+      "platform": "telegram",
+      "tg_message_id": "193"
+    },
+    {
+      "repo_name": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "ts": "2026-07-10T12:18:39.016874",
+      "platform": "x",
+      "tg_message_id": "2075555282218848332"
+    },
+    {
+      "repo_name": "wonderwhy-er/DesktopCommanderMCP",
+      "ts": "2026-07-10T16:16:49.396119",
+      "platform": "telegram",
+      "tg_message_id": "195"
+    },
+    {
+      "repo_name": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+      "ts": "2026-07-10T18:21:26.494251",
+      "platform": "x",
+      "tg_message_id": "2075646581836013614"
+    },
+    {
+      "repo_name": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "ts": "2026-07-11T00:17:06.802306",
+      "platform": "x",
+      "tg_message_id": "2075736083925504284"
+    },
+    {
+      "repo_name": "AI 2040: Plan A",
+      "ts": "2026-07-11T12:16:40.334652",
+      "platform": "x",
+      "tg_message_id": "2075917164049998228"
+    },
+    {
+      "repo_name": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+      "ts": "2026-07-11T16:20:02.981436",
+      "platform": "telegram",
+      "tg_message_id": "200"
+    },
+    {
+      "repo_name": "Modern Decor May Be Straining People's Brains",
+      "ts": "2026-07-11T18:21:18.254259",
+      "platform": "x",
+      "tg_message_id": "2076008912822669566"
+    },
+    {
+      "repo_name": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "ts": "2026-07-11T22:20:49.247964",
+      "platform": "telegram",
+      "tg_message_id": "203"
+    },
+    {
+      "repo_name": "Stop Telling Me to Ask an LLM",
+      "ts": "2026-07-12T00:17:02.704229",
+      "platform": "x",
+      "tg_message_id": "2076098454707728588"
+    },
+    {
+      "repo_name": "catchorg/Catch2",
+      "ts": "2026-07-12T04:20:38.128083",
+      "platform": "telegram",
+      "tg_message_id": "206"
+    },
+    {
+      "repo_name": "Mesh LLM: distributed AI computing on iroh",
+      "ts": "2026-07-12T10:17:06.556099",
+      "platform": "telegram",
+      "tg_message_id": "208"
+    },
+    {
+      "repo_name": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "ts": "2026-07-12T12:19:56.281072",
+      "platform": "x",
+      "tg_message_id": "2076280373760143680"
+    },
+    {
+      "repo_name": "Automation Without Understanding",
+      "ts": "2026-07-12T18:19:17.188225",
+      "platform": "x",
+      "tg_message_id": "2076370803772318200"
+    },
+    {
+      "repo_name": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "ts": "2026-07-12T22:19:02.857485",
+      "platform": "telegram",
+      "tg_message_id": "212"
+    },
+    {
+      "repo_name": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "ts": "2026-07-13T00:19:15.453455",
+      "platform": "x",
+      "tg_message_id": "2076461393096618198"
+    },
+    {
+      "repo_name": "Dicklesworthstone/destructive_command_guard",
+      "ts": "2026-07-13T04:19:03.928219",
+      "platform": "telegram",
+      "tg_message_id": "215"
+    },
+    {
+      "repo_name": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "ts": "2026-07-13T10:20:55.765669",
+      "platform": "telegram",
+      "tg_message_id": "217"
+    },
+    {
+      "repo_name": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "ts": "2026-07-13T12:21:14.940760",
+      "platform": "x",
+      "tg_message_id": "2076643085795107274"
+    },
+    {
+      "repo_name": "Grok uploaded my user directory to xAI's servers",
+      "ts": "2026-07-13T16:19:38.086479",
+      "platform": "telegram",
+      "tg_message_id": "220"
+    },
+    {
+      "repo_name": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "ts": "2026-07-13T18:21:01.942514",
+      "platform": "x",
+      "tg_message_id": "2076733636779331900"
+    },
+    {
+      "repo_name": "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "ts": "2026-07-14T00:18:03.959124",
+      "platform": "x",
+      "tg_message_id": "2076823489688797228"
+    },
+    {
+      "repo_name": "OpenCut-app/OpenCut",
+      "ts": "2026-07-14T04:20:44.734938",
+      "platform": "telegram",
+      "tg_message_id": "224"
+    },
+    {
+      "repo_name": "The real AI race may no longer be at the frontier",
+      "ts": "2026-07-14T16:23:34.159091",
+      "platform": "telegram",
+      "tg_message_id": "226"
+    },
+    {
+      "repo_name": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "ts": "2026-07-14T18:20:30.894441+00:00",
+      "x_tweet_id": "2077095900434866217",
+      "platform": "x",
+      "tg_message_id": "228"
     }
   ],
   "stats": {
-    "generated_posts": 19
+    "generated_posts": 57
   }
 }

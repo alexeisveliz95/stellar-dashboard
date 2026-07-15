@@ -1,34 +1,11 @@
 [
   {
-    "id": "github_trending_OpenCut-app_OpenCut",
-    "name": "OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "stars": 67664,
-    "growth": 1229,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "editor",
-      "oss",
-      "videoeditor"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_Shubhamsaboo_awesome-llm-apps",
     "name": "Shubhamsaboo/awesome-llm-apps",
     "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
     "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "stars": 120005,
-    "growth": 996,
+    "stars": 121214,
+    "growth": 1106,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -47,12 +24,50 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 170928,
+    "growth": 1679,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_OpenCut-app_OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "stars": 69579,
+    "growth": 4276,
+    "score": 1.0,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_Nutlope_hallmark",
     "name": "Nutlope/hallmark",
     "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
     "url": "https://github.com/Nutlope/hallmark",
-    "stars": 5468,
-    "growth": 794,
+    "stars": 6410,
+    "growth": 1015,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -65,94 +80,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Graphify-Labs_graphify",
-    "name": "Graphify-Labs/graphify",
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-    "url": "https://github.com/Graphify-Labs/graphify",
-    "stars": 85216,
-    "growth": 1095,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "antigravity",
-      "claude-code",
-      "codex",
-      "gemini",
-      "graphrag",
-      "knowledge-graph",
-      "leiden",
-      "openclaw",
-      "rag",
-      "skills",
-      "tree-sitter"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_github_spec-kit",
-    "name": "github/spec-kit",
-    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "url": "https://github.com/github/spec-kit",
-    "stars": 120836,
-    "growth": 543,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_coreyhaines31_marketingskills",
-    "name": "coreyhaines31/marketingskills",
-    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "url": "https://github.com/coreyhaines31/marketingskills",
-    "stars": 38867,
-    "growth": 299,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "claude",
-      "codex",
-      "marketing"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_HKUDS_Vibe-Trading",
     "name": "HKUDS/Vibe-Trading",
     "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
     "url": "https://github.com/HKUDS/Vibe-Trading",
-    "stars": 22160,
-    "growth": 1153,
-    "score": 0.993,
+    "stars": 23140,
+    "growth": 1256,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -173,63 +107,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_hasaneyldrm_exercises-dataset",
-    "name": "hasaneyldrm/exercises-dataset",
-    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-    "url": "https://github.com/hasaneyldrm/exercises-dataset",
-    "stars": 12892,
-    "growth": 451,
-    "score": 0.9599,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "raw_topics": [
-      "dataset",
-      "exercise-database",
-      "exercises",
-      "fitness",
-      "fitness-app",
-      "gym",
-      "json",
-      "logpress",
-      "react-native",
-      "workout"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_Dicklesworthstone_destructive_command_guard",
-    "name": "Dicklesworthstone/destructive_command_guard",
-    "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-    "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-    "stars": 3933,
-    "growth": 1295,
-    "score": 0.902,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "ai-agents",
-      "cli",
-      "developer-tools",
-      "git",
-      "rust",
-      "safety"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
     "id": "github_trending_Raphire_Win11Debloat",
     "name": "Raphire/Win11Debloat",
     "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
     "url": "https://github.com/Raphire/Win11Debloat",
-    "stars": 51100,
-    "growth": 118,
-    "score": 0.8801,
+    "stars": 51961,
+    "growth": 783,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -260,13 +144,200 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_moeru-ai_airi",
-    "name": "moeru-ai/airi",
-    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "url": "https://github.com/moeru-ai/airi",
-    "stars": 42128,
-    "growth": 78,
-    "score": 0.8628,
+    "id": "github_trending_hasaneyldrm_exercises-dataset",
+    "name": "hasaneyldrm/exercises-dataset",
+    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "stars": 13815,
+    "growth": 851,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
+    "raw_topics": [
+      "dataset",
+      "exercise-database",
+      "exercises",
+      "fitness",
+      "fitness-app",
+      "gym",
+      "json",
+      "logpress",
+      "react-native",
+      "workout"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_penpot_penpot",
+    "name": "penpot/penpot",
+    "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+    "url": "https://github.com/penpot/penpot",
+    "stars": 56318,
+    "growth": 395,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Clojure",
+    "raw_topics": [
+      "clojure",
+      "clojurescript",
+      "design",
+      "prototyping",
+      "ui",
+      "ux-design",
+      "ux-experience"
+    ],
+    "raw_license": "MPL-2.0"
+  },
+  {
+    "id": "github_trending_Graphify-Labs_graphify",
+    "name": "Graphify-Labs/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "stars": 86831,
+    "growth": 1851,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "antigravity",
+      "claude-code",
+      "codex",
+      "gemini",
+      "graphrag",
+      "knowledge-graph",
+      "leiden",
+      "openclaw",
+      "rag",
+      "skills",
+      "tree-sitter"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_virattt_ai-hedge-fund",
+    "name": "virattt/ai-hedge-fund",
+    "description": "An AI Hedge Fund Team",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "stars": 62010,
+    "growth": 109,
+    "score": 0.9789,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_HenryNdubuaku_maths-cs-ai-compendium",
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "stars": 5457,
+    "growth": 112,
+    "score": 0.8518,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai-textbook",
+      "algorithms",
+      "artificial-intelligence",
+      "computer-science",
+      "computer-vision",
+      "deep-learning",
+      "jax",
+      "linear-algebra",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "math",
+      "mathematics",
+      "multimodal-learning",
+      "nlp",
+      "probability",
+      "python",
+      "reinforcement-learning",
+      "speech-processing",
+      "statistics"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_par274_sharpemu",
+    "name": "par274/sharpemu",
+    "description": "An experimental PlayStation 5 emulator project.",
+    "url": "https://github.com/par274/sharpemu",
+    "stars": 2276,
+    "growth": 332,
+    "score": 0.8284,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "C#",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "csharp",
+      "emulation",
+      "emulator",
+      "playstation5",
+      "ps5",
+      "windows"
+    ],
+    "raw_license": "GPL-2.0"
+  },
+  {
+    "id": "github_trending_chenyme_grok2api",
+    "name": "chenyme/grok2api",
+    "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+    "url": "https://github.com/chenyme/grok2api",
+    "stars": 5945,
+    "growth": 186,
+    "score": 0.8111,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "grok",
+      "grok-imagine"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_AIEraDev_Clypra",
+    "name": "AIEraDev/Clypra",
+    "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+    "url": "https://github.com/AIEraDev/Clypra",
+    "stars": 2749,
+    "growth": 85,
+    "score": 0.7377,
     "categories": [
       "Web Development"
     ],
@@ -276,17 +347,8 @@
       "nlp:web-development"
     ],
     "raw_topics": [
-      "ai-companion",
-      "ai-vtuber",
-      "airi",
-      "digital-life",
-      "grok-companion",
-      "live2d",
-      "neuro-sama",
-      "neurosama",
-      "openclaw",
-      "vrm",
-      "vtuber"
+      "clypra",
+      "video-editor"
     ],
     "raw_license": "MIT"
   }
