@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **8 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **311.3k**
-> Actualizado: `2026-07-16 07:16`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,13 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 172.9k | `█░░░░░░░░░` | Skills for Real Engineers. Straight from my .claude directory. |
-| [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **1.00** | 23.9k | `████░░░░░░` | "Vibe-Trading: Your Personal Trading Agent" |
-| [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **1.00** | 14.6k | `███████░░░` | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment… |
-| [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 65.7k | `█░░░░░░░░░` | A coding agent for low-cost models |
-| [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | **0.91** | 4.9k | `██████████` | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from… |
-| [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **0.87** | 26.5k | `█░░░░░░░░░` | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/. |
-| [**pi-computer-use**](https://github.com/injaneity/pi-computer-use) | **0.69** | 1.3k | `████████░░` | Let Pi control your apps on MacOS & Windows |
-| [**YimMenuV2**](https://github.com/YimMenu/YimMenuV2) | **0.65** | 1.5k | `███░░░░░░░` | Experimental menu for GTA 5: Enhanced |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
