@@ -29,3 +29,6 @@
 | 2026-07-15 | **1** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +4276 | 69.6k | `1.00` |
 | 2026-07-15 | **2** | [graphify](https://github.com/Graphify-Labs/graphify) | +1851 | 86.8k | `1.00` |
 | 2026-07-15 | **3** | [skills](https://github.com/mattpocock/skills) | +1679 | 170.9k | `1.00` |
+| 2026-07-16 | **1** | [skills](https://github.com/mattpocock/skills) | +2130 | 172.9k | `1.00` |
+| 2026-07-16 | **2** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +1664 | 72.7k | `1.00` |
+| 2026-07-16 | **3** | [hallmark](https://github.com/Nutlope/hallmark) | +1277 | 9.4k | `1.00` |
