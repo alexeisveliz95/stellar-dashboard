@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-16 08:23`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-17 07:11`
+> 📦 **32** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**skills**](https://github.com/mattpocock/skills) | 172.9k | +2.1k | Shell |
-| 2 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 72.7k | +1.7k | TypeScript |
-| 3 | [**hallmark**](https://github.com/Nutlope/hallmark) | 9.4k | +1.3k | CSS |
-| 4 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122.2k | +1.2k | Python |
-| 5 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 14.6k | +949 | HTML |
-| 6 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | 23.9k | +915 | Python |
-| 7 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6.1k | +725 | TypeScript |
-| 8 | [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | 4.9k | +471 | Rust |
-| 9 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | 40.0k | +340 | JavaScript |
-| 10 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | 65.7k | +299 | Rust |
+| 1 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 74.3k | +3.5k | TypeScript |
+| 2 | [**hallmark**](https://github.com/Nutlope/hallmark) | 11.3k | +3.4k | CSS |
+| 3 | [**skills**](https://github.com/mattpocock/skills) | 174.7k | +2.1k | Shell |
+| 4 | [**graphify**](https://github.com/Graphify-Labs/graphify) | 89.5k | +1.1k | Python |
+| 5 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 123.2k | +923 | Python |
+| 6 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 15.2k | +710 | HTML |
+| 7 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | 66.1k | +661 | Rust |
+| 8 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 27.1k | +656 | Python |
+| 9 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 526.6k | +435 | Markdown |
+| 10 | [**Bonsai-demo**](https://github.com/PrismML-Eng/Bonsai-demo) | 1.6k | +196 | Shell |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 72.7k | Mobile Development |
-| 🥈 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 9.4k | AI & Data Science |
-| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 172.9k | Otros |
-| 4 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | **1.00** | 23.9k | Otros |
-| 5 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | **1.00** | 6.1k | AI & Data Science |
-| 6 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 122.2k | AI & Data Science |
-| 7 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 40.0k | AI & Data Science |
-| 8 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **1.00** | 14.6k | Otros |
-| 9 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 65.7k | Otros |
-| 10 | [**airi**](https://github.com/moeru-ai/airi) | **0.93** | 42.7k | Web Development |
+| 🥇 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 11.3k | AI & Data Science |
+| 🥈 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 74.3k | Mobile Development |
+| 🥉 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 66.1k | Otros |
+| 4 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **1.00** | 15.2k | Otros |
+| 5 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 123.2k | AI & Data Science |
+| 6 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 27.1k | Otros |
+| 7 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 174.7k | Otros |
+| 8 | [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 89.5k | Python & Backend |
+| 9 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 526.6k | Otros |
+| 10 | [**computer-science**](https://github.com/ossu/computer-science) | **1.00** | 206.7k | AI & Data Science |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 7 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.86** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
