@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **7 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **812.8k**
-> Actualizado: `2026-07-17 07:11`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,12 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 66.1k | `█░░░░░░░░░` | A coding agent for open models like Kimi K3 |
-| [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **1.00** | 15.2k | `████░░░░░░` | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment… |
-| [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 27.1k | `██░░░░░░░░` | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/. |
-| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 174.7k | `█░░░░░░░░░` | Skills for Real Engineers. Straight from my .claude directory. |
-| [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 526.6k | `█░░░░░░░░░` | Master programming by recreating your favorite technologies from scratch. |
-| [**Bonsai-demo**](https://github.com/PrismML-Eng/Bonsai-demo) | **0.77** | 1.6k | `██████████` | Bonsai Demo |
-| [**YimMenuV2**](https://github.com/YimMenu/YimMenuV2) | **0.70** | 1.5k | `███████░░░` | Experimental menu for GTA 5: Enhanced |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

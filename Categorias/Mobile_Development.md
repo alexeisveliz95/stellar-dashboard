@@ -1,8 +1,8 @@
 # 📂 Mobile Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **84.0k**
-> Actualizado: `2026-07-17 07:11`
+> **5 proyectos** · ⭐ Mejor score: **0.50** · Estrellas totales: **59.8k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,7 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 74.3k | `██████████` | The open-source CapCut alternative |
-| [**copilot-sdk**](https://github.com/github/copilot-sdk) | **0.70** | 9.7k | `█░░░░░░░░░` | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [**termux-app**](https://github.com/termux/termux-app) | **0.50** | 55.1k | `░░░░░░░░░░` | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [**ubuntu-on-android**](https://github.com/RandomCoderOrg/ubuntu-on-android) | **0.45** | 1.5k | `░░░░░░░░░░` | Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is… |
+| [**DroidDesk**](https://github.com/orailnoor/DroidDesk) | **0.43** | 1.3k | `░░░░░░░░░░` | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR,… |
+| [**openclaw-android**](https://github.com/AidanPark/openclaw-android) | **0.35** | 1.5k | `░░░░░░░░░░` | Run OpenClaw on Android with a single command — no proot, no Linux |
+| [**ios-builder**](https://github.com/MobAI-App/ios-builder) | **0.25** | 455 | `░░░░░░░░░░` | Sin descripción |
 
 ---
