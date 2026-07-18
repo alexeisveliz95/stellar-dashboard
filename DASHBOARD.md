@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-17 08:20`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-18 06:52`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 74.3k | +3.5k | TypeScript |
-| 2 | [**hallmark**](https://github.com/Nutlope/hallmark) | 11.3k | +3.4k | CSS |
-| 3 | [**skills**](https://github.com/mattpocock/skills) | 174.7k | +2.1k | Shell |
-| 4 | [**graphify**](https://github.com/Graphify-Labs/graphify) | 89.5k | +1.1k | Python |
-| 5 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 123.2k | +923 | Python |
-| 6 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 15.2k | +710 | HTML |
-| 7 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | 66.1k | +661 | Rust |
-| 8 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 27.1k | +656 | Python |
-| 9 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 526.6k | +435 | Markdown |
-| 10 | [**Bonsai-demo**](https://github.com/PrismML-Eng/Bonsai-demo) | 1.6k | +196 | Shell |
+| 1 | [**hallmark**](https://github.com/Nutlope/hallmark) | 12.3k | +1.5k | CSS |
+| 2 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 75.1k | +1.1k | TypeScript |
+| 3 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 527.7k | +1.1k | Markdown |
+| 4 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 27.5k | +531 | Python |
+| 5 | [**posthog**](https://github.com/PostHog/posthog) | 36.3k | +438 | Python |
+| 6 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | 66.5k | +431 | Rust |
+| 7 | [**turbovec**](https://github.com/RyanCodrai/turbovec) | 13.4k | +280 | Python |
+| 8 | [**Bonsai-demo**](https://github.com/PrismML-Eng/Bonsai-demo) | 1.8k | +278 | Shell |
+| 9 | [**copilot-sdk**](https://github.com/github/copilot-sdk) | 9.8k | +233 | Java |
+| 10 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6.8k | +200 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 11.3k | AI & Data Science |
-| 🥈 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 74.3k | Mobile Development |
-| 🥉 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 66.1k | Otros |
-| 4 | [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | **1.00** | 15.2k | Otros |
-| 5 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 123.2k | AI & Data Science |
-| 6 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 27.1k | Otros |
-| 7 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 174.7k | Otros |
-| 8 | [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 89.5k | Python & Backend |
-| 9 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 526.6k | Otros |
-| 10 | [**computer-science**](https://github.com/ossu/computer-science) | **1.00** | 206.7k | AI & Data Science |
+| 🥇 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 527.7k | Otros |
+| 🥈 | [**posthog**](https://github.com/PostHog/posthog) | **1.00** | 36.3k | Web Development |
+| 🥉 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 12.3k | AI & Data Science |
+| 4 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 66.5k | Otros |
+| 5 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 27.5k | Otros |
+| 6 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 75.1k | Mobile Development |
+| 7 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **0.99** | 19.9k | AI & Data Science |
+| 8 | [**turbovec**](https://github.com/RyanCodrai/turbovec) | **0.90** | 13.4k | PlayStation Homebrew & Linux |
+| 9 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | **0.90** | 6.8k | AI & Data Science |
+| 10 | [**protobuf**](https://github.com/protocolbuffers/protobuf) | **0.89** | 71.6k | Otros |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 7 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.90** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

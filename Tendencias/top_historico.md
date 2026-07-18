@@ -35,3 +35,6 @@
 | 2026-07-17 | **1** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +3537 | 74.3k | `1.00` |
 | 2026-07-17 | **2** | [hallmark](https://github.com/Nutlope/hallmark) | +3372 | 11.3k | `1.00` |
 | 2026-07-17 | **3** | [skills](https://github.com/mattpocock/skills) | +2060 | 174.7k | `1.00` |
+| 2026-07-18 | **1** | [hallmark](https://github.com/Nutlope/hallmark) | +1485 | 12.3k | `1.00` |
+| 2026-07-18 | **2** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +1074 | 75.1k | `1.00` |
+| 2026-07-18 | **3** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | +1068 | 527.7k | `1.00` |
