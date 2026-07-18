@@ -1,198 +1,11 @@
 [
   {
-    "id": "github_trending_Nutlope_hallmark",
-    "name": "Nutlope/hallmark",
-    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "url": "https://github.com/Nutlope/hallmark",
-    "stars": 11329,
-    "growth": 3372,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "CSS",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_OpenCut-app_OpenCut",
-    "name": "OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "stars": 74314,
-    "growth": 3537,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "editor",
-      "oss",
-      "videoeditor"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_openinterpreter_openinterpreter",
-    "name": "openinterpreter/openinterpreter",
-    "description": "A coding agent for open models like Kimi K3",
-    "url": "https://github.com/openinterpreter/openinterpreter",
-    "stars": 66110,
-    "growth": 661,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "acp",
-      "coding-agent",
-      "deepseek",
-      "kimi",
-      "qwen",
-      "rust"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_hasaneyldrm_exercises-dataset",
-    "name": "hasaneyldrm/exercises-dataset",
-    "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-    "url": "https://github.com/hasaneyldrm/exercises-dataset",
-    "stars": 15205,
-    "growth": 710,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "raw_topics": [
-      "dataset",
-      "exercise-database",
-      "exercises",
-      "fitness",
-      "fitness-app",
-      "gym",
-      "json",
-      "logpress",
-      "react-native",
-      "workout"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_Shubhamsaboo_awesome-llm-apps",
-    "name": "Shubhamsaboo/awesome-llm-apps",
-    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "stars": 123182,
-    "growth": 923,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agents",
-      "llms",
-      "python",
-      "rag"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_HKUDS_DeepTutor",
-    "name": "HKUDS/DeepTutor",
-    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 27053,
-    "growth": 656,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "ai-agents",
-      "ai-tutor",
-      "clawdbot",
-      "cli-tool",
-      "deepresearch",
-      "interactive-learning",
-      "large-language-models",
-      "multi-agent-systems",
-      "rag"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .claude directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 174731,
-    "growth": 2060,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Graphify-Labs_graphify",
-    "name": "Graphify-Labs/graphify",
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-    "url": "https://github.com/Graphify-Labs/graphify",
-    "stars": 89455,
-    "growth": 1107,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "antigravity",
-      "claude-code",
-      "codex",
-      "gemini",
-      "graphrag",
-      "knowledge-graph",
-      "leiden",
-      "openclaw",
-      "rag",
-      "skills",
-      "tree-sitter"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_codecrafters-io_build-your-own-x",
     "name": "codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "stars": 526590,
-    "growth": 435,
+    "stars": 527662,
+    "growth": 1068,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -209,75 +22,13 @@
     ]
   },
   {
-    "id": "github_trending_ossu_computer-science",
-    "name": "ossu/computer-science",
-    "description": "🎓 Path to a free self-taught education in Computer Science!",
-    "url": "https://github.com/ossu/computer-science",
-    "stars": 206714,
-    "growth": 107,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "awesome-list",
-      "computer-science",
-      "courses",
-      "curriculum"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_lobehub_lobehub",
-    "name": "lobehub/lobehub",
-    "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-    "url": "https://github.com/lobehub/lobehub",
-    "stars": 80322,
-    "growth": 71,
-    "score": 0.9773,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "agent-collaboration",
-      "agent-harness",
-      "ai",
-      "cao",
-      "chatgpt",
-      "chief-agent-operator",
-      "claude",
-      "deepseek",
-      "fable",
-      "gemini",
-      "glm",
-      "gpt",
-      "knowledge-base",
-      "loop-engineering",
-      "mcp",
-      "openai",
-      "skills"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
     "id": "github_trending_PostHog_posthog",
     "name": "PostHog/posthog",
     "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
     "url": "https://github.com/PostHog/posthog",
-    "stars": 35958,
-    "growth": 77,
-    "score": 0.8575,
+    "stars": 36279,
+    "growth": 438,
+    "score": 1.0,
     "categories": [
       "Web Development"
     ],
@@ -306,13 +57,103 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_apache_ossie",
-    "name": "apache/ossie",
-    "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-    "url": "https://github.com/apache/ossie",
-    "stars": 1035,
-    "growth": 60,
-    "score": 0.812,
+    "id": "github_trending_Nutlope_hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "url": "https://github.com/Nutlope/hallmark",
+    "stars": 12286,
+    "growth": 1485,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "CSS",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_openinterpreter_openinterpreter",
+    "name": "openinterpreter/openinterpreter",
+    "description": "A coding agent for open models like Kimi K3",
+    "url": "https://github.com/openinterpreter/openinterpreter",
+    "stars": 66504,
+    "growth": 431,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_topics": [
+      "acp",
+      "coding-agent",
+      "deepseek",
+      "kimi",
+      "qwen",
+      "rust"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_HKUDS_DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "stars": 27480,
+    "growth": 531,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawdbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_OpenCut-app_OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "stars": 75069,
+    "growth": 1074,
+    "score": 1.0,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_tirth8205_code-review-graph",
+    "name": "tirth8205/code-review-graph",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "stars": 19867,
+    "growth": 74,
+    "score": 0.9887,
     "categories": [
       "AI & Data Science"
     ],
@@ -322,19 +163,176 @@
       "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "metadata",
-      "semantic"
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "code-review",
+      "graphrag",
+      "incremental",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "python",
+      "static-analysis",
+      "tree-sitter"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_RyanCodrai_turbovec",
+    "name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "stars": 13400,
+    "growth": 280,
+    "score": 0.9001,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "ann",
+      "avx512",
+      "embedding",
+      "embeddings",
+      "faiss",
+      "nearest-neighbor",
+      "neon",
+      "python",
+      "quant",
+      "quantization",
+      "rag",
+      "rust",
+      "simd",
+      "turboquant",
+      "vector-search"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_HenryNdubuaku_maths-cs-ai-compendium",
+    "name": "HenryNdubuaku/maths-cs-ai-compendium",
+    "description": "Become a cracked AI/ML Research Engineer",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "stars": 6754,
+    "growth": 200,
+    "score": 0.8965,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai-textbook",
+      "algorithms",
+      "artificial-intelligence",
+      "computer-science",
+      "computer-vision",
+      "deep-learning",
+      "jax",
+      "linear-algebra",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "math",
+      "mathematics",
+      "multimodal-learning",
+      "nlp",
+      "probability",
+      "python",
+      "reinforcement-learning",
+      "speech-processing",
+      "statistics"
     ],
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_protocolbuffers_protobuf",
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "stars": 71561,
+    "growth": 11,
+    "score": 0.8927,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_topics": [
+      "marshalling",
+      "protobuf",
+      "protobuf-runtime",
+      "protoc",
+      "protocol-buffers",
+      "protocol-compiler",
+      "rpc",
+      "serialization"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_github_copilot-sdk",
+    "name": "github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "url": "https://github.com/github/copilot-sdk",
+    "stars": 9834,
+    "growth": 233,
+    "score": 0.814,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_docusealco_docuseal",
+    "name": "docusealco/docuseal",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "url": "https://github.com/docusealco/docuseal",
+    "stars": 17927,
+    "growth": 91,
+    "score": 0.8059,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Ruby",
+    "raw_topics": [
+      "document-signing",
+      "documents",
+      "e-signature",
+      "hotwired-turbo",
+      "open-source",
+      "pdf",
+      "pdf-sign",
+      "pdf-signature",
+      "ruby-on-rails",
+      "self-hosted",
+      "tailwindcss",
+      "vue",
+      "webpack"
+    ],
+    "raw_license": "AGPL-3.0"
   },
   {
     "id": "github_trending_PrismML-Eng_Bonsai-demo",
     "name": "PrismML-Eng/Bonsai-demo",
     "description": "Bonsai Demo",
     "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-    "stars": 1607,
-    "growth": 196,
-    "score": 0.7701,
+    "stars": 1752,
+    "growth": 278,
+    "score": 0.8038,
     "categories": [
       "Otros"
     ],
@@ -351,58 +349,18 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_ibelick_ui-skills",
-    "name": "ibelick/ui-skills",
-    "description": "Skills for Design Engineers",
-    "url": "https://github.com/ibelick/ui-skills",
-    "stars": 4471,
-    "growth": 178,
-    "score": 0.7226,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "skills",
-      "ui-skills"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_github_copilot-sdk",
-    "name": "github/copilot-sdk",
-    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-    "url": "https://github.com/github/copilot-sdk",
-    "stars": 9709,
-    "growth": 13,
-    "score": 0.7048,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_YimMenu_YimMenuV2",
-    "name": "YimMenu/YimMenuV2",
-    "description": "Experimental menu for GTA 5: Enhanced",
-    "url": "https://github.com/YimMenu/YimMenuV2",
-    "stars": 1531,
-    "growth": 128,
-    "score": 0.6956,
+    "id": "github_trending_anthropics_cwc-workshops",
+    "name": "anthropics/cwc-workshops",
+    "description": "",
+    "url": "https://github.com/anthropics/cwc-workshops",
+    "stars": 1640,
+    "growth": 45,
+    "score": 0.626,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "C++",
-    "raw_license": "GPL-2.0"
+    "language": "TypeScript",
+    "raw_license": "Apache-2.0"
   }
 ]

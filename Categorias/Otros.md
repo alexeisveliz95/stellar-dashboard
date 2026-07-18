@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **7 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **714.5k**
-> Actualizado: `2026-07-18 06:52`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,12 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 527.7k | `█░░░░░░░░░` | Master programming by recreating your favorite technologies from scratch. |
-| [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 66.5k | `█░░░░░░░░░` | A coding agent for open models like Kimi K3 |
-| [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 27.5k | `█░░░░░░░░░` | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/. |
-| [**protobuf**](https://github.com/protocolbuffers/protobuf) | **0.89** | 71.6k | `█░░░░░░░░░` | Protocol Buffers - Google's data interchange format |
-| [**docuseal**](https://github.com/docusealco/docuseal) | **0.81** | 17.9k | `█░░░░░░░░░` | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
-| [**Bonsai-demo**](https://github.com/PrismML-Eng/Bonsai-demo) | **0.80** | 1.8k | `██████████` | Bonsai Demo |
-| [**cwc-workshops**](https://github.com/anthropics/cwc-workshops) | **0.63** | 1.6k | `██░░░░░░░░` | Sin descripción |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

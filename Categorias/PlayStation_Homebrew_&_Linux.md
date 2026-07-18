@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.90** · Estrellas totales: **13.4k**
-> Actualizado: `2026-07-18 06:52`
+> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**turbovec**](https://github.com/RyanCodrai/turbovec) | **0.90** | 13.4k | `██████████` | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
+| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
 
 ---
