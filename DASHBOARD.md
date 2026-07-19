@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-18 08:01`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-19 07:21`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**hallmark**](https://github.com/Nutlope/hallmark) | 12.3k | +1.5k | CSS |
-| 2 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 75.1k | +1.1k | TypeScript |
-| 3 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 527.7k | +1.1k | Markdown |
-| 4 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 27.5k | +531 | Python |
-| 5 | [**posthog**](https://github.com/PostHog/posthog) | 36.3k | +438 | Python |
-| 6 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | 66.5k | +431 | Rust |
-| 7 | [**turbovec**](https://github.com/RyanCodrai/turbovec) | 13.4k | +280 | Python |
-| 8 | [**Bonsai-demo**](https://github.com/PrismML-Eng/Bonsai-demo) | 1.8k | +278 | Shell |
-| 9 | [**copilot-sdk**](https://github.com/github/copilot-sdk) | 9.8k | +233 | Java |
-| 10 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6.8k | +200 | TypeScript |
+| 1 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 528.5k | +1.1k | Markdown |
+| 2 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | 13.2k | +831 | Python |
+| 3 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 20.3k | +355 | Python |
+| 4 | [**posthog**](https://github.com/PostHog/posthog) | 36.7k | +338 | Python |
+| 5 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | 1.4k | +203 | TypeScript |
+| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 39.2k | +191 | Python |
+| 7 | [**airllm**](https://github.com/lyogavin/airllm) | 23.4k | +161 | Jupyter Notebook |
+| 8 | [**ui-skills**](https://github.com/ibelick/ui-skills) | 5.2k | +123 | TypeScript |
+| 9 | [**G0DM0D3**](https://github.com/elder-plinius/G0DM0D3) | 9.6k | +69 | TypeScript |
+| 10 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | 9.6k | +65 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 527.7k | Otros |
-| 🥈 | [**posthog**](https://github.com/PostHog/posthog) | **1.00** | 36.3k | Web Development |
-| 🥉 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 12.3k | AI & Data Science |
-| 4 | [**openinterpreter**](https://github.com/openinterpreter/openinterpreter) | **1.00** | 66.5k | Otros |
-| 5 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 27.5k | Otros |
-| 6 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 75.1k | Mobile Development |
-| 7 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **0.99** | 19.9k | AI & Data Science |
-| 8 | [**turbovec**](https://github.com/RyanCodrai/turbovec) | **0.90** | 13.4k | PlayStation Homebrew & Linux |
-| 9 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | **0.90** | 6.8k | AI & Data Science |
-| 10 | [**protobuf**](https://github.com/protocolbuffers/protobuf) | **0.89** | 71.6k | Otros |
+| 🥇 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | **1.00** | 13.2k | AI & Data Science |
+| 🥈 | [**posthog**](https://github.com/PostHog/posthog) | **1.00** | 36.7k | Web Development |
+| 🥉 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 39.2k | AI & Data Science |
+| 4 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 20.3k | AI & Data Science |
+| 5 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 528.5k | Otros |
+| 6 | [**airllm**](https://github.com/lyogavin/airllm) | **0.93** | 23.4k | Web Development |
+| 7 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | **0.86** | 9.6k | Automation & DevOps |
+| 8 | [**G0DM0D3**](https://github.com/elder-plinius/G0DM0D3) | **0.85** | 9.6k | AI & Data Science |
+| 9 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | **0.82** | 1.4k | Python & Backend |
+| 10 | [**ossie**](https://github.com/apache/ossie) | **0.81** | 1.3k | AI & Data Science |
 
 ---
 
@@ -77,14 +77,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.86** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 1 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.82** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

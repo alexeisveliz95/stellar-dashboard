@@ -38,3 +38,6 @@
 | 2026-07-18 | **1** | [hallmark](https://github.com/Nutlope/hallmark) | +1485 | 12.3k | `1.00` |
 | 2026-07-18 | **2** | [OpenCut](https://github.com/OpenCut-app/OpenCut) | +1074 | 75.1k | `1.00` |
 | 2026-07-18 | **3** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | +1068 | 527.7k | `1.00` |
+| 2026-07-19 | **1** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | +1126 | 528.5k | `1.00` |
+| 2026-07-19 | **2** | [lingbot-map](https://github.com/Robbyant/lingbot-map) | +831 | 13.2k | `1.00` |
+| 2026-07-19 | **3** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +355 | 20.3k | `1.00` |
