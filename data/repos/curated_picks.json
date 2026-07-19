@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-07-12T23:50:14.023041+00:00",
+  "updated_at": "2026-07-19T23:54:44.066650+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W29",
+      "week_start": "2026-07-13",
+      "generated_at": "2026-07-19T23:54:44.066650+00:00",
+      "picks": [
+        {
+          "name": "awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "score": 0.73,
+          "stars": 122200,
+          "growth": 1236,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "score": 0.73,
+          "stars": 6100,
+          "growth": 725,
+          "momentum": 0.9,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "score": 0.71,
+          "stars": 61500,
+          "growth": 115,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "score": 0.0,
+          "stars": 69600,
+          "growth": 4276,
+          "momentum": 0.4,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "score": 0.0,
+          "stars": 11300,
+          "growth": 3372,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 172900,
+          "growth": 2130,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "score": 0.0,
+          "stars": 86800,
+          "growth": 1851,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "score": 0.0,
+          "stars": 3900,
+          "growth": 1295,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "score": 0.0,
+          "stars": 23100,
+          "growth": 1256,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "score": 0.0,
+          "stars": 528500,
+          "growth": 1126,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W28",
       "week_start": "2026-07-06",
