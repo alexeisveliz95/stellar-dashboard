@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-19 23:54`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-20 07:54`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 528.5k | +1.1k | Markdown |
-| 2 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | 13.2k | +831 | Python |
-| 3 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 20.3k | +355 | Python |
-| 4 | [**posthog**](https://github.com/PostHog/posthog) | 36.7k | +338 | Python |
-| 5 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | 1.4k | +203 | TypeScript |
-| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 39.2k | +191 | Python |
-| 7 | [**airllm**](https://github.com/lyogavin/airllm) | 23.4k | +161 | Jupyter Notebook |
-| 8 | [**ui-skills**](https://github.com/ibelick/ui-skills) | 5.2k | +123 | TypeScript |
-| 9 | [**G0DM0D3**](https://github.com/elder-plinius/G0DM0D3) | 9.6k | +69 | TypeScript |
-| 10 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | 9.6k | +65 | Python |
+| 1 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | 7.8k | +1.7k | Python |
+| 2 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 529.1k | +754 | Markdown |
+| 3 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 21.9k | +663 | Python |
+| 4 | [**voicebox**](https://github.com/jamiepine/voicebox) | 43.7k | +610 | TypeScript |
+| 5 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | 2.1k | +595 | TypeScript |
+| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 40.0k | +501 | Python |
+| 7 | [**posthog**](https://github.com/PostHog/posthog) | 37.0k | +411 | Python |
+| 8 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | 10.0k | +410 | Python |
+| 9 | [**ktransformers**](https://github.com/kvcache-ai/ktransformers) | 18.5k | +360 | Python |
+| 10 | [**airllm**](https://github.com/lyogavin/airllm) | 23.7k | +358 | Jupyter Notebook |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | **1.00** | 13.2k | AI & Data Science |
-| 🥈 | [**posthog**](https://github.com/PostHog/posthog) | **1.00** | 36.7k | Web Development |
-| 🥉 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 39.2k | AI & Data Science |
-| 4 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 20.3k | AI & Data Science |
-| 5 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 528.5k | Otros |
-| 6 | [**airllm**](https://github.com/lyogavin/airllm) | **0.93** | 23.4k | Web Development |
-| 7 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | **0.86** | 9.6k | Automation & DevOps |
-| 8 | [**G0DM0D3**](https://github.com/elder-plinius/G0DM0D3) | **0.85** | 9.6k | AI & Data Science |
-| 9 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | **0.82** | 1.4k | Python & Backend |
-| 10 | [**ossie**](https://github.com/apache/ossie) | **0.81** | 1.3k | AI & Data Science |
+| 🥇 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | **1.00** | 7.8k | AI & Data Science |
+| 🥈 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 21.9k | AI & Data Science |
+| 🥉 | [**ktransformers**](https://github.com/kvcache-ai/ktransformers) | **1.00** | 18.5k | AI & Data Science |
+| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 40.0k | AI & Data Science |
+| 5 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 43.7k | AI & Data Science |
+| 6 | [**posthog**](https://github.com/PostHog/posthog) | **1.00** | 37.0k | Web Development |
+| 7 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 529.1k | Otros |
+| 8 | [**cs-self-learning**](https://github.com/PKUFlyingPig/cs-self-learning) | **1.00** | 74.3k | AI & Data Science |
+| 9 | [**AstrBot**](https://github.com/AstrBotDevs/AstrBot) | **1.00** | 36.8k | AI & Data Science |
+| 10 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | **0.99** | 10.0k | Automation & DevOps |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.99** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.71** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.96** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.95** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

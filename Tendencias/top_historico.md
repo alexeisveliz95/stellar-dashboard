@@ -41,3 +41,6 @@
 | 2026-07-19 | **1** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | +1126 | 528.5k | `1.00` |
 | 2026-07-19 | **2** | [lingbot-map](https://github.com/Robbyant/lingbot-map) | +831 | 13.2k | `1.00` |
 | 2026-07-19 | **3** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +355 | 20.3k | `1.00` |
+| 2026-07-20 | **1** | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | +1734 | 7.8k | `1.00` |
+| 2026-07-20 | **2** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | +754 | 529.1k | `1.00` |
+| 2026-07-20 | **3** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +663 | 21.9k | `1.00` |
