@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-20 09:26`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-21 07:29`
+> 📦 **32** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | 7.8k | +1.7k | Python |
-| 2 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 529.1k | +754 | Markdown |
-| 3 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 21.9k | +663 | Python |
-| 4 | [**voicebox**](https://github.com/jamiepine/voicebox) | 43.7k | +610 | TypeScript |
-| 5 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | 2.1k | +595 | TypeScript |
-| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 40.0k | +501 | Python |
-| 7 | [**posthog**](https://github.com/PostHog/posthog) | 37.0k | +411 | Python |
-| 8 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | 10.0k | +410 | Python |
-| 9 | [**ktransformers**](https://github.com/kvcache-ai/ktransformers) | 18.5k | +360 | Python |
-| 10 | [**airllm**](https://github.com/lyogavin/airllm) | 23.7k | +358 | Jupyter Notebook |
+| 1 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | 11.9k | +4.4k | Python |
+| 2 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 23.8k | +1.8k | Python |
+| 3 | [**openship**](https://github.com/oblien/openship) | 5.2k | +1.6k | TypeScript |
+| 4 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 22.4k | +1.1k | TypeScript |
+| 5 | [**open-seo**](https://github.com/every-app/open-seo) | 6.1k | +939 | TypeScript |
+| 6 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 135.0k | +862 | Shell |
+| 7 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 40.9k | +823 | Python |
+| 8 | [**voicebox**](https://github.com/jamiepine/voicebox) | 44.6k | +821 | TypeScript |
+| 9 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | 2.7k | +689 | TypeScript |
+| 10 | [**jcode**](https://github.com/1jehuang/jcode) | 9.9k | +568 | Rust |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | **1.00** | 7.8k | AI & Data Science |
-| 🥈 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 21.9k | AI & Data Science |
-| 🥉 | [**ktransformers**](https://github.com/kvcache-ai/ktransformers) | **1.00** | 18.5k | AI & Data Science |
-| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 40.0k | AI & Data Science |
-| 5 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 43.7k | AI & Data Science |
-| 6 | [**posthog**](https://github.com/PostHog/posthog) | **1.00** | 37.0k | Web Development |
-| 7 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 529.1k | Otros |
-| 8 | [**cs-self-learning**](https://github.com/PKUFlyingPig/cs-self-learning) | **1.00** | 74.3k | AI & Data Science |
-| 9 | [**AstrBot**](https://github.com/AstrBotDevs/AstrBot) | **1.00** | 36.8k | AI & Data Science |
-| 10 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | **0.99** | 10.0k | Automation & DevOps |
+| 🥇 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | **1.00** | 11.9k | AI & Data Science |
+| 🥈 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 23.8k | AI & Data Science |
+| 🥉 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 22.4k | AI & Data Science |
+| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 40.9k | AI & Data Science |
+| 5 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 135.0k | AI & Data Science |
+| 6 | [**ktransformers**](https://github.com/kvcache-ai/ktransformers) | **1.00** | 18.8k | AI & Data Science |
+| 7 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 44.6k | AI & Data Science |
+| 8 | [**cognee**](https://github.com/topoteretes/cognee) | **1.00** | 28.9k | AI & Data Science |
+| 9 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | **1.00** | 14.4k | AI & Data Science |
+| 10 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | **1.00** | 10.4k | Automation & DevOps |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 12 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.98** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.98** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.95** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

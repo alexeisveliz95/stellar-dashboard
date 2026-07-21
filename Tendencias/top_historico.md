@@ -44,3 +44,6 @@
 | 2026-07-20 | **1** | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | +1734 | 7.8k | `1.00` |
 | 2026-07-20 | **2** | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | +754 | 529.1k | `1.00` |
 | 2026-07-20 | **3** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +663 | 21.9k | `1.00` |
+| 2026-07-21 | **1** | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | +4434 | 11.9k | `1.00` |
+| 2026-07-21 | **2** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +1833 | 23.8k | `1.00` |
+| 2026-07-21 | **3** | [openship](https://github.com/oblien/openship) | +1641 | 5.2k | `0.98` |

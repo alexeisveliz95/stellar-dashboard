@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **4 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **175.6k**
+> Actualizado: `2026-07-21 07:29`
 
 ---
 
@@ -10,11 +10,9 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**iptv**](https://github.com/iptv-org/iptv) | **1.00** | 133.9k | `█░░░░░░░░░` | Collection of publicly available IPTV channels from all over the world |
+| [**jcode**](https://github.com/1jehuang/jcode) | **0.98** | 9.9k | `██░░░░░░░░` | The most intelligent agent harness for code |
+| [**openship**](https://github.com/oblien/openship) | **0.98** | 5.2k | `██████████` | Self-hosted deployment platform |
+| [**fastmcp**](https://github.com/PrefectHQ/fastmcp) | **0.87** | 26.6k | `█░░░░░░░░░` | 🚀 The fast, Pythonic way to build MCP servers and clients. |
 
 ---
