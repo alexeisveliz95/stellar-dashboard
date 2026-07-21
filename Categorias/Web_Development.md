@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **0.95** · Estrellas totales: **3.6k**
-> Actualizado: `2026-07-21 07:29`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**Ontology-Playground**](https://github.com/microsoft/Ontology-Playground) | **0.95** | 1.8k | `██████████` | Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a… |
-| [**topcoat**](https://github.com/tokio-rs/topcoat) | **0.79** | 1.8k | `████████░░` | A batteries-included framework for building web apps |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
