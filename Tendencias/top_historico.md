@@ -47,3 +47,6 @@
 | 2026-07-21 | **1** | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | +4434 | 11.9k | `1.00` |
 | 2026-07-21 | **2** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +1833 | 23.8k | `1.00` |
 | 2026-07-21 | **3** | [openship](https://github.com/oblien/openship) | +1641 | 5.2k | `0.98` |
+| 2026-07-22 | **1** | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | +4624 | 16.1k | `1.00` |
+| 2026-07-22 | **2** | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | +2034 | 24.0k | `1.00` |
+| 2026-07-22 | **3** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +1925 | 24.9k | `1.00` |

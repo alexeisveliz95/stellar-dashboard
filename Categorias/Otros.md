@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **5 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **133.5k**
+> Actualizado: `2026-07-22 07:32`
 
 ---
 
@@ -10,11 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**jcode**](https://github.com/1jehuang/jcode) | **1.00** | 10.5k | `███░░░░░░░` | The most intelligent agent harness for code |
+| [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 70.1k | `█░░░░░░░░░` | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [**openship**](https://github.com/oblien/openship) | **0.97** | 6.5k | `██████████` | Self-hosted deployment platform |
+| [**croc**](https://github.com/schollz/croc) | **0.97** | 37.0k | `█░░░░░░░░░` | Easily and securely send things from one computer to another 🐊 📦 |
+| [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | **0.88** | 9.4k | `█░░░░░░░░░` | A collection of agent skills for CAD, robotics and hardware design |
 
 ---

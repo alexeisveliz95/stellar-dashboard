@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-21 08:38`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-22 07:32`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | 11.9k | +4.4k | Python |
-| 2 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 23.8k | +1.8k | Python |
-| 3 | [**openship**](https://github.com/oblien/openship) | 5.2k | +1.6k | TypeScript |
-| 4 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 22.4k | +1.1k | TypeScript |
-| 5 | [**open-seo**](https://github.com/every-app/open-seo) | 6.1k | +939 | TypeScript |
-| 6 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 135.0k | +862 | Shell |
-| 7 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 40.9k | +823 | Python |
-| 8 | [**voicebox**](https://github.com/jamiepine/voicebox) | 44.6k | +821 | TypeScript |
-| 9 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | 2.7k | +689 | TypeScript |
-| 10 | [**jcode**](https://github.com/1jehuang/jcode) | 9.9k | +568 | Rust |
+| 1 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | 16.1k | +4.6k | Python |
+| 2 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 24.0k | +2.0k | TypeScript |
+| 3 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 24.9k | +1.9k | Python |
+| 4 | [**openship**](https://github.com/oblien/openship) | 6.5k | +1.6k | TypeScript |
+| 5 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | 66.6k | +1.3k | TypeScript |
+| 6 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | 70.1k | +1.2k | Assembly |
+| 7 | [**open-seo**](https://github.com/every-app/open-seo) | 6.7k | +849 | TypeScript |
+| 8 | [**jcode**](https://github.com/1jehuang/jcode) | 10.5k | +843 | Rust |
+| 9 | [**wigolo**](https://github.com/KnockOutEZ/wigolo) | 3.3k | +642 | TypeScript |
+| 10 | [**AstrBot**](https://github.com/AstrBotDevs/AstrBot) | 37.6k | +416 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | **1.00** | 11.9k | AI & Data Science |
-| 🥈 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 23.8k | AI & Data Science |
-| 🥉 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 22.4k | AI & Data Science |
-| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 40.9k | AI & Data Science |
-| 5 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 135.0k | AI & Data Science |
-| 6 | [**ktransformers**](https://github.com/kvcache-ai/ktransformers) | **1.00** | 18.8k | AI & Data Science |
-| 7 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 44.6k | AI & Data Science |
-| 8 | [**cognee**](https://github.com/topoteretes/cognee) | **1.00** | 28.9k | AI & Data Science |
-| 9 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | **1.00** | 14.4k | AI & Data Science |
-| 10 | [**kimi-cli**](https://github.com/MoonshotAI/kimi-cli) | **1.00** | 10.4k | Automation & DevOps |
+| 🥇 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | **1.00** | 66.6k | Automation & DevOps |
+| 🥈 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | **1.00** | 16.1k | AI & Data Science |
+| 🥉 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 24.9k | AI & Data Science |
+| 4 | [**jcode**](https://github.com/1jehuang/jcode) | **1.00** | 10.5k | Otros |
+| 5 | [**AstrBot**](https://github.com/AstrBotDevs/AstrBot) | **1.00** | 37.6k | AI & Data Science |
+| 6 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 70.1k | Otros |
+| 7 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 24.0k | AI & Data Science |
+| 8 | [**open-seo**](https://github.com/every-app/open-seo) | **0.98** | 6.7k | Mobile Development |
+| 9 | [**openship**](https://github.com/oblien/openship) | **0.97** | 6.5k | Otros |
+| 10 | [**croc**](https://github.com/schollz/croc) | **0.97** | 37.0k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **0.98** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.92** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.96** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.88** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
