@@ -1,11 +1,43 @@
 [
   {
+    "id": "github_trending_koala73_worldmonitor",
+    "name": "koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "url": "https://github.com/koala73/worldmonitor",
+    "stars": 66625,
+    "growth": 1295,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "mcp",
+      "mcp-server",
+      "monitoring",
+      "news",
+      "opensource",
+      "osint",
+      "palantir",
+      "situation"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
     "id": "github_trending_bojieli_ai-agent-book",
     "name": "bojieli/ai-agent-book",
     "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
     "url": "https://github.com/bojieli/ai-agent-book",
-    "stars": 11898,
-    "growth": 4434,
+    "stars": 16082,
+    "growth": 4624,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -37,8 +69,8 @@
     "name": "tirth8205/code-review-graph",
     "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
     "url": "https://github.com/tirth8205/code-review-graph",
-    "stars": 23841,
-    "growth": 1833,
+    "stars": 24874,
+    "growth": 1925,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -65,12 +97,99 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_1jehuang_jcode",
+    "name": "1jehuang/jcode",
+    "description": "The most intelligent agent harness for code",
+    "url": "https://github.com/1jehuang/jcode",
+    "stars": 10503,
+    "growth": 843,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_topics": [
+      "ai",
+      "ai-agent",
+      "ai-coding-agent",
+      "claude",
+      "cli",
+      "coding-agent",
+      "llm",
+      "mcp",
+      "openai",
+      "rust",
+      "terminal",
+      "tui"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_AstrBotDevs_AstrBot",
+    "name": "AstrBotDevs/AstrBot",
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "stars": 37609,
+    "growth": 416,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "astrbot",
+      "chatbot",
+      "chatgpt",
+      "discord",
+      "docker",
+      "gemini",
+      "gpt",
+      "llama",
+      "llm",
+      "mcp",
+      "openai",
+      "python",
+      "qq",
+      "qqbot",
+      "telegram"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_chrislgarry_Apollo-11",
+    "name": "chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "stars": 70119,
+    "growth": 1235,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Assembly",
+    "raw_topics": [
+      "agc",
+      "apollo",
+      "hacktoberfest",
+      "nasa"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
     "id": "github_trending_diegosouzapw_OmniRoute",
     "name": "diegosouzapw/OmniRoute",
-    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 22398,
-    "growth": 1107,
+    "stars": 24039,
+    "growth": 2034,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -105,305 +224,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_rohitg00_ai-engineering-from-scratch",
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 40903,
-    "growth": 823,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_msitarzewski_agency-agents",
-    "name": "msitarzewski/agency-agents",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "stars": 134997,
-    "growth": 862,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_kvcache-ai_ktransformers",
-    "name": "kvcache-ai/ktransformers",
-    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-    "url": "https://github.com/kvcache-ai/ktransformers",
-    "stars": 18795,
-    "growth": 458,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_jamiepine_voicebox",
-    "name": "jamiepine/voicebox",
-    "description": "The open-source AI voice studio. Clone, dictate, create.",
-    "url": "https://github.com/jamiepine/voicebox",
-    "stars": 44565,
-    "growth": 821,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "cuda",
-      "mlx",
-      "qwen3-tts",
-      "qwen3-tts-ui",
-      "voice-ai",
-      "voice-clone",
-      "whisper"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_topoteretes_cognee",
-    "name": "topoteretes/cognee",
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-    "url": "https://github.com/topoteretes/cognee",
-    "stars": 28894,
-    "growth": 234,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-memory",
-      "agent-skills",
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "cognitive-architecture",
-      "cognitive-memory",
-      "context-engineering",
-      "contributions-welcome",
-      "good-first-issue",
-      "good-first-pr",
-      "graph-database",
-      "graph-rag",
-      "help-wanted",
-      "knowledge",
-      "knowledge-graph",
-      "memory-management",
-      "open-source",
-      "vector-database"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_Robbyant_lingbot-map",
-    "name": "Robbyant/lingbot-map",
-    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "stars": 14435,
-    "growth": 565,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_MoonshotAI_kimi-cli",
-    "name": "MoonshotAI/kimi-cli",
-    "description": "Kimi Code CLI is your next CLI agent.",
-    "url": "https://github.com/MoonshotAI/kimi-cli",
-    "stars": 10355,
-    "growth": 410,
-    "score": 1.0,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "cli"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_AstrBotDevs_AstrBot",
-    "name": "AstrBotDevs/AstrBot",
-    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-    "url": "https://github.com/AstrBotDevs/AstrBot",
-    "stars": 37236,
-    "growth": 317,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent",
-      "ai",
-      "astrbot",
-      "chatbot",
-      "chatgpt",
-      "discord",
-      "docker",
-      "gemini",
-      "gpt",
-      "llama",
-      "llm",
-      "mcp",
-      "openai",
-      "python",
-      "qq",
-      "qqbot",
-      "telegram"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_iptv-org_iptv",
-    "name": "iptv-org/iptv",
-    "description": "Collection of publicly available IPTV channels from all over the world",
-    "url": "https://github.com/iptv-org/iptv",
-    "stars": 133885,
-    "growth": 240,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "iptv",
-      "m3u",
-      "playlist",
-      "streams",
-      "tv"
-    ],
-    "raw_license": "Unlicense"
-  },
-  {
-    "id": "github_trending_moonshine-ai_moonshine",
-    "name": "moonshine-ai/moonshine",
-    "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
-    "url": "https://github.com/moonshine-ai/moonshine",
-    "stars": 10060,
-    "growth": 282,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "intent-recognition",
-      "stt",
-      "tts",
-      "voice",
-      "voice-recognition"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_1jehuang_jcode",
-    "name": "1jehuang/jcode",
-    "description": "The most intelligent agent harness for code",
-    "url": "https://github.com/1jehuang/jcode",
-    "stars": 9887,
-    "growth": 568,
-    "score": 0.9843,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "ai",
-      "ai-agent",
-      "ai-coding-agent",
-      "claude",
-      "cli",
-      "coding-agent",
-      "llm",
-      "mcp",
-      "openai",
-      "rust",
-      "terminal",
-      "tui"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_every-app_open-seo",
     "name": "every-app/open-seo",
     "description": "Open source alternative to Semrush and Ahrefs",
     "url": "https://github.com/every-app/open-seo",
-    "stars": 6116,
-    "growth": 939,
-    "score": 0.9772,
+    "stars": 6732,
+    "growth": 849,
+    "score": 0.9795,
     "categories": [
       "Mobile Development"
     ],
@@ -424,13 +251,91 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_oblien_openship",
+    "name": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "url": "https://github.com/oblien/openship",
+    "stars": 6544,
+    "growth": 1562,
+    "score": 0.9729,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "agents",
+      "ai",
+      "deployments",
+      "self-hosted"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_schollz_croc",
+    "name": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "url": "https://github.com/schollz/croc",
+    "stars": 37009,
+    "growth": 361,
+    "score": 0.9662,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "raw_topics": [
+      "data-transfer",
+      "file-sharing",
+      "golang",
+      "pake",
+      "peer-to-peer",
+      "tcp",
+      "transfer"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_DioxusLabs_dioxus",
+    "name": "DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.",
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "stars": 37780,
+    "growth": 271,
+    "score": 0.966,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "android",
+      "css",
+      "desktop",
+      "html",
+      "ios",
+      "native",
+      "react",
+      "rust",
+      "ssr",
+      "ui",
+      "virtualdom",
+      "wasm",
+      "web"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_KnockOutEZ_wigolo",
     "name": "KnockOutEZ/wigolo",
     "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
     "url": "https://github.com/KnockOutEZ/wigolo",
-    "stars": 2737,
-    "growth": 689,
-    "score": 0.976,
+    "stars": 3294,
+    "growth": 642,
+    "score": 0.9596,
     "categories": [
       "Python & Backend"
     ],
@@ -464,34 +369,125 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_oblien_openship",
-    "name": "oblien/openship",
-    "description": "Self-hosted deployment platform",
-    "url": "https://github.com/oblien/openship",
-    "stars": 5204,
-    "growth": 1641,
-    "score": 0.9751,
+    "id": "github_trending_hyprwm_Hyprland",
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "stars": 37122,
+    "growth": 58,
+    "score": 0.9191,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "compositor",
+      "cpp26",
+      "wayland",
+      "wayland-compositor"
+    ],
+    "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_AlexsJones_llmfit",
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "stars": 30334,
+    "growth": 129,
+    "score": 0.9048,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "gguf",
+      "llm",
+      "localai",
+      "mlx",
+      "skill",
+      "unsloth"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_dottxt-ai_outlines",
+    "name": "dottxt-ai/outlines",
+    "description": "Structured Outputs",
+    "url": "https://github.com/dottxt-ai/outlines",
+    "stars": 14932,
+    "growth": 65,
+    "score": 0.8928,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "cfg",
+      "generative-ai",
+      "json",
+      "llms",
+      "prompt-engineering",
+      "regex",
+      "structured-generation",
+      "symbolic-ai"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_earthtojake_text-to-cad",
+    "name": "earthtojake/text-to-cad",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 9367,
+    "growth": 291,
+    "score": 0.8828,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "raw_topics": [
+      "3mf",
       "agents",
-      "ai",
-      "deployments",
-      "self-hosted"
+      "ai-agents",
+      "build123d",
+      "cad",
+      "dxf",
+      "glb",
+      "mechanical-engineering",
+      "opencascade",
+      "robotics",
+      "sdf",
+      "srdf",
+      "step",
+      "stl",
+      "stp",
+      "text-to-cad",
+      "urdf"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_microsoft_Ontology-Playground",
     "name": "microsoft/Ontology-Playground",
     "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
     "url": "https://github.com/microsoft/Ontology-Playground",
-    "stars": 1830,
-    "growth": 464,
-    "score": 0.9539,
+    "stars": 2084,
+    "growth": 355,
+    "score": 0.8803,
     "categories": [
       "Web Development"
     ],
@@ -503,68 +499,54 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_handy-computer_transcribe_cpp",
-    "name": "handy-computer/transcribe.cpp",
-    "description": "ggml speech-to-text inference for 16+ model families",
-    "url": "https://github.com/handy-computer/transcribe.cpp",
-    "stars": 1379,
-    "growth": 395,
-    "score": 0.8933,
+    "id": "github_trending_tradesdontlie_tradingview-mcp",
+    "name": "tradesdontlie/tradingview-mcp",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "stars": 4949,
+    "growth": 114,
+    "score": 0.8487,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_langchain-ai_open_deep_research",
+    "name": "langchain-ai/open_deep_research",
+    "description": "",
+    "url": "https://github.com/langchain-ai/open_deep_research",
+    "stars": 12318,
+    "growth": 23,
+    "score": 0.8266,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "C++",
+    "language": "Python",
     "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "asr",
-      "ggml",
-      "gguf",
-      "speech-to-text"
+      "ai"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_PrefectHQ_fastmcp",
-    "name": "PrefectHQ/fastmcp",
-    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-    "url": "https://github.com/PrefectHQ/fastmcp",
-    "stars": 26647,
-    "growth": 96,
-    "score": 0.8726,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agents",
-      "fastmcp",
-      "llms",
-      "mcp",
-      "mcp-clients",
-      "mcp-servers",
-      "mcp-tools",
-      "model-context-protocol",
-      "python"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_tokio-rs_topcoat",
-    "name": "tokio-rs/topcoat",
-    "description": "A batteries-included framework for building web apps",
-    "url": "https://github.com/tokio-rs/topcoat",
-    "stars": 1754,
-    "growth": 371,
-    "score": 0.7899,
+    "id": "github_trending_agegr_pi-web",
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "url": "https://github.com/agegr/pi-web",
+    "stars": 1844,
+    "growth": 298,
+    "score": 0.7861,
     "categories": [
       "Web Development"
     ],
     "source": "github_trending",
-    "language": "Rust",
+    "language": "TypeScript",
     "tags": [
       "nlp:web-development"
     ],
