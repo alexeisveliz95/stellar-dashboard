@@ -50,3 +50,6 @@
 | 2026-07-22 | **1** | [ai-agent-book](https://github.com/bojieli/ai-agent-book) | +4624 | 16.1k | `1.00` |
 | 2026-07-22 | **2** | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | +2034 | 24.0k | `1.00` |
 | 2026-07-22 | **3** | [code-review-graph](https://github.com/tirth8205/code-review-graph) | +1925 | 24.9k | `1.00` |
+| 2026-07-23 | **1** | [worldmonitor](https://github.com/koala73/worldmonitor) | +4139 | 69.9k | `1.00` |
+| 2026-07-23 | **2** | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | +1699 | 8.7k | `0.94` |
+| 2026-07-23 | **3** | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | +1651 | 25.9k | `1.00` |
