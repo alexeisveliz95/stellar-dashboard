@@ -53,3 +53,6 @@
 | 2026-07-23 | **1** | [worldmonitor](https://github.com/koala73/worldmonitor) | +4139 | 69.9k | `1.00` |
 | 2026-07-23 | **2** | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | +1699 | 8.7k | `0.94` |
 | 2026-07-23 | **3** | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | +1651 | 25.9k | `1.00` |
+| 2026-07-24 | **1** | [worldmonitor](https://github.com/koala73/worldmonitor) | +3175 | 72.2k | `1.00` |
+| 2026-07-24 | **2** | [buzz](https://github.com/block/buzz) | +2162 | 7.8k | `0.94` |
+| 2026-07-24 | **3** | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | +1929 | 27.7k | `1.00` |

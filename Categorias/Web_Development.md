@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **1 proyectos** · ⭐ Mejor score: **0.82** · Estrellas totales: **2.5k**
+> Actualizado: `2026-07-24 07:28`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**pi-web**](https://github.com/agegr/pi-web) | **0.82** | 2.5k | `██████████` | Web UI for the pi coding agent |
 
 ---

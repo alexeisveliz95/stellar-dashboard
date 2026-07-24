@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-23 08:39`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-24 07:28`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | 69.9k | +4.1k | TypeScript |
-| 2 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 8.7k | +1.7k | Python |
-| 3 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 25.9k | +1.7k | TypeScript |
-| 4 | [**openship**](https://github.com/oblien/openship) | 7.5k | +1.3k | TypeScript |
-| 5 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 25.5k | +882 | Python |
-| 6 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | 70.8k | +768 | Assembly |
-| 7 | [**RuView**](https://github.com/ruvnet/RuView) | 84.3k | +741 | Rust |
-| 8 | [**croc**](https://github.com/schollz/croc) | 37.9k | +739 | Go |
-| 9 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 42.5k | +652 | Python |
-| 10 | [**voicebox**](https://github.com/jamiepine/voicebox) | 46.0k | +557 | TypeScript |
+| 1 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | 72.2k | +3.2k | TypeScript |
+| 2 | [**buzz**](https://github.com/block/buzz) | 7.8k | +2.2k | Rust |
+| 3 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 27.7k | +1.9k | TypeScript |
+| 4 | [**RuView**](https://github.com/ruvnet/RuView) | 85.4k | +1.7k | Rust |
+| 5 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | 69.6k | +636 | Python |
+| 6 | [**harper**](https://github.com/Automattic/harper) | 12.6k | +624 | Rust |
+| 7 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | 71.2k | +592 | Assembly |
+| 8 | [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | 9.1k | +565 | Rust |
+| 9 | [**likec4**](https://github.com/likec4/likec4) | 4.8k | +472 | TypeScript |
+| 10 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 33.2k | +401 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | **1.00** | 69.9k | Automation & DevOps |
-| 🥈 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 84.3k | Otros |
-| 🥉 | [**croc**](https://github.com/schollz/croc) | **1.00** | 37.9k | Otros |
-| 4 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 70.8k | Otros |
-| 5 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 46.0k | AI & Data Science |
-| 6 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 25.9k | AI & Data Science |
-| 7 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 69.0k | AI & Data Science |
-| 8 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 42.5k | AI & Data Science |
-| 9 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 25.5k | AI & Data Science |
-| 10 | [**Hyprland**](https://github.com/hyprwm/Hyprland) | **1.00** | 37.4k | PlayStation Homebrew & Linux |
+| 🥇 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | **1.00** | 72.2k | Automation & DevOps |
+| 🥈 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 33.2k | AI & Data Science |
+| 🥉 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 71.2k | Otros |
+| 4 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 27.7k | AI & Data Science |
+| 5 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 69.6k | AI & Data Science |
+| 6 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 85.4k | Otros |
+| 7 | [**harper**](https://github.com/Automattic/harper) | **0.99** | 12.6k | Otros |
+| 8 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **0.99** | 11.9k | AI & Data Science |
+| 9 | [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | **0.96** | 9.1k | Otros |
+| 10 | [**buzz**](https://github.com/block/buzz) | **0.94** | 7.8k | Mobile Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.94** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.86** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.82** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
