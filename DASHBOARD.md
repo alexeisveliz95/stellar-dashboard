@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-24 08:35`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-25 07:12`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | 72.2k | +3.2k | TypeScript |
-| 2 | [**buzz**](https://github.com/block/buzz) | 7.8k | +2.2k | Rust |
-| 3 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 27.7k | +1.9k | TypeScript |
-| 4 | [**RuView**](https://github.com/ruvnet/RuView) | 85.4k | +1.7k | Rust |
-| 5 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | 69.6k | +636 | Python |
-| 6 | [**harper**](https://github.com/Automattic/harper) | 12.6k | +624 | Rust |
-| 7 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | 71.2k | +592 | Assembly |
-| 8 | [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | 9.1k | +565 | Rust |
-| 9 | [**likec4**](https://github.com/likec4/likec4) | 4.8k | +472 | TypeScript |
-| 10 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 33.2k | +401 | Python |
+| 1 | [**buzz**](https://github.com/block/buzz) | 10.5k | +3.3k | Rust |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 187.2k | +2.3k | Shell |
+| 3 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | 73.6k | +2.2k | TypeScript |
+| 4 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 29.2k | +1.8k | TypeScript |
+| 5 | [**RuView**](https://github.com/ruvnet/RuView) | 86.1k | +1.0k | Rust |
+| 6 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | 2.9k | +880 | JavaScript |
+| 7 | [**harper**](https://github.com/Automattic/harper) | 13.1k | +876 | Rust |
+| 8 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | 70.2k | +663 | Python |
+| 9 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 33.6k | +499 | Python |
+| 10 | [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | 9.4k | +473 | Rust |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | **1.00** | 72.2k | Automation & DevOps |
-| 🥈 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 33.2k | AI & Data Science |
-| 🥉 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 71.2k | Otros |
-| 4 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 27.7k | AI & Data Science |
-| 5 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 69.6k | AI & Data Science |
-| 6 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 85.4k | Otros |
-| 7 | [**harper**](https://github.com/Automattic/harper) | **0.99** | 12.6k | Otros |
-| 8 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **0.99** | 11.9k | AI & Data Science |
-| 9 | [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | **0.96** | 9.1k | Otros |
-| 10 | [**buzz**](https://github.com/block/buzz) | **0.94** | 7.8k | Mobile Development |
+| 🥇 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | **1.00** | 73.6k | Automation & DevOps |
+| 🥈 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 70.2k | AI & Data Science |
+| 🥉 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 33.6k | AI & Data Science |
+| 4 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 86.1k | Otros |
+| 5 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 71.4k | Otros |
+| 6 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 187.2k | Otros |
+| 7 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 29.2k | AI & Data Science |
+| 8 | [**buzz**](https://github.com/block/buzz) | **0.96** | 10.5k | Mobile Development |
+| 9 | [**dive-into-llms**](https://github.com/Lordog/dive-into-llms) | **0.95** | 45.1k | Otros |
+| 10 | [**harper**](https://github.com/Automattic/harper) | **0.95** | 13.1k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.96** |
+| [**Otros**](Categorias/Otros.md) | 8 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **0.84** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.89** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

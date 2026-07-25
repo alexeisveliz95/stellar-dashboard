@@ -56,3 +56,6 @@
 | 2026-07-24 | **1** | [worldmonitor](https://github.com/koala73/worldmonitor) | +3175 | 72.2k | `1.00` |
 | 2026-07-24 | **2** | [buzz](https://github.com/block/buzz) | +2162 | 7.8k | `0.94` |
 | 2026-07-24 | **3** | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | +1929 | 27.7k | `1.00` |
+| 2026-07-25 | **1** | [buzz](https://github.com/block/buzz) | +3270 | 10.5k | `0.96` |
+| 2026-07-25 | **2** | [skills](https://github.com/mattpocock/skills) | +2251 | 187.2k | `1.00` |
+| 2026-07-25 | **3** | [worldmonitor](https://github.com/koala73/worldmonitor) | +2184 | 73.6k | `1.00` |
