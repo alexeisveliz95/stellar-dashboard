@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-07-19T23:54:44.066650+00:00",
+  "updated_at": "2026-07-26T23:56:07.836093+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W30",
+      "week_start": "2026-07-20",
+      "generated_at": "2026-07-26T23:56:07.836093+00:00",
+      "picks": [
+        {
+          "name": "RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "score": 0.8,
+          "stars": 85400,
+          "growth": 1708,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 233400,
+          "growth": 377,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "score": 0.73,
+          "stars": 4900,
+          "growth": 114,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "score": 0.71,
+          "stars": 33600,
+          "growth": 499,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "score": 0.0,
+          "stars": 16100,
+          "growth": 4624,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "score": 0.0,
+          "stars": 69900,
+          "growth": 4139,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "buzz",
+          "url": "https://github.com/block/buzz",
+          "score": 0.0,
+          "stars": 10500,
+          "growth": 3270,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 187200,
+          "growth": 2251,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "score": 0.0,
+          "stars": 24000,
+          "growth": 2034,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "score": 0.0,
+          "stars": 24900,
+          "growth": 1925,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W29",
       "week_start": "2026-07-13",

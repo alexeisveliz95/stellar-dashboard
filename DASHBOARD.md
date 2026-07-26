@@ -1,7 +1,7 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-26 08:34`
+> 🕒 Última actualización: `2026-07-26 23:56`
 > 📦 **49** proyectos curados en **9** categorías
 
 ---
@@ -46,40 +46,40 @@
 
 ## ⭐ Curated Picks
 
-> Top 10 de la semana · auto-curado · 3 semanas en rotación
+> Top 10 de la semana · auto-curado · 4 semanas en rotación
 
 | # | Repositorio | Score | ⭐ Stars | 🚀 Growth | 🏷️ Category |
 | :---: | :--- | ---: | ---: | ---: | :--- |
-| 1 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **0.73** | 122.2k | +1236 | `W29` |
-| 2 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | **0.73** | 6.1k | +725 | `W29` |
-| 3 | [**ai-hedge-fund**](https://github.com/virattt/ai-hedge-fund) | **0.71** | 61.5k | +115 | `W29` |
-| 4 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | — | 69.6k | +4276 | `W29` |
-| 5 | [**hallmark**](https://github.com/Nutlope/hallmark) | — | 11.3k | +3372 | `W29` |
-| 6 | [**skills**](https://github.com/mattpocock/skills) | — | 172.9k | +2130 | `W29` |
-| 7 | [**graphify**](https://github.com/Graphify-Labs/graphify) | — | 86.8k | +1851 | `W29` |
-| 8 | [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | — | 3.9k | +1295 | `W29` |
-| 9 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | — | 23.1k | +1256 | `W29` |
-| 10 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | — | 528.5k | +1126 | `W29` |
-| 11 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 78.7k | +1129 | `W28` |
-| 12 | [**bun**](https://github.com/oven-sh/bun) | **0.80** | 94.6k | +658 | `W28` |
-| 13 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | — | 16.3k | +5079 | `W28` |
-| 14 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | — | 76.3k | +2554 | `W28` |
-| 15 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | — | 19.9k | +2494 | `W28` |
-| 16 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | — | 13.9k | +1929 | `W28` |
-| 17 | [**skills**](https://github.com/mattpocock/skills) | — | 165.0k | +1712 | `W28` |
-| 18 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | — | 53.4k | +1691 | `W28` |
-| 19 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | — | 25.9k | +1532 | `W28` |
-| 20 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | — | 59.5k | +1458 | `W28` |
-| 21 | [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **1.00** | 4.2k | +1244 | `W23` |
-| 22 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **1.00** | 37.1k | +1049 | `W23` |
-| 23 | [**Shadowbroker**](https://github.com/BigBodyCobain/Shadowbroker) | **1.00** | 7.9k | +767 | `W23` |
-| 24 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 23.6k | +764 | `W23` |
-| 25 | [**12-factor-agents**](https://github.com/humanlayer/12-factor-agents) | **1.00** | 20.9k | +399 | `W23` |
-| 26 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 37.5k | +310 | `W23` |
-| 27 | [**openhuman**](https://github.com/tinyhumansai/openhuman) | **0.96** | 18.8k | +3941 | `W23` |
-| 28 | [**ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) | **0.90** | 63.8k | +1012 | `W23` |
-| 29 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.90** | 111.3k | +213 | `W23` |
-| 30 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | +1439 | `W23` |
+| 1 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 85.4k | +1708 | `W30` |
+| 2 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 233.4k | +377 | `W30` |
+| 3 | [**tradingview-mcp**](https://github.com/tradesdontlie/tradingview-mcp) | **0.73** | 4.9k | +114 | `W30` |
+| 4 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 33.6k | +499 | `W30` |
+| 5 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | — | 16.1k | +4624 | `W30` |
+| 6 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | — | 69.9k | +4139 | `W30` |
+| 7 | [**buzz**](https://github.com/block/buzz) | — | 10.5k | +3270 | `W30` |
+| 8 | [**skills**](https://github.com/mattpocock/skills) | — | 187.2k | +2251 | `W30` |
+| 9 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | — | 24.0k | +2034 | `W30` |
+| 10 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | — | 24.9k | +1925 | `W30` |
+| 11 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **0.73** | 122.2k | +1236 | `W29` |
+| 12 | [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | **0.73** | 6.1k | +725 | `W29` |
+| 13 | [**ai-hedge-fund**](https://github.com/virattt/ai-hedge-fund) | **0.71** | 61.5k | +115 | `W29` |
+| 14 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | — | 69.6k | +4276 | `W29` |
+| 15 | [**hallmark**](https://github.com/Nutlope/hallmark) | — | 11.3k | +3372 | `W29` |
+| 16 | [**skills**](https://github.com/mattpocock/skills) | — | 172.9k | +2130 | `W29` |
+| 17 | [**graphify**](https://github.com/Graphify-Labs/graphify) | — | 86.8k | +1851 | `W29` |
+| 18 | [**destructive_command_guard**](https://github.com/Dicklesworthstone/destructive_command_guard) | — | 3.9k | +1295 | `W29` |
+| 19 | [**Vibe-Trading**](https://github.com/HKUDS/Vibe-Trading) | — | 23.1k | +1256 | `W29` |
+| 20 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | — | 528.5k | +1126 | `W29` |
+| 21 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 78.7k | +1129 | `W28` |
+| 22 | [**bun**](https://github.com/oven-sh/bun) | **0.80** | 94.6k | +658 | `W28` |
+| 23 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | — | 16.3k | +5079 | `W28` |
+| 24 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | — | 76.3k | +2554 | `W28` |
+| 25 | [**meetily**](https://github.com/Zackriya-Solutions/meetily) | — | 19.9k | +2494 | `W28` |
+| 26 | [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) | — | 13.9k | +1929 | `W28` |
+| 27 | [**skills**](https://github.com/mattpocock/skills) | — | 165.0k | +1712 | `W28` |
+| 28 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | — | 53.4k | +1691 | `W28` |
+| 29 | [**codex-plugin-cc**](https://github.com/openai/codex-plugin-cc) | — | 25.9k | +1532 | `W28` |
+| 30 | [**taste-skill**](https://github.com/Leonxlnx/taste-skill) | — | 59.5k | +1458 | `W28` |
 
 ---
 
