@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **336.3k**
-> Actualizado: `2026-07-26 07:30`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bitchat**](https://github.com/permissionlesstech/bitchat) | **1.00** | 28.9k | `██████████` | bluetooth mesh chat, IRC vibes |
-| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 188.7k | `██░░░░░░░░` | Skills for Real Engineers. Straight from my .agents directory. |
-| [**dive-into-llms**](https://github.com/Lordog/dive-into-llms) | **1.00** | 45.5k | `██░░░░░░░░` | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [**harper**](https://github.com/Automattic/harper) | **0.95** | 13.5k | `██████░░░░` | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
-| [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **0.93** | 50.0k | `█░░░░░░░░░` | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | **0.84** | 9.8k | `██████░░░░` | Empowering everyone to host fast and efficient Minecraft servers. |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

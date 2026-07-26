@@ -1,43 +1,37 @@
 [
   {
-    "id": "github_trending_koala73_worldmonitor",
-    "name": "koala73/worldmonitor",
-    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "url": "https://github.com/koala73/worldmonitor",
-    "stars": 73598,
-    "growth": 2184,
+    "id": "github_trending_alibaba_open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "url": "https://github.com/alibaba/open-code-review",
+    "stars": 13192,
+    "growth": 431,
     "score": 1.0,
     "categories": [
-      "Automation & DevOps"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Go",
     "tags": [
-      "nlp:automation-devops"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
       "agent",
-      "ai",
-      "dashboard",
-      "geopolitics",
-      "mcp",
-      "mcp-server",
-      "monitoring",
-      "news",
-      "opensource",
-      "osint",
-      "palantir",
-      "situation"
+      "agent-skills",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_ComposioHQ_awesome-claude-skills",
     "name": "ComposioHQ/awesome-claude-skills",
     "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "stars": 70222,
-    "growth": 663,
+    "stars": 70736,
+    "growth": 577,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -72,8 +66,8 @@
     "name": "shiyu-coder/Kronos",
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
     "url": "https://github.com/shiyu-coder/Kronos",
-    "stars": 33580,
-    "growth": 499,
+    "stars": 33884,
+    "growth": 319,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -86,70 +80,55 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_ruvnet_RuView",
-    "name": "ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "url": "https://github.com/ruvnet/RuView",
-    "stars": 86084,
-    "growth": 1022,
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 261243,
+    "growth": 479,
     "score": 1.0,
     "categories": [
-      "Otros"
+      "Python & Backend"
     ],
     "source": "github_trending",
-    "language": "Rust",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
     "raw_topics": [
-      "awesome",
-      "claude",
-      "densepose",
-      "esp32",
-      "firmware",
-      "home-assistant",
-      "home-automation",
-      "iot",
-      "monitoring",
-      "networking",
-      "npm",
-      "pose-estimation",
-      "react",
-      "rf",
-      "self-learning",
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
       "skills",
-      "spatial-intelligence",
-      "typescript",
-      "wifi",
-      "wifi-security"
+      "subagent-driven-development",
+      "superpowers"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_chrislgarry_Apollo-11",
-    "name": "chrislgarry/Apollo-11",
-    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "stars": 71445,
-    "growth": 409,
+    "id": "github_trending_permissionlesstech_bitchat",
+    "name": "permissionlesstech/bitchat",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "url": "https://github.com/permissionlesstech/bitchat",
+    "stars": 28938,
+    "growth": 1720,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Assembly",
-    "raw_topics": [
-      "agc",
-      "apollo",
-      "hacktoberfest",
-      "nasa"
-    ],
-    "raw_license": "NOASSERTION"
+    "language": "Swift",
+    "raw_license": "Unlicense"
   },
   {
     "id": "github_trending_mattpocock_skills",
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 187211,
-    "growth": 2251,
+    "stars": 188660,
+    "growth": 1740,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -159,71 +138,40 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_diegosouzapw_OmniRoute",
-    "name": "diegosouzapw/OmniRoute",
-    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "stars": 29222,
-    "growth": 1841,
+    "id": "github_trending_palmier-io_palmier-pro",
+    "name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "stars": 12317,
+    "growth": 412,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Swift",
     "tags": [
-      "nlp:ai-data-science"
+      "ai"
     ],
     "raw_topics": [
-      "a2a",
-      "ai-agents",
-      "ai-gateway",
-      "anthropic",
+      "ai-video",
       "claude",
-      "claude-code",
-      "cline",
-      "codex",
-      "copilot",
-      "cursor",
-      "deepseek",
-      "free-ai",
-      "gemini",
-      "kimi",
-      "llm-gateway",
+      "macos",
       "mcp",
-      "openai",
-      "openai-proxy",
-      "qwen",
-      "token-saver"
+      "seedance2",
+      "swift",
+      "video-editor"
     ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_block_buzz",
-    "name": "block/buzz",
-    "description": "A hive mind communication platform",
-    "url": "https://github.com/block/buzz",
-    "stars": 10489,
-    "growth": 3270,
-    "score": 0.9571,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "GPL-3.0"
   },
   {
     "id": "github_trending_Lordog_dive-into-llms",
     "name": "Lordog/dive-into-llms",
     "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
     "url": "https://github.com/Lordog/dive-into-llms",
-    "stars": 45136,
-    "growth": 328,
-    "score": 0.9508,
+    "stars": 45453,
+    "growth": 408,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -231,129 +179,30 @@
     "language": "Jupyter Notebook"
   },
   {
-    "id": "github_trending_Automattic_harper",
-    "name": "Automattic/harper",
-    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-    "url": "https://github.com/Automattic/harper",
-    "stars": 13128,
-    "growth": 876,
-    "score": 0.9475,
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 233419,
+    "growth": 377,
+    "score": 1.0,
     "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "chrome-extension",
-      "developer-tools",
-      "english-language",
-      "grammar-checker",
-      "nodejs",
-      "react",
-      "rust",
-      "svelte",
-      "webassembly"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_Pumpkin-MC_Pumpkin",
-    "name": "Pumpkin-MC/Pumpkin",
-    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-    "url": "https://github.com/Pumpkin-MC/Pumpkin",
-    "stars": 9427,
-    "growth": 473,
-    "score": 0.9253,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "docker",
-      "game-server",
-      "gamedev",
-      "minecraft",
-      "minecraft-bedrock-edition",
-      "minecraft-protocol",
-      "minecraft-server",
-      "networking",
-      "rust",
-      "server"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_citrolabs_ego-lite",
-    "name": "citrolabs/ego-lite",
-    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "stars": 2873,
-    "growth": 880,
-    "score": 0.8917,
-    "categories": [
-      "Web Development"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
     "language": "JavaScript",
     "tags": [
-      "nlp:web-development"
+      "nlp:cybersecurity-hacking"
     ],
     "raw_topics": [
-      "agent-skills",
-      "ai-agent",
-      "browser",
-      "skills",
-      "skills-sh"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_yorukot_superfile",
-    "name": "yorukot/superfile",
-    "description": "Pretty fancy and modern terminal file manager",
-    "url": "https://github.com/yorukot/superfile",
-    "stars": 19731,
-    "growth": 338,
-    "score": 0.8815,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "raw_topics": [
-      "bubbletea",
-      "cli",
-      "file-manager",
-      "filemanager",
-      "filesystem",
-      "golang",
-      "hacktoberfest",
-      "linux-app",
-      "terminal-app",
-      "terminal-based",
-      "tui"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_likec4_likec4",
-    "name": "likec4/likec4",
-    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-    "url": "https://github.com/likec4/likec4",
-    "stars": 5088,
-    "growth": 337,
-    "score": 0.8597,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "architecture",
-      "architecture-as-code",
-      "c4",
-      "diagrams"
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
     ],
     "raw_license": "MIT"
   },
@@ -362,9 +211,9 @@
     "name": "OtterMind/Chat2DB",
     "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
     "url": "https://github.com/OtterMind/Chat2DB",
-    "stars": 26436,
-    "growth": 82,
-    "score": 0.8412,
+    "stars": 26801,
+    "growth": 360,
+    "score": 0.9977,
     "categories": [
       "Python & Backend"
     ],
@@ -397,13 +246,97 @@
     "raw_license": "NOASSERTION"
   },
   {
+    "id": "github_trending_Automattic_harper",
+    "name": "Automattic/harper",
+    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "url": "https://github.com/Automattic/harper",
+    "stars": 13515,
+    "growth": 503,
+    "score": 0.9495,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_topics": [
+      "chrome-extension",
+      "developer-tools",
+      "english-language",
+      "grammar-checker",
+      "nodejs",
+      "react",
+      "rust",
+      "svelte",
+      "webassembly"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_anthropics_claude-cookbooks",
+    "name": "anthropics/claude-cookbooks",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "stars": 49983,
+    "growth": 132,
+    "score": 0.9295,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Jupyter Notebook",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_block_buzz",
+    "name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "url": "https://github.com/block/buzz",
+    "stars": 12314,
+    "growth": 2491,
+    "score": 0.9218,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_citrolabs_ego-lite",
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "stars": 3811,
+    "growth": 986,
+    "score": 0.8861,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-agent",
+      "browser",
+      "skills",
+      "skills-sh"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_CoreBunch_Instatic",
     "name": "CoreBunch/Instatic",
     "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
     "url": "https://github.com/CoreBunch/Instatic",
-    "stars": 4386,
-    "growth": 201,
-    "score": 0.7714,
+    "stars": 5229,
+    "growth": 426,
+    "score": 0.8824,
     "categories": [
       "Python & Backend"
     ],
@@ -419,6 +352,86 @@
       "page-builder",
       "static",
       "website"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_andrewyng_aisuite",
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "url": "https://github.com/andrewyng/aisuite",
+    "stars": 15278,
+    "growth": 77,
+    "score": 0.8789,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Pumpkin-MC_Pumpkin",
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "stars": 9783,
+    "growth": 358,
+    "score": 0.8417,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_topics": [
+      "docker",
+      "game-server",
+      "gamedev",
+      "minecraft",
+      "minecraft-bedrock-edition",
+      "minecraft-protocol",
+      "minecraft-server",
+      "networking",
+      "rust",
+      "server"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_RyanCodrai_turbovec",
+    "name": "RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "stars": 14339,
+    "growth": 86,
+    "score": 0.8068,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "ann",
+      "avx512",
+      "embedding",
+      "embeddings",
+      "faiss",
+      "nearest-neighbor",
+      "neon",
+      "python",
+      "quant",
+      "quantization",
+      "rag",
+      "rust",
+      "simd",
+      "turboquant",
+      "vector-search"
     ],
     "raw_license": "MIT"
   }
