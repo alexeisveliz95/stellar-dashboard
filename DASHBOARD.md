@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-25 08:15`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-26 07:30`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**buzz**](https://github.com/block/buzz) | 10.5k | +3.3k | Rust |
-| 2 | [**skills**](https://github.com/mattpocock/skills) | 187.2k | +2.3k | Shell |
-| 3 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | 73.6k | +2.2k | TypeScript |
-| 4 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 29.2k | +1.8k | TypeScript |
-| 5 | [**RuView**](https://github.com/ruvnet/RuView) | 86.1k | +1.0k | Rust |
-| 6 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | 2.9k | +880 | JavaScript |
-| 7 | [**harper**](https://github.com/Automattic/harper) | 13.1k | +876 | Rust |
-| 8 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | 70.2k | +663 | Python |
-| 9 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 33.6k | +499 | Python |
-| 10 | [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | 9.4k | +473 | Rust |
+| 1 | [**buzz**](https://github.com/block/buzz) | 12.3k | +2.5k | Rust |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 188.7k | +1.7k | Shell |
+| 3 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | 28.9k | +1.7k | Swift |
+| 4 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | 3.8k | +986 | JavaScript |
+| 5 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | 70.7k | +577 | Python |
+| 6 | [**harper**](https://github.com/Automattic/harper) | 13.5k | +503 | Rust |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | 261.2k | +479 | Shell |
+| 8 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 13.2k | +431 | Go |
+| 9 | [**Instatic**](https://github.com/CoreBunch/Instatic) | 5.2k | +426 | TypeScript |
+| 10 | [**palmier-pro**](https://github.com/palmier-io/palmier-pro) | 12.3k | +412 | Swift |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | **1.00** | 73.6k | Automation & DevOps |
-| 🥈 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 70.2k | AI & Data Science |
-| 🥉 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 33.6k | AI & Data Science |
-| 4 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 86.1k | Otros |
-| 5 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 71.4k | Otros |
-| 6 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 187.2k | Otros |
-| 7 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 29.2k | AI & Data Science |
-| 8 | [**buzz**](https://github.com/block/buzz) | **0.96** | 10.5k | Mobile Development |
-| 9 | [**dive-into-llms**](https://github.com/Lordog/dive-into-llms) | **0.95** | 45.1k | Otros |
-| 10 | [**harper**](https://github.com/Automattic/harper) | **0.95** | 13.1k | Otros |
+| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 13.2k | AI & Data Science |
+| 🥈 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 70.7k | AI & Data Science |
+| 🥉 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 33.9k | AI & Data Science |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 261.2k | Python & Backend |
+| 5 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | **1.00** | 28.9k | Otros |
+| 6 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 188.7k | Otros |
+| 7 | [**palmier-pro**](https://github.com/palmier-io/palmier-pro) | **1.00** | 12.3k | AI & Data Science |
+| 8 | [**dive-into-llms**](https://github.com/Lordog/dive-into-llms) | **1.00** | 45.5k | Otros |
+| 9 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 233.4k | Cybersecurity & Hacking |
+| 10 | [**Chat2DB**](https://github.com/OtterMind/Chat2DB) | **1.00** | 26.8k | Python & Backend |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.92** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.81** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 3 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.89** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

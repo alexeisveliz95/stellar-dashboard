@@ -59,3 +59,6 @@
 | 2026-07-25 | **1** | [buzz](https://github.com/block/buzz) | +3270 | 10.5k | `0.96` |
 | 2026-07-25 | **2** | [skills](https://github.com/mattpocock/skills) | +2251 | 187.2k | `1.00` |
 | 2026-07-25 | **3** | [worldmonitor](https://github.com/koala73/worldmonitor) | +2184 | 73.6k | `1.00` |
+| 2026-07-26 | **1** | [buzz](https://github.com/block/buzz) | +2491 | 12.3k | `0.92` |
+| 2026-07-26 | **2** | [skills](https://github.com/mattpocock/skills) | +1740 | 188.7k | `1.00` |
+| 2026-07-26 | **3** | [bitchat](https://github.com/permissionlesstech/bitchat) | +1720 | 28.9k | `1.00` |
