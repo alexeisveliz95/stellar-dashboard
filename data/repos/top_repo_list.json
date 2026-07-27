@@ -1,219 +1,39 @@
 [
   {
-    "id": "github_trending_alibaba_open-code-review",
-    "name": "alibaba/open-code-review",
-    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "url": "https://github.com/alibaba/open-code-review",
-    "stars": 13192,
-    "growth": 431,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_ComposioHQ_awesome-claude-skills",
-    "name": "ComposioHQ/awesome-claude-skills",
-    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "stars": 70736,
-    "growth": 577,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-agents",
-      "antigravity",
-      "automation",
-      "claude",
-      "claude-code",
-      "codex",
-      "composio",
-      "cursor",
-      "developer-tools",
-      "gemini-cli",
-      "mcp",
-      "openai-codex",
-      "rube",
-      "saas",
-      "skill",
-      "workflow-automation"
-    ]
-  },
-  {
-    "id": "github_trending_shiyu-coder_Kronos",
-    "name": "shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "stars": 33884,
-    "growth": 319,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 261243,
-    "growth": 479,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_permissionlesstech_bitchat",
     "name": "permissionlesstech/bitchat",
     "description": "bluetooth mesh chat, IRC vibes",
     "url": "https://github.com/permissionlesstech/bitchat",
-    "stars": 28938,
-    "growth": 1720,
+    "stars": 31136,
+    "growth": 1166,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Swift",
-    "raw_license": "Unlicense"
-  },
-  {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 188660,
-    "growth": 1740,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_palmier-io_palmier-pro",
-    "name": "palmier-io/palmier-pro",
-    "description": "macOS video editor built for AI",
-    "url": "https://github.com/palmier-io/palmier-pro",
-    "stars": 12317,
-    "growth": 412,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Swift",
-    "tags": [
-      "ai"
-    ],
     "raw_topics": [
-      "ai-video",
-      "claude",
+      "bluetooth",
+      "bluetooth-le",
+      "decentralized",
+      "e2e-encryption",
+      "ios",
       "macos",
-      "mcp",
-      "seedance2",
-      "swift",
-      "video-editor"
+      "mesh-network",
+      "messaging",
+      "nostr",
+      "swift"
     ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_Lordog_dive-into-llms",
-    "name": "Lordog/dive-into-llms",
-    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-    "url": "https://github.com/Lordog/dive-into-llms",
-    "stars": 45453,
-    "growth": 408,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Jupyter Notebook"
-  },
-  {
-    "id": "github_trending_affaan-m_ECC",
-    "name": "affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/ECC",
-    "stars": 233419,
-    "growth": 377,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ],
-    "raw_license": "MIT"
+    "raw_license": "Unlicense"
   },
   {
     "id": "github_trending_OtterMind_Chat2DB",
     "name": "OtterMind/Chat2DB",
     "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
     "url": "https://github.com/OtterMind/Chat2DB",
-    "stars": 26801,
-    "growth": 360,
-    "score": 0.9977,
+    "stars": 27324,
+    "growth": 398,
+    "score": 1.0,
     "categories": [
       "Python & Backend"
     ],
@@ -246,28 +66,64 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_Automattic_harper",
-    "name": "Automattic/harper",
-    "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-    "url": "https://github.com/Automattic/harper",
-    "stars": 13515,
-    "growth": 503,
-    "score": 0.9495,
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 50971,
+    "growth": 413,
+    "score": 1.0,
     "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Rust",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_shiyu-coder_Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "stars": 34315,
+    "growth": 321,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_alibaba_open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "url": "https://github.com/alibaba/open-code-review",
+    "stars": 14234,
+    "growth": 832,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
     "raw_topics": [
-      "chrome-extension",
-      "developer-tools",
-      "english-language",
-      "grammar-checker",
-      "nodejs",
-      "react",
-      "rust",
-      "svelte",
-      "webassembly"
+      "agent",
+      "agent-skills",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -276,9 +132,9 @@
     "name": "anthropics/claude-cookbooks",
     "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
     "url": "https://github.com/anthropics/claude-cookbooks",
-    "stars": 49983,
-    "growth": 132,
-    "score": 0.9295,
+    "stars": 50396,
+    "growth": 379,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -291,9 +147,9 @@
     "name": "block/buzz",
     "description": "A hive mind communication platform",
     "url": "https://github.com/block/buzz",
-    "stars": 12314,
-    "growth": 2491,
-    "score": 0.9218,
+    "stars": 13870,
+    "growth": 1710,
+    "score": 0.9551,
     "categories": [
       "Mobile Development"
     ],
@@ -305,38 +161,60 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_citrolabs_ego-lite",
-    "name": "citrolabs/ego-lite",
-    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "stars": 3811,
-    "growth": 986,
-    "score": 0.8861,
+    "id": "github_trending_andrewyng_aisuite",
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "url": "https://github.com/andrewyng/aisuite",
+    "stars": 15481,
+    "growth": 187,
+    "score": 0.9432,
     "categories": [
-      "Web Development"
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_nodejs_node",
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "url": "https://github.com/nodejs/node",
+    "stars": 118534,
+    "growth": 36,
+    "score": 0.928,
+    "categories": [
+      "Python & Backend"
     ],
     "source": "github_trending",
     "language": "JavaScript",
     "tags": [
-      "nlp:web-development"
+      "nlp:python-backend"
     ],
     "raw_topics": [
-      "agent-skills",
-      "ai-agent",
-      "browser",
-      "skills",
-      "skills-sh"
+      "javascript",
+      "js",
+      "linux",
+      "macos",
+      "mit",
+      "node",
+      "nodejs",
+      "runtime",
+      "windows"
     ],
-    "raw_license": "MIT"
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_CoreBunch_Instatic",
     "name": "CoreBunch/Instatic",
     "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
     "url": "https://github.com/CoreBunch/Instatic",
-    "stars": 5229,
-    "growth": 426,
-    "score": 0.8824,
+    "stars": 5911,
+    "growth": 888,
+    "score": 0.9266,
     "categories": [
       "Python & Backend"
     ],
@@ -356,20 +234,58 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_andrewyng_aisuite",
-    "name": "andrewyng/aisuite",
-    "description": "Simple, unified interface to multiple Generative AI providers",
-    "url": "https://github.com/andrewyng/aisuite",
-    "stars": 15278,
-    "growth": 77,
-    "score": 0.8789,
+    "id": "github_trending_jenkinsci_jenkins",
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "url": "https://github.com/jenkinsci/jenkins",
+    "stars": 25779,
+    "growth": 18,
+    "score": 0.9132,
     "categories": [
-      "AI & Data Science"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "Java",
     "tags": [
-      "nlp:ai-data-science"
+      "automation"
+    ],
+    "raw_topics": [
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "continuous-integration",
+      "devops",
+      "groovy",
+      "hacktoberfest",
+      "java",
+      "jenkins",
+      "pipelines-as-code"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_citrolabs_ego-lite",
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "stars": 5118,
+    "growth": 900,
+    "score": 0.8808,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-agent",
+      "browser",
+      "browser-automation",
+      "skills",
+      "skills-sh"
     ],
     "raw_license": "MIT"
   },
@@ -378,9 +294,9 @@
     "name": "Pumpkin-MC/Pumpkin",
     "description": "Empowering everyone to host fast and efficient Minecraft servers.",
     "url": "https://github.com/Pumpkin-MC/Pumpkin",
-    "stars": 9783,
-    "growth": 358,
-    "score": 0.8417,
+    "stars": 10134,
+    "growth": 338,
+    "score": 0.8521,
     "categories": [
       "Otros"
     ],
@@ -401,38 +317,93 @@
     "raw_license": "GPL-3.0"
   },
   {
-    "id": "github_trending_RyanCodrai_turbovec",
-    "name": "RyanCodrai/turbovec",
-    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "stars": 14339,
-    "growth": 86,
-    "score": 0.8068,
+    "id": "github_trending_yorukot_superfile",
+    "name": "yorukot/superfile",
+    "description": "Pretty fancy and modern terminal file manager",
+    "url": "https://github.com/yorukot/superfile",
+    "stars": 20445,
+    "growth": 131,
+    "score": 0.8225,
     "categories": [
-      "PlayStation Homebrew & Linux"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
+    "language": "Go",
     "raw_topics": [
-      "ann",
-      "avx512",
-      "embedding",
-      "embeddings",
-      "faiss",
-      "nearest-neighbor",
-      "neon",
-      "python",
-      "quant",
-      "quantization",
-      "rag",
-      "rust",
-      "simd",
-      "turboquant",
-      "vector-search"
+      "bubbletea",
+      "cli",
+      "file-manager",
+      "filemanager",
+      "filesystem",
+      "golang",
+      "hacktoberfest",
+      "linux-app",
+      "terminal-app",
+      "terminal-based",
+      "tui"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_pingdotgg_t3code",
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "url": "https://github.com/pingdotgg/t3code",
+    "stars": 15163,
+    "growth": 149,
+    "score": 0.7964,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_permissionlesstech_bitchat-android",
+    "name": "permissionlesstech/bitchat-android",
+    "description": "bluetooth mesh chat, IRC vibes",
+    "url": "https://github.com/permissionlesstech/bitchat-android",
+    "stars": 6865,
+    "growth": 260,
+    "score": 0.7958,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Kotlin",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_amnezia-vpn_amnezia-client",
+    "name": "amnezia-vpn/amnezia-client",
+    "description": "Amnezia VPN Client (Desktop+Mobile)",
+    "url": "https://github.com/amnezia-vpn/amnezia-client",
+    "stars": 13493,
+    "growth": 35,
+    "score": 0.7359,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "cloak",
+      "gfw",
+      "ikev2",
+      "openvpn",
+      "shadowsocks",
+      "vpn",
+      "vpn-client",
+      "vpn-server",
+      "wireguard"
+    ],
+    "raw_license": "GPL-3.0"
   }
 ]

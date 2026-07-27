@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.88** · Estrellas totales: **5.1k**
-> Actualizado: `2026-07-27 08:24`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**ego-lite**](https://github.com/citrolabs/ego-lite) | **0.88** | 5.1k | `██████████` | The fastest browser for AI agents to run web automation, built for sharing your logged-in… |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
