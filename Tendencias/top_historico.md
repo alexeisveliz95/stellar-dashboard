@@ -62,3 +62,6 @@
 | 2026-07-26 | **1** | [buzz](https://github.com/block/buzz) | +2491 | 12.3k | `0.92` |
 | 2026-07-26 | **2** | [skills](https://github.com/mattpocock/skills) | +1740 | 188.7k | `1.00` |
 | 2026-07-26 | **3** | [bitchat](https://github.com/permissionlesstech/bitchat) | +1720 | 28.9k | `1.00` |
+| 2026-07-27 | **1** | [buzz](https://github.com/block/buzz) | +1710 | 13.9k | `0.96` |
+| 2026-07-27 | **2** | [bitchat](https://github.com/permissionlesstech/bitchat) | +1166 | 31.1k | `1.00` |
+| 2026-07-27 | **3** | [ego-lite](https://github.com/citrolabs/ego-lite) | +900 | 5.1k | `0.88` |
