@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-27 10:01`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-28 07:31`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**buzz**](https://github.com/block/buzz) | 13.9k | +1.7k | Rust |
-| 2 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | 31.1k | +1.2k | Swift |
-| 3 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | 5.1k | +900 | JavaScript |
-| 4 | [**Instatic**](https://github.com/CoreBunch/Instatic) | 5.9k | +888 | TypeScript |
-| 5 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 14.2k | +832 | Go |
-| 6 | [**impeccable**](https://github.com/pbakaus/impeccable) | 51.0k | +413 | JavaScript |
-| 7 | [**Chat2DB**](https://github.com/OtterMind/Chat2DB) | 27.3k | +398 | Java |
-| 8 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | 50.4k | +379 | Jupyter Notebook |
-| 9 | [**Pumpkin**](https://github.com/Pumpkin-MC/Pumpkin) | 10.1k | +338 | Rust |
-| 10 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 34.3k | +321 | Python |
+| 1 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | 32.7k | +2.3k | Swift |
+| 2 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 15.2k | +979 | Go |
+| 3 | [**impeccable**](https://github.com/pbakaus/impeccable) | 51.8k | +847 | JavaScript |
+| 4 | [**superfile**](https://github.com/yorukot/superfile) | 21.1k | +600 | Go |
+| 5 | [**airi**](https://github.com/moeru-ai/airi) | 44.3k | +572 | TypeScript |
+| 6 | [**amnezia-client**](https://github.com/amnezia-vpn/amnezia-client) | 14.0k | +515 | C++ |
+| 7 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 34.7k | +441 | Python |
+| 8 | [**claude-video**](https://github.com/bradautomates/claude-video) | 11.4k | +434 | Python |
+| 9 | [**GeoLibre**](https://github.com/opengeos/GeoLibre) | 2.9k | +420 | TypeScript |
+| 10 | [**MediaCrawler**](https://github.com/NanmiCoder/MediaCrawler) | 58.6k | +362 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | **1.00** | 31.1k | Otros |
-| 🥈 | [**Chat2DB**](https://github.com/OtterMind/Chat2DB) | **1.00** | 27.3k | Python & Backend |
-| 🥉 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 51.0k | AI & Data Science |
-| 4 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 34.3k | AI & Data Science |
-| 5 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 14.2k | AI & Data Science |
-| 6 | [**claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) | **1.00** | 50.4k | Otros |
-| 7 | [**buzz**](https://github.com/block/buzz) | **0.96** | 13.9k | Mobile Development |
-| 8 | [**aisuite**](https://github.com/andrewyng/aisuite) | **0.94** | 15.5k | AI & Data Science |
-| 9 | [**node**](https://github.com/nodejs/node) | **0.93** | 118.5k | Python & Backend |
-| 10 | [**Instatic**](https://github.com/CoreBunch/Instatic) | **0.93** | 5.9k | Python & Backend |
+| 🥇 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | **1.00** | 32.7k | Otros |
+| 🥈 | [**airi**](https://github.com/moeru-ai/airi) | **1.00** | 44.3k | Web Development |
+| 🥉 | [**MediaCrawler**](https://github.com/NanmiCoder/MediaCrawler) | **1.00** | 58.6k | Otros |
+| 4 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 51.8k | AI & Data Science |
+| 5 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 34.7k | AI & Data Science |
+| 6 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 15.2k | AI & Data Science |
+| 7 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 54.4k | Web Development |
+| 8 | [**amnezia-client**](https://github.com/amnezia-vpn/amnezia-client) | **0.98** | 14.0k | Mobile Development |
+| 9 | [**imgui**](https://github.com/ocornut/imgui) | **0.98** | 75.3k | Mobile Development |
+| 10 | [**superfile**](https://github.com/yorukot/superfile) | **0.97** | 21.1k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **0.96** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 3 | **0.98** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

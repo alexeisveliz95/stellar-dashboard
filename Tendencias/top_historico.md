@@ -65,3 +65,6 @@
 | 2026-07-27 | **1** | [buzz](https://github.com/block/buzz) | +1710 | 13.9k | `0.96` |
 | 2026-07-27 | **2** | [bitchat](https://github.com/permissionlesstech/bitchat) | +1166 | 31.1k | `1.00` |
 | 2026-07-27 | **3** | [ego-lite](https://github.com/citrolabs/ego-lite) | +900 | 5.1k | `0.88` |
+| 2026-07-28 | **1** | [bitchat](https://github.com/permissionlesstech/bitchat) | +2346 | 32.7k | `1.00` |
+| 2026-07-28 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +979 | 15.2k | `1.00` |
+| 2026-07-28 | **3** | [impeccable](https://github.com/pbakaus/impeccable) | +847 | 51.8k | `1.00` |
