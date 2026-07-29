@@ -1,38 +1,41 @@
 [
   {
-    "id": "github_trending_permissionlesstech_bitchat",
-    "name": "permissionlesstech/bitchat",
-    "description": "bluetooth mesh chat, IRC vibes",
-    "url": "https://github.com/permissionlesstech/bitchat",
-    "stars": 32658,
-    "growth": 2346,
+    "id": "github_trending_jenkinsci_jenkins",
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "url": "https://github.com/jenkinsci/jenkins",
+    "stars": 26158,
+    "growth": 180,
     "score": 1.0,
     "categories": [
-      "Otros"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "Swift",
-    "raw_topics": [
-      "bluetooth",
-      "bluetooth-le",
-      "decentralized",
-      "e2e-encryption",
-      "ios",
-      "macos",
-      "mesh-network",
-      "messaging",
-      "nostr",
-      "swift"
+    "language": "Java",
+    "tags": [
+      "automation"
     ],
-    "raw_license": "Unlicense"
+    "raw_topics": [
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "continuous-integration",
+      "devops",
+      "groovy",
+      "hacktoberfest",
+      "java",
+      "jenkins",
+      "pipelines-as-code"
+    ],
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_moeru-ai_airi",
     "name": "moeru-ai/airi",
     "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "url": "https://github.com/moeru-ai/airi",
-    "stars": 44315,
-    "growth": 572,
+    "stars": 45009,
+    "growth": 797,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -58,183 +61,30 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_NanmiCoder_MediaCrawler",
-    "name": "NanmiCoder/MediaCrawler",
-    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-    "url": "https://github.com/NanmiCoder/MediaCrawler",
-    "stars": 58587,
-    "growth": 362,
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 235099,
+    "growth": 636,
     "score": 1.0,
     "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_pbakaus_impeccable",
-    "name": "pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "url": "https://github.com/pbakaus/impeccable",
-    "stars": 51838,
-    "growth": 847,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
     "language": "JavaScript",
     "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_shiyu-coder_Kronos",
-    "name": "shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "stars": 34672,
-    "growth": 441,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_alibaba_open-code-review",
-    "name": "alibaba/open-code-review",
-    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "url": "https://github.com/alibaba/open-code-review",
-    "stars": 15177,
-    "growth": 979,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
+      "nlp:cybersecurity-hacking"
     ],
     "raw_topics": [
-      "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_mvanhorn_last30days-skill",
-    "name": "mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "stars": 54367,
-    "growth": 240,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ai-prompts",
-      "ai-skill",
-      "bluesky",
+      "ai-agents",
+      "anthropic",
       "claude",
       "claude-code",
-      "clawhub",
-      "deep-research",
-      "hackernews",
-      "instagram",
-      "openclaw",
-      "polymarket",
-      "recency",
-      "reddit",
-      "research",
-      "social-media",
-      "tiktok",
-      "trends",
-      "twitter",
-      "web-search",
-      "youtube"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_amnezia-vpn_amnezia-client",
-    "name": "amnezia-vpn/amnezia-client",
-    "description": "Amnezia VPN Client (Desktop+Mobile)",
-    "url": "https://github.com/amnezia-vpn/amnezia-client",
-    "stars": 14012,
-    "growth": 515,
-    "score": 0.9828,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "cloak",
-      "gfw",
-      "ikev2",
-      "openvpn",
-      "shadowsocks",
-      "vpn",
-      "vpn-client",
-      "vpn-server",
-      "wireguard"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_ocornut_imgui",
-    "name": "ocornut/imgui",
-    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "url": "https://github.com/ocornut/imgui",
-    "stars": 75269,
-    "growth": 51,
-    "score": 0.9756,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "api",
-      "cplusplus",
-      "framework",
-      "game-development",
-      "game-engine",
-      "gamedev",
-      "gui",
-      "imgui",
-      "immediate-gui",
-      "library",
-      "multi-platform",
-      "native",
-      "toolkit",
-      "tools",
-      "ui"
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
     ],
     "raw_license": "MIT"
   },
@@ -243,9 +93,9 @@
     "name": "yorukot/superfile",
     "description": "Pretty fancy and modern terminal file manager",
     "url": "https://github.com/yorukot/superfile",
-    "stars": 21073,
-    "growth": 600,
-    "score": 0.9721,
+    "stars": 21679,
+    "growth": 662,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -267,43 +117,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_jenkinsci_jenkins",
-    "name": "jenkinsci/jenkins",
-    "description": "Jenkins automation server",
-    "url": "https://github.com/jenkinsci/jenkins",
-    "stars": 25933,
-    "growth": 180,
-    "score": 0.9605,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "tags": [
-      "automation"
-    ],
-    "raw_topics": [
-      "cicd",
-      "continuous-delivery",
-      "continuous-deployment",
-      "continuous-integration",
-      "devops",
-      "groovy",
-      "hacktoberfest",
-      "java",
-      "jenkins",
-      "pipelines-as-code"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_bradautomates_claude-video",
     "name": "bradautomates/claude-video",
     "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
     "url": "https://github.com/bradautomates/claude-video",
-    "stars": 11421,
-    "growth": 434,
-    "score": 0.9299,
+    "stars": 12371,
+    "growth": 988,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -312,13 +132,43 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_virgiliojr94_book-to-skill",
+    "name": "virgiliojr94/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "stars": 11877,
+    "growth": 423,
+    "score": 0.9826,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_pascalorg_editor",
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "url": "https://github.com/pascalorg/editor",
+    "stars": 19055,
+    "growth": 341,
+    "score": 0.9695,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_opengeos_GeoLibre",
     "name": "opengeos/GeoLibre",
     "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
     "url": "https://github.com/opengeos/GeoLibre",
-    "stars": 2928,
-    "growth": 420,
-    "score": 0.8908,
+    "stars": 3599,
+    "growth": 607,
+    "score": 0.9388,
     "categories": [
       "Mobile Development"
     ],
@@ -338,41 +188,145 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_apache_cassandra",
-    "name": "apache/cassandra",
-    "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-    "url": "https://github.com/apache/cassandra",
-    "stars": 10011,
-    "growth": 11,
-    "score": 0.7956,
+    "id": "github_trending_andrewyng_aisuite",
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "url": "https://github.com/andrewyng/aisuite",
+    "stars": 15768,
+    "growth": 62,
+    "score": 0.9059,
     "categories": [
-      "Automation & DevOps"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Java",
+    "language": "Python",
     "tags": [
-      "nlp:automation-devops"
+      "nlp:ai-data-science"
     ],
-    "raw_topics": [
-      "cassandra",
-      "database",
-      "java"
-    ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_vudovn_ag-kit",
-    "name": "vudovn/ag-kit",
-    "description": "",
-    "url": "https://github.com/vudovn/ag-kit",
-    "stars": 8030,
-    "growth": 14,
-    "score": 0.6271,
+    "id": "github_trending_paperswithbacktest_awesome-systematic-trading",
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "stars": 9942,
+    "growth": 309,
+    "score": 0.8922,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
+    "raw_topics": [
+      "algorithmic-trading",
+      "algotrading",
+      "alpha",
+      "arbitrage-bot",
+      "awesome",
+      "awesome-list",
+      "book",
+      "finance",
+      "futures",
+      "futures-historical-data",
+      "futures-market",
+      "futuresmarkets",
+      "paper",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading-algorithms",
+      "trading-bot",
+      "trading-strategies"
+    ]
+  },
+  {
+    "id": "github_trending_microsoft_agent-governance-toolkit",
+    "name": "microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "stars": 5360,
+    "growth": 46,
+    "score": 0.8229,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-framework",
+      "ai-agents",
+      "ai-safety",
+      "compliance",
+      "governance",
+      "microsoft",
+      "owasp",
+      "policy-engine",
+      "python",
+      "security",
+      "trust",
+      "zero-trust"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_huggingface_speech-to-speech",
+    "name": "huggingface/speech-to-speech",
+    "description": "Build local voice agents with open-source models",
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "stars": 7485,
+    "growth": 227,
+    "score": 0.8181,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai",
+      "assistant",
+      "language-model",
+      "machine-learning",
+      "python",
+      "speech",
+      "speech-synthesis",
+      "speech-to-text",
+      "speech-translation"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_hello245m_free-stockdb",
+    "name": "hello245m/free-stockdb",
+    "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+    "url": "https://github.com/hello245m/free-stockdb",
+    "stars": 1528,
+    "growth": 50,
+    "score": 0.6805,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
+    "raw_topics": [
+      "a-share",
+      "algorithmic-trading",
+      "backtesting",
+      "china-stock-market",
+      "kline",
+      "local-first",
+      "market-data",
+      "mcp",
+      "quant-research",
+      "quantitative-finance",
+      "stock-data",
+      "stock-market",
+      "technical-analysis",
+      "time-series-database"
+    ],
     "raw_license": "MIT"
   }
 ]
