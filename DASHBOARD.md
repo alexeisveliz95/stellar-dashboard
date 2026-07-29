@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-28 08:45`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-29 07:39`
+> 📦 **20** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | 32.7k | +2.3k | Swift |
-| 2 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 15.2k | +979 | Go |
-| 3 | [**impeccable**](https://github.com/pbakaus/impeccable) | 51.8k | +847 | JavaScript |
-| 4 | [**superfile**](https://github.com/yorukot/superfile) | 21.1k | +600 | Go |
-| 5 | [**airi**](https://github.com/moeru-ai/airi) | 44.3k | +572 | TypeScript |
-| 6 | [**amnezia-client**](https://github.com/amnezia-vpn/amnezia-client) | 14.0k | +515 | C++ |
-| 7 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 34.7k | +441 | Python |
-| 8 | [**claude-video**](https://github.com/bradautomates/claude-video) | 11.4k | +434 | Python |
-| 9 | [**GeoLibre**](https://github.com/opengeos/GeoLibre) | 2.9k | +420 | TypeScript |
-| 10 | [**MediaCrawler**](https://github.com/NanmiCoder/MediaCrawler) | 58.6k | +362 | Python |
+| 1 | [**claude-video**](https://github.com/bradautomates/claude-video) | 12.4k | +988 | Python |
+| 2 | [**airi**](https://github.com/moeru-ai/airi) | 45.0k | +797 | TypeScript |
+| 3 | [**superfile**](https://github.com/yorukot/superfile) | 21.7k | +662 | Go |
+| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 235.1k | +636 | JavaScript |
+| 5 | [**GeoLibre**](https://github.com/opengeos/GeoLibre) | 3.6k | +607 | TypeScript |
+| 6 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | 11.9k | +423 | Python |
+| 7 | [**editor**](https://github.com/pascalorg/editor) | 19.1k | +341 | TypeScript |
+| 8 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | 9.9k | +309 | Python |
+| 9 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | 7.5k | +227 | Python |
+| 10 | [**jenkins**](https://github.com/jenkinsci/jenkins) | 26.2k | +180 | Java |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | **1.00** | 32.7k | Otros |
-| 🥈 | [**airi**](https://github.com/moeru-ai/airi) | **1.00** | 44.3k | Web Development |
-| 🥉 | [**MediaCrawler**](https://github.com/NanmiCoder/MediaCrawler) | **1.00** | 58.6k | Otros |
-| 4 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 51.8k | AI & Data Science |
-| 5 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 34.7k | AI & Data Science |
-| 6 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 15.2k | AI & Data Science |
-| 7 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 54.4k | Web Development |
-| 8 | [**amnezia-client**](https://github.com/amnezia-vpn/amnezia-client) | **0.98** | 14.0k | Mobile Development |
-| 9 | [**imgui**](https://github.com/ocornut/imgui) | **0.98** | 75.3k | Mobile Development |
-| 10 | [**superfile**](https://github.com/yorukot/superfile) | **0.97** | 21.1k | Otros |
+| 🥇 | [**jenkins**](https://github.com/jenkinsci/jenkins) | **1.00** | 26.2k | Automation & DevOps |
+| 🥈 | [**airi**](https://github.com/moeru-ai/airi) | **1.00** | 45.0k | Web Development |
+| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 235.1k | Cybersecurity & Hacking |
+| 4 | [**superfile**](https://github.com/yorukot/superfile) | **1.00** | 21.7k | Otros |
+| 5 | [**claude-video**](https://github.com/bradautomates/claude-video) | **1.00** | 12.4k | Otros |
+| 6 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | **0.98** | 11.9k | Otros |
+| 7 | [**editor**](https://github.com/pascalorg/editor) | **0.97** | 19.1k | Otros |
+| 8 | [**GeoLibre**](https://github.com/opengeos/GeoLibre) | **0.94** | 3.6k | Mobile Development |
+| 9 | [**aisuite**](https://github.com/andrewyng/aisuite) | **0.91** | 15.8k | AI & Data Science |
+| 10 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **0.89** | 9.9k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 2 | **0.91** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.94** |
+| [**Otros**](Categorias/Otros.md) | 7 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

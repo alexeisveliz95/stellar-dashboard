@@ -68,3 +68,6 @@
 | 2026-07-28 | **1** | [bitchat](https://github.com/permissionlesstech/bitchat) | +2346 | 32.7k | `1.00` |
 | 2026-07-28 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +979 | 15.2k | `1.00` |
 | 2026-07-28 | **3** | [impeccable](https://github.com/pbakaus/impeccable) | +847 | 51.8k | `1.00` |
+| 2026-07-29 | **1** | [claude-video](https://github.com/bradautomates/claude-video) | +988 | 12.4k | `1.00` |
+| 2026-07-29 | **2** | [airi](https://github.com/moeru-ai/airi) | +797 | 45.0k | `1.00` |
+| 2026-07-29 | **3** | [superfile](https://github.com/yorukot/superfile) | +662 | 21.7k | `1.00` |
