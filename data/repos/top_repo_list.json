@@ -1,41 +1,11 @@
 [
   {
-    "id": "github_trending_jenkinsci_jenkins",
-    "name": "jenkinsci/jenkins",
-    "description": "Jenkins automation server",
-    "url": "https://github.com/jenkinsci/jenkins",
-    "stars": 26158,
-    "growth": 180,
-    "score": 1.0,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "tags": [
-      "automation"
-    ],
-    "raw_topics": [
-      "cicd",
-      "continuous-delivery",
-      "continuous-deployment",
-      "continuous-integration",
-      "devops",
-      "groovy",
-      "hacktoberfest",
-      "java",
-      "jenkins",
-      "pipelines-as-code"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_moeru-ai_airi",
     "name": "moeru-ai/airi",
     "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "url": "https://github.com/moeru-ai/airi",
-    "stars": 45009,
-    "growth": 797,
+    "stars": 45590,
+    "growth": 682,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -65,8 +35,8 @@
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 235099,
-    "growth": 636,
+    "stars": 235814,
+    "growth": 857,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -89,46 +59,119 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_yorukot_superfile",
-    "name": "yorukot/superfile",
-    "description": "Pretty fancy and modern terminal file manager",
-    "url": "https://github.com/yorukot/superfile",
-    "stars": 21679,
-    "growth": 662,
+    "id": "github_trending_1jehuang_jcode",
+    "name": "1jehuang/jcode",
+    "description": "The most RAM efficient harness",
+    "url": "https://github.com/1jehuang/jcode",
+    "stars": 13663,
+    "growth": 640,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "Rust",
     "raw_topics": [
-      "bubbletea",
+      "ai",
+      "ai-agent",
+      "ai-coding-agent",
+      "claude",
       "cli",
-      "file-manager",
-      "filemanager",
-      "filesystem",
-      "golang",
-      "hacktoberfest",
-      "linux-app",
-      "terminal-app",
-      "terminal-based",
+      "coding-agent",
+      "llm",
+      "mcp",
+      "openai",
+      "rust",
+      "terminal",
       "tui"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_bradautomates_claude-video",
-    "name": "bradautomates/claude-video",
-    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-    "url": "https://github.com/bradautomates/claude-video",
-    "stars": 12371,
-    "growth": 988,
+    "id": "github_trending_microsoft_VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "stars": 51486,
+    "growth": 336,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 263535,
+    "growth": 616,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_alibaba_open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "url": "https://github.com/alibaba/open-code-review",
+    "stars": 16245,
+    "growth": 359,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "agent",
+      "agent-skills",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_pascalorg_editor",
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "url": "https://github.com/pascalorg/editor",
+    "stars": 19761,
+    "growth": 1022,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "TypeScript",
     "raw_license": "MIT"
   },
   {
@@ -136,9 +179,9 @@
     "name": "virgiliojr94/book-to-skill",
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "url": "https://github.com/virgiliojr94/book-to-skill",
-    "stars": 11877,
-    "growth": 423,
-    "score": 0.9826,
+    "stars": 13190,
+    "growth": 1421,
+    "score": 0.994,
     "categories": [
       "Otros"
     ],
@@ -147,72 +190,28 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_pascalorg_editor",
-    "name": "pascalorg/editor",
-    "description": "Create and share 3D architectural projects.",
-    "url": "https://github.com/pascalorg/editor",
-    "stars": 19055,
-    "growth": 341,
-    "score": 0.9695,
+    "id": "github_trending_NanmiCoder_MediaCrawler",
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "stars": 59288,
+    "growth": 154,
+    "score": 0.9719,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_opengeos_GeoLibre",
-    "name": "opengeos/GeoLibre",
-    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-    "url": "https://github.com/opengeos/GeoLibre",
-    "stars": 3599,
-    "growth": 607,
-    "score": 0.9388,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "data-science",
-      "duckdb",
-      "geospatial",
-      "maplibre",
-      "maplibre-gl-js",
-      "tauri-app"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_andrewyng_aisuite",
-    "name": "andrewyng/aisuite",
-    "description": "Simple, unified interface to multiple Generative AI providers",
-    "url": "https://github.com/andrewyng/aisuite",
-    "stars": 15768,
-    "growth": 62,
-    "score": 0.9059,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
     "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_paperswithbacktest_awesome-systematic-trading",
     "name": "paperswithbacktest/awesome-systematic-trading",
     "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
     "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-    "stars": 9942,
-    "growth": 309,
-    "score": 0.8922,
+    "stars": 10563,
+    "growth": 945,
+    "score": 0.9649,
     "categories": [
       "Otros"
     ],
@@ -241,45 +240,44 @@
     ]
   },
   {
-    "id": "github_trending_microsoft_agent-governance-toolkit",
-    "name": "microsoft/agent-governance-toolkit",
-    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-    "url": "https://github.com/microsoft/agent-governance-toolkit",
-    "stars": 5360,
-    "growth": 46,
-    "score": 0.8229,
+    "id": "github_trending_deepfakes_faceswap",
+    "name": "deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "url": "https://github.com/deepfakes/faceswap",
+    "stars": 56524,
+    "growth": 166,
+    "score": 0.9403,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
-    "tags": [
-      "ai"
-    ],
     "raw_topics": [
-      "agent-framework",
-      "ai-agents",
-      "ai-safety",
-      "compliance",
-      "governance",
-      "microsoft",
-      "owasp",
-      "policy-engine",
-      "python",
-      "security",
-      "trust",
-      "zero-trust"
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "myfakeapp",
+      "neural-nets",
+      "neural-networks",
+      "openfaceswap"
     ],
-    "raw_license": "MIT"
+    "raw_license": "GPL-3.0"
   },
   {
     "id": "github_trending_huggingface_speech-to-speech",
     "name": "huggingface/speech-to-speech",
     "description": "Build local voice agents with open-source models",
     "url": "https://github.com/huggingface/speech-to-speech",
-    "stars": 7485,
-    "growth": 227,
-    "score": 0.8181,
+    "stars": 8078,
+    "growth": 827,
+    "score": 0.9383,
     "categories": [
       "Otros"
     ],
@@ -299,34 +297,106 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_hello245m_free-stockdb",
-    "name": "hello245m/free-stockdb",
-    "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
-    "url": "https://github.com/hello245m/free-stockdb",
-    "stars": 1528,
-    "growth": 50,
-    "score": 0.6805,
+    "id": "github_trending_different-ai_openwork",
+    "name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "url": "https://github.com/different-ai/openwork",
+    "stars": 18188,
+    "growth": 97,
+    "score": 0.9354,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_grokability_snipe-it",
+    "name": "grokability/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "url": "https://github.com/grokability/snipe-it",
+    "stars": 14551,
+    "growth": 164,
+    "score": 0.934,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "PHP",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "asset-management",
+      "asset-manager",
+      "assets-management",
+      "itam",
+      "license-management"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_opengeos_GeoLibre",
+    "name": "opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "stars": 4284,
+    "growth": 671,
+    "score": 0.927,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "data-science",
+      "duckdb",
+      "geolibre",
+      "geospatial",
+      "maplibre",
+      "maplibre-gl-js",
+      "tauri-app"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_maderix_ANE",
+    "name": "maderix/ANE",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+    "url": "https://github.com/maderix/ANE",
+    "stars": 7189,
+    "growth": 22,
+    "score": 0.7942,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Objective-C",
+    "tags": [
+      "neural"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_MoonshotAI_FlashKDA",
+    "name": "MoonshotAI/FlashKDA",
+    "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+    "url": "https://github.com/MoonshotAI/FlashKDA",
+    "stars": 1055,
+    "growth": 91,
+    "score": 0.6596,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "HTML",
-    "raw_topics": [
-      "a-share",
-      "algorithmic-trading",
-      "backtesting",
-      "china-stock-market",
-      "kline",
-      "local-first",
-      "market-data",
-      "mcp",
-      "quant-research",
-      "quantitative-finance",
-      "stock-data",
-      "stock-market",
-      "technical-analysis",
-      "time-series-database"
-    ],
+    "language": "Cuda",
     "raw_license": "MIT"
   }
 ]
