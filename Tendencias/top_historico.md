@@ -71,3 +71,6 @@
 | 2026-07-29 | **1** | [claude-video](https://github.com/bradautomates/claude-video) | +988 | 12.4k | `1.00` |
 | 2026-07-29 | **2** | [airi](https://github.com/moeru-ai/airi) | +797 | 45.0k | `1.00` |
 | 2026-07-29 | **3** | [superfile](https://github.com/yorukot/superfile) | +662 | 21.7k | `1.00` |
+| 2026-07-30 | **1** | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | +1421 | 13.2k | `0.99` |
+| 2026-07-30 | **2** | [editor](https://github.com/pascalorg/editor) | +1022 | 19.8k | `1.00` |
+| 2026-07-30 | **3** | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +945 | 10.6k | `0.96` |

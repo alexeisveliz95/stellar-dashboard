@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **8 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **182.1k**
+> Actualizado: `2026-07-30 07:28`
 
 ---
 
@@ -10,11 +10,13 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**jcode**](https://github.com/1jehuang/jcode) | **1.00** | 13.7k | `████░░░░░░` | The most RAM efficient harness |
+| [**editor**](https://github.com/pascalorg/editor) | **1.00** | 19.8k | `█████░░░░░` | Create and share 3D architectural projects. |
+| [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | **0.99** | 13.2k | `██████████` | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use… |
+| [**MediaCrawler**](https://github.com/NanmiCoder/MediaCrawler) | **0.97** | 59.3k | `█░░░░░░░░░` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **0.96** | 10.6k | `████████░░` | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for… |
+| [**faceswap**](https://github.com/deepfakes/faceswap) | **0.94** | 56.5k | `█░░░░░░░░░` | Deepfakes Software For All |
+| [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | **0.94** | 8.1k | `██████████` | Build local voice agents with open-source models |
+| [**FlashKDA**](https://github.com/MoonshotAI/FlashKDA) | **0.66** | 1.1k | `████████░░` | FlashKDA: high-performance Kimi Delta Attention kernels |
 
 ---
