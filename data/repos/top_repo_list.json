@@ -1,42 +1,121 @@
 [
   {
-    "id": "github_trending_moeru-ai_airi",
-    "name": "moeru-ai/airi",
-    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "url": "https://github.com/moeru-ai/airi",
-    "stars": 45590,
-    "growth": 682,
+    "id": "github_trending_microsoft_AI-For-Beginners",
+    "name": "microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "stars": 54540,
+    "growth": 155,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Jupyter Notebook",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_different-ai_openwork",
+    "name": "different-ai/openwork",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "url": "https://github.com/different-ai/openwork",
+    "stars": 18983,
+    "growth": 915,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_mvanhorn_last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "stars": 55742,
+    "growth": 378,
     "score": 1.0,
     "categories": [
       "Web Development"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
     "tags": [
       "nlp:web-development"
     ],
     "raw_topics": [
-      "ai-companion",
-      "ai-vtuber",
-      "airi",
-      "digital-life",
-      "grok-companion",
-      "live2d",
-      "neuro-sama",
-      "neurosama",
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
       "openclaw",
-      "vrm",
-      "vtuber"
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_ansible_ansible",
+    "name": "ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+    "url": "https://github.com/ansible/ansible",
+    "stars": 69956,
+    "growth": 29,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "ansible",
+      "python"
+    ],
+    "raw_license": "GPL-3.0"
   },
   {
     "id": "github_trending_affaan-m_ECC",
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 235814,
-    "growth": 857,
+    "stars": 236400,
+    "growth": 804,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -59,114 +138,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_1jehuang_jcode",
-    "name": "1jehuang/jcode",
-    "description": "The most RAM efficient harness",
-    "url": "https://github.com/1jehuang/jcode",
-    "stars": 13663,
-    "growth": 640,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "ai",
-      "ai-agent",
-      "ai-coding-agent",
-      "claude",
-      "cli",
-      "coding-agent",
-      "llm",
-      "mcp",
-      "openai",
-      "rust",
-      "terminal",
-      "tui"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_microsoft_VibeVoice",
-    "name": "microsoft/VibeVoice",
-    "description": "Open-Source Frontier Voice AI",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "stars": 51486,
-    "growth": 336,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 263535,
-    "growth": 616,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_alibaba_open-code-review",
-    "name": "alibaba/open-code-review",
-    "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "url": "https://github.com/alibaba/open-code-review",
-    "stars": 16245,
-    "growth": 359,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_pascalorg_editor",
     "name": "pascalorg/editor",
     "description": "Create and share 3D architectural projects.",
     "url": "https://github.com/pascalorg/editor",
-    "stars": 19761,
-    "growth": 1022,
-    "score": 1.0,
+    "stars": 20271,
+    "growth": 625,
+    "score": 0.9709,
     "categories": [
       "Otros"
     ],
@@ -175,43 +153,45 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_virgiliojr94_book-to-skill",
-    "name": "virgiliojr94/book-to-skill",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "url": "https://github.com/virgiliojr94/book-to-skill",
-    "stars": 13190,
-    "growth": 1421,
-    "score": 0.994,
+    "id": "github_trending_microsoft_PowerToys",
+    "name": "microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "url": "https://github.com/microsoft/PowerToys",
+    "stars": 137246,
+    "growth": 70,
+    "score": 0.9636,
     "categories": [
-      "Otros"
+      "PlayStation Homebrew & Linux"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "C",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "advanced-paste",
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones",
+      "keyboard-manager",
+      "microsoft-powertoys",
+      "powerrename",
+      "powertoys",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
     "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_NanmiCoder_MediaCrawler",
-    "name": "NanmiCoder/MediaCrawler",
-    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-    "url": "https://github.com/NanmiCoder/MediaCrawler",
-    "stars": 59288,
-    "growth": 154,
-    "score": 0.9719,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_paperswithbacktest_awesome-systematic-trading",
     "name": "paperswithbacktest/awesome-systematic-trading",
     "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
     "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-    "stars": 10563,
-    "growth": 945,
-    "score": 0.9649,
+    "stars": 11321,
+    "growth": 621,
+    "score": 0.9598,
     "categories": [
       "Otros"
     ],
@@ -240,44 +220,13 @@
     ]
   },
   {
-    "id": "github_trending_deepfakes_faceswap",
-    "name": "deepfakes/faceswap",
-    "description": "Deepfakes Software For All",
-    "url": "https://github.com/deepfakes/faceswap",
-    "stars": 56524,
-    "growth": 166,
-    "score": 0.9403,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "deep-face-swap",
-      "deep-learning",
-      "deep-neural-networks",
-      "deepface",
-      "deepfakes",
-      "deeplearning",
-      "face-swap",
-      "faceswap",
-      "fakeapp",
-      "machine-learning",
-      "myfakeapp",
-      "neural-nets",
-      "neural-networks",
-      "openfaceswap"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
     "id": "github_trending_huggingface_speech-to-speech",
     "name": "huggingface/speech-to-speech",
     "description": "Build local voice agents with open-source models",
     "url": "https://github.com/huggingface/speech-to-speech",
-    "stars": 8078,
-    "growth": 827,
-    "score": 0.9383,
+    "stars": 9329,
+    "growth": 628,
+    "score": 0.9079,
     "categories": [
       "Otros"
     ],
@@ -297,106 +246,131 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_different-ai_openwork",
-    "name": "different-ai/openwork",
-    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-    "url": "https://github.com/different-ai/openwork",
-    "stars": 18188,
-    "growth": 97,
-    "score": 0.9354,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_grokability_snipe-it",
-    "name": "grokability/snipe-it",
-    "description": "A free open source IT asset/license management system",
-    "url": "https://github.com/grokability/snipe-it",
-    "stars": 14551,
-    "growth": 164,
-    "score": 0.934,
+    "id": "github_trending_jenkinsci_jenkins",
+    "name": "jenkinsci/jenkins",
+    "description": "Jenkins automation server",
+    "url": "https://github.com/jenkinsci/jenkins",
+    "stars": 26344,
+    "growth": 25,
+    "score": 0.8726,
     "categories": [
       "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "PHP",
+    "language": "Java",
     "tags": [
-      "nlp:automation-devops"
+      "automation"
     ],
     "raw_topics": [
-      "asset-management",
-      "asset-manager",
-      "assets-management",
-      "itam",
-      "license-management"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_opengeos_GeoLibre",
-    "name": "opengeos/GeoLibre",
-    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-    "url": "https://github.com/opengeos/GeoLibre",
-    "stars": 4284,
-    "growth": 671,
-    "score": 0.927,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "data-science",
-      "duckdb",
-      "geolibre",
-      "geospatial",
-      "maplibre",
-      "maplibre-gl-js",
-      "tauri-app"
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "continuous-integration",
+      "devops",
+      "groovy",
+      "hacktoberfest",
+      "java",
+      "jenkins",
+      "pipelines-as-code"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_maderix_ANE",
-    "name": "maderix/ANE",
-    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-    "url": "https://github.com/maderix/ANE",
-    "stars": 7189,
-    "growth": 22,
-    "score": 0.7942,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Objective-C",
-    "tags": [
-      "neural"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_MoonshotAI_FlashKDA",
-    "name": "MoonshotAI/FlashKDA",
-    "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
-    "url": "https://github.com/MoonshotAI/FlashKDA",
-    "stars": 1055,
-    "growth": 91,
-    "score": 0.6596,
+    "id": "github_trending_ChromeDevTools_chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "stars": 48181,
+    "growth": 80,
+    "score": 0.843,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Cuda",
+    "language": "TypeScript",
+    "raw_topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_dotnet_aspnetcore",
+    "name": "dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "stars": 38320,
+    "growth": 7,
+    "score": 0.8249,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "C#",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "aspnetcore",
+      "dotnet",
+      "hacktoberfest",
+      "help-wanted"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_agavra_tuicr",
+    "name": "agavra/tuicr",
+    "description": "a code review TUI with vim keybindings",
+    "url": "https://github.com/agavra/tuicr",
+    "stars": 1960,
+    "growth": 190,
+    "score": 0.7537,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_topics": [
+      "ai-tools",
+      "code-review",
+      "rust",
+      "tui"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_WhiskeySockets_Baileys",
+    "name": "WhiskeySockets/Baileys",
+    "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+    "url": "https://github.com/WhiskeySockets/Baileys",
+    "stars": 10494,
+    "growth": 19,
+    "score": 0.6839,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "bun",
+      "deno",
+      "nodejs",
+      "reverse-engineering",
+      "typescript",
+      "websockets",
+      "whatsapp-web",
+      "ws"
+    ],
     "raw_license": "MIT"
   }
 ]

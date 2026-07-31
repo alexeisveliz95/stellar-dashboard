@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **66.2k**
-> Actualizado: `2026-07-31 07:44`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 55.7k | `██████████` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the… |
-| [**Baileys**](https://github.com/WhiskeySockets/Baileys) | **0.68** | 10.5k | `███░░░░░░░` | Socket-based TS/JavaScript API for WhatsApp Web |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
