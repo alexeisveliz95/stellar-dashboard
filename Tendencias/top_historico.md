@@ -74,3 +74,6 @@
 | 2026-07-30 | **1** | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | +1421 | 13.2k | `0.99` |
 | 2026-07-30 | **2** | [editor](https://github.com/pascalorg/editor) | +1022 | 19.8k | `1.00` |
 | 2026-07-30 | **3** | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +945 | 10.6k | `0.96` |
+| 2026-07-31 | **1** | [openwork](https://github.com/different-ai/openwork) | +915 | 19.0k | `1.00` |
+| 2026-07-31 | **2** | [ECC](https://github.com/affaan-m/ECC) | +804 | 236.4k | `1.00` |
+| 2026-07-31 | **3** | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | +628 | 9.3k | `0.91` |

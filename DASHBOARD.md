@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-30 08:37`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-07-31 07:44`
+> 📦 **19** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | 13.2k | +1.4k | Python |
-| 2 | [**editor**](https://github.com/pascalorg/editor) | 19.8k | +1.0k | TypeScript |
-| 3 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | 10.6k | +945 | Python |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 235.8k | +857 | JavaScript |
-| 5 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | 8.1k | +827 | Python |
-| 6 | [**airi**](https://github.com/moeru-ai/airi) | 45.6k | +682 | TypeScript |
-| 7 | [**GeoLibre**](https://github.com/opengeos/GeoLibre) | 4.3k | +671 | TypeScript |
-| 8 | [**jcode**](https://github.com/1jehuang/jcode) | 13.7k | +640 | Rust |
-| 9 | [**superpowers**](https://github.com/obra/superpowers) | 263.5k | +616 | Shell |
-| 10 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 16.2k | +359 | Go |
+| 1 | [**openwork**](https://github.com/different-ai/openwork) | 19.0k | +915 | TypeScript |
+| 2 | [**ECC**](https://github.com/affaan-m/ECC) | 236.4k | +804 | JavaScript |
+| 3 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | 9.3k | +628 | Python |
+| 4 | [**editor**](https://github.com/pascalorg/editor) | 20.3k | +625 | TypeScript |
+| 5 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11.3k | +621 | Python |
+| 6 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 55.7k | +378 | Python |
+| 7 | [**tuicr**](https://github.com/agavra/tuicr) | 2.0k | +190 | Rust |
+| 8 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 54.5k | +155 | Jupyter Notebook |
+| 9 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 48.2k | +80 | TypeScript |
+| 10 | [**PowerToys**](https://github.com/microsoft/PowerToys) | 137.2k | +70 | C |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**airi**](https://github.com/moeru-ai/airi) | **1.00** | 45.6k | Web Development |
-| 🥈 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 235.8k | Cybersecurity & Hacking |
-| 🥉 | [**jcode**](https://github.com/1jehuang/jcode) | **1.00** | 13.7k | Otros |
-| 4 | [**VibeVoice**](https://github.com/microsoft/VibeVoice) | **1.00** | 51.5k | AI & Data Science |
-| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 263.5k | Python & Backend |
-| 6 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 16.2k | AI & Data Science |
-| 7 | [**editor**](https://github.com/pascalorg/editor) | **1.00** | 19.8k | Otros |
-| 8 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | **0.99** | 13.2k | Otros |
-| 9 | [**MediaCrawler**](https://github.com/NanmiCoder/MediaCrawler) | **0.97** | 59.3k | Otros |
-| 10 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **0.96** | 10.6k | Otros |
+| 🥇 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 54.5k | AI & Data Science |
+| 🥈 | [**openwork**](https://github.com/different-ai/openwork) | **1.00** | 19.0k | AI & Data Science |
+| 🥉 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 55.7k | Web Development |
+| 4 | [**ansible**](https://github.com/ansible/ansible) | **1.00** | 70.0k | Automation & DevOps |
+| 5 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 236.4k | Cybersecurity & Hacking |
+| 6 | [**editor**](https://github.com/pascalorg/editor) | **0.97** | 20.3k | Otros |
+| 7 | [**PowerToys**](https://github.com/microsoft/PowerToys) | **0.96** | 137.2k | PlayStation Homebrew & Linux |
+| 8 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **0.96** | 11.3k | Otros |
+| 9 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | **0.91** | 9.3k | Otros |
+| 10 | [**jenkins**](https://github.com/jenkinsci/jenkins) | **0.87** | 26.3k | Automation & DevOps |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 2 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.82** |
+| [**Otros**](Categorias/Otros.md) | 5 | **0.97** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.96** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

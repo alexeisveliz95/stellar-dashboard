@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **5 proyectos** · ⭐ Mejor score: **0.97** · Estrellas totales: **91.1k**
+> Actualizado: `2026-07-31 07:44`
 
 ---
 
@@ -10,11 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**editor**](https://github.com/pascalorg/editor) | **0.97** | 20.3k | `███░░░░░░░` | Create and share 3D architectural projects. |
+| [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **0.96** | 11.3k | `██████░░░░` | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for… |
+| [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | **0.91** | 9.3k | `███████░░░` | Build local voice agents with open-source models |
+| [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **0.84** | 48.2k | `█░░░░░░░░░` | Chrome DevTools for coding agents |
+| [**tuicr**](https://github.com/agavra/tuicr) | **0.75** | 2.0k | `██████████` | a code review TUI with vim keybindings |
 
 ---
