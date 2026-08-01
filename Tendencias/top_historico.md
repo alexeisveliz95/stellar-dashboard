@@ -77,3 +77,6 @@
 | 2026-07-31 | **1** | [openwork](https://github.com/different-ai/openwork) | +915 | 19.0k | `1.00` |
 | 2026-07-31 | **2** | [ECC](https://github.com/affaan-m/ECC) | +804 | 236.4k | `1.00` |
 | 2026-07-31 | **3** | [speech-to-speech](https://github.com/huggingface/speech-to-speech) | +628 | 9.3k | `0.91` |
+| 2026-08-01 | **1** | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +1592 | 55.5k | `1.00` |
+| 2026-08-01 | **2** | [openwork](https://github.com/different-ai/openwork) | +806 | 19.7k | `1.00` |
+| 2026-08-01 | **3** | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +763 | 11.9k | `1.00` |

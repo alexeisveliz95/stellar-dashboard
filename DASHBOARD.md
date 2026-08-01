@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-07-31 08:57`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-01 07:26`
+> 📦 **19** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**openwork**](https://github.com/different-ai/openwork) | 19.0k | +915 | TypeScript |
-| 2 | [**ECC**](https://github.com/affaan-m/ECC) | 236.4k | +804 | JavaScript |
-| 3 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | 9.3k | +628 | Python |
-| 4 | [**editor**](https://github.com/pascalorg/editor) | 20.3k | +625 | TypeScript |
-| 5 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11.3k | +621 | Python |
-| 6 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 55.7k | +378 | Python |
-| 7 | [**tuicr**](https://github.com/agavra/tuicr) | 2.0k | +190 | Rust |
-| 8 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 54.5k | +155 | Jupyter Notebook |
-| 9 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 48.2k | +80 | TypeScript |
-| 10 | [**PowerToys**](https://github.com/microsoft/PowerToys) | 137.2k | +70 | C |
+| 1 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 55.5k | +1.6k | Jupyter Notebook |
+| 2 | [**openwork**](https://github.com/different-ai/openwork) | 19.7k | +806 | TypeScript |
+| 3 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11.9k | +763 | Python |
+| 4 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 56.4k | +658 | Python |
+| 5 | [**jcode**](https://github.com/1jehuang/jcode) | 14.7k | +527 | Rust |
+| 6 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 11.1k | +335 | PowerShell |
+| 7 | [**tuicr**](https://github.com/agavra/tuicr) | 2.2k | +335 | Rust |
+| 8 | [**kaneo**](https://github.com/usekaneo/kaneo) | 5.3k | +194 | TypeScript |
+| 9 | [**faceswap**](https://github.com/deepfakes/faceswap) | 57.1k | +93 | Python |
+| 10 | [**ESP32-Bit-Pirate**](https://github.com/geo-tp/ESP32-Bit-Pirate) | 5.1k | +83 | C++ |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 54.5k | AI & Data Science |
-| 🥈 | [**openwork**](https://github.com/different-ai/openwork) | **1.00** | 19.0k | AI & Data Science |
-| 🥉 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 55.7k | Web Development |
-| 4 | [**ansible**](https://github.com/ansible/ansible) | **1.00** | 70.0k | Automation & DevOps |
-| 5 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 236.4k | Cybersecurity & Hacking |
-| 6 | [**editor**](https://github.com/pascalorg/editor) | **0.97** | 20.3k | Otros |
-| 7 | [**PowerToys**](https://github.com/microsoft/PowerToys) | **0.96** | 137.2k | PlayStation Homebrew & Linux |
-| 8 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **0.96** | 11.3k | Otros |
-| 9 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | **0.91** | 9.3k | Otros |
-| 10 | [**jenkins**](https://github.com/jenkinsci/jenkins) | **0.87** | 26.3k | Automation & DevOps |
+| 🥇 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 11.1k | Cybersecurity & Hacking |
+| 🥈 | [**openwork**](https://github.com/different-ai/openwork) | **1.00** | 19.7k | AI & Data Science |
+| 🥉 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 56.4k | Web Development |
+| 4 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **1.00** | 11.9k | Otros |
+| 5 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 55.5k | AI & Data Science |
+| 6 | [**jcode**](https://github.com/1jehuang/jcode) | **1.00** | 14.7k | Otros |
+| 7 | [**faceswap**](https://github.com/deepfakes/faceswap) | **0.96** | 57.1k | Otros |
+| 8 | [**kaneo**](https://github.com/usekaneo/kaneo) | **0.90** | 5.3k | Automation & DevOps |
+| 9 | [**chatwoot**](https://github.com/chatwoot/chatwoot) | **0.89** | 35.2k | Otros |
+| 10 | [**tuicr**](https://github.com/agavra/tuicr) | **0.83** | 2.2k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 2 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.90** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.71** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
