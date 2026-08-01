@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **61.5k**
-> Actualizado: `2026-08-01 07:26`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 56.4k | `███████░░░` | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the… |
-| [**ESP32-Bit-Pirate**](https://github.com/geo-tp/ESP32-Bit-Pirate) | **0.72** | 5.1k | `██████████` | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
