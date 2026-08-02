@@ -1,8 +1,8 @@
 # 📂 Automation & DevOps
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **76.0k**
-> Actualizado: `2026-08-02 07:25`
+> **4 proyectos** · ⭐ Mejor score: **0.73** · Estrellas totales: **344.1k**
+> Actualizado: `2026-07-06 18:15`
 
 ---
 
@@ -10,7 +10,9 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**kaneo**](https://github.com/usekaneo/kaneo) | **1.00** | 5.8k | `██████████` | 🎯 All you need. Nothing you don't. Open source project management that works for you, not… |
-| [**ansible**](https://github.com/ansible/ansible) | **1.00** | 70.2k | `█░░░░░░░░░` | Ansible is a radically simple IT automation platform that makes your applications and systems… |
+| [**tradingview-mcp**](https://github.com/tradesdontlie/tradingview-mcp) | **0.73** | 4.2k | `░░░░░░░░░░` | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for… |
+| [**n8n**](https://github.com/n8n-io/n8n) | **0.73** | 195.4k | `░░░░░░░░░░` | Fair-code workflow automation platform with native AI capabilities. Combine visual building… |
+| [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **0.73** | 88.8k | `░░░░░░░░░░` | A fancy self-hosted monitoring tool |
+| [**n8n-workflows**](https://github.com/Zie619/n8n-workflows) | **0.71** | 55.6k | `░░░░░░░░░░` | all of the workflows of n8n i could find (also from the site itself) |
 
 ---
