@@ -80,3 +80,6 @@
 | 2026-08-01 | **1** | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +1592 | 55.5k | `1.00` |
 | 2026-08-01 | **2** | [openwork](https://github.com/different-ai/openwork) | +806 | 19.7k | `1.00` |
 | 2026-08-01 | **3** | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | +763 | 11.9k | `1.00` |
+| 2026-08-02 | **1** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1320 | 12.2k | `1.00` |
+| 2026-08-02 | **2** | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +949 | 57.9k | `1.00` |
+| 2026-08-02 | **3** | [kaneo](https://github.com/usekaneo/kaneo) | +760 | 5.8k | `1.00` |
