@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-02 23:55`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-03 08:23`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 12.2k | +1.3k | PowerShell |
-| 2 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 57.9k | +949 | Jupyter Notebook |
-| 3 | [**kaneo**](https://github.com/usekaneo/kaneo) | 5.8k | +760 | TypeScript |
-| 4 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | 12.4k | +523 | Python |
-| 5 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | 10.3k | +442 | Python |
-| 6 | [**invidious**](https://github.com/iv-org/invidious) | 21.7k | +435 | Crystal |
-| 7 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 10.4k | +227 | TypeScript |
-| 8 | [**deer-flow**](https://github.com/bytedance/deer-flow) | 78.8k | +209 | Python |
-| 9 | [**copilot-sdk**](https://github.com/github/copilot-sdk) | 10.3k | +142 | Java |
-| 10 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | 114.4k | +108 | Jupyter Notebook |
+| 1 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 60.0k | +2.6k | Jupyter Notebook |
+| 2 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 14.5k | +1.1k | PowerShell |
+| 3 | [**airllm**](https://github.com/lyogavin/airllm) | 26.1k | +819 | Jupyter Notebook |
+| 4 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | 535.3k | +674 | Markdown |
+| 5 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 65.1k | +659 | Python |
+| 6 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 11.5k | +602 | TypeScript |
+| 7 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | 115.1k | +588 | Jupyter Notebook |
+| 8 | [**kaneo**](https://github.com/usekaneo/kaneo) | 6.4k | +496 | TypeScript |
+| 9 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | 29.4k | +333 | Go |
+| 10 | [**invidious**](https://github.com/iv-org/invidious) | 22.1k | +305 | Crystal |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 57.9k | AI & Data Science |
-| 🥈 | [**awesome-systematic-trading**](https://github.com/paperswithbacktest/awesome-systematic-trading) | **1.00** | 12.4k | Otros |
-| 🥉 | [**kaneo**](https://github.com/usekaneo/kaneo) | **1.00** | 5.8k | Automation & DevOps |
-| 4 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 12.2k | Cybersecurity & Hacking |
-| 5 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | **1.00** | 114.4k | AI & Data Science |
-| 6 | [**invidious**](https://github.com/iv-org/invidious) | **1.00** | 21.7k | Otros |
-| 7 | [**ansible**](https://github.com/ansible/ansible) | **1.00** | 70.2k | Automation & DevOps |
-| 8 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | **1.00** | 10.4k | AI & Data Science |
-| 9 | [**deer-flow**](https://github.com/bytedance/deer-flow) | **1.00** | 78.8k | Python & Backend |
-| 10 | [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) | **0.93** | 10.3k | Otros |
+| 🥇 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 60.0k | AI & Data Science |
+| 🥈 | [**kaneo**](https://github.com/usekaneo/kaneo) | **1.00** | 6.4k | Automation & DevOps |
+| 🥉 | [**airllm**](https://github.com/lyogavin/airllm) | **1.00** | 26.1k | Web Development |
+| 4 | [**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) | **1.00** | 535.3k | Otros |
+| 5 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 14.5k | Cybersecurity & Hacking |
+| 6 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | **1.00** | 115.1k | AI & Data Science |
+| 7 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 65.1k | Python & Backend |
+| 8 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | **1.00** | 11.5k | AI & Data Science |
+| 9 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | **1.00** | 29.4k | AI & Data Science |
+| 10 | [**openwork**](https://github.com/different-ai/openwork) | **0.99** | 20.5k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

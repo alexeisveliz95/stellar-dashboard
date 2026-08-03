@@ -83,3 +83,6 @@
 | 2026-08-02 | **1** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1320 | 12.2k | `1.00` |
 | 2026-08-02 | **2** | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +949 | 57.9k | `1.00` |
 | 2026-08-02 | **3** | [kaneo](https://github.com/usekaneo/kaneo) | +760 | 5.8k | `1.00` |
+| 2026-08-03 | **1** | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +2629 | 60.0k | `1.00` |
+| 2026-08-03 | **2** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1141 | 14.5k | `1.00` |
+| 2026-08-03 | **3** | [airllm](https://github.com/lyogavin/airllm) | +819 | 26.1k | `1.00` |
