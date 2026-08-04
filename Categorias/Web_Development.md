@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **388.4k**
+> Actualizado: `2026-08-04 07:33`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**airllm**](https://github.com/lyogavin/airllm) | **1.00** | 27.6k | `██████████` | AirLLM 70B inference with single 4GB GPU |
+| [**system-design-primer**](https://github.com/donnemartin/system-design-primer) | **1.00** | 360.8k | `█░░░░░░░░░` | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki… |
 
 ---
