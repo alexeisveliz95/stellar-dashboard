@@ -89,3 +89,6 @@
 | 2026-08-04 | **1** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +2446 | 16.5k | `1.00` |
 | 2026-08-04 | **2** | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | +1902 | 61.2k | `1.00` |
 | 2026-08-04 | **3** | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +1699 | 8.9k | `0.95` |
+| 2026-08-05 | **1** | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +2540 | 10.5k | `0.97` |
+| 2026-08-05 | **2** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +2297 | 18.4k | `1.00` |
+| 2026-08-05 | **3** | [airllm](https://github.com/lyogavin/airllm) | +1711 | 28.6k | `1.00` |

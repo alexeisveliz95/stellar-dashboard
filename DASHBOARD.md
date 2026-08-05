@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-04 08:47`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-05 07:33`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 16.5k | +2.4k | PowerShell |
-| 2 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | 61.2k | +1.9k | Jupyter Notebook |
-| 3 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 8.9k | +1.7k | Rust |
-| 4 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 12.5k | +1.1k | TypeScript |
-| 5 | [**airllm**](https://github.com/lyogavin/airllm) | 27.6k | +1.1k | Jupyter Notebook |
-| 6 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 66.0k | +1.1k | Python |
-| 7 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | 30.3k | +883 | Go |
-| 8 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | 115.9k | +775 | Jupyter Notebook |
-| 9 | [**kaneo**](https://github.com/usekaneo/kaneo) | 7.0k | +665 | TypeScript |
-| 10 | [**voicebox**](https://github.com/jamiepine/voicebox) | 48.9k | +412 | TypeScript |
+| 1 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 10.5k | +2.5k | Rust |
+| 2 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 18.4k | +2.3k | PowerShell |
+| 3 | [**airllm**](https://github.com/lyogavin/airllm) | 28.6k | +1.7k | Jupyter Notebook |
+| 4 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 14.3k | +1.1k | TypeScript |
+| 5 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | 31.1k | +922 | Go |
+| 6 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | 116.5k | +783 | Jupyter Notebook |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | 266.7k | +653 | Shell |
+| 8 | [**kaneo**](https://github.com/usekaneo/kaneo) | 7.4k | +559 | TypeScript |
+| 9 | [**agents**](https://github.com/livekit/agents) | 12.6k | +432 | Python |
+| 10 | [**video-use**](https://github.com/browser-use/video-use) | 19.5k | +320 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**airllm**](https://github.com/lyogavin/airllm) | **1.00** | 27.6k | Web Development |
-| 🥈 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 16.5k | Cybersecurity & Hacking |
-| 🥉 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | **1.00** | 30.3k | AI & Data Science |
-| 4 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | **1.00** | 12.5k | AI & Data Science |
-| 5 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | **1.00** | 61.2k | AI & Data Science |
-| 6 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | **1.00** | 115.9k | AI & Data Science |
-| 7 | [**system-design-primer**](https://github.com/donnemartin/system-design-primer) | **1.00** | 360.8k | Web Development |
-| 8 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 66.0k | Python & Backend |
-| 9 | [**kaneo**](https://github.com/usekaneo/kaneo) | **1.00** | 7.0k | Automation & DevOps |
-| 10 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 48.9k | AI & Data Science |
+| 🥇 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | **1.00** | 14.3k | AI & Data Science |
+| 🥈 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 18.4k | Cybersecurity & Hacking |
+| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 266.7k | Python & Backend |
+| 4 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | **1.00** | 116.5k | AI & Data Science |
+| 5 | [**airllm**](https://github.com/lyogavin/airllm) | **1.00** | 28.6k | Web Development |
+| 6 | [**kaneo**](https://github.com/usekaneo/kaneo) | **1.00** | 7.4k | Automation & DevOps |
+| 7 | [**agents**](https://github.com/livekit/agents) | **1.00** | 12.6k | AI & Data Science |
+| 8 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | **1.00** | 31.1k | AI & Data Science |
+| 9 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | **0.97** | 10.5k | Otros |
+| 10 | [**deno**](https://github.com/denoland/deno) | **0.91** | 108.1k | Web Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 3 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 2 | **0.97** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 7 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
