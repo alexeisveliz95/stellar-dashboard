@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-05 08:44`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-06 07:32`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 10.5k | +2.5k | Rust |
-| 2 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 18.4k | +2.3k | PowerShell |
-| 3 | [**airllm**](https://github.com/lyogavin/airllm) | 28.6k | +1.7k | Jupyter Notebook |
-| 4 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 14.3k | +1.1k | TypeScript |
-| 5 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | 31.1k | +922 | Go |
-| 6 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | 116.5k | +783 | Jupyter Notebook |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | 266.7k | +653 | Shell |
-| 8 | [**kaneo**](https://github.com/usekaneo/kaneo) | 7.4k | +559 | TypeScript |
-| 9 | [**agents**](https://github.com/livekit/agents) | 12.6k | +432 | Python |
-| 10 | [**video-use**](https://github.com/browser-use/video-use) | 19.5k | +320 | Python |
+| 1 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 15.4k | +1.9k | TypeScript |
+| 2 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 11.8k | +1.6k | Rust |
+| 3 | [**superpowers**](https://github.com/obra/superpowers) | 267.6k | +931 | Shell |
+| 4 | [**computer**](https://github.com/cloudflare/computer) | 3.8k | +891 | TypeScript |
+| 5 | [**airllm**](https://github.com/lyogavin/airllm) | 29.3k | +833 | Jupyter Notebook |
+| 6 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | 31.9k | +747 | Go |
+| 7 | [**tailwindcss**](https://github.com/tailwindlabs/tailwindcss) | 97.0k | +408 | TypeScript |
+| 8 | [**ADR**](https://github.com/uber/ADR) | 1.1k | +354 | Python |
+| 9 | [**loopx**](https://github.com/huangruiteng/loopx) | 2.4k | +326 | Python |
+| 10 | [**system-design-primer**](https://github.com/donnemartin/system-design-primer) | 361.8k | +303 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | **1.00** | 14.3k | AI & Data Science |
-| 🥈 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 18.4k | Cybersecurity & Hacking |
-| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 266.7k | Python & Backend |
-| 4 | [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) | **1.00** | 116.5k | AI & Data Science |
-| 5 | [**airllm**](https://github.com/lyogavin/airllm) | **1.00** | 28.6k | Web Development |
-| 6 | [**kaneo**](https://github.com/usekaneo/kaneo) | **1.00** | 7.4k | Automation & DevOps |
-| 7 | [**agents**](https://github.com/livekit/agents) | **1.00** | 12.6k | AI & Data Science |
-| 8 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | **1.00** | 31.1k | AI & Data Science |
-| 9 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | **0.97** | 10.5k | Otros |
-| 10 | [**deno**](https://github.com/denoland/deno) | **0.91** | 108.1k | Web Development |
+| 🥇 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | **1.00** | 15.4k | AI & Data Science |
+| 🥈 | [**system-design-primer**](https://github.com/donnemartin/system-design-primer) | **1.00** | 361.8k | Web Development |
+| 🥉 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | **1.00** | 31.9k | AI & Data Science |
+| 4 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 82.2k | AI & Data Science |
+| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 267.6k | Python & Backend |
+| 6 | [**tailwindcss**](https://github.com/tailwindlabs/tailwindcss) | **1.00** | 97.0k | Web Development |
+| 7 | [**airllm**](https://github.com/lyogavin/airllm) | **1.00** | 29.3k | Web Development |
+| 8 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | **0.98** | 11.8k | Otros |
+| 9 | [**ADR**](https://github.com/uber/ADR) | **0.97** | 1.1k | Cybersecurity & Hacking |
+| 10 | [**supervision**](https://github.com/roboflow/supervision) | **0.97** | 49.1k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **0.97** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Otros**](Categorias/Otros.md) | 2 | **0.98** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.90** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 4 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

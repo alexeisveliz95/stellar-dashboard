@@ -92,3 +92,6 @@
 | 2026-08-05 | **1** | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +2540 | 10.5k | `0.97` |
 | 2026-08-05 | **2** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +2297 | 18.4k | `1.00` |
 | 2026-08-05 | **3** | [airllm](https://github.com/lyogavin/airllm) | +1711 | 28.6k | `1.00` |
+| 2026-08-06 | **1** | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | +1892 | 15.4k | `1.00` |
+| 2026-08-06 | **2** | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +1582 | 11.8k | `0.98` |
+| 2026-08-06 | **3** | [superpowers](https://github.com/obra/superpowers) | +931 | 267.6k | `1.00` |
