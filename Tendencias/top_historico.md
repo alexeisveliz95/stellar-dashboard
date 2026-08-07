@@ -95,3 +95,6 @@
 | 2026-08-06 | **1** | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | +1892 | 15.4k | `1.00` |
 | 2026-08-06 | **2** | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +1582 | 11.8k | `0.98` |
 | 2026-08-06 | **3** | [superpowers](https://github.com/obra/superpowers) | +931 | 267.6k | `1.00` |
+| 2026-08-07 | **1** | [computer](https://github.com/cloudflare/computer) | +2802 | 5.0k | `0.93` |
+| 2026-08-07 | **2** | [skills](https://github.com/mattpocock/skills) | +1873 | 207.5k | `1.00` |
+| 2026-08-07 | **3** | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +1190 | 12.6k | `0.96` |

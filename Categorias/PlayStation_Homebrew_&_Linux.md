@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **0.97** · Estrellas totales: **189.1k**
+> Actualizado: `2026-08-07 06:05`
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
-| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
+| [**loopx**](https://github.com/huangruiteng/loopx) | **0.97** | 3.0k | `██████████` | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic… |
+| [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | **0.92** | 186.1k | `█░░░░░░░░░` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to… |
 
 ---
