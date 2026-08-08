@@ -98,3 +98,6 @@
 | 2026-08-07 | **1** | [computer](https://github.com/cloudflare/computer) | +2802 | 5.0k | `0.93` |
 | 2026-08-07 | **2** | [skills](https://github.com/mattpocock/skills) | +1873 | 207.5k | `1.00` |
 | 2026-08-07 | **3** | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | +1190 | 12.6k | `0.96` |
+| 2026-08-08 | **1** | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +2293 | 7.0k | `1.00` |
+| 2026-08-08 | **2** | [skills](https://github.com/mattpocock/skills) | +2152 | 209.1k | `1.00` |
+| 2026-08-08 | **3** | [agent-skills](https://github.com/addyosmani/agent-skills) | +1131 | 84.0k | `1.00` |

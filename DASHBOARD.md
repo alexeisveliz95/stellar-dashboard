@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-07 07:25`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-08 05:38`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**computer**](https://github.com/cloudflare/computer) | 5.0k | +2.8k | TypeScript |
-| 2 | [**skills**](https://github.com/mattpocock/skills) | 207.5k | +1.9k | Shell |
-| 3 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 12.6k | +1.2k | Rust |
-| 4 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 16.7k | +1.1k | TypeScript |
-| 5 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | 32.6k | +888 | Go |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | 268.3k | +858 | Shell |
-| 7 | [**loopx**](https://github.com/huangruiteng/loopx) | 3.0k | +847 | Python |
-| 8 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 83.1k | +593 | JavaScript |
-| 9 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | 29.1k | +237 | Python |
-| 10 | [**authentik**](https://github.com/goauthentik/authentik) | 23.2k | +138 | Python |
+| 1 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | 7.0k | +2.3k | TypeScript |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 209.1k | +2.2k | Shell |
+| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 84.0k | +1.1k | JavaScript |
+| 4 | [**computer**](https://github.com/cloudflare/computer) | 5.9k | +872 | TypeScript |
+| 5 | [**superpowers**](https://github.com/obra/superpowers) | 268.9k | +782 | Shell |
+| 6 | [**authentik**](https://github.com/goauthentik/authentik) | 23.7k | +530 | Python |
+| 7 | [**celld**](https://github.com/denoland/celld) | 2.3k | +516 | Rust |
+| 8 | [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | 186.4k | +355 | Python |
+| 9 | [**skills**](https://github.com/google/skills) | 16.3k | +327 | Python |
+| 10 | [**witr**](https://github.com/pranshuparmar/witr) | 19.9k | +234 | Go |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | **1.00** | 16.7k | AI & Data Science |
-| 🥈 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 83.1k | AI & Data Science |
-| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 207.5k | Otros |
-| 4 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | **1.00** | 29.1k | AI & Data Science |
-| 5 | [**DeepSeek-Reasonix**](https://github.com/esengine/DeepSeek-Reasonix) | **1.00** | 32.6k | AI & Data Science |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 268.3k | Python & Backend |
-| 7 | [**loopx**](https://github.com/huangruiteng/loopx) | **0.97** | 3.0k | PlayStation Homebrew & Linux |
-| 8 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | **0.96** | 12.6k | Otros |
-| 9 | [**computer**](https://github.com/cloudflare/computer) | **0.93** | 5.0k | Otros |
-| 10 | [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | **0.92** | 186.1k | PlayStation Homebrew & Linux |
+| 🥇 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | **1.00** | 7.0k | AI & Data Science |
+| 🥈 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 84.0k | AI & Data Science |
+| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 209.1k | Otros |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 268.9k | Python & Backend |
+| 5 | [**authentik**](https://github.com/goauthentik/authentik) | **1.00** | 23.7k | Otros |
+| 6 | [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | **1.00** | 186.4k | PlayStation Homebrew & Linux |
+| 7 | [**witr**](https://github.com/pranshuparmar/witr) | **0.96** | 19.9k | Automation & DevOps |
+| 8 | [**MiroFish**](https://github.com/666ghj/MiroFish) | **0.95** | 70.6k | Otros |
+| 9 | [**computer**](https://github.com/cloudflare/computer) | **0.94** | 5.9k | Otros |
+| 10 | [**guava**](https://github.com/google/guava) | **0.92** | 51.8k | Otros |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.96** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **0.83** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Otros**](Categorias/Otros.md) | 8 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **1.00** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
