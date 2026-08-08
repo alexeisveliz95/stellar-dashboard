@@ -1,11 +1,11 @@
 [
   {
-    "id": "github_trending_TencentCloud_TencentDB-Agent-Memory",
-    "name": "TencentCloud/TencentDB-Agent-Memory",
-    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "stars": 16720,
-    "growth": 1057,
+    "id": "github_trending_PrimeIntellect-ai_prime-agent",
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "stars": 6962,
+    "growth": 2293,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -13,28 +13,17 @@
     "source": "github_trending",
     "language": "TypeScript",
     "tags": [
-      "nlp:ai-data-science"
+      "ai"
     ],
-    "raw_topics": [
-      "agent",
-      "ai-agent",
-      "embedding",
-      "llm",
-      "local-first",
-      "long-term-memory",
-      "memory",
-      "openclaw-plugin",
-      "vector-search"
-    ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_addyosmani_agent-skills",
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 83148,
-    "growth": 593,
+    "stars": 84024,
+    "growth": 1131,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -59,8 +48,8 @@
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 207529,
-    "growth": 1873,
+    "stars": 209067,
+    "growth": 2152,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -70,80 +59,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_tirth8205_code-review-graph",
-    "name": "tirth8205/code-review-graph",
-    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-    "url": "https://github.com/tirth8205/code-review-graph",
-    "stars": 29145,
-    "growth": 237,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "ai-coding",
-      "claude",
-      "claude-code",
-      "code-review",
-      "graphrag",
-      "incremental",
-      "knowledge-graph",
-      "llm",
-      "mcp",
-      "python",
-      "static-analysis",
-      "tree-sitter"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_esengine_DeepSeek-Reasonix",
-    "name": "esengine/DeepSeek-Reasonix",
-    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix",
-    "stars": 32619,
-    "growth": 888,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "agent-framework",
-      "ai-agent",
-      "ai-coding",
-      "cli",
-      "coding-agent",
-      "deepseek",
-      "developer-tools",
-      "ink",
-      "llm",
-      "prompt-caching",
-      "r1",
-      "terminal",
-      "tool-use",
-      "tui",
-      "typescript"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_obra_superpowers",
     "name": "obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "url": "https://github.com/obra/superpowers",
-    "stars": 268259,
-    "growth": 858,
+    "stars": 268853,
+    "growth": 782,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -166,147 +87,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_huangruiteng_loopx",
-    "name": "huangruiteng/loopx",
-    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-    "url": "https://github.com/huangruiteng/loopx",
-    "stars": 3045,
-    "growth": 847,
-    "score": 0.9739,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "agent-control-plane",
-      "agent-ops",
-      "ai-agents",
-      "codex",
-      "long-running-agents",
-      "loop-engineering",
-      "loopx",
-      "workflow-automation"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_firecrawl_pdf-inspector",
-    "name": "firecrawl/pdf-inspector",
-    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-    "url": "https://github.com/firecrawl/pdf-inspector",
-    "stars": 12642,
-    "growth": 1190,
-    "score": 0.9563,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "markdown",
-      "nodejs",
-      "ocr-routing",
-      "pdf",
-      "pdf-classification",
-      "pdf-extraction",
-      "pdf-parser",
-      "python",
-      "rust",
-      "text-extraction"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_cloudflare_computer",
-    "name": "cloudflare/computer",
-    "description": "Give your agent a computer 👾",
-    "url": "https://github.com/cloudflare/computer",
-    "stars": 4993,
-    "growth": 2802,
-    "score": 0.9282,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Significant-Gravitas_AutoGPT",
-    "name": "Significant-Gravitas/AutoGPT",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "stars": 186103,
-    "growth": 37,
-    "score": 0.9224,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "autonomous-agents",
-      "claude",
-      "gpt",
-      "llama-api",
-      "llm",
-      "openai",
-      "python"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_TapXWorld_ChinaTextbook",
-    "name": "TapXWorld/ChinaTextbook",
-    "description": "所有小初高、大学PDF教材。",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "stars": 77318,
-    "growth": 134,
-    "score": 0.8548,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Roff"
-  },
-  {
-    "id": "github_trending_google_guava",
-    "name": "google/guava",
-    "description": "Google core libraries for Java",
-    "url": "https://github.com/google/guava",
-    "stars": 51671,
-    "growth": 13,
-    "score": 0.8211,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "raw_topics": [
-      "guava",
-      "java"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_goauthentik_authentik",
     "name": "goauthentik/authentik",
     "description": "The authentication glue you need.",
     "url": "https://github.com/goauthentik/authentik",
-    "stars": 23230,
-    "growth": 138,
-    "score": 0.7948,
+    "stars": 23679,
+    "growth": 530,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -332,5 +119,294 @@
       "sso"
     ],
     "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_Significant-Gravitas_AutoGPT",
+    "name": "Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "stars": 186368,
+    "growth": 355,
+    "score": 1.0,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_pranshuparmar_witr",
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "url": "https://github.com/pranshuparmar/witr",
+    "stars": 19864,
+    "growth": 234,
+    "score": 0.9567,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "cli"
+    ],
+    "raw_topics": [
+      "cli",
+      "containers",
+      "devops",
+      "docker",
+      "freebsd",
+      "go",
+      "golang",
+      "incident-response",
+      "kubernetes",
+      "linux",
+      "macos",
+      "monitoring",
+      "observability",
+      "process-management",
+      "sysadmin",
+      "systemd",
+      "terminal",
+      "troubleshooting",
+      "tui",
+      "windows"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_666ghj_MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "url": "https://github.com/666ghj/MiroFish",
+    "stars": 70596,
+    "growth": 141,
+    "score": 0.9501,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_cloudflare_computer",
+    "name": "cloudflare/computer",
+    "description": "Give your agent a computer 👾",
+    "url": "https://github.com/cloudflare/computer",
+    "stars": 5949,
+    "growth": 872,
+    "score": 0.9392,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_google_guava",
+    "name": "google/guava",
+    "description": "Google core libraries for Java",
+    "url": "https://github.com/google/guava",
+    "stars": 51777,
+    "growth": 152,
+    "score": 0.918,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "raw_topics": [
+      "guava",
+      "java"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_google_skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "url": "https://github.com/google/skills",
+    "stars": 16338,
+    "growth": 327,
+    "score": 0.9162,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_denoland_celld",
+    "name": "denoland/celld",
+    "description": "self-hosted, distributed Durable Objects",
+    "url": "https://github.com/denoland/celld",
+    "stars": 2278,
+    "growth": 516,
+    "score": 0.8599,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_semantica-agi_semantica",
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "url": "https://github.com/semantica-agi/semantica",
+    "stars": 2402,
+    "growth": 122,
+    "score": 0.8454,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-memory",
+      "ai",
+      "ai-governance",
+      "ai-infrastructure",
+      "artificial-intelligence",
+      "context-engineering",
+      "context-graphs",
+      "data-engineering",
+      "decision-intelligence",
+      "developer-tools",
+      "explainable-ai",
+      "generative-ai",
+      "graph-rag",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "provenance",
+      "python",
+      "reasoning",
+      "semantic-search"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_K2SOsint_Legendary_OSINT",
+    "name": "K2SOsint/Legendary_OSINT",
+    "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+    "url": "https://github.com/K2SOsint/Legendary_OSINT",
+    "stars": 1527,
+    "growth": 109,
+    "score": 0.8275,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "cti",
+      "cyberthreatintelligence",
+      "osint",
+      "osint-tools-list",
+      "socmint"
+    ],
+    "raw_license": "CC0-1.0"
+  },
+  {
+    "id": "github_trending_jdx_mise",
+    "name": "jdx/mise",
+    "description": "dev tools, env vars, task runner",
+    "url": "https://github.com/jdx/mise",
+    "stars": 32102,
+    "growth": 135,
+    "score": 0.8019,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_chenyme_grok2api",
+    "name": "chenyme/grok2api",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "url": "https://github.com/chenyme/grok2api",
+    "stars": 7162,
+    "growth": 55,
+    "score": 0.7816,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "grok",
+      "grok-build",
+      "grok-console",
+      "grok-imagine",
+      "grok-video",
+      "grok-web"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_unclebob_swarm-forge",
+    "name": "unclebob/swarm-forge",
+    "description": "A simple tool for coordinating several AI agents.",
+    "url": "https://github.com/unclebob/swarm-forge",
+    "stars": 1876,
+    "growth": 81,
+    "score": 0.759,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Clojure",
+    "tags": [
+      "ai"
+    ]
   }
 ]
