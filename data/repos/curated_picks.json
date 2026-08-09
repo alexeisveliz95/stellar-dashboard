@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-08-02T23:55:01.822824+00:00",
+  "updated_at": "2026-08-09T23:26:34.370160+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W32",
+      "week_start": "2026-08-03",
+      "generated_at": "2026-08-09T23:26:34.370160+00:00",
+      "picks": [
+        {
+          "name": "TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "score": 0.73,
+          "stars": 96600,
+          "growth": 153,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "score": 0.71,
+          "stars": 35900,
+          "growth": 200,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "computer",
+          "url": "https://github.com/cloudflare/computer",
+          "score": 0.0,
+          "stars": 5000,
+          "growth": 2802,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "score": 0.0,
+          "stars": 60000,
+          "growth": 2629,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "score": 0.0,
+          "stars": 10500,
+          "growth": 2540,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "score": 0.0,
+          "stars": 9300,
+          "growth": 2483,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "score": 0.0,
+          "stars": 16500,
+          "growth": 2446,
+          "momentum": 0.8,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 209100,
+          "growth": 2152,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "score": 0.0,
+          "stars": 15400,
+          "growth": 1892,
+          "momentum": 0.4,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "score": 0.0,
+          "stars": 28600,
+          "growth": 1711,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W31",
       "week_start": "2026-07-27",
@@ -318,113 +425,6 @@
           "stars": 528500,
           "growth": 1126,
           "momentum": 0.1,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W28",
-      "week_start": "2026-07-06",
-      "generated_at": "2026-07-12T23:50:14.023041+00:00",
-      "picks": [
-        {
-          "name": "RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "score": 0.8,
-          "stars": 78700,
-          "growth": 1129,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "bun",
-          "url": "https://github.com/oven-sh/bun",
-          "score": 0.8,
-          "stars": 94600,
-          "growth": 658,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "score": 0.0,
-          "stars": 16300,
-          "growth": 5079,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "agent-skills",
-          "url": "https://github.com/addyosmani/agent-skills",
-          "score": 0.0,
-          "stars": 76300,
-          "growth": 2554,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "meetily",
-          "url": "https://github.com/Zackriya-Solutions/meetily",
-          "score": 0.0,
-          "stars": 19900,
-          "growth": 2494,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "OfficeCLI",
-          "url": "https://github.com/iOfficeAI/OfficeCLI",
-          "score": 0.0,
-          "stars": 13900,
-          "growth": 1929,
-          "momentum": 0.6,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "skills",
-          "url": "https://github.com/mattpocock/skills",
-          "score": 0.0,
-          "stars": 165000,
-          "growth": 1712,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "score": 0.0,
-          "stars": 53400,
-          "growth": 1691,
-          "momentum": 0.2,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "codex-plugin-cc",
-          "url": "https://github.com/openai/codex-plugin-cc",
-          "score": 0.0,
-          "stars": 25900,
-          "growth": 1532,
-          "momentum": 0.7,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "taste-skill",
-          "url": "https://github.com/Leonxlnx/taste-skill",
-          "score": 0.0,
-          "stars": 59500,
-          "growth": 1458,
-          "momentum": 0.2,
           "language": null,
           "description": null
         }
