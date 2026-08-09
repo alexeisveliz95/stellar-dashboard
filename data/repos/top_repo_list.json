@@ -4,8 +4,8 @@
     "name": "PrimeIntellect-ai/prime-agent",
     "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "stars": 6962,
-    "growth": 2293,
+    "stars": 9307,
+    "growth": 2483,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -22,8 +22,8 @@
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 84024,
-    "growth": 1131,
+    "stars": 84688,
+    "growth": 779,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -48,8 +48,8 @@
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 209067,
-    "growth": 2152,
+    "stars": 210247,
+    "growth": 1359,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -59,41 +59,38 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 268853,
-    "growth": 782,
+    "id": "github_trending_TauricResearch_TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "stars": 96606,
+    "growth": 153,
     "score": 1.0,
     "categories": [
-      "Python & Backend"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Shell",
+    "language": "Python",
     "tags": [
-      "nlp:python-backend"
+      "llm"
     ],
     "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_goauthentik_authentik",
     "name": "goauthentik/authentik",
     "description": "The authentication glue you need.",
     "url": "https://github.com/goauthentik/authentik",
-    "stars": 23679,
-    "growth": 530,
-    "score": 1.0,
+    "stars": 24024,
+    "growth": 467,
+    "score": 0.97,
     "categories": [
       "Otros"
     ],
@@ -121,145 +118,13 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_Significant-Gravitas_AutoGPT",
-    "name": "Significant-Gravitas/AutoGPT",
-    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "stars": 186368,
-    "growth": 355,
-    "score": 1.0,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "autonomous-agents",
-      "claude",
-      "gpt",
-      "llama-api",
-      "llm",
-      "openai",
-      "python"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_pranshuparmar_witr",
-    "name": "pranshuparmar/witr",
-    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-    "url": "https://github.com/pranshuparmar/witr",
-    "stars": 19864,
-    "growth": 234,
-    "score": 0.9567,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "cli"
-    ],
-    "raw_topics": [
-      "cli",
-      "containers",
-      "devops",
-      "docker",
-      "freebsd",
-      "go",
-      "golang",
-      "incident-response",
-      "kubernetes",
-      "linux",
-      "macos",
-      "monitoring",
-      "observability",
-      "process-management",
-      "sysadmin",
-      "systemd",
-      "terminal",
-      "troubleshooting",
-      "tui",
-      "windows"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_666ghj_MiroFish",
-    "name": "666ghj/MiroFish",
-    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "url": "https://github.com/666ghj/MiroFish",
-    "stars": 70596,
-    "growth": 141,
-    "score": 0.9501,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent-memory",
-      "financial-forecasting",
-      "future-prediction",
-      "knowledge-graph",
-      "llms",
-      "multi-agent-simulation",
-      "public-opinion-analysis",
-      "python3",
-      "social-prediction",
-      "swarm-intelligence"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_cloudflare_computer",
-    "name": "cloudflare/computer",
-    "description": "Give your agent a computer 👾",
-    "url": "https://github.com/cloudflare/computer",
-    "stars": 5949,
-    "growth": 872,
-    "score": 0.9392,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_google_guava",
-    "name": "google/guava",
-    "description": "Google core libraries for Java",
-    "url": "https://github.com/google/guava",
-    "stars": 51777,
-    "growth": 152,
-    "score": 0.918,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "raw_topics": [
-      "guava",
-      "java"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_google_skills",
     "name": "google/skills",
     "description": "Agent Skills for Google products and technologies",
     "url": "https://github.com/google/skills",
-    "stars": 16338,
-    "growth": 327,
-    "score": 0.9162,
+    "stars": 16846,
+    "growth": 481,
+    "score": 0.9526,
     "categories": [
       "Otros"
     ],
@@ -273,13 +138,46 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_TapXWorld_ChinaTextbook",
+    "name": "TapXWorld/ChinaTextbook",
+    "description": "所有小初高、大学PDF教材。",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "stars": 78035,
+    "growth": 118,
+    "score": 0.8641,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Roff"
+  },
+  {
+    "id": "github_trending_google_guava",
+    "name": "google/guava",
+    "description": "Google core libraries for Java",
+    "url": "https://github.com/google/guava",
+    "stars": 51870,
+    "growth": 93,
+    "score": 0.8516,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "raw_topics": [
+      "guava",
+      "java"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_denoland_celld",
     "name": "denoland/celld",
     "description": "self-hosted, distributed Durable Objects",
     "url": "https://github.com/denoland/celld",
-    "stars": 2278,
-    "growth": 516,
-    "score": 0.8599,
+    "stars": 2664,
+    "growth": 432,
+    "score": 0.8182,
     "categories": [
       "Otros"
     ],
@@ -288,125 +186,68 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_semantica-agi_semantica",
-    "name": "semantica-agi/semantica",
-    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-    "url": "https://github.com/semantica-agi/semantica",
-    "stars": 2402,
-    "growth": 122,
-    "score": 0.8454,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-memory",
-      "ai",
-      "ai-governance",
-      "ai-infrastructure",
-      "artificial-intelligence",
-      "context-engineering",
-      "context-graphs",
-      "data-engineering",
-      "decision-intelligence",
-      "developer-tools",
-      "explainable-ai",
-      "generative-ai",
-      "graph-rag",
-      "knowledge-graph",
-      "llm",
-      "ontology",
-      "provenance",
-      "python",
-      "reasoning",
-      "semantic-search"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_K2SOsint_Legendary_OSINT",
-    "name": "K2SOsint/Legendary_OSINT",
-    "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
-    "url": "https://github.com/K2SOsint/Legendary_OSINT",
-    "stars": 1527,
-    "growth": 109,
-    "score": 0.8275,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "cti",
-      "cyberthreatintelligence",
-      "osint",
-      "osint-tools-list",
-      "socmint"
-    ],
-    "raw_license": "CC0-1.0"
-  },
-  {
-    "id": "github_trending_jdx_mise",
-    "name": "jdx/mise",
-    "description": "dev tools, env vars, task runner",
-    "url": "https://github.com/jdx/mise",
-    "stars": 32102,
-    "growth": 135,
-    "score": 0.8019,
+    "id": "github_trending_bannedbook_fanqiang",
+    "name": "bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "stars": 50008,
+    "growth": 101,
+    "score": 0.8007,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Rust",
-    "raw_license": "MIT"
+    "language": "Kotlin",
+    "raw_topics": [
+      "brook",
+      "daze",
+      "fanqiang",
+      "goflyway",
+      "lightsocks",
+      "proxy",
+      "psiphon",
+      "shadowsocks",
+      "ssr",
+      "trojan",
+      "v2ray"
+    ]
   },
   {
-    "id": "github_trending_chenyme_grok2api",
-    "name": "chenyme/grok2api",
-    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-    "url": "https://github.com/chenyme/grok2api",
-    "stars": 7162,
-    "growth": 55,
-    "score": 0.7816,
+    "id": "github_trending_LadybirdBrowser_ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "stars": 65045,
+    "growth": 48,
+    "score": 0.7841,
     "categories": [
-      "Python & Backend"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "C++",
     "tags": [
-      "nlp:python-backend"
+      "nlp:web-development"
     ],
     "raw_topics": [
-      "grok",
-      "grok-build",
-      "grok-console",
-      "grok-imagine",
-      "grok-video",
-      "grok-web"
+      "browser",
+      "browser-engine"
     ],
-    "raw_license": "MIT"
+    "raw_license": "BSD-2-Clause"
   },
   {
-    "id": "github_trending_unclebob_swarm-forge",
-    "name": "unclebob/swarm-forge",
-    "description": "A simple tool for coordinating several AI agents.",
-    "url": "https://github.com/unclebob/swarm-forge",
-    "stars": 1876,
-    "growth": 81,
-    "score": 0.759,
+    "id": "github_trending_litu54_DevOps-Interview-Guide",
+    "name": "litu54/DevOps-Interview-Guide",
+    "description": "DevOps Interview Guide",
+    "url": "https://github.com/litu54/DevOps-Interview-Guide",
+    "stars": 742,
+    "growth": 68,
+    "score": 0.7159,
     "categories": [
-      "AI & Data Science"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "Clojure",
     "tags": [
-      "ai"
+      "nlp:automation-devops"
     ]
   }
 ]

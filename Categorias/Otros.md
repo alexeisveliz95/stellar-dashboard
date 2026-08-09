@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **7 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **433.7k**
-> Actualizado: `2026-08-09 05:42`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,12 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 210.2k | `█░░░░░░░░░` | Skills for Real Engineers. Straight from my .agents directory. |
-| [**authentik**](https://github.com/goauthentik/authentik) | **0.97** | 24.0k | `█░░░░░░░░░` | The authentication glue you need. |
-| [**skills**](https://github.com/google/skills) | **0.95** | 16.8k | `██░░░░░░░░` | Agent Skills for Google products and technologies |
-| [**ChinaTextbook**](https://github.com/TapXWorld/ChinaTextbook) | **0.86** | 78.0k | `█░░░░░░░░░` | 所有小初高、大学PDF教材。 |
-| [**guava**](https://github.com/google/guava) | **0.85** | 51.9k | `█░░░░░░░░░` | Google core libraries for Java |
-| [**celld**](https://github.com/denoland/celld) | **0.82** | 2.7k | `██████████` | self-hosted, distributed Durable Objects |
-| [**fanqiang**](https://github.com/bannedbook/fanqiang) | **0.80** | 50.0k | `█░░░░░░░░░` | 翻墙-科学上网 |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
