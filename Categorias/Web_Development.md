@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **1 proyectos** · ⭐ Mejor score: **0.78** · Estrellas totales: **65.0k**
+> Actualizado: `2026-08-09 05:42`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**ladybird**](https://github.com/LadybirdBrowser/ladybird) | **0.78** | 65.0k | `██████████` | Truly independent web browser |
 
 ---

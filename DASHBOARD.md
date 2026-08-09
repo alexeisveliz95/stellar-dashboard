@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-08 07:02`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-09 05:42`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | 7.0k | +2.3k | TypeScript |
-| 2 | [**skills**](https://github.com/mattpocock/skills) | 209.1k | +2.2k | Shell |
-| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 84.0k | +1.1k | JavaScript |
-| 4 | [**computer**](https://github.com/cloudflare/computer) | 5.9k | +872 | TypeScript |
-| 5 | [**superpowers**](https://github.com/obra/superpowers) | 268.9k | +782 | Shell |
-| 6 | [**authentik**](https://github.com/goauthentik/authentik) | 23.7k | +530 | Python |
-| 7 | [**celld**](https://github.com/denoland/celld) | 2.3k | +516 | Rust |
-| 8 | [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | 186.4k | +355 | Python |
-| 9 | [**skills**](https://github.com/google/skills) | 16.3k | +327 | Python |
-| 10 | [**witr**](https://github.com/pranshuparmar/witr) | 19.9k | +234 | Go |
+| 1 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | 9.3k | +2.5k | TypeScript |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 210.2k | +1.4k | Shell |
+| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 84.7k | +779 | JavaScript |
+| 4 | [**skills**](https://github.com/google/skills) | 16.8k | +481 | Python |
+| 5 | [**authentik**](https://github.com/goauthentik/authentik) | 24.0k | +467 | Python |
+| 6 | [**celld**](https://github.com/denoland/celld) | 2.7k | +432 | Rust |
+| 7 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 96.6k | +153 | Python |
+| 8 | [**ChinaTextbook**](https://github.com/TapXWorld/ChinaTextbook) | 78.0k | +118 | Roff |
+| 9 | [**fanqiang**](https://github.com/bannedbook/fanqiang) | 50.0k | +101 | Kotlin |
+| 10 | [**guava**](https://github.com/google/guava) | 51.9k | +93 | Java |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | **1.00** | 7.0k | AI & Data Science |
-| 🥈 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 84.0k | AI & Data Science |
-| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 209.1k | Otros |
-| 4 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 268.9k | Python & Backend |
-| 5 | [**authentik**](https://github.com/goauthentik/authentik) | **1.00** | 23.7k | Otros |
-| 6 | [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | **1.00** | 186.4k | PlayStation Homebrew & Linux |
-| 7 | [**witr**](https://github.com/pranshuparmar/witr) | **0.96** | 19.9k | Automation & DevOps |
-| 8 | [**MiroFish**](https://github.com/666ghj/MiroFish) | **0.95** | 70.6k | Otros |
-| 9 | [**computer**](https://github.com/cloudflare/computer) | **0.94** | 5.9k | Otros |
-| 10 | [**guava**](https://github.com/google/guava) | **0.92** | 51.8k | Otros |
+| 🥇 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | **1.00** | 9.3k | AI & Data Science |
+| 🥈 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 84.7k | AI & Data Science |
+| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 210.2k | Otros |
+| 4 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 96.6k | AI & Data Science |
+| 5 | [**authentik**](https://github.com/goauthentik/authentik) | **0.97** | 24.0k | Otros |
+| 6 | [**skills**](https://github.com/google/skills) | **0.95** | 16.8k | Otros |
+| 7 | [**ChinaTextbook**](https://github.com/TapXWorld/ChinaTextbook) | **0.86** | 78.0k | Otros |
+| 8 | [**guava**](https://github.com/google/guava) | **0.85** | 51.9k | Otros |
+| 9 | [**celld**](https://github.com/denoland/celld) | **0.82** | 2.7k | Otros |
+| 10 | [**fanqiang**](https://github.com/bannedbook/fanqiang) | **0.80** | 50.0k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.72** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 7 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.78** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
