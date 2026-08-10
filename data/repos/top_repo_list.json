@@ -4,8 +4,8 @@
     "name": "PrimeIntellect-ai/prime-agent",
     "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "stars": 9307,
-    "growth": 2483,
+    "stars": 11805,
+    "growth": 2356,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -18,12 +18,30 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_msitarzewski_agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "stars": 141081,
+    "growth": 858,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_addyosmani_agent-skills",
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 84688,
-    "growth": 779,
+    "stars": 85307,
+    "growth": 680,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -44,27 +62,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 210247,
-    "growth": 1359,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_TauricResearch_TradingAgents",
-    "name": "TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "stars": 96606,
-    "growth": 153,
+    "id": "github_trending_ZhuLinsen_daily_stock_analysis",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "stars": 61414,
+    "growth": 306,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -72,14 +75,62 @@
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "llm"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "agent",
-      "finance",
+      "a-stock",
+      "ai-agent",
+      "aigc",
       "llm",
-      "multiagent",
-      "trading"
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Comfy-Org_ComfyUI",
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "stars": 125752,
+    "growth": 365,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_google_skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "url": "https://github.com/google/skills",
+    "stars": 17363,
+    "growth": 528,
+    "score": 0.9873,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "google",
+      "googlecloud",
+      "skills"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -88,9 +139,9 @@
     "name": "goauthentik/authentik",
     "description": "The authentication glue you need.",
     "url": "https://github.com/goauthentik/authentik",
-    "stars": 24024,
-    "growth": 467,
-    "score": 0.97,
+    "stars": 24368,
+    "growth": 310,
+    "score": 0.966,
     "categories": [
       "Otros"
     ],
@@ -118,136 +169,132 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_google_skills",
-    "name": "google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "url": "https://github.com/google/skills",
-    "stars": 16846,
-    "growth": 481,
-    "score": 0.9526,
+    "id": "github_trending_pranshuparmar_witr",
+    "name": "pranshuparmar/witr",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "url": "https://github.com/pranshuparmar/witr",
+    "stars": 20902,
+    "growth": 210,
+    "score": 0.9608,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "cli"
+    ],
+    "raw_topics": [
+      "cli",
+      "containers",
+      "devops",
+      "docker",
+      "freebsd",
+      "go",
+      "golang",
+      "incident-response",
+      "kubernetes",
+      "linux",
+      "macos",
+      "monitoring",
+      "observability",
+      "process-management",
+      "sysadmin",
+      "systemd",
+      "terminal",
+      "troubleshooting",
+      "tui",
+      "windows"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_vitali87_code-graph-rag",
+    "name": "vitali87/code-graph-rag",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "stars": 3177,
+    "growth": 96,
+    "score": 0.8503,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "ai",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-understanding",
+      "codebase-search",
+      "developer-tools",
+      "graph-database",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "memgraph",
+      "monorepo",
+      "multi-language",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "tree-sitter"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_pingdotgg_t3code",
+    "name": "pingdotgg/t3code",
+    "description": "",
+    "url": "https://github.com/pingdotgg/t3code",
+    "stars": 17755,
+    "growth": 163,
+    "score": 0.8122,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_google-deepmind_weathernext",
+    "name": "google-deepmind/weathernext",
+    "description": "",
+    "url": "https://github.com/google-deepmind/weathernext",
+    "stars": 7159,
+    "growth": 86,
+    "score": 0.7189,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
     "raw_topics": [
-      "google",
-      "googlecloud",
-      "skills"
+      "weather",
+      "weather-forecast"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_TapXWorld_ChinaTextbook",
-    "name": "TapXWorld/ChinaTextbook",
-    "description": "所有小初高、大学PDF教材。",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "stars": 78035,
-    "growth": 118,
-    "score": 0.8641,
+    "id": "github_trending_harveyai_harvey-labs",
+    "name": "harveyai/harvey-labs",
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "url": "https://github.com/harveyai/harvey-labs",
+    "stars": 888,
+    "growth": 47,
+    "score": 0.6625,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Roff"
-  },
-  {
-    "id": "github_trending_google_guava",
-    "name": "google/guava",
-    "description": "Google core libraries for Java",
-    "url": "https://github.com/google/guava",
-    "stars": 51870,
-    "growth": 93,
-    "score": 0.8516,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "raw_topics": [
-      "guava",
-      "java"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_denoland_celld",
-    "name": "denoland/celld",
-    "description": "self-hosted, distributed Durable Objects",
-    "url": "https://github.com/denoland/celld",
-    "stars": 2664,
-    "growth": 432,
-    "score": 0.8182,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_bannedbook_fanqiang",
-    "name": "bannedbook/fanqiang",
-    "description": "翻墙-科学上网",
-    "url": "https://github.com/bannedbook/fanqiang",
-    "stars": 50008,
-    "growth": 101,
-    "score": 0.8007,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Kotlin",
-    "raw_topics": [
-      "brook",
-      "daze",
-      "fanqiang",
-      "goflyway",
-      "lightsocks",
-      "proxy",
-      "psiphon",
-      "shadowsocks",
-      "ssr",
-      "trojan",
-      "v2ray"
-    ]
-  },
-  {
-    "id": "github_trending_LadybirdBrowser_ladybird",
-    "name": "LadybirdBrowser/ladybird",
-    "description": "Truly independent web browser",
-    "url": "https://github.com/LadybirdBrowser/ladybird",
-    "stars": 65045,
-    "growth": 48,
-    "score": 0.7841,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "browser",
-      "browser-engine"
-    ],
-    "raw_license": "BSD-2-Clause"
-  },
-  {
-    "id": "github_trending_litu54_DevOps-Interview-Guide",
-    "name": "litu54/DevOps-Interview-Guide",
-    "description": "DevOps Interview Guide",
-    "url": "https://github.com/litu54/DevOps-Interview-Guide",
-    "stars": 742,
-    "growth": 68,
-    "score": 0.7159,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "tags": [
-      "nlp:automation-devops"
-    ]
+    "language": "Python",
+    "raw_license": "MIT"
   }
 ]

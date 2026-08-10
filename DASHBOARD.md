@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-10 06:05`
-> 📦 **30** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-10 07:51`
+> 📦 **49** proyectos curados en **9** categorías
 
 ---
 
@@ -87,11 +87,11 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.96** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 5 | **0.99** |
+| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
