@@ -107,3 +107,6 @@
 | 2026-08-10 | **1** | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +2356 | 11.8k | `1.00` |
 | 2026-08-10 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +858 | 141.1k | `1.00` |
 | 2026-08-10 | **3** | [agent-skills](https://github.com/addyosmani/agent-skills) | +680 | 85.3k | `1.00` |
+| 2026-08-11 | **1** | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +2642 | 13.3k | `1.00` |
+| 2026-08-11 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +1349 | 142.0k | `1.00` |
+| 2026-08-11 | **3** | [semantica](https://github.com/semantica-agi/semantica) | +970 | 4.3k | `1.00` |

@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
-> Actualizado: `2026-05-17 09:29`
+> **1 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **165.3k**
+> Actualizado: `2026-08-11 05:47`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [**firecrawl**](https://github.com/firecrawl/firecrawl) | **1.00** | 165.3k | `██████████` | The context API to search, scrape, and interact with the web at scale. 🔥 |
 
 ---
