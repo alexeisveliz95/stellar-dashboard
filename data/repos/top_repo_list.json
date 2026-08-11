@@ -1,19 +1,41 @@
 [
   {
-    "id": "github_trending_PrimeIntellect-ai_prime-agent",
-    "name": "PrimeIntellect-ai/prime-agent",
-    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "stars": 11805,
-    "growth": 2356,
+    "id": "github_trending_semantica-agi_semantica",
+    "name": "semantica-agi/semantica",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "url": "https://github.com/semantica-agi/semantica",
+    "stars": 4328,
+    "growth": 970,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
     "tags": [
       "ai"
+    ],
+    "raw_topics": [
+      "agent-memory",
+      "ai",
+      "ai-governance",
+      "ai-infrastructure",
+      "artificial-intelligence",
+      "context-engineering",
+      "context-graphs",
+      "data-engineering",
+      "decision-intelligence",
+      "developer-tools",
+      "explainable-ai",
+      "generative-ai",
+      "graph-rag",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "provenance",
+      "python",
+      "reasoning",
+      "semantic-search"
     ],
     "raw_license": "MIT"
   },
@@ -22,8 +44,8 @@
     "name": "msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "url": "https://github.com/msitarzewski/agency-agents",
-    "stars": 141081,
-    "growth": 858,
+    "stars": 141998,
+    "growth": 1349,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -40,8 +62,8 @@
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 85307,
-    "growth": 680,
+    "stars": 85877,
+    "growth": 659,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -62,39 +84,98 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_ZhuLinsen_daily_stock_analysis",
-    "name": "ZhuLinsen/daily_stock_analysis",
-    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "stars": 61414,
-    "growth": 306,
+    "id": "github_trending_PrimeIntellect-ai_prime-agent",
+    "name": "PrimeIntellect-ai/prime-agent",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "stars": 13324,
+    "growth": 2642,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "TypeScript",
     "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "a-stock",
-      "ai-agent",
-      "aigc",
-      "llm",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading"
+      "ai"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Comfy-Org_ComfyUI",
-    "name": "Comfy-Org/ComfyUI",
-    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "stars": 125752,
-    "growth": 365,
+    "id": "github_trending_danielmiessler_LifeOS",
+    "name": "danielmiessler/LifeOS",
+    "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "url": "https://github.com/danielmiessler/LifeOS",
+    "stars": 18065,
+    "growth": 315,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-harness",
+      "augmentation",
+      "coding",
+      "humans",
+      "intent-engineering",
+      "lifeos",
+      "personal-ai",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_firecrawl_firecrawl",
+    "name": "firecrawl/firecrawl",
+    "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "stars": 165280,
+    "growth": 835,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "scraper",
+      "scraping",
+      "web-crawler",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_TauricResearch_TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "stars": 97352,
+    "growth": 177,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -102,109 +183,14 @@
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:ai-data-science"
+      "llm"
     ],
     "raw_topics": [
-      "ai",
-      "comfy",
-      "comfyui",
-      "python",
-      "pytorch",
-      "stable-diffusion"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_google_skills",
-    "name": "google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "url": "https://github.com/google/skills",
-    "stars": 17363,
-    "growth": 528,
-    "score": 0.9873,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "google",
-      "googlecloud",
-      "skills"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_goauthentik_authentik",
-    "name": "goauthentik/authentik",
-    "description": "The authentication glue you need.",
-    "url": "https://github.com/goauthentik/authentik",
-    "stars": 24368,
-    "growth": 310,
-    "score": 0.966,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "authentication",
-      "authentik",
-      "authorization",
-      "kubernetes",
-      "oauth2",
-      "oauth2-client",
-      "oauth2-server",
-      "oidc",
-      "oidc-client",
-      "oidc-provider",
-      "proxy",
-      "reverse-proxy",
-      "saml",
-      "saml-idp",
-      "saml-sp",
-      "security",
-      "sso"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_pranshuparmar_witr",
-    "name": "pranshuparmar/witr",
-    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-    "url": "https://github.com/pranshuparmar/witr",
-    "stars": 20902,
-    "growth": 210,
-    "score": 0.9608,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "cli"
-    ],
-    "raw_topics": [
-      "cli",
-      "containers",
-      "devops",
-      "docker",
-      "freebsd",
-      "go",
-      "golang",
-      "incident-response",
-      "kubernetes",
-      "linux",
-      "macos",
-      "monitoring",
-      "observability",
-      "process-management",
-      "sysadmin",
-      "systemd",
-      "terminal",
-      "troubleshooting",
-      "tui",
-      "windows"
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -213,9 +199,9 @@
     "name": "vitali87/code-graph-rag",
     "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
     "url": "https://github.com/vitali87/code-graph-rag",
-    "stars": 3177,
-    "growth": 96,
-    "score": 0.8503,
+    "stars": 3609,
+    "growth": 682,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -249,13 +235,91 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_Comfy-Org_ComfyUI",
+    "name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "stars": 126483,
+    "growth": 922,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_ruvnet_RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "url": "https://github.com/ruvnet/RuView",
+    "stars": 89441,
+    "growth": 154,
+    "score": 0.9521,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_topics": [
+      "awesome",
+      "claude",
+      "densepose",
+      "esp32",
+      "firmware",
+      "home-assistant",
+      "home-automation",
+      "iot",
+      "monitoring",
+      "networking",
+      "npm",
+      "pose-estimation",
+      "react",
+      "rf",
+      "self-learning",
+      "skills",
+      "spatial-intelligence",
+      "typescript",
+      "wifi",
+      "wifi-security"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NanmiCoder_MediaCrawler",
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "stars": 61325,
+    "growth": 259,
+    "score": 0.9098,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "NOASSERTION"
+  },
+  {
     "id": "github_trending_pingdotgg_t3code",
     "name": "pingdotgg/t3code",
     "description": "",
     "url": "https://github.com/pingdotgg/t3code",
-    "stars": 17755,
-    "growth": 163,
-    "score": 0.8122,
+    "stars": 18095,
+    "growth": 389,
+    "score": 0.9074,
     "categories": [
       "Otros"
     ],
@@ -264,13 +328,31 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_paperclipai_paperclip",
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "url": "https://github.com/paperclipai/paperclip",
+    "stars": 76676,
+    "growth": 198,
+    "score": 0.8767,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_google-deepmind_weathernext",
     "name": "google-deepmind/weathernext",
     "description": "",
     "url": "https://github.com/google-deepmind/weathernext",
-    "stars": 7159,
-    "growth": 86,
-    "score": 0.7189,
+    "stars": 7397,
+    "growth": 325,
+    "score": 0.8408,
     "categories": [
       "Otros"
     ],
@@ -283,18 +365,43 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_harveyai_harvey-labs",
-    "name": "harveyai/harvey-labs",
-    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-    "url": "https://github.com/harveyai/harvey-labs",
-    "stars": 888,
-    "growth": 47,
-    "score": 0.6625,
+    "id": "github_trending_LadybirdBrowser_ladybird",
+    "name": "LadybirdBrowser/ladybird",
+    "description": "Truly independent web browser",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "stars": 65306,
+    "growth": 56,
+    "score": 0.7568,
     "categories": [
-      "Otros"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "C++",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "browser",
+      "browser-engine"
+    ],
+    "raw_license": "BSD-2-Clause"
+  },
+  {
+    "id": "github_trending_opa334_Dopamine",
+    "name": "opa334/Dopamine",
+    "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+    "url": "https://github.com/opa334/Dopamine",
+    "stars": 6087,
+    "growth": 111,
+    "score": 0.6931,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "tags": [
+      "jailbreak"
+    ],
     "raw_license": "MIT"
   }
 ]
