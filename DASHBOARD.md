@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-11 07:17`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-12 06:10`
+> 📦 **33** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | 13.3k | +2.6k | TypeScript |
-| 2 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 142.0k | +1.3k | Shell |
-| 3 | [**semantica**](https://github.com/semantica-agi/semantica) | 4.3k | +970 | Python |
-| 4 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | 126.5k | +922 | Python |
-| 5 | [**firecrawl**](https://github.com/firecrawl/firecrawl) | 165.3k | +835 | TypeScript |
-| 6 | [**code-graph-rag**](https://github.com/vitali87/code-graph-rag) | 3.6k | +682 | Python |
-| 7 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 85.9k | +659 | JavaScript |
-| 8 | [**t3code**](https://github.com/pingdotgg/t3code) | 18.1k | +389 | TypeScript |
-| 9 | [**weathernext**](https://github.com/google-deepmind/weathernext) | 7.4k | +325 | Python |
-| 10 | [**LifeOS**](https://github.com/danielmiessler/LifeOS) | 18.1k | +315 | TypeScript |
+| 1 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | 14.4k | +1.1k | TypeScript |
+| 2 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 143.7k | +958 | Shell |
+| 3 | [**semantica**](https://github.com/semantica-agi/semantica) | 5.1k | +893 | Python |
+| 4 | [**orca**](https://github.com/stablyai/orca) | 43.1k | +875 | TypeScript |
+| 5 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 34.9k | +812 | Python |
+| 6 | [**paperclip**](https://github.com/paperclipai/paperclip) | 77.3k | +748 | TypeScript |
+| 7 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 86.3k | +578 | JavaScript |
+| 8 | [**skills**](https://github.com/anthropics/skills) | 168.3k | +485 | Python |
+| 9 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 47.5k | +458 | Python |
+| 10 | [**project-based-learning**](https://github.com/practical-tutorials/project-based-learning) | 278.6k | +401 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**semantica**](https://github.com/semantica-agi/semantica) | **1.00** | 4.3k | AI & Data Science |
-| 🥈 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 142.0k | AI & Data Science |
-| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 85.9k | AI & Data Science |
-| 4 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | **1.00** | 13.3k | AI & Data Science |
-| 5 | [**LifeOS**](https://github.com/danielmiessler/LifeOS) | **1.00** | 18.1k | AI & Data Science |
-| 6 | [**firecrawl**](https://github.com/firecrawl/firecrawl) | **1.00** | 165.3k | Python & Backend |
-| 7 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 97.4k | AI & Data Science |
-| 8 | [**code-graph-rag**](https://github.com/vitali87/code-graph-rag) | **1.00** | 3.6k | AI & Data Science |
-| 9 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | **1.00** | 126.5k | AI & Data Science |
-| 10 | [**RuView**](https://github.com/ruvnet/RuView) | **0.95** | 89.4k | Otros |
+| 🥇 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 143.7k | AI & Data Science |
+| 🥈 | [**semantica**](https://github.com/semantica-agi/semantica) | **1.00** | 5.1k | AI & Data Science |
+| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 86.3k | AI & Data Science |
+| 4 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 168.3k | Otros |
+| 5 | [**orca**](https://github.com/stablyai/orca) | **1.00** | 43.1k | Mobile Development |
+| 6 | [**transformers**](https://github.com/huggingface/transformers) | **1.00** | 163.9k | AI & Data Science |
+| 7 | [**awesome-mac**](https://github.com/jaywcjlove/awesome-mac) | **1.00** | 110.6k | Otros |
+| 8 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 47.5k | AI & Data Science |
+| 9 | [**project-based-learning**](https://github.com/practical-tutorials/project-based-learning) | **1.00** | 278.6k | AI & Data Science |
+| 10 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | **1.00** | 14.4k | AI & Data Science |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 9 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.85** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 

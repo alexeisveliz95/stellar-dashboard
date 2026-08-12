@@ -110,3 +110,6 @@
 | 2026-08-11 | **1** | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +2642 | 13.3k | `1.00` |
 | 2026-08-11 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +1349 | 142.0k | `1.00` |
 | 2026-08-11 | **3** | [semantica](https://github.com/semantica-agi/semantica) | +970 | 4.3k | `1.00` |
+| 2026-08-12 | **1** | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +1138 | 14.4k | `1.00` |
+| 2026-08-12 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +958 | 143.7k | `1.00` |
+| 2026-08-12 | **3** | [semantica](https://github.com/semantica-agi/semantica) | +893 | 5.1k | `1.00` |
