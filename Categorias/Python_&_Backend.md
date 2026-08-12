@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.85** · Estrellas totales: **94.5k**
-> Actualizado: `2026-08-12 06:10`
+> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**nvm**](https://github.com/nvm-sh/nvm) | **0.85** | 94.5k | `██████████` | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
 
 ---
