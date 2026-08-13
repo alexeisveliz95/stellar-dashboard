@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-12 07:41`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-13 06:08`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | 14.4k | +1.1k | TypeScript |
-| 2 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 143.7k | +958 | Shell |
-| 3 | [**semantica**](https://github.com/semantica-agi/semantica) | 5.1k | +893 | Python |
-| 4 | [**orca**](https://github.com/stablyai/orca) | 43.1k | +875 | TypeScript |
-| 5 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 34.9k | +812 | Python |
-| 6 | [**paperclip**](https://github.com/paperclipai/paperclip) | 77.3k | +748 | TypeScript |
-| 7 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 86.3k | +578 | JavaScript |
-| 8 | [**skills**](https://github.com/anthropics/skills) | 168.3k | +485 | Python |
-| 9 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 47.5k | +458 | Python |
-| 10 | [**project-based-learning**](https://github.com/practical-tutorials/project-based-learning) | 278.6k | +401 | Python |
+| 1 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 11.6k | +2.9k | HTML |
+| 2 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 144.8k | +1.9k | Shell |
+| 3 | [**orca**](https://github.com/stablyai/orca) | 44.2k | +1.2k | TypeScript |
+| 4 | [**semantica**](https://github.com/semantica-agi/semantica) | 5.9k | +845 | Python |
+| 5 | [**paperclip**](https://github.com/paperclipai/paperclip) | 77.9k | +571 | TypeScript |
+| 6 | [**ppt-master**](https://github.com/hugohe3/ppt-master) | 45.9k | +476 | Python |
+| 7 | [**Switchyard**](https://github.com/NVIDIA-NeMo/Switchyard) | 928 | +421 | Rust |
+| 8 | [**needle**](https://github.com/cactus-compute/needle) | 4.4k | +315 | Python |
+| 9 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 37.0k | +266 | Python |
+| 10 | [**macro**](https://github.com/macro-inc/macro) | 2.1k | +227 | Rust |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 143.7k | AI & Data Science |
-| 🥈 | [**semantica**](https://github.com/semantica-agi/semantica) | **1.00** | 5.1k | AI & Data Science |
-| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 86.3k | AI & Data Science |
-| 4 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 168.3k | Otros |
-| 5 | [**orca**](https://github.com/stablyai/orca) | **1.00** | 43.1k | Mobile Development |
-| 6 | [**transformers**](https://github.com/huggingface/transformers) | **1.00** | 163.9k | AI & Data Science |
-| 7 | [**awesome-mac**](https://github.com/jaywcjlove/awesome-mac) | **1.00** | 110.6k | Otros |
-| 8 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 47.5k | AI & Data Science |
-| 9 | [**project-based-learning**](https://github.com/practical-tutorials/project-based-learning) | **1.00** | 278.6k | AI & Data Science |
-| 10 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | **1.00** | 14.4k | AI & Data Science |
+| 🥇 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 11.6k | Web Development |
+| 🥈 | [**semantica**](https://github.com/semantica-agi/semantica) | **1.00** | 5.9k | AI & Data Science |
+| 🥉 | [**orca**](https://github.com/stablyai/orca) | **1.00** | 44.2k | Mobile Development |
+| 4 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 144.8k | AI & Data Science |
+| 5 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 37.0k | AI & Data Science |
+| 6 | [**ppt-master**](https://github.com/hugohe3/ppt-master) | **1.00** | 45.9k | AI & Data Science |
+| 7 | [**ragflow**](https://github.com/infiniflow/ragflow) | **1.00** | 87.7k | AI & Data Science |
+| 8 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 77.9k | Mobile Development |
+| 9 | [**localsend**](https://github.com/localsend/localsend) | **1.00** | 88.0k | Mobile Development |
+| 10 | [**needle**](https://github.com/cactus-compute/needle) | **0.98** | 4.4k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **0.91** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 3 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **0.97** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

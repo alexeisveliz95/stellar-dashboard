@@ -113,3 +113,6 @@
 | 2026-08-12 | **1** | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | +1138 | 14.4k | `1.00` |
 | 2026-08-12 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +958 | 143.7k | `1.00` |
 | 2026-08-12 | **3** | [semantica](https://github.com/semantica-agi/semantica) | +893 | 5.1k | `1.00` |
+| 2026-08-13 | **1** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +2855 | 11.6k | `1.00` |
+| 2026-08-13 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +1873 | 144.8k | `1.00` |
+| 2026-08-13 | **3** | [orca](https://github.com/stablyai/orca) | +1235 | 44.2k | `1.00` |
