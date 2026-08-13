@@ -1,19 +1,19 @@
 [
   {
-    "id": "github_trending_msitarzewski_agency-agents",
-    "name": "msitarzewski/agency-agents",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "stars": 143715,
-    "growth": 958,
+    "id": "github_trending_cathrynlavery_diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "stars": 11553,
+    "growth": 2855,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Shell",
+    "language": "HTML",
     "tags": [
-      "ai"
+      "nlp:web-development"
     ],
     "raw_license": "MIT"
   },
@@ -22,8 +22,8 @@
     "name": "semantica-agi/semantica",
     "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
     "url": "https://github.com/semantica-agi/semantica",
-    "stars": 5117,
-    "growth": 893,
+    "stars": 5902,
+    "growth": 845,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -58,55 +58,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_addyosmani_agent-skills",
-    "name": "addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 86337,
-    "growth": 578,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_anthropics_skills",
-    "name": "anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "url": "https://github.com/anthropics/skills",
-    "stars": 168286,
-    "growth": 485,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent-skills"
-    ]
-  },
-  {
     "id": "github_trending_stablyai_orca",
     "name": "stablyai/orca",
     "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
     "url": "https://github.com/stablyai/orca",
-    "stars": 43059,
-    "growth": 875,
+    "stars": 44205,
+    "growth": 1235,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -139,12 +96,30 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_huggingface_transformers",
-    "name": "huggingface/transformers",
-    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-    "url": "https://github.com/huggingface/transformers",
-    "stars": 163888,
-    "growth": 80,
+    "id": "github_trending_msitarzewski_agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "stars": 144769,
+    "growth": 1873,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_shiyu-coder_Kronos",
+    "name": "shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "stars": 36994,
+    "growth": 266,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -154,158 +129,80 @@
     "tags": [
       "nlp:ai-data-science"
     ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_hugohe3_ppt-master",
+    "name": "hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "stars": 45949,
+    "growth": 476,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
     "raw_topics": [
-      "audio",
-      "deep-learning",
-      "deepseek",
-      "gemma",
-      "glm",
-      "hacktoberfest",
-      "llm",
-      "machine-learning",
-      "model-hub",
-      "natural-language-processing",
-      "nlp",
-      "pretrained-models",
-      "python",
-      "pytorch",
-      "pytorch-transformers",
-      "qwen",
-      "speech-recognition",
-      "transformer",
-      "vlm"
+      "ai-agent",
+      "aippt",
+      "office",
+      "powerpoint",
+      "powerpoint-generation",
+      "ppt",
+      "pptx",
+      "presentation",
+      "slide",
+      "slides"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_infiniflow_ragflow",
+    "name": "infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "url": "https://github.com/infiniflow/ragflow",
+    "stars": 87665,
+    "growth": 139,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "agent-harness",
+      "agentic-ai",
+      "agentic-retrieval",
+      "agentic-search",
+      "ai",
+      "ai-agents",
+      "context-engine",
+      "context-engineering",
+      "context-management",
+      "harness-engineering",
+      "knowledge-compilation",
+      "llm-apps",
+      "rag",
+      "retrieval-augmented-generation"
     ],
     "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_jaywcjlove_awesome-mac",
-    "name": "jaywcjlove/awesome-mac",
-    "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-    "url": "https://github.com/jaywcjlove/awesome-mac",
-    "stars": 110607,
-    "growth": 298,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Swift",
-    "raw_topics": [
-      "app",
-      "apple",
-      "application",
-      "apps",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "awesome-mac",
-      "desktop-app",
-      "desktop-application",
-      "desktop-apps",
-      "list",
-      "mac",
-      "mac-osx",
-      "macos",
-      "macos-app",
-      "macos-apps",
-      "macosx",
-      "software"
-    ],
-    "raw_license": "CC0-1.0"
-  },
-  {
-    "id": "github_trending_calesthio_OpenMontage",
-    "name": "calesthio/OpenMontage",
-    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 47519,
-    "growth": 458,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "claude",
-      "copilot",
-      "cursor",
-      "elevenlabs",
-      "ffmpeg",
-      "flux",
-      "image-generation",
-      "open-source",
-      "openai",
-      "python",
-      "remotion",
-      "stable-diffusion",
-      "text-to-speech",
-      "text-to-video",
-      "video-generation",
-      "video-production"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_practical-tutorials_project-based-learning",
-    "name": "practical-tutorials/project-based-learning",
-    "description": "Curated list of project-based tutorials",
-    "url": "https://github.com/practical-tutorials/project-based-learning",
-    "stars": 278604,
-    "growth": 401,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "beginner-project",
-      "cpp",
-      "golang",
-      "javascript",
-      "project",
-      "python",
-      "tutorial",
-      "webdevelopment"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_PrimeIntellect-ai_prime-agent",
-    "name": "PrimeIntellect-ai/prime-agent",
-    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "stars": 14397,
-    "growth": 1138,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
   },
   {
     "id": "github_trending_paperclipai_paperclip",
     "name": "paperclipai/paperclip",
     "description": "The open-source app everyone uses to manage agents at work",
     "url": "https://github.com/paperclipai/paperclip",
-    "stars": 77311,
-    "growth": 748,
-    "score": 0.9995,
+    "stars": 77859,
+    "growth": 571,
+    "score": 1.0,
     "categories": [
       "Mobile Development"
     ],
@@ -317,165 +214,231 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_ZhuLinsen_daily_stock_analysis",
-    "name": "ZhuLinsen/daily_stock_analysis",
-    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "stars": 62312,
-    "growth": 243,
-    "score": 0.993,
+    "id": "github_trending_localsend_localsend",
+    "name": "localsend/localsend",
+    "description": "An open-source cross-platform alternative to AirDrop",
+    "url": "https://github.com/localsend/localsend",
+    "stars": 87974,
+    "growth": 213,
+    "score": 0.999,
     "categories": [
-      "AI & Data Science"
+      "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "Dart",
     "tags": [
-      "nlp:ai-data-science"
+      "nlp:mobile-development"
     ],
     "raw_topics": [
-      "a-stock",
-      "ai-agent",
-      "aigc",
-      "llm",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_vitali87_code-graph-rag",
-    "name": "vitali87/code-graph-rag",
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-    "url": "https://github.com/vitali87/code-graph-rag",
-    "stars": 3914,
-    "growth": 341,
-    "score": 0.9623,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "ai",
-      "ast",
-      "claude-code",
-      "code-analysis",
-      "code-understanding",
-      "codebase-search",
-      "developer-tools",
-      "graph-database",
-      "knowledge-graph",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "memgraph",
-      "monorepo",
-      "multi-language",
-      "python",
-      "rag",
-      "retrieval-augmented-generation",
-      "semantic-search",
-      "tree-sitter"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_HKUDS_DeepTutor",
-    "name": "HKUDS/DeepTutor",
-    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 34911,
-    "growth": 812,
-    "score": 0.95,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "ai-agents",
-      "ai-tutor",
-      "clawdbot",
-      "cli-tool",
-      "deepresearch",
-      "interactive-learning",
-      "large-language-models",
-      "multi-agent-systems",
-      "rag"
+      "dart",
+      "file-sharing",
+      "flutter",
+      "flutter-apps"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_3b1b_manim",
-    "name": "3b1b/manim",
-    "description": "Animation engine for explanatory math videos",
-    "url": "https://github.com/3b1b/manim",
-    "stars": 90332,
-    "growth": 197,
-    "score": 0.9228,
+    "id": "github_trending_cactus-compute_needle",
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "url": "https://github.com/cactus-compute/needle",
+    "stars": 4425,
+    "growth": 315,
+    "score": 0.9834,
     "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
-    "raw_topics": [
-      "3b1b-videos",
-      "animation",
-      "explanatory-math-videos",
-      "python"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_nvm-sh_nvm",
-    "name": "nvm-sh/nvm",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-    "url": "https://github.com/nvm-sh/nvm",
-    "stars": 94520,
-    "growth": 22,
-    "score": 0.8528,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
     "tags": [
-      "nlp:python-backend"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "bash",
-      "install",
-      "lts",
-      "node",
-      "node-js",
-      "nodejs",
-      "nvm",
-      "nvmrc",
-      "posix",
-      "posix-compliant",
-      "shell",
-      "version-manager",
-      "zsh"
+      "cactus",
+      "gemini",
+      "gemma",
+      "llm",
+      "on-device-ai"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_harveyai_harvey-labs",
-    "name": "harveyai/harvey-labs",
-    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-    "url": "https://github.com/harveyai/harvey-labs",
-    "stars": 1118,
-    "growth": 28,
-    "score": 0.6435,
+    "id": "github_trending_NanmiCoder_MediaCrawler",
+    "name": "NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "stars": 62120,
+    "growth": 215,
+    "score": 0.9672,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_smicallef_spiderfoot",
+    "name": "smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "stars": 20415,
+    "growth": 74,
+    "score": 0.9084,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "attacksurface",
+      "cti",
+      "cybersecurity",
+      "footprinting",
+      "hacking",
+      "information-gathering",
+      "information-security",
+      "infosec",
+      "intelligence-gathering",
+      "osint",
+      "osint-framework",
+      "osint-reconnaissance",
+      "osint-tool",
+      "pentesting",
+      "python",
+      "recon",
+      "security-tools",
+      "threat-intelligence",
+      "threatintel"
+    ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_macro-inc_macro",
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "url": "https://github.com/macro-inc/macro",
+    "stars": 2095,
+    "growth": 227,
+    "score": 0.9069,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "all-in-one",
+      "crm",
+      "crm-system",
+      "email",
+      "linear",
+      "mcp",
+      "messaging",
+      "notes",
+      "notion",
+      "office",
+      "rust",
+      "slack",
+      "slack-alternative",
+      "startup",
+      "startup-tools",
+      "typescript",
+      "workspace"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_Lightricks_LTX-2",
+    "name": "Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "url": "https://github.com/Lightricks/LTX-2",
+    "stars": 8765,
+    "growth": 65,
+    "score": 0.8889,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "generative-ai",
+      "ltx",
+      "ltx-2"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_NVIDIA-NeMo_Switchyard",
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "",
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "stars": 928,
+    "growth": 421,
+    "score": 0.8422,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_ZuodaoTech_everyone-can-use-english",
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "stars": 36243,
+    "growth": 86,
+    "score": 0.812,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_embabel_embabel-agent",
+    "name": "embabel/embabel-agent",
+    "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+    "url": "https://github.com/embabel/embabel-agent",
+    "stars": 4256,
+    "growth": 40,
+    "score": 0.7036,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Kotlin",
+    "raw_topics": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "generative-ai",
+      "java",
+      "kotlin",
+      "llms",
+      "multi-agents",
+      "multi-agents-orchestration",
+      "multi-agents-system",
+      "spring"
+    ],
+    "raw_license": "Apache-2.0"
   }
 ]

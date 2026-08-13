@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **4 proyectos** · ⭐ Mejor score: **0.97** · Estrellas totales: **103.5k**
-> Actualizado: `2026-08-13 06:08`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,9 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**MediaCrawler**](https://github.com/NanmiCoder/MediaCrawler) | **0.97** | 62.1k | `█░░░░░░░░░` | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
-| [**Switchyard**](https://github.com/NVIDIA-NeMo/Switchyard) | **0.84** | 928 | `██████████` | Sin descripción |
-| [**everyone-can-use-english**](https://github.com/ZuodaoTech/everyone-can-use-english) | **0.81** | 36.2k | `█░░░░░░░░░` | 人人都能用英语 |
-| [**embabel-agent**](https://github.com/embabel/embabel-agent) | **0.70** | 4.3k | `█░░░░░░░░░` | Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
