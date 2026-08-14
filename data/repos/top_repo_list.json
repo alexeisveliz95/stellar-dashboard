@@ -4,8 +4,8 @@
     "name": "cathrynlavery/diagram-design",
     "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 11553,
-    "growth": 2855,
+    "stars": 15395,
+    "growth": 4475,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -22,8 +22,8 @@
     "name": "semantica-agi/semantica",
     "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
     "url": "https://github.com/semantica-agi/semantica",
-    "stars": 5902,
-    "growth": 845,
+    "stars": 6953,
+    "growth": 713,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -58,193 +58,30 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_stablyai_orca",
-    "name": "stablyai/orca",
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-    "url": "https://github.com/stablyai/orca",
-    "stars": 44205,
-    "growth": 1235,
+    "id": "github_trending_anthropics_skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "url": "https://github.com/anthropics/skills",
+    "stars": 169185,
+    "growth": 312,
     "score": 1.0,
     "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "ade",
-      "agent-ide",
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "cursor-agent",
-      "devtools",
-      "ghostty",
-      "ide",
-      "mobile-app",
-      "opencode",
-      "orchestration",
-      "parallel-agents",
-      "pi",
-      "terminal",
-      "worktrees",
-      "yc-backed"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_msitarzewski_agency-agents",
-    "name": "msitarzewski/agency-agents",
-    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "stars": 144769,
-    "growth": 1873,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_shiyu-coder_Kronos",
-    "name": "shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "stars": 36994,
-    "growth": 266,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_hugohe3_ppt-master",
-    "name": "hugohe3/ppt-master",
-    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-    "url": "https://github.com/hugohe3/ppt-master",
-    "stars": 45949,
-    "growth": 476,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
     "raw_topics": [
-      "ai-agent",
-      "aippt",
-      "office",
-      "powerpoint",
-      "powerpoint-generation",
-      "ppt",
-      "pptx",
-      "presentation",
-      "slide",
-      "slides"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_infiniflow_ragflow",
-    "name": "infiniflow/ragflow",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "url": "https://github.com/infiniflow/ragflow",
-    "stars": 87665,
-    "growth": 139,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent-harness",
-      "agentic-ai",
-      "agentic-retrieval",
-      "agentic-search",
-      "ai",
-      "ai-agents",
-      "context-engine",
-      "context-engineering",
-      "context-management",
-      "harness-engineering",
-      "knowledge-compilation",
-      "llm-apps",
-      "rag",
-      "retrieval-augmented-generation"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_paperclipai_paperclip",
-    "name": "paperclipai/paperclip",
-    "description": "The open-source app everyone uses to manage agents at work",
-    "url": "https://github.com/paperclipai/paperclip",
-    "stars": 77859,
-    "growth": 571,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_localsend_localsend",
-    "name": "localsend/localsend",
-    "description": "An open-source cross-platform alternative to AirDrop",
-    "url": "https://github.com/localsend/localsend",
-    "stars": 87974,
-    "growth": 213,
-    "score": 0.999,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Dart",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "dart",
-      "file-sharing",
-      "flutter",
-      "flutter-apps"
-    ],
-    "raw_license": "Apache-2.0"
+      "agent-skills"
+    ]
   },
   {
     "id": "github_trending_cactus-compute_needle",
     "name": "cactus-compute/needle",
     "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
     "url": "https://github.com/cactus-compute/needle",
-    "stars": 4425,
-    "growth": 315,
-    "score": 0.9834,
+    "stars": 5100,
+    "growth": 769,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -263,67 +100,53 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_NanmiCoder_MediaCrawler",
-    "name": "NanmiCoder/MediaCrawler",
-    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-    "url": "https://github.com/NanmiCoder/MediaCrawler",
-    "stars": 62120,
-    "growth": 215,
-    "score": 0.9672,
+    "id": "github_trending_unslothai_unsloth",
+    "name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "url": "https://github.com/unslothai/unsloth",
+    "stars": 71176,
+    "growth": 328,
+    "score": 1.0,
     "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_smicallef_spiderfoot",
-    "name": "smicallef/spiderfoot",
-    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-    "url": "https://github.com/smicallef/spiderfoot",
-    "stars": 20415,
-    "growth": 74,
-    "score": 0.9084,
-    "categories": [
-      "Cybersecurity & Hacking"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:cybersecurity-hacking"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "attacksurface",
-      "cti",
-      "cybersecurity",
-      "footprinting",
-      "hacking",
-      "information-gathering",
-      "information-security",
-      "infosec",
-      "intelligence-gathering",
-      "osint",
-      "osint-framework",
-      "osint-reconnaissance",
-      "osint-tool",
-      "pentesting",
-      "python",
-      "recon",
-      "security-tools",
-      "threat-intelligence",
-      "threatintel"
+      "agent",
+      "chatgpt",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "image-generation",
+      "llama",
+      "llm",
+      "llms",
+      "openai",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "stable-diffusion",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_macro-inc_macro",
     "name": "macro-inc/macro",
     "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
     "url": "https://github.com/macro-inc/macro",
-    "stars": 2095,
-    "growth": 227,
-    "score": 0.9069,
+    "stars": 2713,
+    "growth": 1239,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -357,13 +180,178 @@
     "raw_license": "AGPL-3.0"
   },
   {
+    "id": "github_trending_smicallef_spiderfoot",
+    "name": "smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "stars": 20720,
+    "growth": 283,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "attacksurface",
+      "cti",
+      "cybersecurity",
+      "footprinting",
+      "hacking",
+      "information-gathering",
+      "information-security",
+      "infosec",
+      "intelligence-gathering",
+      "osint",
+      "osint-framework",
+      "osint-reconnaissance",
+      "osint-tool",
+      "pentesting",
+      "python",
+      "recon",
+      "security-tools",
+      "threat-intelligence",
+      "threatintel"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NVIDIA-NeMo_Switchyard",
+    "name": "NVIDIA-NeMo/Switchyard",
+    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "stars": 1303,
+    "growth": 408,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_kepano_obsidian-skills",
+    "name": "kepano/obsidian-skills",
+    "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+    "url": "https://github.com/kepano/obsidian-skills",
+    "stars": 45968,
+    "growth": 292,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "tags": [
+      "cli"
+    ],
+    "raw_topics": [
+      "agents",
+      "agentskills",
+      "bases",
+      "claude",
+      "clawdbot",
+      "cli",
+      "codex",
+      "defuddle",
+      "hermes",
+      "jsoncanvas",
+      "markdown",
+      "md",
+      "obsidian",
+      "openclaw",
+      "opencode",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_msitarzewski_agency-agents",
+    "name": "msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "stars": 145298,
+    "growth": 778,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_infiniflow_ragflow",
+    "name": "infiniflow/ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "url": "https://github.com/infiniflow/ragflow",
+    "stars": 88137,
+    "growth": 465,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "agent-harness",
+      "agentic-ai",
+      "agentic-retrieval",
+      "agentic-search",
+      "ai",
+      "ai-agents",
+      "context-engine",
+      "context-engineering",
+      "context-management",
+      "harness-engineering",
+      "knowledge-compilation",
+      "llm-apps",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_3b1b_manim",
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "url": "https://github.com/3b1b/manim",
+    "stars": 90976,
+    "growth": 176,
+    "score": 0.9829,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "3b1b-videos",
+      "animation",
+      "explanatory-math-videos",
+      "python"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_Lightricks_LTX-2",
     "name": "Lightricks/LTX-2",
     "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
     "url": "https://github.com/Lightricks/LTX-2",
-    "stars": 8765,
-    "growth": 65,
-    "score": 0.8889,
+    "stars": 8963,
+    "growth": 205,
+    "score": 0.9777,
     "categories": [
       "AI & Data Science"
     ],
@@ -380,65 +368,131 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_NVIDIA-NeMo_Switchyard",
-    "name": "NVIDIA-NeMo/Switchyard",
-    "description": "",
-    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-    "stars": 928,
-    "growth": 421,
-    "score": 0.8422,
+    "id": "github_trending_holaboss-ai_holaOS",
+    "name": "holaboss-ai/holaOS",
+    "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+    "url": "https://github.com/holaboss-ai/holaOS",
+    "stars": 6773,
+    "growth": 241,
+    "score": 0.9414,
     "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_ZuodaoTech_everyone-can-use-english",
-    "name": "ZuodaoTech/everyone-can-use-english",
-    "description": "人人都能用英语",
-    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-    "stars": 36243,
-    "growth": 86,
-    "score": 0.812,
-    "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent",
+      "agent-harness",
+      "agent-os",
+      "agentic",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "artificial-intelligence",
+      "claude-code",
+      "codex",
+      "electron",
+      "holaboss",
+      "holaos",
+      "llm",
+      "mcp",
+      "memory",
+      "model-context-protocol",
+      "runtime",
+      "typescript",
+      "workspace"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_megadose_holehe",
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "url": "https://github.com/megadose/holehe",
+    "stars": 12504,
+    "growth": 195,
+    "score": 0.8875,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "ebay",
+      "email",
+      "emails",
+      "information-gathering",
+      "instagram",
+      "open-source-intelligence",
+      "osint",
+      "osint-python",
+      "osint-tools",
+      "pypi",
+      "python",
+      "social-network",
+      "tellonym",
+      "trio",
+      "twitter"
+    ],
     "raw_license": "GPL-3.0"
   },
   {
-    "id": "github_trending_embabel_embabel-agent",
-    "name": "embabel/embabel-agent",
-    "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-    "url": "https://github.com/embabel/embabel-agent",
-    "stars": 4256,
-    "growth": 40,
-    "score": 0.7036,
+    "id": "github_trending_altic-dev_FluidVoice",
+    "name": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+    "url": "https://github.com/altic-dev/FluidVoice",
+    "stars": 9950,
+    "growth": 76,
+    "score": 0.8097,
     "categories": [
-      "Otros"
+      "PlayStation Homebrew & Linux"
     ],
     "source": "github_trending",
-    "language": "Kotlin",
-    "raw_topics": [
-      "agent",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "aiagentframework",
-      "genai",
-      "generative-ai",
-      "java",
-      "kotlin",
-      "llms",
-      "multi-agents",
-      "multi-agents-orchestration",
-      "multi-agents-system",
-      "spring"
+    "language": "Swift",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_topics": [
+      "ai",
+      "dictation",
+      "ios",
+      "llama-cpp",
+      "macos",
+      "swift"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_lightningpixel_modly",
+    "name": "lightningpixel/modly",
+    "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+    "url": "https://github.com/lightningpixel/modly",
+    "stars": 5565,
+    "growth": 118,
+    "score": 0.7812,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "3d",
+      "ai-local",
+      "ai-tools",
+      "desktop-app",
+      "modly",
+      "open-source",
+      "self-hosted"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]
