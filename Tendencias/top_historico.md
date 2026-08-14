@@ -116,3 +116,6 @@
 | 2026-08-13 | **1** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +2855 | 11.6k | `1.00` |
 | 2026-08-13 | **2** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +1873 | 144.8k | `1.00` |
 | 2026-08-13 | **3** | [orca](https://github.com/stablyai/orca) | +1235 | 44.2k | `1.00` |
+| 2026-08-14 | **1** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +4475 | 15.4k | `1.00` |
+| 2026-08-14 | **2** | [macro](https://github.com/macro-inc/macro) | +1239 | 2.7k | `1.00` |
+| 2026-08-14 | **3** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +778 | 145.3k | `1.00` |

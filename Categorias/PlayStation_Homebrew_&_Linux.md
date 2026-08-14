@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **0.89** · Estrellas totales: **22.5k**
+> Actualizado: `2026-08-14 06:09`
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
-| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
+| [**holehe**](https://github.com/megadose/holehe) | **0.89** | 12.5k | `██████████` | holehe allows you to check if the mail is used on different sites like twitter, instagram and… |
+| [**FluidVoice**](https://github.com/altic-dev/FluidVoice) | **0.81** | 9.9k | `█████░░░░░` | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement… |
 
 ---
