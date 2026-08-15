@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-14 07:40`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-15 05:15`
+> 📦 **25** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 15.4k | +4.5k | HTML |
-| 2 | [**macro**](https://github.com/macro-inc/macro) | 2.7k | +1.2k | Rust |
-| 3 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 145.3k | +778 | Shell |
-| 4 | [**needle**](https://github.com/cactus-compute/needle) | 5.1k | +769 | Python |
-| 5 | [**semantica**](https://github.com/semantica-agi/semantica) | 7.0k | +713 | Python |
-| 6 | [**ragflow**](https://github.com/infiniflow/ragflow) | 88.1k | +465 | Go |
-| 7 | [**Switchyard**](https://github.com/NVIDIA-NeMo/Switchyard) | 1.3k | +408 | Rust |
-| 8 | [**unsloth**](https://github.com/unslothai/unsloth) | 71.2k | +328 | Python |
-| 9 | [**skills**](https://github.com/anthropics/skills) | 169.2k | +312 | Python |
-| 10 | [**obsidian-skills**](https://github.com/kepano/obsidian-skills) | 46.0k | +292 | — |
+| 1 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 17.5k | +3.6k | HTML |
+| 2 | [**semantica**](https://github.com/semantica-agi/semantica) | 7.6k | +1.2k | Python |
+| 3 | [**spec-kit**](https://github.com/github/spec-kit) | 128.6k | +1.2k | Python |
+| 4 | [**holaOS**](https://github.com/holaboss-ai/holaOS) | 7.4k | +769 | TypeScript |
+| 5 | [**needle**](https://github.com/cactus-compute/needle) | 5.7k | +662 | Python |
+| 6 | [**modly**](https://github.com/lightningpixel/modly) | 6.0k | +579 | TypeScript |
+| 7 | [**unsloth**](https://github.com/unslothai/unsloth) | 71.6k | +501 | Python |
+| 8 | [**ragflow**](https://github.com/infiniflow/ragflow) | 88.4k | +473 | Go |
+| 9 | [**macro**](https://github.com/macro-inc/macro) | 3.1k | +436 | Rust |
+| 10 | [**holehe**](https://github.com/megadose/holehe) | 12.9k | +427 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 15.4k | Web Development |
-| 🥈 | [**semantica**](https://github.com/semantica-agi/semantica) | **1.00** | 7.0k | AI & Data Science |
-| 🥉 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 169.2k | Otros |
-| 4 | [**needle**](https://github.com/cactus-compute/needle) | **1.00** | 5.1k | AI & Data Science |
-| 5 | [**unsloth**](https://github.com/unslothai/unsloth) | **1.00** | 71.2k | AI & Data Science |
-| 6 | [**macro**](https://github.com/macro-inc/macro) | **1.00** | 2.7k | AI & Data Science |
-| 7 | [**spiderfoot**](https://github.com/smicallef/spiderfoot) | **1.00** | 20.7k | Cybersecurity & Hacking |
-| 8 | [**Switchyard**](https://github.com/NVIDIA-NeMo/Switchyard) | **1.00** | 1.3k | AI & Data Science |
-| 9 | [**obsidian-skills**](https://github.com/kepano/obsidian-skills) | **1.00** | 46.0k | Automation & DevOps |
-| 10 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 145.3k | AI & Data Science |
+| 🥇 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 17.5k | Web Development |
+| 🥈 | [**needle**](https://github.com/cactus-compute/needle) | **1.00** | 5.7k | AI & Data Science |
+| 🥉 | [**holehe**](https://github.com/megadose/holehe) | **1.00** | 12.9k | PlayStation Homebrew & Linux |
+| 4 | [**macro**](https://github.com/macro-inc/macro) | **1.00** | 3.1k | AI & Data Science |
+| 5 | [**spiderfoot**](https://github.com/smicallef/spiderfoot) | **1.00** | 21.0k | Cybersecurity & Hacking |
+| 6 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | **1.00** | 10.5k | AI & Data Science |
+| 7 | [**holaOS**](https://github.com/holaboss-ai/holaOS) | **1.00** | 7.4k | AI & Data Science |
+| 8 | [**spec-kit**](https://github.com/github/spec-kit) | **1.00** | 128.6k | Python & Backend |
+| 9 | [**ragflow**](https://github.com/infiniflow/ragflow) | **1.00** | 88.4k | AI & Data Science |
+| 10 | [**semantica**](https://github.com/semantica-agi/semantica) | **1.00** | 7.6k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 3 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 2 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **1.00** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

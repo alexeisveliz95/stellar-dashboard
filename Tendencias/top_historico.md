@@ -119,3 +119,6 @@
 | 2026-08-14 | **1** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +4475 | 15.4k | `1.00` |
 | 2026-08-14 | **2** | [macro](https://github.com/macro-inc/macro) | +1239 | 2.7k | `1.00` |
 | 2026-08-14 | **3** | [agency-agents](https://github.com/msitarzewski/agency-agents) | +778 | 145.3k | `1.00` |
+| 2026-08-15 | **1** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +3646 | 17.5k | `1.00` |
+| 2026-08-15 | **2** | [semantica](https://github.com/semantica-agi/semantica) | +1181 | 7.6k | `1.00` |
+| 2026-08-15 | **3** | [spec-kit](https://github.com/github/spec-kit) | +1160 | 128.6k | `1.00` |
