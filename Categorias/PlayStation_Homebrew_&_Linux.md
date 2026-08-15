@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **12.9k**
-> Actualizado: `2026-08-15 05:15`
+> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**holehe**](https://github.com/megadose/holehe) | **1.00** | 12.9k | `██████████` | holehe allows you to check if the mail is used on different sites like twitter, instagram and… |
+| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
+| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
 
 ---
