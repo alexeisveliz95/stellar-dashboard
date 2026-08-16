@@ -1,7 +1,7 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-16 06:49`
+> 🕒 Última actualización: `2026-08-16 23:17`
 > 📦 **49** proyectos curados en **9** categorías
 
 ---
@@ -50,36 +50,36 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🚀 Growth | 🏷️ Category |
 | :---: | :--- | ---: | ---: | ---: | :--- |
-| 1 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **0.73** | 96.6k | +153 | `W32` |
-| 2 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 35.9k | +200 | `W32` |
-| 3 | [**computer**](https://github.com/cloudflare/computer) | — | 5.0k | +2802 | `W32` |
-| 4 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | — | 60.0k | +2629 | `W32` |
-| 5 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | — | 10.5k | +2540 | `W32` |
-| 6 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | — | 9.3k | +2483 | `W32` |
-| 7 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | — | 16.5k | +2446 | `W32` |
-| 8 | [**skills**](https://github.com/mattpocock/skills) | — | 209.1k | +2152 | `W32` |
-| 9 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | — | 15.4k | +1892 | `W32` |
-| 10 | [**airllm**](https://github.com/lyogavin/airllm) | — | 28.6k | +1711 | `W32` |
-| 11 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 235.8k | +857 | `W31` |
-| 12 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 34.7k | +441 | `W31` |
-| 13 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | — | 32.7k | +2346 | `W31` |
-| 14 | [**buzz**](https://github.com/block/buzz) | — | 13.9k | +1710 | `W31` |
-| 15 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | — | 55.5k | +1592 | `W31` |
-| 16 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | — | 13.2k | +1421 | `W31` |
-| 17 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | — | 12.2k | +1320 | `W31` |
-| 18 | [**editor**](https://github.com/pascalorg/editor) | — | 19.8k | +1022 | `W31` |
-| 19 | [**claude-video**](https://github.com/bradautomates/claude-video) | — | 12.4k | +988 | `W31` |
-| 20 | [**open-code-review**](https://github.com/alibaba/open-code-review) | — | 15.2k | +979 | `W31` |
-| 21 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 85.4k | +1708 | `W30` |
-| 22 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 233.4k | +377 | `W30` |
-| 23 | [**tradingview-mcp**](https://github.com/tradesdontlie/tradingview-mcp) | **0.73** | 4.9k | +114 | `W30` |
-| 24 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 33.6k | +499 | `W30` |
-| 25 | [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) | — | 16.1k | +4624 | `W30` |
-| 26 | [**worldmonitor**](https://github.com/koala73/worldmonitor) | — | 69.9k | +4139 | `W30` |
-| 27 | [**buzz**](https://github.com/block/buzz) | — | 10.5k | +3270 | `W30` |
-| 28 | [**skills**](https://github.com/mattpocock/skills) | — | 187.2k | +2251 | `W30` |
-| 29 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | — | 24.0k | +2034 | `W30` |
-| 30 | [**code-review-graph**](https://github.com/tirth8205/code-review-graph) | — | 24.9k | +1925 | `W30` |
+| 1 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 89.4k | +154 | `W33` |
+| 2 | [**project-based-learning**](https://github.com/practical-tutorials/project-based-learning) | **0.73** | 278.6k | +401 | `W33` |
+| 3 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **0.73** | 97.4k | +177 | `W33` |
+| 4 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 37.0k | +266 | `W33` |
+| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | — | 15.4k | +4475 | `W33` |
+| 6 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | — | 13.3k | +2642 | `W33` |
+| 7 | [**public-apis**](https://github.com/public-apis/public-apis) | — | 460.4k | +2260 | `W33` |
+| 8 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | — | 144.8k | +1873 | `W33` |
+| 9 | [**macro**](https://github.com/macro-inc/macro) | — | 2.7k | +1239 | `W33` |
+| 10 | [**orca**](https://github.com/stablyai/orca) | — | 44.2k | +1235 | `W33` |
+| 11 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **0.73** | 96.6k | +153 | `W32` |
+| 12 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 35.9k | +200 | `W32` |
+| 13 | [**computer**](https://github.com/cloudflare/computer) | — | 5.0k | +2802 | `W32` |
+| 14 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | — | 60.0k | +2629 | `W32` |
+| 15 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | — | 10.5k | +2540 | `W32` |
+| 16 | [**prime-agent**](https://github.com/PrimeIntellect-ai/prime-agent) | — | 9.3k | +2483 | `W32` |
+| 17 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | — | 16.5k | +2446 | `W32` |
+| 18 | [**skills**](https://github.com/mattpocock/skills) | — | 209.1k | +2152 | `W32` |
+| 19 | [**TencentDB-Agent-Memory**](https://github.com/TencentCloud/TencentDB-Agent-Memory) | — | 15.4k | +1892 | `W32` |
+| 20 | [**airllm**](https://github.com/lyogavin/airllm) | — | 28.6k | +1711 | `W32` |
+| 21 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 235.8k | +857 | `W31` |
+| 22 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 34.7k | +441 | `W31` |
+| 23 | [**bitchat**](https://github.com/permissionlesstech/bitchat) | — | 32.7k | +2346 | `W31` |
+| 24 | [**buzz**](https://github.com/block/buzz) | — | 13.9k | +1710 | `W31` |
+| 25 | [**AI-For-Beginners**](https://github.com/microsoft/AI-For-Beginners) | — | 55.5k | +1592 | `W31` |
+| 26 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | — | 13.2k | +1421 | `W31` |
+| 27 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | — | 12.2k | +1320 | `W31` |
+| 28 | [**editor**](https://github.com/pascalorg/editor) | — | 19.8k | +1022 | `W31` |
+| 29 | [**claude-video**](https://github.com/bradautomates/claude-video) | — | 12.4k | +988 | `W31` |
+| 30 | [**open-code-review**](https://github.com/alibaba/open-code-review) | — | 15.2k | +979 | `W31` |
 
 ---
 
