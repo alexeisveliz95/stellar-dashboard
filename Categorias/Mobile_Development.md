@@ -1,8 +1,8 @@
 # 📂 Mobile Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **87.1k**
-> Actualizado: `2026-08-16 05:17`
+> **5 proyectos** · ⭐ Mejor score: **0.50** · Estrellas totales: **59.8k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,7 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**ToolJet**](https://github.com/ToolJet/ToolJet) | **1.00** | 39.6k | `██████████` | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform… |
-| [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **0.90** | 47.5k | `██░░░░░░░░` | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/ |
+| [**termux-app**](https://github.com/termux/termux-app) | **0.50** | 55.1k | `░░░░░░░░░░` | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [**ubuntu-on-android**](https://github.com/RandomCoderOrg/ubuntu-on-android) | **0.45** | 1.5k | `░░░░░░░░░░` | Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is… |
+| [**DroidDesk**](https://github.com/orailnoor/DroidDesk) | **0.43** | 1.3k | `░░░░░░░░░░` | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR,… |
+| [**openclaw-android**](https://github.com/AidanPark/openclaw-android) | **0.35** | 1.5k | `░░░░░░░░░░` | Run OpenClaw on Android with a single command — no proot, no Linux |
+| [**ios-builder**](https://github.com/MobAI-App/ios-builder) | **0.25** | 455 | `░░░░░░░░░░` | Sin descripción |
 
 ---

@@ -4,8 +4,8 @@
     "name": "cathrynlavery/diagram-design",
     "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 17482,
-    "growth": 3646,
+    "stars": 18818,
+    "growth": 1607,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -22,8 +22,8 @@
     "name": "cactus-compute/needle",
     "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
     "url": "https://github.com/cactus-compute/needle",
-    "stars": 5689,
-    "growth": 662,
+    "stars": 6137,
+    "growth": 547,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -43,356 +43,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_megadose_holehe",
-    "name": "megadose/holehe",
-    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-    "url": "https://github.com/megadose/holehe",
-    "stars": 12897,
-    "growth": 427,
-    "score": 1.0,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "ebay",
-      "email",
-      "emails",
-      "information-gathering",
-      "instagram",
-      "open-source-intelligence",
-      "osint",
-      "osint-python",
-      "osint-tools",
-      "pypi",
-      "python",
-      "social-network",
-      "tellonym",
-      "trio",
-      "twitter"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_macro-inc_macro",
-    "name": "macro-inc/macro",
-    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-    "url": "https://github.com/macro-inc/macro",
-    "stars": 3079,
-    "growth": 436,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "all-in-one",
-      "crm",
-      "crm-system",
-      "email",
-      "linear",
-      "mcp",
-      "messaging",
-      "notes",
-      "notion",
-      "office",
-      "rust",
-      "slack",
-      "slack-alternative",
-      "startup",
-      "startup-tools",
-      "typescript",
-      "workspace"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_smicallef_spiderfoot",
-    "name": "smicallef/spiderfoot",
-    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-    "url": "https://github.com/smicallef/spiderfoot",
-    "stars": 20987,
-    "growth": 293,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "attacksurface",
-      "cti",
-      "cybersecurity",
-      "footprinting",
-      "hacking",
-      "information-gathering",
-      "information-security",
-      "infosec",
-      "intelligence-gathering",
-      "osint",
-      "osint-framework",
-      "osint-reconnaissance",
-      "osint-tool",
-      "pentesting",
-      "python",
-      "recon",
-      "security-tools",
-      "threat-intelligence",
-      "threatintel"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_citrolabs_ego-lite",
-    "name": "citrolabs/ego-lite",
-    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "stars": 10454,
-    "growth": 165,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-agent",
-      "automation",
-      "browser",
-      "browser-automation",
-      "claude-code",
-      "codex",
-      "hermes-agent",
-      "skills",
-      "skills-sh"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_holaboss-ai_holaOS",
-    "name": "holaboss-ai/holaOS",
-    "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-    "url": "https://github.com/holaboss-ai/holaOS",
-    "stars": 7371,
-    "growth": 769,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "agent-harness",
-      "agent-os",
-      "agentic",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "artificial-intelligence",
-      "claude-code",
-      "codex",
-      "electron",
-      "holaboss",
-      "holaos",
-      "llm",
-      "mcp",
-      "memory",
-      "model-context-protocol",
-      "runtime",
-      "typescript",
-      "workspace"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_github_spec-kit",
-    "name": "github/spec-kit",
-    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "url": "https://github.com/github/spec-kit",
-    "stars": 128607,
-    "growth": 1160,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_infiniflow_ragflow",
-    "name": "infiniflow/ragflow",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "url": "https://github.com/infiniflow/ragflow",
-    "stars": 88431,
-    "growth": 473,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent-harness",
-      "agentic-ai",
-      "agentic-retrieval",
-      "agentic-search",
-      "ai",
-      "ai-agents",
-      "context-engine",
-      "context-engineering",
-      "context-management",
-      "harness-engineering",
-      "knowledge-compilation",
-      "llm-apps",
-      "rag",
-      "retrieval-augmented-generation"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_semantica-agi_semantica",
-    "name": "semantica-agi/semantica",
-    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-    "url": "https://github.com/semantica-agi/semantica",
-    "stars": 7585,
-    "growth": 1181,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-memory",
-      "ai",
-      "ai-governance",
-      "ai-infrastructure",
-      "artificial-intelligence",
-      "context-engineering",
-      "context-graphs",
-      "data-engineering",
-      "decision-intelligence",
-      "developer-tools",
-      "explainable-ai",
-      "generative-ai",
-      "graph-rag",
-      "knowledge-graph",
-      "llm",
-      "ontology",
-      "provenance",
-      "python",
-      "reasoning",
-      "semantic-search"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_rustdesk_rustdesk",
-    "name": "rustdesk/rustdesk",
-    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-    "url": "https://github.com/rustdesk/rustdesk",
-    "stars": 120694,
-    "growth": 143,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "android",
-      "anydesk",
-      "dart",
-      "flatpak",
-      "flutter",
-      "flutter-apps",
-      "ios",
-      "linux",
-      "macos",
-      "p2p",
-      "rdp",
-      "remote-control",
-      "remote-desktop",
-      "rust",
-      "rust-lang",
-      "teamviewer",
-      "vnc",
-      "wayland",
-      "windows"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_OpenCut-app_OpenCut",
-    "name": "OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "stars": 83248,
-    "growth": 255,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "editor",
-      "oss",
-      "videoeditor"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_unslothai_unsloth",
     "name": "unslothai/unsloth",
     "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
     "url": "https://github.com/unslothai/unsloth",
-    "stars": 71574,
-    "growth": 501,
+    "stars": 72139,
+    "growth": 434,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -427,40 +83,70 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_lightningpixel_modly",
-    "name": "lightningpixel/modly",
-    "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-    "url": "https://github.com/lightningpixel/modly",
-    "stars": 6011,
-    "growth": 579,
-    "score": 0.9955,
+    "id": "github_trending_public-apis_public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "stars": 460411,
+    "growth": 2260,
+    "score": 1.0,
     "categories": [
-      "Mobile Development"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
+    "raw_topics": [
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
+      "open-source",
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_github_spec-kit",
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "url": "https://github.com/github/spec-kit",
+    "stars": 129274,
+    "growth": 892,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
     "tags": [
-      "nlp:mobile-development"
+      "nlp:python-backend"
     ],
     "raw_topics": [
-      "3d",
-      "ai-local",
-      "ai-tools",
-      "desktop-app",
-      "modly",
-      "open-source",
-      "self-hosted"
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_ToolJet_ToolJet",
     "name": "ToolJet/ToolJet",
     "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
     "url": "https://github.com/ToolJet/ToolJet",
-    "stars": 39157,
-    "growth": 132,
-    "score": 0.908,
+    "stars": 39614,
+    "growth": 544,
+    "score": 1.0,
     "categories": [
       "Mobile Development"
     ],
@@ -493,29 +179,183 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_deepseek-ai_awesome-deepseek-agent",
-    "name": "deepseek-ai/awesome-deepseek-agent",
-    "description": "",
-    "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-    "stars": 5766,
-    "growth": 222,
-    "score": 0.8145,
+    "id": "github_trending_citrolabs_ego-lite",
+    "name": "citrolabs/ego-lite",
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "stars": 11101,
+    "growth": 545,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
+    "language": "JavaScript",
     "tags": [
       "ai"
-    ]
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-agent",
+      "automation",
+      "browser",
+      "browser-automation",
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "skills",
+      "skills-sh"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_megadose_holehe",
+    "name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "url": "https://github.com/megadose/holehe",
+    "stars": 13164,
+    "growth": 382,
+    "score": 0.9847,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "ebay",
+      "email",
+      "emails",
+      "information-gathering",
+      "instagram",
+      "open-source-intelligence",
+      "osint",
+      "osint-python",
+      "osint-tools",
+      "pypi",
+      "python",
+      "social-network",
+      "tellonym",
+      "trio",
+      "twitter"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_MakazhanAlpamys_Soup",
+    "name": "MakazhanAlpamys/Soup",
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "stars": 1748,
+    "growth": 297,
+    "score": 0.9343,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "cli",
+      "consumer-gpu",
+      "dpo",
+      "fine-tuning",
+      "gguf",
+      "huggingface",
+      "llm",
+      "llmops",
+      "local-ai",
+      "local-llm",
+      "lora",
+      "low-vram",
+      "machine-learning",
+      "ollama",
+      "peft",
+      "python",
+      "pytorch",
+      "qlora",
+      "sft",
+      "transformers"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_HKUDS_CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "stars": 47450,
+    "growth": 118,
+    "score": 0.9,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cordiverse_cordis",
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "url": "https://github.com/cordiverse/cordis",
+    "stars": 4212,
+    "growth": 599,
+    "score": 0.8899,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "effect",
+      "framework",
+      "nodejs",
+      "plugin"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_altic-dev_FluidVoice",
+    "name": "altic-dev/FluidVoice",
+    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp",
+    "url": "https://github.com/altic-dev/FluidVoice",
+    "stars": 10373,
+    "growth": 104,
+    "score": 0.7981,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Swift",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "ai",
+      "dictation",
+      "ios",
+      "llama-cpp",
+      "macos",
+      "swift"
+    ],
+    "raw_license": "GPL-3.0"
   },
   {
     "id": "github_trending_cursor_plugins",
     "name": "cursor/plugins",
     "description": "Cursor plugin specification and official plugins",
     "url": "https://github.com/cursor/plugins",
-    "stars": 2836,
-    "growth": 41,
-    "score": 0.6192,
+    "stars": 2978,
+    "growth": 149,
+    "score": 0.7044,
     "categories": [
       "Otros"
     ],
