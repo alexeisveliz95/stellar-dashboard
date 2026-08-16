@@ -122,3 +122,6 @@
 | 2026-08-15 | **1** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +3646 | 17.5k | `1.00` |
 | 2026-08-15 | **2** | [semantica](https://github.com/semantica-agi/semantica) | +1181 | 7.6k | `1.00` |
 | 2026-08-15 | **3** | [spec-kit](https://github.com/github/spec-kit) | +1160 | 128.6k | `1.00` |
+| 2026-08-16 | **1** | [public-apis](https://github.com/public-apis/public-apis) | +2260 | 460.4k | `1.00` |
+| 2026-08-16 | **2** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +1607 | 18.8k | `1.00` |
+| 2026-08-16 | **3** | [spec-kit](https://github.com/github/spec-kit) | +892 | 129.3k | `1.00` |

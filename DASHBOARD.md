@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-15 06:47`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-16 05:17`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 17.5k | +3.6k | HTML |
-| 2 | [**semantica**](https://github.com/semantica-agi/semantica) | 7.6k | +1.2k | Python |
-| 3 | [**spec-kit**](https://github.com/github/spec-kit) | 128.6k | +1.2k | Python |
-| 4 | [**holaOS**](https://github.com/holaboss-ai/holaOS) | 7.4k | +769 | TypeScript |
-| 5 | [**needle**](https://github.com/cactus-compute/needle) | 5.7k | +662 | Python |
-| 6 | [**modly**](https://github.com/lightningpixel/modly) | 6.0k | +579 | TypeScript |
-| 7 | [**unsloth**](https://github.com/unslothai/unsloth) | 71.6k | +501 | Python |
-| 8 | [**ragflow**](https://github.com/infiniflow/ragflow) | 88.4k | +473 | Go |
-| 9 | [**macro**](https://github.com/macro-inc/macro) | 3.1k | +436 | Rust |
-| 10 | [**holehe**](https://github.com/megadose/holehe) | 12.9k | +427 | Python |
+| 1 | [**public-apis**](https://github.com/public-apis/public-apis) | 460.4k | +2.3k | Python |
+| 2 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 18.8k | +1.6k | HTML |
+| 3 | [**spec-kit**](https://github.com/github/spec-kit) | 129.3k | +892 | Python |
+| 4 | [**cordis**](https://github.com/cordiverse/cordis) | 4.2k | +599 | TypeScript |
+| 5 | [**needle**](https://github.com/cactus-compute/needle) | 6.1k | +547 | Python |
+| 6 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | 11.1k | +545 | JavaScript |
+| 7 | [**ToolJet**](https://github.com/ToolJet/ToolJet) | 39.6k | +544 | JavaScript |
+| 8 | [**unsloth**](https://github.com/unslothai/unsloth) | 72.1k | +434 | Python |
+| 9 | [**holehe**](https://github.com/megadose/holehe) | 13.2k | +382 | Python |
+| 10 | [**Soup**](https://github.com/MakazhanAlpamys/Soup) | 1.7k | +297 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 17.5k | Web Development |
-| 🥈 | [**needle**](https://github.com/cactus-compute/needle) | **1.00** | 5.7k | AI & Data Science |
-| 🥉 | [**holehe**](https://github.com/megadose/holehe) | **1.00** | 12.9k | PlayStation Homebrew & Linux |
-| 4 | [**macro**](https://github.com/macro-inc/macro) | **1.00** | 3.1k | AI & Data Science |
-| 5 | [**spiderfoot**](https://github.com/smicallef/spiderfoot) | **1.00** | 21.0k | Cybersecurity & Hacking |
-| 6 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | **1.00** | 10.5k | AI & Data Science |
-| 7 | [**holaOS**](https://github.com/holaboss-ai/holaOS) | **1.00** | 7.4k | AI & Data Science |
-| 8 | [**spec-kit**](https://github.com/github/spec-kit) | **1.00** | 128.6k | Python & Backend |
-| 9 | [**ragflow**](https://github.com/infiniflow/ragflow) | **1.00** | 88.4k | AI & Data Science |
-| 10 | [**semantica**](https://github.com/semantica-agi/semantica) | **1.00** | 7.6k | AI & Data Science |
+| 🥇 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 18.8k | Web Development |
+| 🥈 | [**needle**](https://github.com/cactus-compute/needle) | **1.00** | 6.1k | AI & Data Science |
+| 🥉 | [**unsloth**](https://github.com/unslothai/unsloth) | **1.00** | 72.1k | AI & Data Science |
+| 4 | [**public-apis**](https://github.com/public-apis/public-apis) | **1.00** | 460.4k | Otros |
+| 5 | [**spec-kit**](https://github.com/github/spec-kit) | **1.00** | 129.3k | Python & Backend |
+| 6 | [**ToolJet**](https://github.com/ToolJet/ToolJet) | **1.00** | 39.6k | Mobile Development |
+| 7 | [**ego-lite**](https://github.com/citrolabs/ego-lite) | **1.00** | 11.1k | AI & Data Science |
+| 8 | [**holehe**](https://github.com/megadose/holehe) | **0.98** | 13.2k | PlayStation Homebrew & Linux |
+| 9 | [**Soup**](https://github.com/MakazhanAlpamys/Soup) | **0.93** | 1.7k | AI & Data Science |
+| 10 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **0.90** | 47.5k | Mobile Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.98** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
