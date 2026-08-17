@@ -125,3 +125,6 @@
 | 2026-08-16 | **1** | [public-apis](https://github.com/public-apis/public-apis) | +2260 | 460.4k | `1.00` |
 | 2026-08-16 | **2** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +1607 | 18.8k | `1.00` |
 | 2026-08-16 | **3** | [spec-kit](https://github.com/github/spec-kit) | +892 | 129.3k | `1.00` |
+| 2026-08-17 | **1** | [public-apis](https://github.com/public-apis/public-apis) | +1588 | 462.2k | `1.00` |
+| 2026-08-17 | **2** | [cordis](https://github.com/cordiverse/cordis) | +720 | 5.0k | `0.91` |
+| 2026-08-17 | **3** | [unsloth](https://github.com/unslothai/unsloth) | +572 | 72.8k | `1.00` |
