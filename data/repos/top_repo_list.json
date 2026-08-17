@@ -1,54 +1,11 @@
 [
   {
-    "id": "github_trending_cathrynlavery_diagram-design",
-    "name": "cathrynlavery/diagram-design",
-    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 18818,
-    "growth": 1607,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_cactus-compute_needle",
-    "name": "cactus-compute/needle",
-    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-    "url": "https://github.com/cactus-compute/needle",
-    "stars": 6137,
-    "growth": 547,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "cactus",
-      "gemini",
-      "gemma",
-      "llm",
-      "on-device-ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_unslothai_unsloth",
     "name": "unslothai/unsloth",
     "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
     "url": "https://github.com/unslothai/unsloth",
-    "stars": 72139,
-    "growth": 434,
+    "stars": 72773,
+    "growth": 572,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -87,8 +44,8 @@
     "name": "public-apis/public-apis",
     "description": "A collective list of free APIs",
     "url": "https://github.com/public-apis/public-apis",
-    "stars": 460411,
-    "growth": 2260,
+    "stars": 462153,
+    "growth": 1588,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -113,39 +70,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_github_spec-kit",
-    "name": "github/spec-kit",
-    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "url": "https://github.com/github/spec-kit",
-    "stars": 129274,
-    "growth": 892,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_ToolJet_ToolJet",
     "name": "ToolJet/ToolJet",
     "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
     "url": "https://github.com/ToolJet/ToolJet",
-    "stars": 39614,
-    "growth": 544,
+    "stars": 40183,
+    "growth": 452,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -179,78 +109,13 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_citrolabs_ego-lite",
-    "name": "citrolabs/ego-lite",
-    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "stars": 11101,
-    "growth": 545,
+    "id": "github_trending_cactus-compute_needle",
+    "name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "url": "https://github.com/cactus-compute/needle",
+    "stars": 6755,
+    "growth": 443,
     "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-agent",
-      "automation",
-      "browser",
-      "browser-automation",
-      "claude-code",
-      "codex",
-      "hermes-agent",
-      "skills",
-      "skills-sh"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_megadose_holehe",
-    "name": "megadose/holehe",
-    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-    "url": "https://github.com/megadose/holehe",
-    "stars": 13164,
-    "growth": 382,
-    "score": 0.9847,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "ebay",
-      "email",
-      "emails",
-      "information-gathering",
-      "instagram",
-      "open-source-intelligence",
-      "osint",
-      "osint-python",
-      "osint-tools",
-      "pypi",
-      "python",
-      "social-network",
-      "tellonym",
-      "trio",
-      "twitter"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_MakazhanAlpamys_Soup",
-    "name": "MakazhanAlpamys/Soup",
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "url": "https://github.com/MakazhanAlpamys/Soup",
-    "stars": 1748,
-    "growth": 297,
-    "score": 0.9343,
     "categories": [
       "AI & Data Science"
     ],
@@ -260,55 +125,45 @@
       "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "cli",
-      "consumer-gpu",
-      "dpo",
-      "fine-tuning",
-      "gguf",
-      "huggingface",
+      "cactus",
+      "gemini",
+      "gemma",
       "llm",
-      "llmops",
-      "local-ai",
-      "local-llm",
-      "lora",
-      "low-vram",
-      "machine-learning",
-      "ollama",
-      "peft",
-      "python",
-      "pytorch",
-      "qlora",
-      "sft",
-      "transformers"
+      "on-device-ai"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_HKUDS_CLI-Anything",
-    "name": "HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "stars": 47450,
-    "growth": 118,
-    "score": 0.9,
+    "id": "github_trending_OpenCut-app_OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "stars": 84070,
+    "growth": 150,
+    "score": 0.9623,
     "categories": [
       "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "TypeScript",
     "tags": [
       "nlp:mobile-development"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ],
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_cordiverse_cordis",
     "name": "cordiverse/cordis",
     "description": "Meta-Framework of Spatiotemporal Composability",
     "url": "https://github.com/cordiverse/cordis",
-    "stars": 4212,
-    "growth": 599,
-    "score": 0.8899,
+    "stars": 5048,
+    "growth": 720,
+    "score": 0.9136,
     "categories": [
       "Otros"
     ],
@@ -323,43 +178,21 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_altic-dev_FluidVoice",
-    "name": "altic-dev/FluidVoice",
-    "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp",
-    "url": "https://github.com/altic-dev/FluidVoice",
-    "stars": 10373,
-    "growth": 104,
-    "score": 0.7981,
+    "id": "github_trending_basecamp_omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "url": "https://github.com/basecamp/omarchy",
+    "stars": 25565,
+    "growth": 270,
+    "score": 0.8544,
     "categories": [
       "PlayStation Homebrew & Linux"
     ],
     "source": "github_trending",
-    "language": "Swift",
+    "language": "Shell",
     "tags": [
       "nlp:playstation-homebrew-linux"
     ],
-    "raw_topics": [
-      "ai",
-      "dictation",
-      "ios",
-      "llama-cpp",
-      "macos",
-      "swift"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_cursor_plugins",
-    "name": "cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "url": "https://github.com/cursor/plugins",
-    "stars": 2978,
-    "growth": 149,
-    "score": 0.7044,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript"
+    "raw_license": "MIT"
   }
 ]
