@@ -128,3 +128,6 @@
 | 2026-08-17 | **1** | [public-apis](https://github.com/public-apis/public-apis) | +1588 | 462.2k | `1.00` |
 | 2026-08-17 | **2** | [cordis](https://github.com/cordiverse/cordis) | +720 | 5.0k | `0.91` |
 | 2026-08-17 | **3** | [unsloth](https://github.com/unslothai/unsloth) | +572 | 72.8k | `1.00` |
+| 2026-08-18 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +1189 | 106.6k | `1.00` |
+| 2026-08-18 | **2** | [cordis](https://github.com/cordiverse/cordis) | +957 | 5.8k | `0.93` |
+| 2026-08-18 | **3** | [strix](https://github.com/usestrix/strix) | +598 | 54.4k | `1.00` |
