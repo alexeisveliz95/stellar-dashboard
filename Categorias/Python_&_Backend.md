@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.75** · Estrellas totales: **19.1k**
-> Actualizado: `2026-08-18 05:22`
+> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**omlx**](https://github.com/jundot/omlx) | **0.75** | 19.1k | `██████████` | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from… |
+| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
 
 ---
