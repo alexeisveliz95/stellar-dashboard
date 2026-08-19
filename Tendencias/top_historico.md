@@ -131,3 +131,6 @@
 | 2026-08-18 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +1189 | 106.6k | `1.00` |
 | 2026-08-18 | **2** | [cordis](https://github.com/cordiverse/cordis) | +957 | 5.8k | `0.93` |
 | 2026-08-18 | **3** | [strix](https://github.com/usestrix/strix) | +598 | 54.4k | `1.00` |
+| 2026-08-19 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2304 | 108.9k | `1.00` |
+| 2026-08-19 | **2** | [public-apis](https://github.com/public-apis/public-apis) | +1005 | 464.9k | `1.00` |
+| 2026-08-19 | **3** | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | +730 | 29.3k | `1.00` |

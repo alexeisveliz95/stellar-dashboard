@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-18 06:53`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-19 05:21`
+> 📦 **21** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | 106.6k | +1.2k | Python |
-| 2 | [**cordis**](https://github.com/cordiverse/cordis) | 5.8k | +957 | TypeScript |
-| 3 | [**strix**](https://github.com/usestrix/strix) | 54.4k | +598 | Python |
-| 4 | [**Motrix**](https://github.com/agalwood/Motrix) | 53.2k | +344 | TypeScript |
-| 5 | [**career-ops**](https://github.com/santifer/career-ops) | 64.9k | +218 | JavaScript |
-| 6 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | 2.3k | +207 | Rust |
-| 7 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 28.6k | +198 | Python |
-| 8 | [**llmfit**](https://github.com/AlexsJones/llmfit) | 32.4k | +198 | Rust |
-| 9 | [**immich**](https://github.com/immich-app/immich) | 111.3k | +175 | TypeScript |
-| 10 | [**nautilus_trader**](https://github.com/nautechsystems/nautilus_trader) | 26.1k | +120 | Rust |
+| 1 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | 108.9k | +2.3k | Python |
+| 2 | [**public-apis**](https://github.com/public-apis/public-apis) | 464.9k | +1.0k | Python |
+| 3 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 29.3k | +730 | Python |
+| 4 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | 2.9k | +648 | Rust |
+| 5 | [**Motrix**](https://github.com/agalwood/Motrix) | 53.8k | +609 | TypeScript |
+| 6 | [**genlayer-project-boilerplate**](https://github.com/genlayerlabs/genlayer-project-boilerplate) | 16.0k | +535 | TypeScript |
+| 7 | [**omlx**](https://github.com/jundot/omlx) | 19.5k | +370 | Python |
+| 8 | [**omarchy**](https://github.com/basecamp/omarchy) | 26.5k | +356 | Shell |
+| 9 | [**munder-difflin**](https://github.com/chaitanyagiri/munder-difflin) | 2.2k | +306 | TypeScript |
+| 10 | [**OpenViking**](https://github.com/volcengine/OpenViking) | 29.6k | +213 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 106.6k | AI & Data Science |
-| 🥈 | [**strix**](https://github.com/usestrix/strix) | **1.00** | 54.4k | Cybersecurity & Hacking |
-| 🥉 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | **1.00** | 28.6k | Cybersecurity & Hacking |
-| 4 | [**career-ops**](https://github.com/santifer/career-ops) | **1.00** | 64.9k | AI & Data Science |
-| 5 | [**immich**](https://github.com/immich-app/immich) | **1.00** | 111.3k | Mobile Development |
-| 6 | [**Motrix**](https://github.com/agalwood/Motrix) | **0.99** | 53.2k | Otros |
-| 7 | [**cordis**](https://github.com/cordiverse/cordis) | **0.93** | 5.8k | Otros |
-| 8 | [**llmfit**](https://github.com/AlexsJones/llmfit) | **0.89** | 32.4k | PlayStation Homebrew & Linux |
-| 9 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | **0.87** | 2.3k | AI & Data Science |
-| 10 | [**nautilus_trader**](https://github.com/nautechsystems/nautilus_trader) | **0.82** | 26.1k | Mobile Development |
+| 🥇 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 108.9k | AI & Data Science |
+| 🥈 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | **1.00** | 2.9k | AI & Data Science |
+| 🥉 | [**OpenViking**](https://github.com/volcengine/OpenViking) | **1.00** | 29.6k | AI & Data Science |
+| 4 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | **1.00** | 29.3k | Cybersecurity & Hacking |
+| 5 | [**public-apis**](https://github.com/public-apis/public-apis) | **1.00** | 464.9k | Otros |
+| 6 | [**Motrix**](https://github.com/agalwood/Motrix) | **1.00** | 53.8k | Otros |
+| 7 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **0.98** | 84.9k | Mobile Development |
+| 8 | [**omarchy**](https://github.com/basecamp/omarchy) | **0.92** | 26.5k | PlayStation Homebrew & Linux |
+| 9 | [**omlx**](https://github.com/jundot/omlx) | **0.92** | 19.5k | Python & Backend |
+| 10 | [**genlayer-project-boilerplate**](https://github.com/genlayerlabs/genlayer-project-boilerplate) | **0.91** | 16.0k | Otros |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.98** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.92** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.92** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
