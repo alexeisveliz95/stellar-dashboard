@@ -4,8 +4,8 @@
     "name": "harry0703/MoneyPrinterTurbo",
     "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "stars": 106620,
-    "growth": 1189,
+    "stars": 108942,
+    "growth": 2304,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -34,52 +34,56 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_usestrix_strix",
-    "name": "usestrix/strix",
-    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-    "url": "https://github.com/usestrix/strix",
-    "stars": 54443,
-    "growth": 598,
+    "id": "github_trending_akitaonrails_ai-memory",
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "stars": 2871,
+    "growth": 648,
     "score": 1.0,
     "categories": [
-      "Cybersecurity & Hacking"
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_volcengine_OpenViking",
+    "name": "volcengine/OpenViking",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "url": "https://github.com/volcengine/OpenViking",
+    "stars": 29581,
+    "growth": 213,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:cybersecurity-hacking"
+      "ai"
     ],
     "raw_topics": [
-      "agents",
-      "ai-hacking",
-      "ai-penetration-testing",
-      "ai-pentesting",
-      "ai-security",
-      "artificial-intelligence",
-      "bug-bounty",
-      "code-quality",
-      "ctf-tools",
-      "cybersecurity",
-      "cybersecurity-tools",
-      "ethical-hacking",
-      "hacking",
-      "llm-security",
-      "offensive-security",
-      "penetration-testing",
-      "pentesting-tools",
-      "red-teaming",
-      "security",
-      "security-automation"
+      "agent-memory",
+      "agent-plugins",
+      "agentic-rag",
+      "context-database",
+      "dsh-plugin",
+      "self-evolving"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "AGPL-3.0"
   },
   {
     "id": "github_trending_mukul975_Anthropic-Cybersecurity-Skills",
     "name": "mukul975/Anthropic-Cybersecurity-Skills",
     "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "stars": 28583,
-    "growth": 198,
+    "stars": 29339,
+    "growth": 730,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -114,89 +118,43 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_santifer_career-ops",
-    "name": "santifer/career-ops",
-    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-    "url": "https://github.com/santifer/career-ops",
-    "stars": 64920,
-    "growth": 218,
+    "id": "github_trending_public-apis_public-apis",
+    "name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "stars": 464869,
+    "growth": 1005,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
+    "language": "Python",
     "raw_topics": [
-      "ai",
-      "ai-agent",
-      "anthropic",
-      "ats",
-      "automation",
-      "beginner-friendly",
-      "career",
-      "careerops",
-      "claude",
-      "claude-code",
-      "cli",
-      "first-timers-only",
-      "golang",
-      "good-first-issue",
-      "interview-prep",
-      "job-application",
-      "job-hunting",
-      "job-search",
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
       "open-source",
-      "resume"
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
     ],
     "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_immich-app_immich",
-    "name": "immich-app/immich",
-    "description": "High performance self-hosted photo and video management solution.",
-    "url": "https://github.com/immich-app/immich",
-    "stars": 111304,
-    "growth": 175,
-    "score": 0.9976,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "backup-tool",
-      "flutter",
-      "google-photos",
-      "google-photos-alternative",
-      "javascript",
-      "mobile-app",
-      "nestjs",
-      "nodejs",
-      "photo-gallery",
-      "photos",
-      "photos-management",
-      "self-hosted",
-      "svelte",
-      "sveltekit",
-      "typescript",
-      "videos"
-    ],
-    "raw_license": "AGPL-3.0"
   },
   {
     "id": "github_trending_agalwood_Motrix",
     "name": "agalwood/Motrix",
     "description": "A full-featured download manager.",
     "url": "https://github.com/agalwood/Motrix",
-    "stars": 53220,
-    "growth": 344,
-    "score": 0.9934,
+    "stars": 53809,
+    "growth": 609,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -220,111 +178,54 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_cordiverse_cordis",
-    "name": "cordiverse/cordis",
-    "description": "Meta-Framework of Spatiotemporal Composability",
-    "url": "https://github.com/cordiverse/cordis",
-    "stars": 5763,
-    "growth": 957,
-    "score": 0.927,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "effect",
-      "framework",
-      "nodejs",
-      "plugin"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_AlexsJones_llmfit",
-    "name": "AlexsJones/llmfit",
-    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-    "url": "https://github.com/AlexsJones/llmfit",
-    "stars": 32424,
-    "growth": 198,
-    "score": 0.8931,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "gguf",
-      "llm",
-      "localai",
-      "mlx",
-      "skill",
-      "unsloth"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_akitaonrails_ai-memory",
-    "name": "akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "stars": 2252,
-    "growth": 207,
-    "score": 0.8677,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_nautechsystems_nautilus_trader",
-    "name": "nautechsystems/nautilus_trader",
-    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "stars": 26051,
-    "growth": 120,
-    "score": 0.8194,
+    "id": "github_trending_OpenCut-app_OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "stars": 84916,
+    "growth": 192,
+    "score": 0.9762,
     "categories": [
       "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "Rust",
+    "language": "TypeScript",
     "tags": [
       "nlp:mobile-development"
     ],
     "raw_topics": [
-      "algorithmic-trading-engine",
-      "artificial-intelligence",
-      "crypto-trading",
-      "equity-trading",
-      "forex",
-      "futures-trading",
-      "machine-learning",
-      "options-trading",
-      "python",
-      "rust",
-      "sports-betting",
-      "trading",
-      "trading-platform"
+      "editor",
+      "oss",
+      "videoeditor"
     ],
-    "raw_license": "LGPL-3.0"
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_basecamp_omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "url": "https://github.com/basecamp/omarchy",
+    "stars": 26512,
+    "growth": 356,
+    "score": 0.919,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_jundot_omlx",
     "name": "jundot/omlx",
     "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
     "url": "https://github.com/jundot/omlx",
-    "stars": 19070,
-    "growth": 78,
-    "score": 0.7511,
+    "stars": 19498,
+    "growth": 370,
+    "score": 0.9164,
     "categories": [
       "Python & Backend"
     ],
@@ -342,5 +243,58 @@
       "openai-api"
     ],
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_genlayerlabs_genlayer-project-boilerplate",
+    "name": "genlayerlabs/genlayer-project-boilerplate",
+    "description": "",
+    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "stars": 16031,
+    "growth": 535,
+    "score": 0.9075,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NawfalMotii79_PLFM_RADAR",
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "stars": 24388,
+    "growth": 192,
+    "score": 0.8316,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "PLSQL",
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_chaitanyagiri_munder-difflin",
+    "name": "chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "stars": 2202,
+    "growth": 306,
+    "score": 0.8184,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "agents",
+      "claude-code",
+      "free",
+      "harness",
+      "harness-engineering",
+      "memory"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]
