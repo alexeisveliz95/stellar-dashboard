@@ -134,3 +134,6 @@
 | 2026-08-19 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2304 | 108.9k | `1.00` |
 | 2026-08-19 | **2** | [public-apis](https://github.com/public-apis/public-apis) | +1005 | 464.9k | `1.00` |
 | 2026-08-19 | **3** | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | +730 | 29.3k | `1.00` |
+| 2026-08-20 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2221 | 111.4k | `1.00` |
+| 2026-08-20 | **2** | [skills](https://github.com/mattpocock/skills) | +1894 | 224.2k | `1.00` |
+| 2026-08-20 | **3** | [node](https://github.com/amadeusprotocol/node) | +1397 | 4.7k | `0.80` |

@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-19 06:53`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-20 05:23`
+> 📦 **24** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | 108.9k | +2.3k | Python |
-| 2 | [**public-apis**](https://github.com/public-apis/public-apis) | 464.9k | +1.0k | Python |
-| 3 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 29.3k | +730 | Python |
-| 4 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | 2.9k | +648 | Rust |
-| 5 | [**Motrix**](https://github.com/agalwood/Motrix) | 53.8k | +609 | TypeScript |
-| 6 | [**genlayer-project-boilerplate**](https://github.com/genlayerlabs/genlayer-project-boilerplate) | 16.0k | +535 | TypeScript |
-| 7 | [**omlx**](https://github.com/jundot/omlx) | 19.5k | +370 | Python |
-| 8 | [**omarchy**](https://github.com/basecamp/omarchy) | 26.5k | +356 | Shell |
-| 9 | [**munder-difflin**](https://github.com/chaitanyagiri/munder-difflin) | 2.2k | +306 | TypeScript |
-| 10 | [**OpenViking**](https://github.com/volcengine/OpenViking) | 29.6k | +213 | Python |
+| 1 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | 111.4k | +2.2k | Python |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 224.2k | +1.9k | Shell |
+| 3 | [**node**](https://github.com/amadeusprotocol/node) | 4.7k | +1.4k | Rust |
+| 4 | [**OpenViking**](https://github.com/volcengine/OpenViking) | 30.4k | +804 | Python |
+| 5 | [**munder-difflin**](https://github.com/chaitanyagiri/munder-difflin) | 2.8k | +795 | TypeScript |
+| 6 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 30.0k | +766 | Python |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | 274.4k | +557 | Shell |
+| 8 | [**omlx**](https://github.com/jundot/omlx) | 19.9k | +472 | Python |
+| 9 | [**genlayer-project-boilerplate**](https://github.com/genlayerlabs/genlayer-project-boilerplate) | 16.2k | +430 | TypeScript |
+| 10 | [**career-ops**](https://github.com/santifer/career-ops) | 66.0k | +198 | JavaScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 108.9k | AI & Data Science |
-| 🥈 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | **1.00** | 2.9k | AI & Data Science |
-| 🥉 | [**OpenViking**](https://github.com/volcengine/OpenViking) | **1.00** | 29.6k | AI & Data Science |
-| 4 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | **1.00** | 29.3k | Cybersecurity & Hacking |
-| 5 | [**public-apis**](https://github.com/public-apis/public-apis) | **1.00** | 464.9k | Otros |
-| 6 | [**Motrix**](https://github.com/agalwood/Motrix) | **1.00** | 53.8k | Otros |
-| 7 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **0.98** | 84.9k | Mobile Development |
-| 8 | [**omarchy**](https://github.com/basecamp/omarchy) | **0.92** | 26.5k | PlayStation Homebrew & Linux |
-| 9 | [**omlx**](https://github.com/jundot/omlx) | **0.92** | 19.5k | Python & Backend |
-| 10 | [**genlayer-project-boilerplate**](https://github.com/genlayerlabs/genlayer-project-boilerplate) | **0.91** | 16.0k | Otros |
+| 🥇 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 111.4k | AI & Data Science |
+| 🥈 | [**OpenViking**](https://github.com/volcengine/OpenViking) | **1.00** | 30.4k | AI & Data Science |
+| 🥉 | [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | **1.00** | 30.0k | Cybersecurity & Hacking |
+| 4 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 224.2k | Otros |
+| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 274.4k | Python & Backend |
+| 6 | [**career-ops**](https://github.com/santifer/career-ops) | **1.00** | 66.0k | AI & Data Science |
+| 7 | [**omlx**](https://github.com/jundot/omlx) | **0.98** | 19.9k | Python & Backend |
+| 8 | [**immich**](https://github.com/immich-app/immich) | **0.93** | 112.0k | Mobile Development |
+| 9 | [**munder-difflin**](https://github.com/chaitanyagiri/munder-difflin) | **0.92** | 2.8k | Otros |
+| 10 | [**genlayer-project-boilerplate**](https://github.com/genlayerlabs/genlayer-project-boilerplate) | **0.84** | 16.2k | Otros |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **0.93** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 3 | **1.00** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
