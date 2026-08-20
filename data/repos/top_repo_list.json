@@ -4,8 +4,8 @@
     "name": "harry0703/MoneyPrinterTurbo",
     "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "stars": 108942,
-    "growth": 2304,
+    "stars": 111391,
+    "growth": 2221,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -34,30 +34,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_akitaonrails_ai-memory",
-    "name": "akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "stars": 2871,
-    "growth": 648,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_volcengine_OpenViking",
     "name": "volcengine/OpenViking",
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "url": "https://github.com/volcengine/OpenViking",
-    "stars": 29581,
-    "growth": 213,
+    "stars": 30437,
+    "growth": 804,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -82,8 +64,8 @@
     "name": "mukul975/Anthropic-Cybersecurity-Skills",
     "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "stars": 29339,
-    "growth": 730,
+    "stars": 30000,
+    "growth": 766,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -118,103 +100,85 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_public-apis_public-apis",
-    "name": "public-apis/public-apis",
-    "description": "A collective list of free APIs",
-    "url": "https://github.com/public-apis/public-apis",
-    "stars": 464869,
-    "growth": 1005,
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 224162,
+    "growth": 1894,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "api",
-      "apis",
-      "dataset",
-      "development",
-      "free",
-      "list",
-      "lists",
-      "open-source",
-      "public",
-      "public-api",
-      "public-apis",
-      "resources",
-      "software"
-    ],
+    "language": "Shell",
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_agalwood_Motrix",
-    "name": "agalwood/Motrix",
-    "description": "A full-featured download manager.",
-    "url": "https://github.com/agalwood/Motrix",
-    "stars": 53809,
-    "growth": 609,
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 274418,
+    "growth": 557,
     "score": 1.0,
     "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "aria2",
-      "bittorrent",
-      "bt",
-      "download",
-      "download-manager",
-      "electron",
-      "linux",
-      "mac",
-      "macos",
-      "magnet",
-      "motrix",
-      "torrent",
-      "windows"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_OpenCut-app_OpenCut",
-    "name": "OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "stars": 84916,
-    "growth": 192,
-    "score": 0.9762,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "editor",
-      "oss",
-      "videoeditor"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_basecamp_omarchy",
-    "name": "basecamp/omarchy",
-    "description": "Beautiful, Modern & Opinionated Linux",
-    "url": "https://github.com/basecamp/omarchy",
-    "stars": 26512,
-    "growth": 356,
-    "score": 0.919,
-    "categories": [
-      "PlayStation Homebrew & Linux"
+      "Python & Backend"
     ],
     "source": "github_trending",
     "language": "Shell",
     "tags": [
-      "nlp:playstation-homebrew-linux"
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_santifer_career-ops",
+    "name": "santifer/career-ops",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "url": "https://github.com/santifer/career-ops",
+    "stars": 65956,
+    "growth": 198,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "ats",
+      "automation",
+      "beginner-friendly",
+      "career",
+      "careerops",
+      "claude",
+      "claude-code",
+      "cli",
+      "first-timers-only",
+      "golang",
+      "good-first-issue",
+      "interview-prep",
+      "job-application",
+      "job-hunting",
+      "job-search",
+      "open-source",
+      "resume"
     ],
     "raw_license": "MIT"
   },
@@ -223,9 +187,9 @@
     "name": "jundot/omlx",
     "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
     "url": "https://github.com/jundot/omlx",
-    "stars": 19498,
-    "growth": 370,
-    "score": 0.9164,
+    "stars": 19891,
+    "growth": 472,
+    "score": 0.9832,
     "categories": [
       "Python & Backend"
     ],
@@ -245,43 +209,49 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_genlayerlabs_genlayer-project-boilerplate",
-    "name": "genlayerlabs/genlayer-project-boilerplate",
-    "description": "",
-    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
-    "stars": 16031,
-    "growth": 535,
-    "score": 0.9075,
+    "id": "github_trending_immich-app_immich",
+    "name": "immich-app/immich",
+    "description": "High performance self-hosted photo and video management solution.",
+    "url": "https://github.com/immich-app/immich",
+    "stars": 111983,
+    "growth": 128,
+    "score": 0.9279,
     "categories": [
-      "Otros"
+      "Mobile Development"
     ],
     "source": "github_trending",
     "language": "TypeScript",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_NawfalMotii79_PLFM_RADAR",
-    "name": "NawfalMotii79/PLFM_RADAR",
-    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-    "stars": 24388,
-    "growth": 192,
-    "score": 0.8316,
-    "categories": [
-      "Otros"
+    "tags": [
+      "nlp:mobile-development"
     ],
-    "source": "github_trending",
-    "language": "PLSQL",
-    "raw_license": "NOASSERTION"
+    "raw_topics": [
+      "backup-tool",
+      "flutter",
+      "google-photos",
+      "google-photos-alternative",
+      "javascript",
+      "mobile-app",
+      "nestjs",
+      "nodejs",
+      "photo-gallery",
+      "photos",
+      "photos-management",
+      "self-hosted",
+      "svelte",
+      "sveltekit",
+      "typescript",
+      "videos"
+    ],
+    "raw_license": "AGPL-3.0"
   },
   {
     "id": "github_trending_chaitanyagiri_munder-difflin",
     "name": "chaitanyagiri/munder-difflin",
     "description": "local multi-agent harness",
     "url": "https://github.com/chaitanyagiri/munder-difflin",
-    "stars": 2202,
-    "growth": 306,
-    "score": 0.8184,
+    "stars": 2796,
+    "growth": 795,
+    "score": 0.9244,
     "categories": [
       "Otros"
     ],
@@ -296,5 +266,94 @@
       "memory"
     ],
     "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_genlayerlabs_genlayer-project-boilerplate",
+    "name": "genlayerlabs/genlayer-project-boilerplate",
+    "description": "",
+    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "stars": 16247,
+    "growth": 430,
+    "score": 0.8393,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_nautechsystems_nautilus_trader",
+    "name": "nautechsystems/nautilus_trader",
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "stars": 26532,
+    "growth": 80,
+    "score": 0.8287,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "algorithmic-trading-engine",
+      "artificial-intelligence",
+      "crypto-trading",
+      "equity-trading",
+      "forex",
+      "futures-trading",
+      "machine-learning",
+      "options-trading",
+      "python",
+      "rust",
+      "sports-betting",
+      "trading",
+      "trading-platform"
+    ],
+    "raw_license": "LGPL-3.0"
+  },
+  {
+    "id": "github_trending_amadeusprotocol_node",
+    "name": "amadeusprotocol/node",
+    "description": "",
+    "url": "https://github.com/amadeusprotocol/node",
+    "stars": 4733,
+    "growth": 1397,
+    "score": 0.7983,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:python-backend"
+    ]
+  },
+  {
+    "id": "github_trending_marceloprates_prettymaps",
+    "name": "marceloprates/prettymaps",
+    "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+    "url": "https://github.com/marceloprates/prettymaps",
+    "stars": 13271,
+    "growth": 63,
+    "score": 0.6811,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "cartography",
+      "generative-art",
+      "jupyter-notebook",
+      "maps",
+      "matplotlib",
+      "openstreetmap",
+      "python"
+    ],
+    "raw_license": "AGPL-3.0"
   }
 ]
