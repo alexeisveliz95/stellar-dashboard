@@ -137,3 +137,6 @@
 | 2026-08-20 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2221 | 111.4k | `1.00` |
 | 2026-08-20 | **2** | [skills](https://github.com/mattpocock/skills) | +1894 | 224.2k | `1.00` |
 | 2026-08-20 | **3** | [node](https://github.com/amadeusprotocol/node) | +1397 | 4.7k | `0.80` |
+| 2026-08-21 | **1** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +2761 | 113.2k | `1.00` |
+| 2026-08-21 | **2** | [skills](https://github.com/mattpocock/skills) | +2192 | 227.1k | `1.00` |
+| 2026-08-21 | **3** | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1545 | 12.1k | `0.96` |
