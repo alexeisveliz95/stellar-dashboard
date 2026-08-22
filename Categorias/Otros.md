@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **371.3k**
-> Actualizado: `2026-08-22 05:17`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 229.9k | `█░░░░░░░░░` | Skills for Real Engineers. Straight from my .agents directory. |
-| [**google-timeline-visualizer**](https://github.com/mahlernim/google-timeline-visualizer) | **0.93** | 2.3k | `██████████` | Visualize your year in travel using your Google Location History (Timeline) data |
-| [**protobuf**](https://github.com/protocolbuffers/protobuf) | **0.84** | 71.8k | `█░░░░░░░░░` | Protocol Buffers - Google's data interchange format |
-| [**plugins**](https://github.com/cursor/plugins) | **0.83** | 4.5k | `██░░░░░░░░` | Cursor plugin specification and official plugins |
-| [**Ghost**](https://github.com/TryGhost/Ghost) | **0.80** | 54.9k | `█░░░░░░░░░` | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
-| [**OBLITERATUS**](https://github.com/elder-plinius/OBLITERATUS) | **0.71** | 7.8k | `█░░░░░░░░░` | OBLITERATE THE CHAINS THAT BIND YOU |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
