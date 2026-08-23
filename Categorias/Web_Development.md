@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **0.91** · Estrellas totales: **149.2k**
-> Actualizado: `2026-08-23 05:20`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**posthog**](https://github.com/PostHog/posthog) | **0.91** | 38.7k | `██████████` | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI… |
-| [**TypeScript**](https://github.com/microsoft/TypeScript) | **0.84** | 110.6k | `█░░░░░░░░░` | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
