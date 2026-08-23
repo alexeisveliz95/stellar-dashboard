@@ -143,3 +143,6 @@
 | 2026-08-22 | **1** | [skills](https://github.com/mattpocock/skills) | +3362 | 229.9k | `1.00` |
 | 2026-08-22 | **2** | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1380 | 13.1k | `0.93` |
 | 2026-08-22 | **3** | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | +1201 | 114.1k | `1.00` |
+| 2026-08-23 | **1** | [skills](https://github.com/mattpocock/skills) | +2683 | 232.4k | `1.00` |
+| 2026-08-23 | **2** | [codex](https://github.com/openai/codex) | +1544 | 113.9k | `1.00` |
+| 2026-08-23 | **3** | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | +959 | 14.1k | `0.91` |

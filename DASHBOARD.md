@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-22 06:49`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-23 05:20`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**skills**](https://github.com/mattpocock/skills) | 229.9k | +3.4k | Shell |
-| 2 | [**OpenLogi**](https://github.com/AprilNEA/OpenLogi) | 13.1k | +1.4k | Rust |
-| 3 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | 114.1k | +1.2k | Python |
-| 4 | [**google-timeline-visualizer**](https://github.com/mahlernim/google-timeline-visualizer) | 2.3k | +1.1k | Kotlin |
-| 5 | [**career-ops**](https://github.com/santifer/career-ops) | 67.5k | +921 | JavaScript |
-| 6 | [**modular**](https://github.com/modular/modular) | 28.7k | +913 | Mojo |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | 275.7k | +790 | Shell |
-| 8 | [**plugins**](https://github.com/cursor/plugins) | 4.5k | +388 | TypeScript |
-| 9 | [**ECC**](https://github.com/affaan-m/ECC) | 241.9k | +357 | JavaScript |
-| 10 | [**posthog**](https://github.com/PostHog/posthog) | 38.3k | +335 | Python |
+| 1 | [**skills**](https://github.com/mattpocock/skills) | 232.4k | +2.7k | Shell |
+| 2 | [**codex**](https://github.com/openai/codex) | 113.9k | +1.5k | Rust |
+| 3 | [**OpenLogi**](https://github.com/AprilNEA/OpenLogi) | 14.1k | +959 | Rust |
+| 4 | [**free-for-dev**](https://github.com/ripienaar/free-for-dev) | 134.0k | +829 | HTML |
+| 5 | [**superpowers**](https://github.com/obra/superpowers) | 276.3k | +592 | Shell |
+| 6 | [**google-timeline-visualizer**](https://github.com/mahlernim/google-timeline-visualizer) | 2.6k | +441 | Kotlin |
+| 7 | [**ECC**](https://github.com/affaan-m/ECC) | 242.2k | +411 | JavaScript |
+| 8 | [**modular**](https://github.com/modular/modular) | 28.9k | +395 | Mojo |
+| 9 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | 205.4k | +315 | — |
+| 10 | [**posthog**](https://github.com/PostHog/posthog) | 38.7k | +286 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 229.9k | Otros |
-| 🥈 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 114.1k | AI & Data Science |
-| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 275.7k | Python & Backend |
-| 4 | [**career-ops**](https://github.com/santifer/career-ops) | **1.00** | 67.5k | AI & Data Science |
-| 5 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 241.9k | Cybersecurity & Hacking |
-| 6 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 68.7k | AI & Data Science |
-| 7 | [**modular**](https://github.com/modular/modular) | **0.99** | 28.7k | Mobile Development |
-| 8 | [**posthog**](https://github.com/PostHog/posthog) | **0.97** | 38.3k | Web Development |
-| 9 | [**google-timeline-visualizer**](https://github.com/mahlernim/google-timeline-visualizer) | **0.93** | 2.3k | Otros |
-| 10 | [**OpenLogi**](https://github.com/AprilNEA/OpenLogi) | **0.93** | 13.1k | Mobile Development |
+| 🥇 | [**codex**](https://github.com/openai/codex) | **1.00** | 113.9k | AI & Data Science |
+| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 232.4k | Otros |
+| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 242.2k | Cybersecurity & Hacking |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 276.3k | Python & Backend |
+| 5 | [**n8n**](https://github.com/n8n-io/n8n) | **1.00** | 201.9k | Automation & DevOps |
+| 6 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 205.4k | AI & Data Science |
+| 7 | [**free-for-dev**](https://github.com/ripienaar/free-for-dev) | **1.00** | 134.0k | Automation & DevOps |
+| 8 | [**sub2api**](https://github.com/Wei-Shaw/sub2api) | **0.99** | 38.8k | AI & Data Science |
+| 9 | [**claude-code**](https://github.com/anthropics/claude-code) | **0.99** | 142.6k | AI & Data Science |
+| 10 | [**plane**](https://github.com/makeplane/plane) | **0.92** | 57.3k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **0.91** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.91** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
