@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-23 23:18`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-24 05:32`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**skills**](https://github.com/mattpocock/skills) | 232.4k | +2.7k | Shell |
-| 2 | [**codex**](https://github.com/openai/codex) | 113.9k | +1.5k | Rust |
-| 3 | [**OpenLogi**](https://github.com/AprilNEA/OpenLogi) | 14.1k | +959 | Rust |
-| 4 | [**free-for-dev**](https://github.com/ripienaar/free-for-dev) | 134.0k | +829 | HTML |
-| 5 | [**superpowers**](https://github.com/obra/superpowers) | 276.3k | +592 | Shell |
-| 6 | [**google-timeline-visualizer**](https://github.com/mahlernim/google-timeline-visualizer) | 2.6k | +441 | Kotlin |
-| 7 | [**ECC**](https://github.com/affaan-m/ECC) | 242.2k | +411 | JavaScript |
-| 8 | [**modular**](https://github.com/modular/modular) | 28.9k | +395 | Mojo |
-| 9 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | 205.4k | +315 | — |
-| 10 | [**posthog**](https://github.com/PostHog/posthog) | 38.7k | +286 | Python |
+| 1 | [**codex**](https://github.com/openai/codex) | 115.9k | +2.7k | Rust |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 234.2k | +2.4k | Shell |
+| 3 | [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | 48.1k | +1.1k | Python |
+| 4 | [**OpenLogi**](https://github.com/AprilNEA/OpenLogi) | 15.1k | +1.0k | Rust |
+| 5 | [**omarchy**](https://github.com/basecamp/omarchy) | 29.3k | +750 | Shell |
+| 6 | [**free-for-dev**](https://github.com/ripienaar/free-for-dev) | 134.6k | +615 | HTML |
+| 7 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 235.2k | +454 | Python |
+| 8 | [**ECC**](https://github.com/affaan-m/ECC) | 242.7k | +427 | JavaScript |
+| 9 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | 24.8k | +417 | Python |
+| 10 | [**buzz**](https://github.com/block/buzz) | 30.2k | +410 | Rust |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**codex**](https://github.com/openai/codex) | **1.00** | 113.9k | AI & Data Science |
-| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 232.4k | Otros |
-| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 242.2k | Cybersecurity & Hacking |
-| 4 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 276.3k | Python & Backend |
-| 5 | [**n8n**](https://github.com/n8n-io/n8n) | **1.00** | 201.9k | Automation & DevOps |
-| 6 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 205.4k | AI & Data Science |
-| 7 | [**free-for-dev**](https://github.com/ripienaar/free-for-dev) | **1.00** | 134.0k | Automation & DevOps |
-| 8 | [**sub2api**](https://github.com/Wei-Shaw/sub2api) | **0.99** | 38.8k | AI & Data Science |
-| 9 | [**claude-code**](https://github.com/anthropics/claude-code) | **0.99** | 142.6k | AI & Data Science |
-| 10 | [**plane**](https://github.com/makeplane/plane) | **0.92** | 57.3k | Otros |
+| 🥇 | [**codex**](https://github.com/openai/codex) | **1.00** | 115.9k | AI & Data Science |
+| 🥈 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 13.6k | AI & Data Science |
+| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 234.2k | Otros |
+| 4 | [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | **1.00** | 48.1k | Mobile Development |
+| 5 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 242.7k | Cybersecurity & Hacking |
+| 6 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 69.1k | AI & Data Science |
+| 7 | [**free-for-dev**](https://github.com/ripienaar/free-for-dev) | **1.00** | 134.6k | Automation & DevOps |
+| 8 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | **1.00** | 129.5k | AI & Data Science |
+| 9 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 235.2k | Otros |
+| 10 | [**book-to-skill**](https://github.com/virgiliojr94/book-to-skill) | **0.94** | 24.8k | Otros |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 3 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.94** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.82** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 

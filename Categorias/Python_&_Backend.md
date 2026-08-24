@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
-> Actualizado: `2026-05-17 09:29`
+> **1 proyectos** · ⭐ Mejor score: **0.82** · Estrellas totales: **66.0k**
+> Actualizado: `2026-08-24 05:32`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [**vaultwarden**](https://github.com/dani-garcia/vaultwarden) | **0.82** | 66.0k | `██████████` | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 
 ---

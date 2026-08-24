@@ -146,3 +146,6 @@
 | 2026-08-23 | **1** | [skills](https://github.com/mattpocock/skills) | +2683 | 232.4k | `1.00` |
 | 2026-08-23 | **2** | [codex](https://github.com/openai/codex) | +1544 | 113.9k | `1.00` |
 | 2026-08-23 | **3** | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | +959 | 14.1k | `0.91` |
+| 2026-08-24 | **1** | [codex](https://github.com/openai/codex) | +2715 | 115.9k | `1.00` |
+| 2026-08-24 | **2** | [skills](https://github.com/mattpocock/skills) | +2447 | 234.2k | `1.00` |
+| 2026-08-24 | **3** | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | +1081 | 48.1k | `1.00` |
