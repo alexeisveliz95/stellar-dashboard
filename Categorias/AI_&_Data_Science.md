@@ -1,8 +1,8 @@
 # 📂 AI & Data Science
 
 > [!info] Resumen de Categoría
-> **21 proyectos** · ⭐ Mejor score: **0.78** · Estrellas totales: **1.2M**
-> Actualizado: `2026-07-06 18:15`
+> **10 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **882.5k**
+> Actualizado: `2026-08-25 05:22`
 
 ---
 
@@ -10,26 +10,15 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**FinceptTerminal**](https://github.com/Fincept-Corporation/FinceptTerminal) | **0.78** | 28.0k | `░░░░░░░░░░` | FinceptTerminal is a modern finance application offering advanced market analytics, investment… |
-| [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) | **0.78** | 8.4k | `░░░░░░░░░░` | PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous… |
-| [**Understand-Anything**](https://github.com/Egonex-AI/Understand-Anything) | **0.78** | 71.4k | `░░░░░░░░░░` | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you… |
-| [**geo-seo-claude**](https://github.com/zubair-trabzada/geo-seo-claude) | **0.76** | 8.9k | `░░░░░░░░░░` | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website —… |
-| [**headroom**](https://github.com/headroomlabs-ai/headroom) | **0.75** | 57.1k | `░░░░░░░░░░` | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer… |
-| [**career-ops**](https://github.com/santifer/career-ops) | **0.75** | 58.8k | `░░░░░░░░░░` | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track… |
-| [**QuantDinger**](https://github.com/brokermr810/QuantDinger) | **0.73** | 9.3k | `░░░░░░░░░░` | AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading,… |
-| [**OctoBot**](https://github.com/Drakkar-Software/OctoBot) | **0.73** | 6.2k | `░░░░░░░░░░` | Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on… |
-| [**tensortrade**](https://github.com/tensortrade-org/tensortrade) | **0.73** | 6.4k | `░░░░░░░░░░` | An open source reinforcement learning framework for training, evaluating, and deploying robust… |
-| [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **0.73** | 91.4k | `░░░░░░░░░░` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.73** | 119.5k | `░░░░░░░░░░` | LLM inference in C/C++ |
-| [**maths-cs-ai-compendium**](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | **0.73** | 4.7k | `░░░░░░░░░░` | Become a cracked AI/ML Research Engineer |
-| [**LitServe**](https://github.com/Lightning-AI/LitServe) | **0.73** | 3.9k | `░░░░░░░░░░` | A minimal Python framework for building custom AI inference servers with full control over… |
-| [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **0.73** | 96.0k | `░░░░░░░░░░` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **0.73** | 116.6k | `░░░░░░░░░░` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| [**project-based-learning**](https://github.com/practical-tutorials/project-based-learning) | **0.73** | 272.3k | `░░░░░░░░░░` | Curated list of project-based tutorials |
-| [**ai-hedge-fund**](https://github.com/virattt/ai-hedge-fund) | **0.71** | 60.9k | `░░░░░░░░░░` | An AI Hedge Fund Team |
-| [**OpenBB**](https://github.com/OpenBB-finance/OpenBB) | **0.71** | 70.2k | `░░░░░░░░░░` | Open Data Platform for analysts, quants and AI agents. |
-| [**magika**](https://github.com/google/magika) | **0.71** | 17.2k | `░░░░░░░░░░` | Fast and accurate AI powered file content types detection |
-| [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 31.9k | `░░░░░░░░░░` | Kronos: A Foundation Model for the Language of Financial Markets |
-| [**twenty**](https://github.com/twentyhq/twenty) | **0.71** | 52.3k | `░░░░░░░░░░` | The open alternative to Salesforce, designed for AI. |
+| [**codex**](https://github.com/openai/codex) | **1.00** | 117.4k | `█░░░░░░░░░` | Lightweight coding agent that runs in your terminal |
+| [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 34.3k | `█░░░░░░░░░` | The job search that runs on your machine. AI job application framework built on Claude Code:… |
+| [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 206.7k | `█░░░░░░░░░` | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's… |
+| [**openclaw**](https://github.com/openclaw/openclaw) | **1.00** | 387.5k | `█░░░░░░░░░` | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 48.4k | `█░░░░░░░░░` | Learn it. Build it. Ship it for others. |
+| [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 15.9k | `██████████` | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [**openhuman**](https://github.com/tinyhumansai/openhuman) | **1.00** | 37.4k | `█░░░░░░░░░` | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a… |
+| [**maka**](https://github.com/apache/maka) | **0.98** | 3.0k | `█████████░` | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool… |
+| [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) | **0.96** | 12.1k | `██░░░░░░░░` | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads,… |
+| [**freellmapi**](https://github.com/tashfeenahmed/freellmapi) | **0.94** | 19.9k | `█░░░░░░░░░` | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one… |
 
 ---

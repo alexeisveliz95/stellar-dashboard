@@ -149,3 +149,6 @@
 | 2026-08-24 | **1** | [codex](https://github.com/openai/codex) | +2715 | 115.9k | `1.00` |
 | 2026-08-24 | **2** | [skills](https://github.com/mattpocock/skills) | +2447 | 234.2k | `1.00` |
 | 2026-08-24 | **3** | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | +1081 | 48.1k | `1.00` |
+| 2026-08-25 | **1** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +2449 | 15.9k | `1.00` |
+| 2026-08-25 | **2** | [codex](https://github.com/openai/codex) | +1994 | 117.4k | `1.00` |
+| 2026-08-25 | **3** | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1097 | 16.0k | `0.91` |
