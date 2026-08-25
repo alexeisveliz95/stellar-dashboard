@@ -1,74 +1,11 @@
 [
   {
-    "id": "github_trending_openai_codex",
-    "name": "openai/codex",
-    "description": "Lightweight coding agent that runs in your terminal",
-    "url": "https://github.com/openai/codex",
-    "stars": 115929,
-    "growth": 2715,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "openai"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_freestylefly_awesome-gpt-image-2",
-    "name": "freestylefly/awesome-gpt-image-2",
-    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "stars": 13633,
-    "growth": 401,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "gpt"
-    ],
-    "raw_topics": [
-      "agents",
-      "ai-image-generation",
-      "chatgpt",
-      "dsh-plugin",
-      "gpt-image-2",
-      "image-prompts",
-      "prompt-as-code",
-      "prompt-engineering",
-      "skills",
-      "workflow-automation"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 234209,
-    "growth": 2447,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_Alishahryar1_free-claude-code",
     "name": "Alishahryar1/free-claude-code",
     "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
     "url": "https://github.com/Alishahryar1/free-claude-code",
-    "stars": 48140,
-    "growth": 1081,
+    "stars": 49212,
+    "growth": 891,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -81,101 +18,30 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_affaan-m_ECC",
-    "name": "affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/ECC",
-    "stars": 242653,
-    "growth": 427,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ruvnet_ruflo",
-    "name": "ruvnet/ruflo",
-    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "url": "https://github.com/ruvnet/ruflo",
-    "stars": 69145,
-    "growth": 131,
+    "id": "github_trending_openai_codex",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "url": "https://github.com/openai/codex",
+    "stars": 117382,
+    "growth": 1994,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Rust",
     "tags": [
-      "nlp:ai-data-science"
+      "openai"
     ],
-    "raw_topics": [
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-workflow",
-      "agents",
-      "ai-agents",
-      "ai-assistant",
-      "ai-skills",
-      "autonomous-agents",
-      "claude-code",
-      "codex",
-      "dsh-plugin",
-      "harness",
-      "mcp-server",
-      "multi-agent",
-      "multi-agent-systems",
-      "npm",
-      "skills",
-      "swarm",
-      "swarm-intelligence",
-      "typescript"
-    ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_ripienaar_free-for-dev",
-    "name": "ripienaar/free-for-dev",
-    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "url": "https://github.com/ripienaar/free-for-dev",
-    "stars": 134580,
-    "growth": 615,
-    "score": 1.0,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "tags": [
-      "nlp:automation-devops"
-    ],
-    "raw_topics": [
-      "awesome-list",
-      "free-for-developers"
-    ]
-  },
-  {
-    "id": "github_trending_Comfy-Org_ComfyUI",
-    "name": "Comfy-Org/ComfyUI",
-    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "stars": 129520,
-    "growth": 201,
+    "id": "github_trending_MadsLorentzen_ai-job-search",
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "stars": 34289,
+    "growth": 434,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -183,25 +49,47 @@
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:ai-data-science"
+      "ai"
     ],
     "raw_topics": [
       "ai",
-      "comfy",
-      "comfyui",
-      "python",
-      "pytorch",
-      "stable-diffusion"
+      "ai-agents",
+      "career",
+      "claude-code",
+      "cover-letter",
+      "cv",
+      "interview-preparation",
+      "job-application",
+      "job-hunting",
+      "job-search",
+      "latex",
+      "resume"
     ],
-    "raw_license": "GPL-3.0"
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_multica-ai_andrej-karpathy-skills",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "stars": 206690,
+    "growth": 588,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "tags": [
+      "ai"
+    ]
   },
   {
     "id": "github_trending_NousResearch_hermes-agent",
     "name": "NousResearch/hermes-agent",
     "description": "The agent that grows with you",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 235171,
-    "growth": 454,
+    "stars": 235951,
+    "growth": 896,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -226,50 +114,99 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_virgiliojr94_book-to-skill",
-    "name": "virgiliojr94/book-to-skill",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "url": "https://github.com/virgiliojr94/book-to-skill",
-    "stars": 24817,
-    "growth": 417,
-    "score": 0.9431,
+    "id": "github_trending_openclaw_openclaw",
+    "name": "openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+    "url": "https://github.com/openclaw/openclaw",
+    "stars": 387487,
+    "growth": 173,
+    "score": 1.0,
     "categories": [
-      "Otros"
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_rohitg00_ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 48399,
+    "growth": 349,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
+    "tags": [
+      "ai"
+    ],
     "raw_topics": [
-      "agent-skills",
+      "agents",
+      "ai",
       "ai-agents",
-      "book-to-skill",
-      "context-engineering",
-      "document-processing",
-      "edtech",
-      "knowledge-base",
-      "knowledge-management",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
       "llm",
-      "pdf-to-markdown",
-      "rag",
-      "self-study",
-      "study-tools"
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_basecamp_omarchy",
-    "name": "basecamp/omarchy",
-    "description": "Beautiful, Modern & Opinionated Linux",
-    "url": "https://github.com/basecamp/omarchy",
-    "stars": 29347,
-    "growth": 750,
-    "score": 0.9419,
+    "id": "github_trending_freestylefly_awesome-gpt-image-2",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "stars": 15940,
+    "growth": 2449,
+    "score": 1.0,
     "categories": [
-      "PlayStation Homebrew & Linux"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Shell",
+    "language": "JavaScript",
     "tags": [
-      "nlp:playstation-homebrew-linux"
+      "gpt"
+    ],
+    "raw_topics": [
+      "agents",
+      "ai-image-generation",
+      "chatgpt",
+      "dsh-plugin",
+      "gpt-image-2",
+      "image-prompts",
+      "prompt-as-code",
+      "prompt-engineering",
+      "skills",
+      "workflow-automation"
     ],
     "raw_license": "MIT"
   },
@@ -278,9 +215,9 @@
     "name": "VoltAgent/awesome-agent-skills",
     "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
     "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "stars": 31420,
-    "growth": 156,
-    "score": 0.9417,
+    "stars": 32005,
+    "growth": 602,
+    "score": 1.0,
     "categories": [
       "Automation & DevOps"
     ],
@@ -305,64 +242,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_block_buzz",
-    "name": "block/buzz",
-    "description": "A hive mind communication platform",
-    "url": "https://github.com/block/buzz",
-    "stars": 30217,
-    "growth": 410,
-    "score": 0.9127,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_AprilNEA_OpenLogi",
-    "name": "AprilNEA/OpenLogi",
-    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-    "url": "https://github.com/AprilNEA/OpenLogi",
-    "stars": 15148,
-    "growth": 1009,
-    "score": 0.9017,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "dpi",
-      "gpui",
-      "hid",
-      "hidpp",
-      "local-first",
-      "logitech",
-      "logitech-mouse",
-      "logitech-options",
-      "mouse-remapping",
-      "mx-master",
-      "privacy",
-      "rust",
-      "smartshift"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_tinyhumansai_openhuman",
     "name": "tinyhumansai/openhuman",
     "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
     "url": "https://github.com/tinyhumansai/openhuman",
-    "stars": 36865,
-    "growth": 39,
-    "score": 0.8796,
+    "stars": 37379,
+    "growth": 515,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -374,28 +260,39 @@
     "raw_license": "GPL-3.0"
   },
   {
-    "id": "github_trending_dani-garcia_vaultwarden",
-    "name": "dani-garcia/vaultwarden",
-    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-    "url": "https://github.com/dani-garcia/vaultwarden",
-    "stars": 65983,
-    "growth": 78,
-    "score": 0.8224,
+    "id": "github_trending_makeplane_plane",
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "url": "https://github.com/makeplane/plane",
+    "stars": 58051,
+    "growth": 243,
+    "score": 0.9929,
     "categories": [
-      "Python & Backend"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:python-backend"
-    ],
+    "language": "TypeScript",
     "raw_topics": [
-      "bitwarden",
-      "bitwarden-rs",
+      "boards",
+      "bug-tracker",
+      "django",
       "docker",
-      "rocket",
-      "rust",
-      "vaultwarden"
+      "gantt",
+      "issue-tracker",
+      "jira",
+      "jira-alternative",
+      "kanban",
+      "linear",
+      "postgresql",
+      "product-management",
+      "project-management",
+      "project-planning",
+      "python",
+      "react",
+      "redis",
+      "typescipt",
+      "vite",
+      "work-management"
     ],
     "raw_license": "AGPL-3.0"
   },
@@ -404,9 +301,9 @@
     "name": "apache/maka",
     "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
     "url": "https://github.com/apache/maka",
-    "stars": 2436,
-    "growth": 51,
-    "score": 0.7904,
+    "stars": 3019,
+    "growth": 411,
+    "score": 0.9773,
     "categories": [
       "AI & Data Science"
     ],
@@ -434,18 +331,188 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_AgriciDaniel_claude-obsidian",
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "stars": 12063,
+    "growth": 310,
+    "score": 0.9643,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-note-taking",
+      "ai-second-brain",
+      "claude-code",
+      "claude-code-skill",
+      "claude-memory",
+      "claude-plugin",
+      "karpathy-llm-wiki",
+      "knowledge-graph",
+      "knowledge-management",
+      "note-taking",
+      "notion-alternative",
+      "obsidian",
+      "obsidian-ai",
+      "obsidian-plugin",
+      "obsidian-second-brain",
+      "open-source",
+      "personal-knowledge-management",
+      "pkm",
+      "second-brain"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_basecamp_omarchy",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "url": "https://github.com/basecamp/omarchy",
+    "stars": 30375,
+    "growth": 1056,
+    "score": 0.9531,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_tashfeenahmed_freellmapi",
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "stars": 19887,
+    "growth": 174,
+    "score": 0.9424,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_dani-garcia_vaultwarden",
+    "name": "dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "stars": 66145,
+    "growth": 175,
+    "score": 0.9245,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "bitwarden",
+      "bitwarden-rs",
+      "docker",
+      "rocket",
+      "rust",
+      "vaultwarden"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
     "id": "github_trending_anthropics_claude-plugins-community",
     "name": "anthropics/claude-plugins-community",
     "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
     "url": "https://github.com/anthropics/claude-plugins-community",
-    "stars": 1061,
-    "growth": 225,
-    "score": 0.7751,
+    "stars": 1447,
+    "growth": 489,
+    "score": 0.9156,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_AprilNEA_OpenLogi",
+    "name": "AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "stars": 16011,
+    "growth": 1097,
+    "score": 0.9141,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "dpi",
+      "gpui",
+      "hid",
+      "hidpp",
+      "local-first",
+      "logitech",
+      "logitech-mouse",
+      "logitech-options",
+      "mouse-remapping",
+      "mx-master",
+      "privacy",
+      "rust",
+      "smartshift"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_PostHog_posthog",
+    "name": "PostHog/posthog",
+    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "url": "https://github.com/PostHog/posthog",
+    "stars": 39045,
+    "growth": 83,
+    "score": 0.8753,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ab-testing",
+      "ai-analytics",
+      "analytics",
+      "cdp",
+      "data-warehouse",
+      "experiments",
+      "feature-flags",
+      "javascript",
+      "product-analytics",
+      "python",
+      "react",
+      "session-replay",
+      "surveys",
+      "typescript",
+      "web-analytics"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]

@@ -1,8 +1,8 @@
 # 📂 Mobile Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **65.2k**
-> Actualizado: `2026-08-25 05:22`
+> **5 proyectos** · ⭐ Mejor score: **0.50** · Estrellas totales: **59.8k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,7 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | **1.00** | 49.2k | `███░░░░░░░` | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app,… |
-| [**OpenLogi**](https://github.com/AprilNEA/OpenLogi) | **0.91** | 16.0k | `██████████` | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons,… |
+| [**termux-app**](https://github.com/termux/termux-app) | **0.50** | 55.1k | `░░░░░░░░░░` | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [**ubuntu-on-android**](https://github.com/RandomCoderOrg/ubuntu-on-android) | **0.45** | 1.5k | `░░░░░░░░░░` | Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is… |
+| [**DroidDesk**](https://github.com/orailnoor/DroidDesk) | **0.43** | 1.3k | `░░░░░░░░░░` | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR,… |
+| [**openclaw-android**](https://github.com/AidanPark/openclaw-android) | **0.35** | 1.5k | `░░░░░░░░░░` | Run OpenClaw on Android with a single command — no proot, no Linux |
+| [**ios-builder**](https://github.com/MobAI-App/ios-builder) | **0.25** | 455 | `░░░░░░░░░░` | Sin descripción |
 
 ---
