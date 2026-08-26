@@ -152,3 +152,6 @@
 | 2026-08-25 | **1** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +2449 | 15.9k | `1.00` |
 | 2026-08-25 | **2** | [codex](https://github.com/openai/codex) | +1994 | 117.4k | `1.00` |
 | 2026-08-25 | **3** | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1097 | 16.0k | `0.91` |
+| 2026-08-26 | **1** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +1698 | 19.0k | `1.00` |
+| 2026-08-26 | **2** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +1265 | 35.6k | `1.00` |
+| 2026-08-26 | **3** | [codex](https://github.com/openai/codex) | +1181 | 118.3k | `1.00` |
