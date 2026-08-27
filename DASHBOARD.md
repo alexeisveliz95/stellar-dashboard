@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-26 06:58`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-27 16:01`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 19.0k | +1.7k | JavaScript |
-| 2 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 35.6k | +1.3k | Python |
-| 3 | [**codex**](https://github.com/openai/codex) | 118.3k | +1.2k | Rust |
-| 4 | [**omarchy**](https://github.com/basecamp/omarchy) | 31.5k | +1.1k | Shell |
-| 5 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 111.3k | +982 | JavaScript |
-| 6 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | 207.3k | +830 | — |
-| 7 | [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) | 12.9k | +813 | Python |
-| 8 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 49.2k | +569 | Python |
-| 9 | [**maka**](https://github.com/apache/maka) | 3.4k | +543 | TypeScript |
-| 10 | [**openhuman**](https://github.com/tinyhumansai/openhuman) | 37.9k | +542 | Rust |
+| 1 | [**archify**](https://github.com/tt-a1i/archify) | 22.0k | +4.3k | JavaScript |
+| 2 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 22.8k | +2.1k | JavaScript |
+| 3 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 113.7k | +1.6k | JavaScript |
+| 4 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 52.0k | +1.3k | Python |
+| 5 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 101.0k | +707 | Python |
+| 6 | [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) | 13.8k | +631 | Python |
+| 7 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 50.0k | +547 | Python |
+| 8 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 35.1k | +494 | Python |
+| 9 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 87.2k | +460 | TypeScript |
+| 10 | [**garden-skills**](https://github.com/ConardLi/garden-skills) | 11.2k | +413 | CSS |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 19.0k | AI & Data Science |
-| 🥈 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 35.6k | AI & Data Science |
-| 🥉 | [**maka**](https://github.com/apache/maka) | **1.00** | 3.4k | AI & Data Science |
-| 4 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 100.4k | AI & Data Science |
-| 5 | [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) | **1.00** | 12.9k | AI & Data Science |
-| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 49.2k | AI & Data Science |
-| 7 | [**openhuman**](https://github.com/tinyhumansai/openhuman) | **1.00** | 37.9k | AI & Data Science |
-| 8 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 134.3k | AI & Data Science |
-| 9 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 207.3k | AI & Data Science |
-| 10 | [**codex**](https://github.com/openai/codex) | **1.00** | 118.3k | AI & Data Science |
+| 🥇 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 22.8k | AI & Data Science |
+| 🥈 | [**archify**](https://github.com/tt-a1i/archify) | **1.00** | 22.0k | Web Development |
+| 🥉 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 35.1k | AI & Data Science |
+| 4 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 113.7k | AI & Data Science |
+| 5 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 52.0k | AI & Data Science |
+| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 50.0k | AI & Data Science |
+| 7 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 92.1k | AI & Data Science |
+| 8 | [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) | **1.00** | 13.8k | AI & Data Science |
+| 9 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 73.5k | AI & Data Science |
+| 10 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 87.2k | Mobile Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 10 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **0.88** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 3 | **0.91** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

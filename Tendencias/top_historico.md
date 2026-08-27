@@ -155,3 +155,6 @@
 | 2026-08-26 | **1** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +1698 | 19.0k | `1.00` |
 | 2026-08-26 | **2** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +1265 | 35.6k | `1.00` |
 | 2026-08-26 | **3** | [codex](https://github.com/openai/codex) | +1181 | 118.3k | `1.00` |
+| 2026-08-27 | **1** | [archify](https://github.com/tt-a1i/archify) | +4260 | 22.0k | `1.00` |
+| 2026-08-27 | **2** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +2093 | 22.8k | `1.00` |
+| 2026-08-27 | **3** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1610 | 113.7k | `1.00` |
