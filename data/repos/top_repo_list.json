@@ -4,8 +4,8 @@
     "name": "freestylefly/awesome-gpt-image-2",
     "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "stars": 18967,
-    "growth": 1698,
+    "stars": 22786,
+    "growth": 2093,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -30,143 +30,158 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_MadsLorentzen_ai-job-search",
-    "name": "MadsLorentzen/ai-job-search",
-    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "stars": 35554,
-    "growth": 1265,
+    "id": "github_trending_tt-a1i_archify",
+    "name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "url": "https://github.com/tt-a1i/archify",
+    "stars": 22028,
+    "growth": 4260,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "JavaScript",
     "tags": [
-      "ai"
+      "html"
     ],
     "raw_topics": [
-      "ai",
-      "ai-agents",
-      "career",
-      "claude-code",
-      "cover-letter",
-      "cv",
-      "interview-preparation",
-      "job-application",
-      "job-hunting",
-      "job-search",
-      "latex",
-      "resume"
+      "agent-skills",
+      "architecture-as-code",
+      "architecture-diagram",
+      "claude-skill",
+      "code-visualization",
+      "codex",
+      "coding-agents",
+      "data-flow-diagram",
+      "deepseek-harness",
+      "developer-tools",
+      "diagram-as-code",
+      "diagrams",
+      "diagrams-as-code",
+      "dsh-plugin",
+      "mermaid-alternative",
+      "opencode",
+      "sequence-diagram",
+      "software-architecture",
+      "system-design",
+      "text-to-diagram"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_apache_maka",
-    "name": "apache/maka",
-    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-    "url": "https://github.com/apache/maka",
-    "stars": 3443,
-    "growth": 543,
+    "id": "github_trending_K-Dense-AI_scientific-agent-skills",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "stars": 35137,
+    "growth": 494,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
     "tags": [
       "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "agent-runtime",
-      "ai",
-      "ai-agent",
-      "apache",
-      "cli",
-      "desktop",
-      "electron",
-      "event-sourcing",
-      "incubator",
-      "llm",
-      "local-first",
-      "maka",
-      "tool-use",
-      "typescript"
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_TauricResearch_TradingAgents",
-    "name": "TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "stars": 100417,
-    "growth": 218,
+    "id": "github_trending_DietrichGebert_ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "stars": 113681,
+    "growth": 1610,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "llm"
-    ],
-    "raw_topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_AgriciDaniel_claude-obsidian",
-    "name": "AgriciDaniel/claude-obsidian",
-    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-    "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 12891,
-    "growth": 813,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
+    "language": "JavaScript",
     "tags": [
       "ai"
     ],
     "raw_topics": [
       "agent-skills",
-      "ai-note-taking",
-      "ai-second-brain",
+      "ai-agents",
+      "claude",
       "claude-code",
-      "claude-code-skill",
-      "claude-memory",
-      "claude-plugin",
-      "karpathy-llm-wiki",
-      "knowledge-graph",
-      "knowledge-management",
-      "note-taking",
-      "notion-alternative",
-      "obsidian",
-      "obsidian-ai",
-      "obsidian-plugin",
-      "obsidian-second-brain",
-      "open-source",
-      "personal-knowledge-management",
-      "pkm",
-      "second-brain"
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_calesthio_OpenMontage",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "stars": 52041,
+    "growth": 1284,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "copilot",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "flux",
+      "image-generation",
+      "open-source",
+      "openai",
+      "python",
+      "remotion",
+      "stable-diffusion",
+      "text-to-speech",
+      "text-to-video",
+      "video-generation",
+      "video-production"
+    ],
+    "raw_license": "AGPL-3.0"
   },
   {
     "id": "github_trending_rohitg00_ai-engineering-from-scratch",
     "name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 49200,
-    "growth": 569,
+    "stars": 49988,
+    "growth": 547,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -201,88 +216,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_tinyhumansai_openhuman",
-    "name": "tinyhumansai/openhuman",
-    "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "stars": 37881,
-    "growth": 542,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_Shubhamsaboo_awesome-llm-apps",
-    "name": "Shubhamsaboo/awesome-llm-apps",
-    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "stars": 134349,
-    "growth": 161,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agents",
-      "llms",
-      "python",
-      "rag"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_multica-ai_andrej-karpathy-skills",
-    "name": "multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "stars": 207339,
-    "growth": 830,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "tags": [
-      "ai"
-    ]
-  },
-  {
-    "id": "github_trending_openai_codex",
-    "name": "openai/codex",
-    "description": "Lightweight coding agent that runs in your terminal",
-    "url": "https://github.com/openai/codex",
-    "stars": 118333,
-    "growth": 1181,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "openai"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_DietrichGebert_ponytail",
-    "name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 111347,
-    "growth": 982,
+    "id": "github_trending_thedotmack_claude-mem",
+    "name": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "stars": 92113,
+    "growth": 133,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -293,78 +232,187 @@
       "ai"
     ],
     "raw_topics": [
-      "agent-skills",
+      "ai",
       "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
       "claude",
+      "claude-agent-sdk",
+      "claude-agents",
       "claude-code",
       "claude-code-plugin",
-      "cursor-rules",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_AgriciDaniel_claude-obsidian",
+    "name": "AgriciDaniel/claude-obsidian",
+    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "stars": 13812,
+    "growth": 631,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-note-taking",
+      "ai-second-brain",
+      "claude-code",
+      "claude-code-skill",
+      "claude-memory",
+      "claude-plugin",
+      "karpathy-llm-wiki",
+      "knowledge-graph",
+      "knowledge-management",
+      "note-taking",
+      "notion-alternative",
+      "obsidian",
+      "obsidian-ai",
+      "obsidian-plugin",
+      "obsidian-second-brain",
+      "open-source",
+      "personal-knowledge-management",
+      "pkm",
+      "second-brain"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_ComposioHQ_awesome-claude-skills",
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "stars": 73490,
+    "growth": 125,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "composio",
+      "cursor",
       "developer-tools",
+      "gemini-cli",
+      "mcp",
+      "openai-codex",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation"
+    ]
+  },
+  {
+    "id": "github_trending_OpenCut-app_OpenCut",
+    "name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "stars": 87224,
+    "growth": 460,
+    "score": 1.0,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_TauricResearch_TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "stars": 100991,
+    "growth": 707,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "agent",
+      "finance",
       "llm",
-      "prompt-engineering",
-      "yagni"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_basecamp_omarchy",
-    "name": "basecamp/omarchy",
-    "description": "Beautiful, Modern & Opinionated Linux",
-    "url": "https://github.com/basecamp/omarchy",
-    "stars": 31455,
-    "growth": 1083,
-    "score": 0.9738,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_marin-community_marin",
-    "name": "marin-community/marin",
-    "description": "Open-source framework for the research and development of foundation models.",
-    "url": "https://github.com/marin-community/marin",
-    "stars": 2218,
-    "growth": 231,
-    "score": 0.8708,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
+      "multiagent",
+      "trading"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_anthropics_claude-plugins-community",
-    "name": "anthropics/claude-plugins-community",
-    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-    "url": "https://github.com/anthropics/claude-plugins-community",
-    "stars": 1868,
-    "growth": 351,
-    "score": 0.8383,
+    "id": "github_trending_ConardLi_garden-skills",
+    "name": "ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "stars": 11226,
+    "growth": 413,
+    "score": 0.9259,
     "categories": [
-      "Otros"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "raw_license": "Apache-2.0"
+    "language": "CSS",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent",
+      "claude",
+      "gpt-image-2",
+      "rag",
+      "skills",
+      "web-design"
+    ],
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_anthropics_claude-plugins-official",
     "name": "anthropics/claude-plugins-official",
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "url": "https://github.com/anthropics/claude-plugins-official",
-    "stars": 34149,
-    "growth": 55,
-    "score": 0.7876,
+    "stars": 34567,
+    "growth": 290,
+    "score": 0.9056,
     "categories": [
       "Otros"
     ],
@@ -378,34 +426,102 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_asciimoo_hister",
-    "name": "asciimoo/hister",
-    "description": "Your own search engine",
-    "url": "https://github.com/asciimoo/hister",
-    "stars": 2882,
-    "growth": 98,
-    "score": 0.6878,
+    "id": "github_trending_marin-community_marin",
+    "name": "marin-community/marin",
+    "description": "Open-source framework for the research and development of foundation models.",
+    "url": "https://github.com/marin-community/marin",
+    "stars": 2636,
+    "growth": 255,
+    "score": 0.8781,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_google_googletest",
+    "name": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "url": "https://github.com/google/googletest",
+    "stars": 38997,
+    "growth": 4,
+    "score": 0.8753,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_JetBrains_go-modern-guidelines",
+    "name": "JetBrains/go-modern-guidelines",
+    "description": "Help AI coding agents write modern Go",
+    "url": "https://github.com/JetBrains/go-modern-guidelines",
+    "stars": 1959,
+    "growth": 314,
+    "score": 0.8657,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "coding-agent",
+      "developer-tools",
+      "go",
+      "golang",
+      "guidelines"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_zedeus_nitter",
+    "name": "zedeus/nitter",
+    "description": "Alternative Twitter front-end",
+    "url": "https://github.com/zedeus/nitter",
+    "stars": 13724,
+    "growth": 63,
+    "score": 0.7452,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "Nim",
     "raw_topics": [
-      "browser-history",
-      "go",
-      "golang",
-      "history",
-      "index",
-      "mcp",
-      "mcp-server",
-      "personal-search",
-      "personal-search-engine",
+      "nim",
       "privacy",
-      "search",
-      "search-engine",
-      "semantic-search",
-      "web"
+      "self-hosted",
+      "twitter",
+      "x"
     ],
     "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_actions_checkout",
+    "name": "actions/checkout",
+    "description": "Action for checking out a repo",
+    "url": "https://github.com/actions/checkout",
+    "stars": 8680,
+    "growth": 4,
+    "score": 0.642,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
   }
 ]
