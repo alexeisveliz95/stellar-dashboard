@@ -158,3 +158,6 @@
 | 2026-08-27 | **1** | [archify](https://github.com/tt-a1i/archify) | +4260 | 22.0k | `1.00` |
 | 2026-08-27 | **2** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +2093 | 22.8k | `1.00` |
 | 2026-08-27 | **3** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1610 | 113.7k | `1.00` |
+| 2026-08-28 | **1** | [archify](https://github.com/tt-a1i/archify) | +4561 | 26.5k | `1.00` |
+| 2026-08-28 | **2** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1984 | 10.5k | `0.98` |
+| 2026-08-28 | **3** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +1687 | 24.1k | `1.00` |

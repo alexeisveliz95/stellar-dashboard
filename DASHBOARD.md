@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-27 17:31`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-28 17:03`
+> 📦 **30** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**archify**](https://github.com/tt-a1i/archify) | 22.0k | +4.3k | JavaScript |
-| 2 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 22.8k | +2.1k | JavaScript |
-| 3 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 113.7k | +1.6k | JavaScript |
-| 4 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 52.0k | +1.3k | Python |
-| 5 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 101.0k | +707 | Python |
-| 6 | [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) | 13.8k | +631 | Python |
-| 7 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 50.0k | +547 | Python |
-| 8 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 35.1k | +494 | Python |
-| 9 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | 87.2k | +460 | TypeScript |
-| 10 | [**garden-skills**](https://github.com/ConardLi/garden-skills) | 11.2k | +413 | CSS |
+| 1 | [**archify**](https://github.com/tt-a1i/archify) | 26.5k | +4.6k | JavaScript |
+| 2 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 10.5k | +2.0k | JavaScript |
+| 3 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 24.1k | +1.7k | JavaScript |
+| 4 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 115.1k | +1.4k | JavaScript |
+| 5 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 53.1k | +1.1k | Python |
+| 6 | [**tailcat**](https://github.com/tailscale/tailcat) | 2.5k | +986 | Go |
+| 7 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 36.2k | +720 | Python |
+| 8 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 50.5k | +703 | Python |
+| 9 | [**go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) | 2.5k | +574 | Go |
+| 10 | [**freellmapi**](https://github.com/tashfeenahmed/freellmapi) | 21.4k | +477 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 22.8k | AI & Data Science |
-| 🥈 | [**archify**](https://github.com/tt-a1i/archify) | **1.00** | 22.0k | Web Development |
-| 🥉 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 35.1k | AI & Data Science |
-| 4 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 113.7k | AI & Data Science |
-| 5 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 52.0k | AI & Data Science |
-| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 50.0k | AI & Data Science |
-| 7 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 92.1k | AI & Data Science |
-| 8 | [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) | **1.00** | 13.8k | AI & Data Science |
-| 9 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 73.5k | AI & Data Science |
-| 10 | [**OpenCut**](https://github.com/OpenCut-app/OpenCut) | **1.00** | 87.2k | Mobile Development |
+| 🥇 | [**archify**](https://github.com/tt-a1i/archify) | **1.00** | 26.5k | Web Development |
+| 🥈 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 36.2k | AI & Data Science |
+| 🥉 | [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | **1.00** | 34.9k | Otros |
+| 4 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 53.1k | AI & Data Science |
+| 5 | [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) | **1.00** | 75.4k | Web Development |
+| 6 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 24.1k | AI & Data Science |
+| 7 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | **1.00** | 73.2k | Cybersecurity & Hacking |
+| 8 | [**freellmapi**](https://github.com/tashfeenahmed/freellmapi) | **1.00** | 21.4k | AI & Data Science |
+| 9 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 50.5k | AI & Data Science |
+| 10 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 115.1k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 3 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.72** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.96** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
