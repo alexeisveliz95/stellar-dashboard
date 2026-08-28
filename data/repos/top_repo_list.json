@@ -1,41 +1,11 @@
 [
   {
-    "id": "github_trending_freestylefly_awesome-gpt-image-2",
-    "name": "freestylefly/awesome-gpt-image-2",
-    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "stars": 22786,
-    "growth": 2093,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "gpt"
-    ],
-    "raw_topics": [
-      "agents",
-      "ai-image-generation",
-      "chatgpt",
-      "dsh-plugin",
-      "gpt-image-2",
-      "image-prompts",
-      "prompt-as-code",
-      "prompt-engineering",
-      "skills",
-      "workflow-automation"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_tt-a1i_archify",
     "name": "tt-a1i/archify",
     "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
     "url": "https://github.com/tt-a1i/archify",
-    "stars": 22028,
-    "growth": 4260,
+    "stars": 26468,
+    "growth": 4561,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -74,8 +44,8 @@
     "name": "K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "stars": 35137,
-    "growth": 494,
+    "stars": 36173,
+    "growth": 720,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -107,42 +77,32 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_DietrichGebert_ponytail",
-    "name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 113681,
-    "growth": 1610,
+    "id": "github_trending_anthropics_claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "stars": 34921,
+    "growth": 457,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
+    "language": "Python",
     "raw_topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
       "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
+      "mcp",
+      "skills"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_calesthio_OpenMontage",
     "name": "calesthio/OpenMontage",
     "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
     "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 52041,
-    "growth": 1284,
+    "stars": 53106,
+    "growth": 1144,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -176,12 +136,101 @@
     "raw_license": "AGPL-3.0"
   },
   {
+    "id": "github_trending_abi_screenshot-to-code",
+    "name": "abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "stars": 75421,
+    "growth": 309,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_freestylefly_awesome-gpt-image-2",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "stars": 24118,
+    "growth": 1687,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "gpt"
+    ],
+    "raw_topics": [
+      "agents",
+      "ai-image-generation",
+      "chatgpt",
+      "dsh-plugin",
+      "gpt-image-2",
+      "image-prompts",
+      "prompt-as-code",
+      "prompt-engineering",
+      "skills",
+      "workflow-automation"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NationalSecurityAgency_ghidra",
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "stars": 73232,
+    "growth": 205,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "disassembler",
+      "reverse-engineering",
+      "software-analysis"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_tashfeenahmed_freellmapi",
+    "name": "tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "stars": 21444,
+    "growth": 477,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_rohitg00_ai-engineering-from-scratch",
     "name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 49988,
-    "growth": 547,
+    "stars": 50537,
+    "growth": 703,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -216,12 +265,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_thedotmack_claude-mem",
-    "name": "thedotmack/claude-mem",
-    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "stars": 92113,
-    "growth": 133,
+    "id": "github_trending_DietrichGebert_ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "stars": 115068,
+    "growth": 1396,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -232,243 +281,27 @@
       "ai"
     ],
     "raw_topics": [
-      "ai",
+      "agent-skills",
       "ai-agents",
-      "ai-memory",
-      "anthropic",
-      "artificial-intelligence",
-      "chromadb",
       "claude",
-      "claude-agent-sdk",
-      "claude-agents",
       "claude-code",
       "claude-code-plugin",
-      "claude-skills",
-      "embeddings",
-      "long-term-memory",
-      "mem0",
-      "memory-engine",
-      "openmemory",
-      "rag",
-      "sqlite",
-      "supermemory"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_AgriciDaniel_claude-obsidian",
-    "name": "AgriciDaniel/claude-obsidian",
-    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-    "url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "stars": 13812,
-    "growth": 631,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-note-taking",
-      "ai-second-brain",
-      "claude-code",
-      "claude-code-skill",
-      "claude-memory",
-      "claude-plugin",
-      "karpathy-llm-wiki",
-      "knowledge-graph",
-      "knowledge-management",
-      "note-taking",
-      "notion-alternative",
-      "obsidian",
-      "obsidian-ai",
-      "obsidian-plugin",
-      "obsidian-second-brain",
-      "open-source",
-      "personal-knowledge-management",
-      "pkm",
-      "second-brain"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ComposioHQ_awesome-claude-skills",
-    "name": "ComposioHQ/awesome-claude-skills",
-    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "stars": 73490,
-    "growth": 125,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-agents",
-      "antigravity",
-      "automation",
-      "claude",
-      "claude-code",
-      "codex",
-      "composio",
-      "cursor",
+      "cursor-rules",
       "developer-tools",
-      "gemini-cli",
-      "mcp",
-      "openai-codex",
-      "rube",
-      "saas",
-      "skill",
-      "workflow-automation"
-    ]
-  },
-  {
-    "id": "github_trending_OpenCut-app_OpenCut",
-    "name": "OpenCut-app/OpenCut",
-    "description": "The open-source CapCut alternative",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "stars": 87224,
-    "growth": 460,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "editor",
-      "oss",
-      "videoeditor"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_TauricResearch_TradingAgents",
-    "name": "TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "stars": 100991,
-    "growth": 707,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "llm"
-    ],
-    "raw_topics": [
-      "agent",
-      "finance",
       "llm",
-      "multiagent",
-      "trading"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_ConardLi_garden-skills",
-    "name": "ConardLi/garden-skills",
-    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-    "url": "https://github.com/ConardLi/garden-skills",
-    "stars": 11226,
-    "growth": 413,
-    "score": 0.9259,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "CSS",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "agent",
-      "claude",
-      "gpt-image-2",
-      "rag",
-      "skills",
-      "web-design"
+      "prompt-engineering",
+      "yagni"
     ],
     "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_anthropics_claude-plugins-official",
-    "name": "anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "stars": 34567,
-    "growth": 290,
-    "score": 0.9056,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_marin-community_marin",
-    "name": "marin-community/marin",
-    "description": "Open-source framework for the research and development of foundation models.",
-    "url": "https://github.com/marin-community/marin",
-    "stars": 2636,
-    "growth": 255,
-    "score": 0.8781,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_google_googletest",
-    "name": "google/googletest",
-    "description": "GoogleTest - Google Testing and Mocking Framework",
-    "url": "https://github.com/google/googletest",
-    "stars": 38997,
-    "growth": 4,
-    "score": 0.8753,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "BSD-3-Clause"
   },
   {
     "id": "github_trending_JetBrains_go-modern-guidelines",
     "name": "JetBrains/go-modern-guidelines",
     "description": "Help AI coding agents write modern Go",
     "url": "https://github.com/JetBrains/go-modern-guidelines",
-    "stars": 1959,
-    "growth": 314,
-    "score": 0.8657,
+    "stars": 2516,
+    "growth": 574,
+    "score": 0.9921,
     "categories": [
       "AI & Data Science"
     ],
@@ -488,40 +321,184 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_zedeus_nitter",
-    "name": "zedeus/nitter",
-    "description": "Alternative Twitter front-end",
-    "url": "https://github.com/zedeus/nitter",
-    "stars": 13724,
-    "growth": 63,
-    "score": 0.7452,
+    "id": "github_trending_bilawalsidhu_gods-eye-view",
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "stars": 10513,
+    "growth": 1984,
+    "score": 0.9842,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Nim",
+    "language": "JavaScript",
     "raw_topics": [
-      "nim",
-      "privacy",
-      "self-hosted",
-      "twitter",
-      "x"
+      "3d-globe",
+      "cesium",
+      "flight-tracking",
+      "geospatial",
+      "geospatial-intelligence",
+      "gis",
+      "osint",
+      "photogrammetry",
+      "satellite-tracking",
+      "spatial-intelligence",
+      "webgl",
+      "worldview"
     ],
-    "raw_license": "AGPL-3.0"
+    "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_actions_checkout",
-    "name": "actions/checkout",
-    "description": "Action for checking out a repo",
-    "url": "https://github.com/actions/checkout",
-    "stars": 8680,
-    "growth": 4,
-    "score": 0.642,
+    "id": "github_trending_abhigyanpatwari_GitNexus",
+    "name": "abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "stars": 46088,
+    "growth": 189,
+    "score": 0.9648,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_google_googletest",
+    "name": "google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "url": "https://github.com/google/googletest",
+    "stars": 39145,
+    "growth": 156,
+    "score": 0.9633,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_marin-community_marin",
+    "name": "marin-community/marin",
+    "description": "Open-source framework for the research and development of foundation models.",
+    "url": "https://github.com/marin-community/marin",
+    "stars": 2846,
+    "growth": 236,
+    "score": 0.8942,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_tailscale_tailcat",
+    "name": "tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "url": "https://github.com/tailscale/tailcat",
+    "stars": 2477,
+    "growth": 986,
+    "score": 0.8699,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_ChromeDevTools_chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "stars": 49915,
+    "growth": 61,
+    "score": 0.8656,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
-    "raw_license": "MIT"
+    "raw_topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_livekit_agents",
+    "name": "livekit/agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+    "url": "https://github.com/livekit/agents",
+    "stars": 13264,
+    "growth": 14,
+    "score": 0.8421,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agents",
+      "ai",
+      "openai",
+      "real-time",
+      "video",
+      "voice"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cursor_plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "url": "https://github.com/cursor/plugins",
+    "stars": 5882,
+    "growth": 257,
+    "score": 0.7868,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript"
+  },
+  {
+    "id": "github_trending_swoole_typephp",
+    "name": "swoole/typephp",
+    "description": "Compile PHP to Native Binaries",
+    "url": "https://github.com/swoole/typephp",
+    "stars": 756,
+    "growth": 188,
+    "score": 0.7177,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "PHP",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "GPL-3.0"
   }
 ]
