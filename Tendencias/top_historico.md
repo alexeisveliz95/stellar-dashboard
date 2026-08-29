@@ -161,3 +161,6 @@
 | 2026-08-28 | **1** | [archify](https://github.com/tt-a1i/archify) | +4561 | 26.5k | `1.00` |
 | 2026-08-28 | **2** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1984 | 10.5k | `0.98` |
 | 2026-08-28 | **3** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +1687 | 24.1k | `1.00` |
+| 2026-08-29 | **1** | [archify](https://github.com/tt-a1i/archify) | +4562 | 29.2k | `1.00` |
+| 2026-08-29 | **2** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +3829 | 11.8k | `0.99` |
+| 2026-08-29 | **3** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +1687 | 24.7k | `1.00` |

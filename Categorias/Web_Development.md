@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **105.0k**
+> Actualizado: `2026-08-29 11:25`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**archify**](https://github.com/tt-a1i/archify) | **1.00** | 29.2k | `██████████` | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and… |
+| [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) | **1.00** | 75.8k | `█░░░░░░░░░` | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
 
 ---
