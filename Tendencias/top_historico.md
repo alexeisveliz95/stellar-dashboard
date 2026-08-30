@@ -164,3 +164,6 @@
 | 2026-08-29 | **1** | [archify](https://github.com/tt-a1i/archify) | +4562 | 29.2k | `1.00` |
 | 2026-08-29 | **2** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +3829 | 11.8k | `0.99` |
 | 2026-08-29 | **3** | [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +1687 | 24.7k | `1.00` |
+| 2026-08-30 | **1** | [archify](https://github.com/tt-a1i/archify) | +3902 | 32.6k | `1.00` |
+| 2026-08-30 | **2** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1855 | 13.2k | `1.00` |
+| 2026-08-30 | **3** | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +1587 | 38.3k | `1.00` |

@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **4 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **61.4k**
+> Actualizado: `2026-08-30 10:11`
 
 ---
 
@@ -10,11 +10,9 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 13.2k | `███████░░░` | A spy satellite simulator in your browser, except the data is real. Live open source spatial… |
+| [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | **0.98** | 35.6k | `█░░░░░░░░░` | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [**tailcat**](https://github.com/tailscale/tailcat) | **0.89** | 3.9k | `██████████` | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| [**checkout**](https://github.com/actions/checkout) | **0.69** | 8.8k | `█░░░░░░░░░` | Action for checking out a repo |
 
 ---
