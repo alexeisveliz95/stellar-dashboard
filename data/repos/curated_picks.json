@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-08-23T23:18:35.284065+00:00",
+  "updated_at": "2026-08-31T01:03:30.992297+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W36",
+      "week_start": "2026-08-31",
+      "generated_at": "2026-08-31T01:03:30.992297+00:00",
+      "picks": [
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 242700,
+          "growth": 427,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "score": 0.73,
+          "stars": 101000,
+          "growth": 707,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "score": 0.73,
+          "stars": 134300,
+          "growth": 161,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "score": 0.0,
+          "stars": 29200,
+          "growth": 4562,
+          "momentum": 0.5,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "score": 0.0,
+          "stars": 11800,
+          "growth": 3829,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "codex",
+          "url": "https://github.com/openai/codex",
+          "score": 0.0,
+          "stars": 115900,
+          "growth": 2715,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "score": 0.0,
+          "stars": 15900,
+          "growth": 2449,
+          "momentum": 0.5,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 234200,
+          "growth": 2447,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "score": 0.0,
+          "stars": 113700,
+          "growth": 1610,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "score": 0.0,
+          "stars": 38300,
+          "growth": 1587,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W34",
       "week_start": "2026-08-17",
@@ -318,113 +425,6 @@
           "stars": 28600,
           "growth": 1711,
           "momentum": 0.2,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W31",
-      "week_start": "2026-07-27",
-      "generated_at": "2026-08-02T23:55:01.822824+00:00",
-      "picks": [
-        {
-          "name": "ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "score": 0.75,
-          "stars": 235800,
-          "growth": 857,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "score": 0.71,
-          "stars": 34700,
-          "growth": 441,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "bitchat",
-          "url": "https://github.com/permissionlesstech/bitchat",
-          "score": 0.0,
-          "stars": 32700,
-          "growth": 2346,
-          "momentum": 0.5,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "buzz",
-          "url": "https://github.com/block/buzz",
-          "score": 0.0,
-          "stars": 13900,
-          "growth": 1710,
-          "momentum": 0.7,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "AI-For-Beginners",
-          "url": "https://github.com/microsoft/AI-For-Beginners",
-          "score": 0.0,
-          "stars": 55500,
-          "growth": 1592,
-          "momentum": 0.2,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "book-to-skill",
-          "url": "https://github.com/virgiliojr94/book-to-skill",
-          "score": 0.0,
-          "stars": 13200,
-          "growth": 1421,
-          "momentum": 0.7,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "reverse-skill",
-          "url": "https://github.com/zhaoxuya520/reverse-skill",
-          "score": 0.0,
-          "stars": 12200,
-          "growth": 1320,
-          "momentum": 0.8,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "editor",
-          "url": "https://github.com/pascalorg/editor",
-          "score": 0.0,
-          "stars": 19800,
-          "growth": 1022,
-          "momentum": 0.3,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "claude-video",
-          "url": "https://github.com/bradautomates/claude-video",
-          "score": 0.0,
-          "stars": 12400,
-          "growth": 988,
-          "momentum": 0.5,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "score": 0.0,
-          "stars": 15200,
-          "growth": 979,
-          "momentum": 0.4,
           "language": null,
           "description": null
         }
