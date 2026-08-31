@@ -167,3 +167,6 @@
 | 2026-08-30 | **1** | [archify](https://github.com/tt-a1i/archify) | +3902 | 32.6k | `1.00` |
 | 2026-08-30 | **2** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1855 | 13.2k | `1.00` |
 | 2026-08-30 | **3** | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +1587 | 38.3k | `1.00` |
+| 2026-08-31 | **1** | [archify](https://github.com/tt-a1i/archify) | +3722 | 36.7k | `1.00` |
+| 2026-08-31 | **2** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1439 | 32.6k | `1.00` |
+| 2026-08-31 | **3** | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +1370 | 25.6k | `1.00` |

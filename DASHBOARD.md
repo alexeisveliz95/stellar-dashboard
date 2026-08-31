@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-08-31 01:03`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-08-31 11:12`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**archify**](https://github.com/tt-a1i/archify) | 32.6k | +3.9k | JavaScript |
-| 2 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 13.2k | +1.9k | JavaScript |
-| 3 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 38.3k | +1.6k | Python |
-| 4 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | 22.7k | +907 | TypeScript |
-| 5 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 54.3k | +806 | Python |
-| 6 | [**tailcat**](https://github.com/tailscale/tailcat) | 3.9k | +789 | Go |
-| 7 | [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) | 76.2k | +550 | Python |
-| 8 | [**open-seo**](https://github.com/every-app/open-seo) | 14.8k | +517 | TypeScript |
-| 9 | [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | 35.6k | +358 | Python |
-| 10 | [**go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) | 2.9k | +303 | Go |
+| 1 | [**archify**](https://github.com/tt-a1i/archify) | 36.7k | +3.7k | JavaScript |
+| 2 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 32.6k | +1.4k | PowerShell |
+| 3 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | 25.6k | +1.4k | TypeScript |
+| 4 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 40.3k | +1.1k | Python |
+| 5 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | 23.1k | +718 | C# |
+| 6 | [**ECC**](https://github.com/affaan-m/ECC) | 244.9k | +490 | JavaScript |
+| 7 | [**minimind**](https://github.com/jingyaogong/minimind) | 55.7k | +472 | Python |
+| 8 | [**open-seo**](https://github.com/every-app/open-seo) | 15.5k | +469 | TypeScript |
+| 9 | [**user-scanner**](https://github.com/kaifcodec/user-scanner) | 3.9k | +462 | Python |
+| 10 | [**heretic**](https://github.com/p-e-w/heretic) | 29.4k | +369 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**archify**](https://github.com/tt-a1i/archify) | **1.00** | 32.6k | Web Development |
-| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 13.2k | Otros |
-| 🥉 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 38.3k | AI & Data Science |
-| 4 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | **1.00** | 22.7k | AI & Data Science |
-| 5 | [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) | **1.00** | 74.0k | AI & Data Science |
-| 6 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 54.3k | AI & Data Science |
-| 7 | [**open-seo**](https://github.com/every-app/open-seo) | **1.00** | 14.8k | Mobile Development |
-| 8 | [**screenshot-to-code**](https://github.com/abi/screenshot-to-code) | **1.00** | 76.2k | Web Development |
-| 9 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 90.8k | AI & Data Science |
-| 10 | [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | **0.98** | 35.6k | Otros |
+| 🥇 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | **1.00** | 25.6k | AI & Data Science |
+| 🥈 | [**archify**](https://github.com/tt-a1i/archify) | **1.00** | 36.7k | Web Development |
+| 🥉 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 40.3k | AI & Data Science |
+| 4 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | **1.00** | 23.1k | Mobile Development |
+| 5 | [**minimind**](https://github.com/jingyaogong/minimind) | **1.00** | 55.7k | AI & Data Science |
+| 6 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 32.6k | Cybersecurity & Hacking |
+| 7 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 244.9k | Cybersecurity & Hacking |
+| 8 | [**user-scanner**](https://github.com/kaifcodec/user-scanner) | **1.00** | 3.9k | Cybersecurity & Hacking |
+| 9 | [**heretic**](https://github.com/p-e-w/heretic) | **1.00** | 29.4k | AI & Data Science |
+| 10 | [**open-seo**](https://github.com/every-app/open-seo) | **1.00** | 15.5k | Mobile Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 3 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 3 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 3 | **0.88** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.83** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
