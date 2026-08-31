@@ -1,8 +1,8 @@
 # 📂 Cybersecurity & Hacking
 
 > [!info] Resumen de Categoría
-> **3 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **281.4k**
-> Actualizado: `2026-08-31 11:12`
+> **5 proyectos** · ⭐ Mejor score: **0.75** · Estrellas totales: **248.1k**
+> Actualizado: `2026-07-06 18:15`
 
 ---
 
@@ -10,8 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 32.6k | `████░░░░░░` | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack… |
-| [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 244.9k | `█░░░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
-| [**user-scanner**](https://github.com/kaifcodec/user-scanner) | **1.00** | 3.9k | `██████████` | 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single… |
+| [**awesome-hermes-agent**](https://github.com/0xNyk/awesome-hermes-agent) | **0.75** | 4.5k | `░░░░░░░░░░` | A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous… |
+| [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 226.7k | `░░░░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
+| [**SkillSpector**](https://github.com/NVIDIA/SkillSpector) | **0.73** | 12.1k | `░░░░░░░░░░` | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security… |
+| [**vps-audit**](https://github.com/vernu/vps-audit) | **0.73** | 2.0k | `░░░░░░░░░░` | lightweight, dependency-free bash script for security, performance auditing and infrastructure… |
+| [**QuantAgent**](https://github.com/Y-Research-SBU/QuantAgent) | **0.71** | 2.8k | `░░░░░░░░░░` | Official Repository for QuantAgent |
 
 ---
