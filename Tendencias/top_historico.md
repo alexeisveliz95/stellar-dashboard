@@ -170,3 +170,6 @@
 | 2026-08-31 | **1** | [archify](https://github.com/tt-a1i/archify) | +3722 | 36.7k | `1.00` |
 | 2026-08-31 | **2** | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | +1439 | 32.6k | `1.00` |
 | 2026-08-31 | **3** | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +1370 | 25.6k | `1.00` |
+| 2026-09-01 | **1** | [archify](https://github.com/tt-a1i/archify) | +3991 | 40.5k | `1.00` |
+| 2026-09-01 | **2** | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +2824 | 28.5k | `1.00` |
+| 2026-09-01 | **3** | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +1980 | 41.2k | `1.00` |
