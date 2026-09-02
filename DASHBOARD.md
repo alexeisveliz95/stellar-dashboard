@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-01 11:26`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-02 09:14`
+> 📦 **30** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**archify**](https://github.com/tt-a1i/archify) | 40.5k | +4.0k | JavaScript |
-| 2 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | 28.5k | +2.8k | TypeScript |
-| 3 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 41.2k | +2.0k | Python |
-| 4 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 33.6k | +1.4k | PowerShell |
-| 5 | [**open-seo**](https://github.com/every-app/open-seo) | 16.0k | +610 | TypeScript |
-| 6 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | 23.5k | +582 | C# |
-| 7 | [**patent-disclosure-skill**](https://github.com/handsomestWei/patent-disclosure-skill) | 6.5k | +571 | Python |
-| 8 | [**heretic**](https://github.com/p-e-w/heretic) | 29.9k | +537 | Python |
-| 9 | [**ECC**](https://github.com/affaan-m/ECC) | 245.5k | +512 | JavaScript |
-| 10 | [**minimind**](https://github.com/jingyaogong/minimind) | 56.6k | +495 | Python |
+| 1 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | 30.1k | +3.1k | TypeScript |
+| 2 | [**minimind**](https://github.com/jingyaogong/minimind) | 57.5k | +1.0k | Python |
+| 3 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 41.9k | +912 | Python |
+| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 245.9k | +623 | JavaScript |
+| 5 | [**invidious**](https://github.com/iv-org/invidious) | 23.9k | +577 | Crystal |
+| 6 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 18.2k | +541 | Rust |
+| 7 | [**patent-disclosure-skill**](https://github.com/handsomestWei/patent-disclosure-skill) | 7.0k | +501 | Python |
+| 8 | [**video-use**](https://github.com/browser-use/video-use) | 23.3k | +472 | Python |
+| 9 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | 113.3k | +323 | — |
+| 10 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | 45.3k | +193 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | **1.00** | 28.5k | AI & Data Science |
-| 🥈 | [**archify**](https://github.com/tt-a1i/archify) | **1.00** | 40.5k | Web Development |
-| 🥉 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 41.2k | AI & Data Science |
-| 4 | [**Wand-Enhancer**](https://github.com/k1tbyte/Wand-Enhancer) | **1.00** | 23.5k | Mobile Development |
-| 5 | [**minimind**](https://github.com/jingyaogong/minimind) | **1.00** | 56.6k | AI & Data Science |
-| 6 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 33.6k | Cybersecurity & Hacking |
-| 7 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 245.5k | Cybersecurity & Hacking |
-| 8 | [**open-seo**](https://github.com/every-app/open-seo) | **1.00** | 16.0k | Mobile Development |
-| 9 | [**heretic**](https://github.com/p-e-w/heretic) | **1.00** | 29.9k | AI & Data Science |
-| 10 | [**patent-disclosure-skill**](https://github.com/handsomestWei/patent-disclosure-skill) | **0.96** | 6.5k | Otros |
+| 🥇 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **1.00** | 45.3k | Cybersecurity & Hacking |
+| 🥈 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | **1.00** | 30.1k | AI & Data Science |
+| 🥉 | [**minimind**](https://github.com/jingyaogong/minimind) | **1.00** | 57.5k | AI & Data Science |
+| 4 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 41.9k | AI & Data Science |
+| 5 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | **1.00** | 113.3k | Web Development |
+| 6 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 245.9k | Cybersecurity & Hacking |
+| 7 | [**invidious**](https://github.com/iv-org/invidious) | **0.99** | 23.9k | Otros |
+| 8 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | **0.95** | 18.2k | Otros |
+| 9 | [**crawl4ai**](https://github.com/unclecode/crawl4ai) | **0.94** | 81.0k | Web Development |
+| 10 | [**video-use**](https://github.com/browser-use/video-use) | **0.93** | 23.3k | Web Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 5 | **0.99** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 4 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

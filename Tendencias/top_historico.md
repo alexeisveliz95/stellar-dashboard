@@ -173,3 +173,6 @@
 | 2026-09-01 | **1** | [archify](https://github.com/tt-a1i/archify) | +3991 | 40.5k | `1.00` |
 | 2026-09-01 | **2** | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +2824 | 28.5k | `1.00` |
 | 2026-09-01 | **3** | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +1980 | 41.2k | `1.00` |
+| 2026-09-02 | **1** | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +3128 | 30.1k | `1.00` |
+| 2026-09-02 | **2** | [minimind](https://github.com/jingyaogong/minimind) | +1005 | 57.5k | `1.00` |
+| 2026-09-02 | **3** | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +912 | 41.9k | `1.00` |
