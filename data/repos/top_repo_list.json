@@ -1,11 +1,39 @@
 [
   {
+    "id": "github_trending_Imbad0202_academic-research-skills",
+    "name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "stars": 45262,
+    "growth": 193,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "academic-pipeline",
+      "academic-writing",
+      "ai-research",
+      "claude",
+      "claude-code",
+      "literature-review",
+      "peer-review",
+      "prompt-engineering"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
     "id": "github_trending_THU-MAIC_OpenMAIC",
     "name": "THU-MAIC/OpenMAIC",
     "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
     "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "stars": 28540,
-    "growth": 2824,
+    "stars": 30059,
+    "growth": 3128,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -18,52 +46,34 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_tt-a1i_archify",
-    "name": "tt-a1i/archify",
-    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-    "url": "https://github.com/tt-a1i/archify",
-    "stars": 40540,
-    "growth": 3991,
+    "id": "github_trending_jingyaogong_minimind",
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "url": "https://github.com/jingyaogong/minimind",
+    "stars": 57500,
+    "growth": 1005,
     "score": 1.0,
     "categories": [
-      "Web Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Python",
     "tags": [
-      "html"
+      "llm"
     ],
     "raw_topics": [
-      "agent-skills",
-      "architecture-as-code",
-      "architecture-diagram",
-      "claude-skill",
-      "code-visualization",
-      "codex",
-      "coding-agents",
-      "data-flow-diagram",
-      "deepseek-harness",
-      "developer-tools",
-      "diagram-as-code",
-      "diagrams",
-      "diagrams-as-code",
-      "dsh-plugin",
-      "mermaid-alternative",
-      "opencode",
-      "sequence-diagram",
-      "software-architecture",
-      "system-design",
-      "text-to-diagram"
+      "artificial-intelligence",
+      "large-language-model"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_K-Dense-AI_scientific-agent-skills",
     "name": "K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "stars": 41162,
-    "growth": 1980,
+    "stars": 41897,
+    "growth": 912,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -95,68 +105,31 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_k1tbyte_Wand-Enhancer",
-    "name": "k1tbyte/Wand-Enhancer",
-    "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-    "url": "https://github.com/k1tbyte/Wand-Enhancer",
-    "stars": 23535,
-    "growth": 582,
+    "id": "github_trending_VoltAgent_awesome-design-md",
+    "name": "VoltAgent/awesome-design-md",
+    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "stars": 113303,
+    "growth": 323,
     "score": 1.0,
     "categories": [
-      "Mobile Development"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "C#",
     "tags": [
-      "nlp:mobile-development"
+      "nlp:web-development"
     ],
     "raw_topics": [
-      "csharp",
-      "wand",
-      "wand-enhancer",
-      "wand-pro",
-      "wemod",
-      "wpf"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_jingyaogong_minimind",
-    "name": "jingyaogong/minimind",
-    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-    "url": "https://github.com/jingyaogong/minimind",
-    "stars": 56641,
-    "growth": 495,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "llm"
-    ],
-    "raw_topics": [
-      "artificial-intelligence",
-      "large-language-model"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_zhaoxuya520_reverse-skill",
-    "name": "zhaoxuya520/reverse-skill",
-    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "stars": 33573,
-    "growth": 1401,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "PowerShell",
-    "tags": [
-      "nlp:cybersecurity-hacking"
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma",
+      "google-stitch",
+      "landing-page",
+      "vibe-coding",
+      "vibe-design",
+      "vibecoding"
     ],
     "raw_license": "MIT"
   },
@@ -165,8 +138,8 @@
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 245468,
-    "growth": 512,
+    "stars": 245938,
+    "growth": 623,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -189,122 +162,38 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_every-app_open-seo",
-    "name": "every-app/open-seo",
-    "description": "Open source alternative to Semrush and Ahrefs",
-    "url": "https://github.com/every-app/open-seo",
-    "stars": 15962,
-    "growth": 610,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "backlink-analysis",
-      "google-search-console-mcp",
-      "keyword-research",
-      "mcp",
-      "seo",
-      "seo-tools",
-      "site-audit"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_p-e-w_heretic",
-    "name": "p-e-w/heretic",
-    "description": "Fully automatic censorship removal for language models",
-    "url": "https://github.com/p-e-w/heretic",
-    "stars": 29851,
-    "growth": 537,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "abliteration",
-      "llm",
-      "transformer"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_handsomestWei_patent-disclosure-skill",
-    "name": "handsomestWei/patent-disclosure-skill",
-    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-    "stars": 6530,
-    "growth": 571,
-    "score": 0.9616,
+    "id": "github_trending_iv-org_invidious",
+    "name": "iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "url": "https://github.com/iv-org/invidious",
+    "stars": 23897,
+    "growth": 577,
+    "score": 0.989,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "Crystal",
     "raw_topics": [
-      "chinese",
-      "disclosure",
-      "obsidian",
-      "patent",
-      "skill"
+      "agplv3",
+      "hacktoberfest",
+      "invidious",
+      "libre",
+      "video",
+      "watch",
+      "youtube",
+      "youtube-video"
     ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_majd_ipatool",
-    "name": "majd/ipatool",
-    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-    "url": "https://github.com/majd/ipatool",
-    "stars": 10687,
-    "growth": 373,
-    "score": 0.9516,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "apple",
-      "appstore",
-      "cli",
-      "command-line",
-      "command-line-tool",
-      "go",
-      "golang",
-      "golang-library",
-      "ios",
-      "ipa",
-      "itunes",
-      "macos",
-      "research",
-      "reverse-engineering",
-      "security",
-      "swift",
-      "tool"
-    ],
-    "raw_license": "MIT"
+    "raw_license": "AGPL-3.0"
   },
   {
     "id": "github_trending_firecrawl_pdf-inspector",
     "name": "firecrawl/pdf-inspector",
     "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
     "url": "https://github.com/firecrawl/pdf-inspector",
-    "stars": 17613,
-    "growth": 228,
-    "score": 0.895,
+    "stars": 18178,
+    "growth": 541,
+    "score": 0.9465,
     "categories": [
       "Otros"
     ],
@@ -325,117 +214,122 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_checkstyle_checkstyle",
-    "name": "checkstyle/checkstyle",
-    "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-    "url": "https://github.com/checkstyle/checkstyle",
-    "stars": 9502,
-    "growth": 198,
-    "score": 0.8743,
+    "id": "github_trending_unclecode_crawl4ai",
+    "name": "unclecode/crawl4ai",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "stars": 81029,
+    "growth": 145,
+    "score": 0.9383,
     "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "code-quality",
-      "command-line-tool",
-      "hacktoberfest",
-      "java",
-      "static-analysis",
-      "static-code-analysis"
-    ],
-    "raw_license": "LGPL-2.1"
-  },
-  {
-    "id": "github_trending_Osmantic_ODS",
-    "name": "Osmantic/ODS",
-    "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-    "url": "https://github.com/Osmantic/ODS",
-    "stars": 5750,
-    "growth": 77,
-    "score": 0.8458,
-    "categories": [
-      "AI & Data Science"
+      "Web Development"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "amd",
-      "comfyui",
-      "docker",
-      "llama-cpp",
-      "llm",
-      "local-ai",
-      "n8n",
-      "nvidia",
-      "open-webui",
-      "rag",
-      "self-hosted",
-      "speech-to-text",
-      "strix-halo",
-      "text-to-speech",
-      "workflow-automation"
+      "nlp:web-development"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_kaifcodec_user-scanner",
-    "name": "kaifcodec/user-scanner",
-    "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
-    "url": "https://github.com/kaifcodec/user-scanner",
-    "stars": 4494,
-    "growth": 93,
-    "score": 0.8456,
+    "id": "github_trending_browser-use_video-use",
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "url": "https://github.com/browser-use/video-use",
+    "stars": 23278,
+    "growth": 472,
+    "score": 0.9332,
     "categories": [
-      "Cybersecurity & Hacking"
+      "Web Development"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "cybersecurity",
-      "cybersecurity-tools",
-      "email-osint",
-      "ethical-hacking",
-      "ethical-hacking-tools",
-      "identification",
-      "infosec",
-      "osint",
-      "osint-email",
-      "osint-tool",
-      "osint-tools",
-      "osint-username",
-      "pentesting",
-      "python",
-      "redteam-tools",
-      "redteaming",
-      "threat-intelligence"
+      "nlp:web-development"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_pollen-robotics_microduck_rl",
-    "name": "pollen-robotics/microduck_rl",
-    "description": "RL training environments for Microduck (mjlab)",
-    "url": "https://github.com/pollen-robotics/microduck_rl",
-    "stars": 1337,
-    "growth": 385,
-    "score": 0.8428,
+    "id": "github_trending_3b1b_manim",
+    "name": "3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "url": "https://github.com/3b1b/manim",
+    "stars": 92761,
+    "growth": 86,
+    "score": 0.9302,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
-    "raw_license": "Apache-2.0"
+    "raw_topics": [
+      "3b1b-videos",
+      "animation",
+      "explanatory-math-videos",
+      "python"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_handsomestWei_patent-disclosure-skill",
+    "name": "handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "stars": 6984,
+    "growth": 501,
+    "score": 0.9068,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "chinese",
+      "disclosure",
+      "obsidian",
+      "patent",
+      "skill"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Gitlawb_openclaude",
+    "name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "stars": 31659,
+    "growth": 80,
+    "score": 0.8202,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "cli",
+      "coding"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_averygan_reclip",
+    "name": "averygan/reclip",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "url": "https://github.com/averygan/reclip",
+    "stars": 7992,
+    "growth": 56,
+    "score": 0.7014,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "MIT"
   }
 ]
