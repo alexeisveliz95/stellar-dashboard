@@ -1,11 +1,89 @@
 [
   {
+    "id": "github_trending_google-research_timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "url": "https://github.com/google-research/timesfm",
+    "stars": 30417,
+    "growth": 343,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_DietrichGebert_ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "stars": 122518,
+    "growth": 1354,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NousResearch_hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "stars": 240415,
+    "growth": 533,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "nous-research",
+      "openai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_Imbad0202_academic-research-skills",
     "name": "Imbad0202/academic-research-skills",
     "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
     "url": "https://github.com/Imbad0202/academic-research-skills",
-    "stars": 45262,
-    "growth": 193,
+    "stars": 45784,
+    "growth": 799,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -28,118 +106,12 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_THU-MAIC_OpenMAIC",
-    "name": "THU-MAIC/OpenMAIC",
-    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "stars": 30059,
-    "growth": 3128,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_jingyaogong_minimind",
-    "name": "jingyaogong/minimind",
-    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-    "url": "https://github.com/jingyaogong/minimind",
-    "stars": 57500,
-    "growth": 1005,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "llm"
-    ],
-    "raw_topics": [
-      "artificial-intelligence",
-      "large-language-model"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_K-Dense-AI_scientific-agent-skills",
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "stars": 41897,
-    "growth": 912,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-scientist",
-      "bioinformatics",
-      "chemoinformatics",
-      "claude",
-      "claude-skills",
-      "claudecode",
-      "clinical-research",
-      "computational-biology",
-      "data-analysis",
-      "drug-discovery",
-      "genomics",
-      "materials-science",
-      "metabolomics",
-      "proteomics",
-      "scientific-computing",
-      "scientific-visualization"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_VoltAgent_awesome-design-md",
-    "name": "VoltAgent/awesome-design-md",
-    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-    "url": "https://github.com/VoltAgent/awesome-design-md",
-    "stars": 113303,
-    "growth": 323,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "awesome-list",
-      "design-md",
-      "design-system",
-      "design-tokens",
-      "figma",
-      "google-stitch",
-      "landing-page",
-      "vibe-coding",
-      "vibe-design",
-      "vibecoding"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_affaan-m_ECC",
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 245938,
-    "growth": 623,
+    "stars": 246636,
+    "growth": 516,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -162,38 +134,107 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_iv-org_invidious",
-    "name": "iv-org/invidious",
-    "description": "Invidious is an alternative front-end to YouTube",
-    "url": "https://github.com/iv-org/invidious",
-    "stars": 23897,
-    "growth": 577,
-    "score": 0.989,
+    "id": "github_trending_blader_humanizer",
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "url": "https://github.com/blader/humanizer",
+    "stars": 40880,
+    "growth": 374,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_JuliusBrussee_caveman",
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 102836,
+    "growth": 238,
+    "score": 1.0,
+    "categories": [
+      "Web3 & Blockchain"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:web3-blockchain"
+    ],
+    "raw_topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 245825,
+    "growth": 1166,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Crystal",
-    "raw_topics": [
-      "agplv3",
-      "hacktoberfest",
-      "invidious",
-      "libre",
-      "video",
-      "watch",
-      "youtube",
-      "youtube-video"
+    "language": "Shell",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Gitlawb_openclaude",
+    "name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "stars": 32149,
+    "growth": 775,
+    "score": 1.0,
+    "categories": [
+      "Otros"
     ],
-    "raw_license": "AGPL-3.0"
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "cli",
+      "coding"
+    ],
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_firecrawl_pdf-inspector",
     "name": "firecrawl/pdf-inspector",
     "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
     "url": "https://github.com/firecrawl/pdf-inspector",
-    "stars": 18178,
-    "growth": 541,
-    "score": 0.9465,
+    "stars": 18699,
+    "growth": 586,
+    "score": 0.9929,
     "categories": [
       "Otros"
     ],
@@ -214,13 +255,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_unclecode_crawl4ai",
-    "name": "unclecode/crawl4ai",
-    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-    "url": "https://github.com/unclecode/crawl4ai",
-    "stars": 81029,
-    "growth": 145,
-    "score": 0.9383,
+    "id": "github_trending_debpalash_VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "stars": 15467,
+    "growth": 832,
+    "score": 0.9788,
     "categories": [
       "Web Development"
     ],
@@ -229,107 +270,245 @@
     "tags": [
       "nlp:web-development"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_topics": [
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "tauri",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
+    ],
+    "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_browser-use_video-use",
-    "name": "browser-use/video-use",
-    "description": "Edit videos with coding agents",
-    "url": "https://github.com/browser-use/video-use",
-    "stars": 23278,
-    "growth": 472,
-    "score": 0.9332,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_3b1b_manim",
-    "name": "3b1b/manim",
-    "description": "Animation engine for explanatory math videos",
-    "url": "https://github.com/3b1b/manim",
-    "stars": 92761,
-    "growth": 86,
-    "score": 0.9302,
+    "id": "github_trending_pacifio_atlas",
+    "name": "pacifio/atlas",
+    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "url": "https://github.com/pacifio/atlas",
+    "stars": 3066,
+    "growth": 888,
+    "score": 0.9375,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "Rust",
     "raw_topics": [
-      "3b1b-videos",
-      "animation",
-      "explanatory-math-videos",
-      "python"
+      "ai",
+      "ai-coding-assistant",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "git",
+      "gitops",
+      "kilo-code",
+      "mcp",
+      "mcp-client",
+      "opencode",
+      "opencode-ai",
+      "opencode-skills",
+      "self-hosted",
+      "skills"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_handsomestWei_patent-disclosure-skill",
-    "name": "handsomestWei/patent-disclosure-skill",
-    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-    "stars": 6984,
-    "growth": 501,
-    "score": 0.9068,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "chinese",
-      "disclosure",
-      "obsidian",
-      "patent",
-      "skill"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Gitlawb_openclaude",
-    "name": "Gitlawb/openclaude",
-    "description": "runs anywhere. uses anything",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "stars": 31659,
-    "growth": 80,
-    "score": 0.8202,
+    "id": "github_trending_ChromeDevTools_chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "stars": 50776,
+    "growth": 148,
+    "score": 0.8895,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
     "raw_topics": [
-      "ai",
-      "ai-agent",
-      "ai-tools",
-      "cli",
-      "coding"
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_protocolbuffers_protobuf",
+    "name": "protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "stars": 71984,
+    "growth": 18,
+    "score": 0.8601,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_topics": [
+      "marshalling",
+      "protobuf",
+      "protobuf-runtime",
+      "protoc",
+      "protocol-buffers",
+      "protocol-compiler",
+      "rpc",
+      "serialization"
     ],
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_averygan_reclip",
-    "name": "averygan/reclip",
-    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-    "url": "https://github.com/averygan/reclip",
-    "stars": 7992,
-    "growth": 56,
-    "score": 0.7014,
+    "id": "github_trending_fmtlib_fmt",
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "url": "https://github.com/fmtlib/fmt",
+    "stars": 24605,
+    "growth": 14,
+    "score": 0.7434,
     "categories": [
       "Web Development"
     ],
     "source": "github_trending",
-    "language": "HTML",
+    "language": "C++",
     "tags": [
       "nlp:web-development"
     ],
+    "raw_topics": [
+      "c-plus-plus",
+      "chrono",
+      "cpp",
+      "cross-platform",
+      "floating-point",
+      "formatting",
+      "multiplatform",
+      "output",
+      "performance",
+      "printf",
+      "ranges",
+      "unicode"
+    ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_superlinked_sie",
+    "name": "superlinked/sie",
+    "description": "Open-source inference server and production cluster for all the models your agent needs.",
+    "url": "https://github.com/superlinked/sie",
+    "stars": 3162,
+    "growth": 60,
+    "score": 0.713,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "bge",
+      "colbert",
+      "data-pipeline",
+      "deep-learning",
+      "embeddings",
+      "inference",
+      "inference-server",
+      "information-retrieval",
+      "llm",
+      "ml",
+      "mlops",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "reranking",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "splade",
+      "vector-search"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_zyronon_TypeWords",
+    "name": "zyronon/TypeWords",
+    "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+    "url": "https://github.com/zyronon/TypeWords",
+    "stars": 9529,
+    "growth": 21,
+    "score": 0.7038,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Vue",
+    "raw_topics": [
+      "english-learn",
+      "learn-english",
+      "memorizing-words",
+      "type-words",
+      "typing-practice",
+      "typingspeedtest"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_sngyai_Sequoia-X",
+    "name": "sngyai/Sequoia-X",
+    "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+    "url": "https://github.com/sngyai/Sequoia-X",
+    "stars": 6406,
+    "growth": 63,
+    "score": 0.6796,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "a-shares",
+      "akshare",
+      "baostock",
+      "pandas",
+      "python",
+      "stock-screening",
+      "ta-lib",
+      "trading",
+      "turtle-trade"
+    ]
+  },
+  {
+    "id": "github_trending_vercel-labs_portless",
+    "name": "vercel-labs/portless",
+    "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+    "url": "https://github.com/vercel-labs/portless",
+    "stars": 11960,
+    "growth": 73,
+    "score": 0.6759,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "Apache-2.0"
   }
 ]
