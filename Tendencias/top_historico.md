@@ -176,3 +176,6 @@
 | 2026-09-02 | **1** | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | +3128 | 30.1k | `1.00` |
 | 2026-09-02 | **2** | [minimind](https://github.com/jingyaogong/minimind) | +1005 | 57.5k | `1.00` |
 | 2026-09-02 | **3** | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | +912 | 41.9k | `1.00` |
+| 2026-09-03 | **1** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1354 | 122.5k | `1.00` |
+| 2026-09-03 | **2** | [skills](https://github.com/mattpocock/skills) | +1166 | 245.8k | `1.00` |
+| 2026-09-03 | **3** | [atlas](https://github.com/pacifio/atlas) | +888 | 3.1k | `0.94` |

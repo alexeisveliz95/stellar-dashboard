@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-02 11:00`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-03 09:20`
+> 📦 **30** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | 30.1k | +3.1k | TypeScript |
-| 2 | [**minimind**](https://github.com/jingyaogong/minimind) | 57.5k | +1.0k | Python |
-| 3 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 41.9k | +912 | Python |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 245.9k | +623 | JavaScript |
-| 5 | [**invidious**](https://github.com/iv-org/invidious) | 23.9k | +577 | Crystal |
-| 6 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 18.2k | +541 | Rust |
-| 7 | [**patent-disclosure-skill**](https://github.com/handsomestWei/patent-disclosure-skill) | 7.0k | +501 | Python |
-| 8 | [**video-use**](https://github.com/browser-use/video-use) | 23.3k | +472 | Python |
-| 9 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | 113.3k | +323 | — |
-| 10 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | 45.3k | +193 | Python |
+| 1 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 122.5k | +1.4k | JavaScript |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 245.8k | +1.2k | Shell |
+| 3 | [**atlas**](https://github.com/pacifio/atlas) | 3.1k | +888 | Rust |
+| 4 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 15.5k | +832 | Python |
+| 5 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | 45.8k | +799 | Python |
+| 6 | [**openclaude**](https://github.com/Gitlawb/openclaude) | 32.1k | +775 | TypeScript |
+| 7 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | 18.7k | +586 | Rust |
+| 8 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 240.4k | +533 | Python |
+| 9 | [**ECC**](https://github.com/affaan-m/ECC) | 246.6k | +516 | JavaScript |
+| 10 | [**humanizer**](https://github.com/blader/humanizer) | 40.9k | +374 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **1.00** | 45.3k | Cybersecurity & Hacking |
-| 🥈 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | **1.00** | 30.1k | AI & Data Science |
-| 🥉 | [**minimind**](https://github.com/jingyaogong/minimind) | **1.00** | 57.5k | AI & Data Science |
-| 4 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 41.9k | AI & Data Science |
-| 5 | [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) | **1.00** | 113.3k | Web Development |
-| 6 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 245.9k | Cybersecurity & Hacking |
-| 7 | [**invidious**](https://github.com/iv-org/invidious) | **0.99** | 23.9k | Otros |
-| 8 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | **0.95** | 18.2k | Otros |
-| 9 | [**crawl4ai**](https://github.com/unclecode/crawl4ai) | **0.94** | 81.0k | Web Development |
-| 10 | [**video-use**](https://github.com/browser-use/video-use) | **0.93** | 23.3k | Web Development |
+| 🥇 | [**timesfm**](https://github.com/google-research/timesfm) | **1.00** | 30.4k | AI & Data Science |
+| 🥈 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 122.5k | AI & Data Science |
+| 🥉 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 240.4k | Otros |
+| 4 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **1.00** | 45.8k | Cybersecurity & Hacking |
+| 5 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 246.6k | Cybersecurity & Hacking |
+| 6 | [**humanizer**](https://github.com/blader/humanizer) | **1.00** | 40.9k | AI & Data Science |
+| 7 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 102.8k | Web3 & Blockchain |
+| 8 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 245.8k | Otros |
+| 9 | [**openclaude**](https://github.com/Gitlawb/openclaude) | **1.00** | 32.1k | Otros |
+| 10 | [**pdf-inspector**](https://github.com/firecrawl/pdf-inspector) | **0.99** | 18.7k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 10 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.71** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.98** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **1.00** |
 
 ---

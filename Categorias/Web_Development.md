@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **2 proyectos** · ⭐ Mejor score: **0.98** · Estrellas totales: **40.1k**
+> Actualizado: `2026-09-03 09:20`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **0.98** | 15.5k | `██████████` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
+| [**fmt**](https://github.com/fmtlib/fmt) | **0.74** | 24.6k | `█░░░░░░░░░` | A modern formatting library |
 
 ---
