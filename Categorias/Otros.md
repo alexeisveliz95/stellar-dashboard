@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **7 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **919.7k**
+> Actualizado: `2026-09-04 09:11`
 
 ---
 
@@ -10,11 +10,12 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 248.5k | `█░░░░░░░░░` | Skills for Real Engineers. Straight from my .agents directory. |
+| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 241.1k | `█░░░░░░░░░` | The agent that grows with you |
+| [**fanqiang**](https://github.com/bannedbook/fanqiang) | **0.99** | 52.5k | `█░░░░░░░░░` | 翻墙-科学上网 |
+| [**skills**](https://github.com/anthropics/skills) | **0.96** | 173.8k | `█░░░░░░░░░` | Public repository for Agent Skills |
+| [**prompts.chat**](https://github.com/f/prompts.chat) | **0.96** | 169.2k | `█░░░░░░░░░` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free… |
+| [**openclaude**](https://github.com/Gitlawb/openclaude) | **0.95** | 32.5k | `██░░░░░░░░` | runs anywhere. uses anything |
+| [**magnitude**](https://github.com/magnitudedev/magnitude) | **0.76** | 2.1k | `██████████` | Open source inference server that runs the best local models for your hardware, plugged into… |
 
 ---
