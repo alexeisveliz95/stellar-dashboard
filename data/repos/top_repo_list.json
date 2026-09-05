@@ -4,8 +4,8 @@
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 248453,
-    "growth": 1601,
+    "stars": 251090,
+    "growth": 2758,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -15,42 +15,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_NousResearch_hermes-agent",
-    "name": "NousResearch/hermes-agent",
-    "description": "The agent that grows with you",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 241124,
-    "growth": 774,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "nous-research",
-      "openai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_DietrichGebert_ponytail",
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 124102,
-    "growth": 2128,
+    "stars": 126828,
+    "growth": 1679,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -79,8 +49,8 @@
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 247609,
-    "growth": 751,
+    "stars": 248861,
+    "growth": 1135,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -103,12 +73,86 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_anthropics_skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "url": "https://github.com/anthropics/skills",
+    "stars": 174290,
+    "growth": 511,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agent-skills"
+    ]
+  },
+  {
+    "id": "github_trending_blader_humanizer",
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "url": "https://github.com/blader/humanizer",
+    "stars": 42991,
+    "growth": 1130,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NousResearch_hermes-agent",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "stars": 241671,
+    "growth": 720,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "nous-research",
+      "openai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_JuliusBrussee_caveman",
     "name": "JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 103288,
-    "growth": 543,
+    "stars": 103699,
+    "growth": 501,
     "score": 1.0,
     "categories": [
       "Web3 & Blockchain"
@@ -133,140 +177,13 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_blader_humanizer",
-    "name": "blader/humanizer",
-    "description": "Agent skill that removes signs of AI-generated writing from text",
-    "url": "https://github.com/blader/humanizer",
-    "stars": 41975,
-    "growth": 1208,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-writing",
-      "claude-code",
-      "codex",
-      "cursor",
-      "prompt-engineering",
-      "writing-tools"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_google-research_timesfm",
-    "name": "google-research/timesfm",
-    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "url": "https://github.com/google-research/timesfm",
-    "stars": 30845,
-    "growth": 1618,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_addyosmani_agent-skills",
-    "name": "addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 92157,
-    "growth": 264,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Imbad0202_academic-research-skills",
-    "name": "Imbad0202/academic-research-skills",
-    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "stars": 46159,
-    "growth": 496,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "academic-pipeline",
-      "academic-writing",
-      "ai-research",
-      "claude",
-      "claude-code",
-      "literature-review",
-      "peer-review",
-      "prompt-engineering"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 281564,
-    "growth": 462,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_bannedbook_fanqiang",
     "name": "bannedbook/fanqiang",
     "description": "翻墙-科学上网",
     "url": "https://github.com/bannedbook/fanqiang",
-    "stars": 52522,
-    "growth": 522,
-    "score": 0.9929,
+    "stars": 52948,
+    "growth": 730,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -287,87 +204,74 @@
     ]
   },
   {
-    "id": "github_trending_anthropics_skills",
-    "name": "anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "url": "https://github.com/anthropics/skills",
-    "stars": 173849,
-    "growth": 281,
-    "score": 0.9575,
+    "id": "github_trending_google-research_timesfm",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "url": "https://github.com/google-research/timesfm",
+    "stars": 31163,
+    "growth": 342,
+    "score": 1.0,
     "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
-    "raw_topics": [
-      "agent-skills"
-    ]
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_f_prompts_chat",
-    "name": "f/prompts.chat",
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "url": "https://github.com/f/prompts.chat",
-    "stars": 169220,
-    "growth": 168,
-    "score": 0.9551,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "raw_topics": [
-      "ai",
-      "artificial-intelligence",
-      "awesome-list",
-      "chatgpt",
-      "chatgpt-prompts",
-      "claude",
-      "gemini",
-      "gpt",
-      "gpt-4",
-      "llm",
-      "machine-learning",
-      "nextjs",
-      "open-source",
-      "openai",
-      "prompt-engineering",
-      "prompts",
-      "prompts-chat",
-      "typescript"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_Gitlawb_openclaude",
-    "name": "Gitlawb/openclaude",
-    "description": "runs anywhere. uses anything",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "stars": 32464,
-    "growth": 451,
-    "score": 0.9513,
+    "id": "github_trending_anomalyco_opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "url": "https://github.com/anomalyco/opencode",
+    "stars": 204333,
+    "growth": 345,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
-    "raw_topics": [
-      "ai",
-      "ai-agent",
-      "ai-tools",
-      "cli",
-      "coding"
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_cathrynlavery_diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "stars": 31244,
+    "growth": 437,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
     ],
-    "raw_license": "NOASSERTION"
+    "source": "github_trending",
+    "language": "HTML",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_debpalash_VoiceStudio",
     "name": "debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 16839,
-    "growth": 1672,
-    "score": 0.9348,
+    "stars": 18407,
+    "growth": 1345,
+    "score": 0.9737,
     "categories": [
       "Web Development"
     ],
@@ -405,9 +309,9 @@
     "name": "fmtlib/fmt",
     "description": "A modern formatting library",
     "url": "https://github.com/fmtlib/fmt",
-    "stars": 25343,
-    "growth": 963,
-    "score": 0.926,
+    "stars": 25514,
+    "growth": 688,
+    "score": 0.9679,
     "categories": [
       "Web Development"
     ],
@@ -433,42 +337,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_ByteByteGoHq_system-design-101",
-    "name": "ByteByteGoHq/system-design-101",
-    "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-    "url": "https://github.com/ByteByteGoHq/system-design-101",
-    "stars": 88591,
-    "growth": 171,
-    "score": 0.8935,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "aws",
-      "cloud-computing",
-      "coding-interviews",
-      "computer-science",
-      "interview-questions",
-      "software-architecture",
-      "software-development",
-      "software-engineering",
-      "system-design",
-      "system-design-interview"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
     "id": "github_trending_magnitudedev_magnitude",
     "name": "magnitudedev/magnitude",
     "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
     "url": "https://github.com/magnitudedev/magnitude",
-    "stars": 2106,
-    "growth": 161,
-    "score": 0.762,
+    "stars": 2724,
+    "growth": 391,
+    "score": 0.9016,
     "categories": [
       "Otros"
     ],
@@ -477,21 +352,59 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_averygan_reclip",
-    "name": "averygan/reclip",
-    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-    "url": "https://github.com/averygan/reclip",
-    "stars": 8635,
-    "growth": 88,
-    "score": 0.7063,
+    "id": "github_trending_bikini_exploitarium",
+    "name": "bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "url": "https://github.com/bikini/exploitarium",
+    "stars": 4581,
+    "growth": 74,
+    "score": 0.8388,
     "categories": [
-      "Web Development"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
-    "language": "HTML",
+    "language": "Python",
     "tags": [
-      "nlp:web-development"
+      "nlp:cybersecurity-hacking"
+    ]
+  },
+  {
+    "id": "github_trending_clshortfuse_renodx",
+    "name": "clshortfuse/renodx",
+    "description": "Renovation Engine for DirectX Games",
+    "url": "https://github.com/clshortfuse/renodx",
+    "stars": 3593,
+    "growth": 261,
+    "score": 0.7689,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "HLSL",
+    "raw_topics": [
+      "directx",
+      "games",
+      "hdr",
+      "mod"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_radixark_miles",
+    "name": "radixark/miles",
+    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "url": "https://github.com/radixark/miles",
+    "stars": 2606,
+    "growth": 64,
+    "score": 0.7615,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
   }
 ]

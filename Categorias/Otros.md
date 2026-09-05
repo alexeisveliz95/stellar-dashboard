@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **7 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **930.6k**
-> Actualizado: `2026-09-05 08:43`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,12 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 251.1k | `█░░░░░░░░░` | Skills for Real Engineers. Straight from my .agents directory. |
-| [**skills**](https://github.com/anthropics/skills) | **1.00** | 174.3k | `█░░░░░░░░░` | Public repository for Agent Skills |
-| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 241.7k | `█░░░░░░░░░` | The agent that grows with you |
-| [**fanqiang**](https://github.com/bannedbook/fanqiang) | **1.00** | 52.9k | `█░░░░░░░░░` | 翻墙-科学上网 |
-| [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 204.3k | `█░░░░░░░░░` | The open source coding agent. |
-| [**magnitude**](https://github.com/magnitudedev/magnitude) | **0.90** | 2.7k | `██████████` | Open source inference server that runs the best local models for your hardware, plugged into… |
-| [**renodx**](https://github.com/clshortfuse/renodx) | **0.77** | 3.6k | `█████░░░░░` | Renovation Engine for DirectX Games |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

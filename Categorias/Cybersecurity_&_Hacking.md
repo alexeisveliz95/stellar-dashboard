@@ -1,8 +1,8 @@
 # 📂 Cybersecurity & Hacking
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **253.4k**
-> Actualizado: `2026-09-05 08:43`
+> **5 proyectos** · ⭐ Mejor score: **0.75** · Estrellas totales: **248.1k**
+> Actualizado: `2026-07-06 18:15`
 
 ---
 
@@ -10,7 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 248.9k | `███░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
-| [**exploitarium**](https://github.com/bikini/exploitarium) | **0.84** | 4.6k | `██████████` | A single archive of public exploit PoCs and vulnerability research writeups. At the time I… |
+| [**awesome-hermes-agent**](https://github.com/0xNyk/awesome-hermes-agent) | **0.75** | 4.5k | `░░░░░░░░░░` | A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous… |
+| [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 226.7k | `░░░░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
+| [**SkillSpector**](https://github.com/NVIDIA/SkillSpector) | **0.73** | 12.1k | `░░░░░░░░░░` | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security… |
+| [**vps-audit**](https://github.com/vernu/vps-audit) | **0.73** | 2.0k | `░░░░░░░░░░` | lightweight, dependency-free bash script for security, performance auditing and infrastructure… |
+| [**QuantAgent**](https://github.com/Y-Research-SBU/QuantAgent) | **0.71** | 2.8k | `░░░░░░░░░░` | Official Repository for QuantAgent |
 
 ---
