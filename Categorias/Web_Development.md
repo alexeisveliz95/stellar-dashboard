@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **3 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **75.2k**
+> Actualizado: `2026-09-05 08:43`
 
 ---
 
@@ -10,6 +10,8 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 31.2k | `██░░░░░░░░` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No… |
+| [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **0.97** | 18.4k | `██████████` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice… |
+| [**fmt**](https://github.com/fmtlib/fmt) | **0.97** | 25.5k | `████░░░░░░` | A modern formatting library |
 
 ---

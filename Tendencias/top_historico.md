@@ -182,3 +182,6 @@
 | 2026-09-04 | **1** | [ponytail](https://github.com/DietrichGebert/ponytail) | +2128 | 124.1k | `1.00` |
 | 2026-09-04 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1672 | 16.8k | `0.93` |
 | 2026-09-04 | **3** | [timesfm](https://github.com/google-research/timesfm) | +1618 | 30.8k | `1.00` |
+| 2026-09-05 | **1** | [skills](https://github.com/mattpocock/skills) | +2758 | 251.1k | `1.00` |
+| 2026-09-05 | **2** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1679 | 126.8k | `1.00` |
+| 2026-09-05 | **3** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1345 | 18.4k | `0.97` |

@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-04 10:59`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-05 08:43`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 124.1k | +2.1k | JavaScript |
-| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 16.8k | +1.7k | Python |
-| 3 | [**timesfm**](https://github.com/google-research/timesfm) | 30.8k | +1.6k | Python |
-| 4 | [**skills**](https://github.com/mattpocock/skills) | 248.5k | +1.6k | Shell |
-| 5 | [**humanizer**](https://github.com/blader/humanizer) | 42.0k | +1.2k | Python |
-| 6 | [**fmt**](https://github.com/fmtlib/fmt) | 25.3k | +963 | C++ |
-| 7 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 241.1k | +774 | Python |
-| 8 | [**ECC**](https://github.com/affaan-m/ECC) | 247.6k | +751 | JavaScript |
-| 9 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 103.3k | +543 | Go |
-| 10 | [**fanqiang**](https://github.com/bannedbook/fanqiang) | 52.5k | +522 | Kotlin |
+| 1 | [**skills**](https://github.com/mattpocock/skills) | 251.1k | +2.8k | Shell |
+| 2 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 126.8k | +1.7k | JavaScript |
+| 3 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 18.4k | +1.3k | Python |
+| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 248.9k | +1.1k | JavaScript |
+| 5 | [**humanizer**](https://github.com/blader/humanizer) | 43.0k | +1.1k | Python |
+| 6 | [**fanqiang**](https://github.com/bannedbook/fanqiang) | 52.9k | +730 | Kotlin |
+| 7 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 241.7k | +720 | Python |
+| 8 | [**fmt**](https://github.com/fmtlib/fmt) | 25.5k | +688 | C++ |
+| 9 | [**skills**](https://github.com/anthropics/skills) | 174.3k | +511 | Python |
+| 10 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 103.7k | +501 | Go |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 248.5k | Otros |
-| 🥈 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 241.1k | Otros |
-| 🥉 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 124.1k | AI & Data Science |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 247.6k | Cybersecurity & Hacking |
-| 5 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 103.3k | Web3 & Blockchain |
-| 6 | [**humanizer**](https://github.com/blader/humanizer) | **1.00** | 42.0k | AI & Data Science |
-| 7 | [**timesfm**](https://github.com/google-research/timesfm) | **1.00** | 30.8k | AI & Data Science |
-| 8 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 92.2k | AI & Data Science |
-| 9 | [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **1.00** | 46.2k | Cybersecurity & Hacking |
-| 10 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 281.6k | Python & Backend |
+| 🥇 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 251.1k | Otros |
+| 🥈 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 126.8k | AI & Data Science |
+| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 248.9k | Cybersecurity & Hacking |
+| 4 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 174.3k | Otros |
+| 5 | [**humanizer**](https://github.com/blader/humanizer) | **1.00** | 43.0k | AI & Data Science |
+| 6 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 241.7k | Otros |
+| 7 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 103.7k | Web3 & Blockchain |
+| 8 | [**fanqiang**](https://github.com/bannedbook/fanqiang) | **1.00** | 52.9k | Otros |
+| 9 | [**timesfm**](https://github.com/google-research/timesfm) | **1.00** | 31.2k | AI & Data Science |
+| 10 | [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 204.3k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 7 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **1.00** |
 
 ---
