@@ -185,3 +185,6 @@
 | 2026-09-05 | **1** | [skills](https://github.com/mattpocock/skills) | +2758 | 251.1k | `1.00` |
 | 2026-09-05 | **2** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1679 | 126.8k | `1.00` |
 | 2026-09-05 | **3** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1345 | 18.4k | `0.97` |
+| 2026-09-06 | **1** | [ponytail](https://github.com/DietrichGebert/ponytail) | +2845 | 128.4k | `1.00` |
+| 2026-09-06 | **2** | [skills](https://github.com/mattpocock/skills) | +2692 | 253.3k | `1.00` |
+| 2026-09-06 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1314 | 250.3k | `1.00` |

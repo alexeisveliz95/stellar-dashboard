@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-05 10:21`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-06 09:01`
+> 📦 **31** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**skills**](https://github.com/mattpocock/skills) | 251.1k | +2.8k | Shell |
-| 2 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 126.8k | +1.7k | JavaScript |
-| 3 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 18.4k | +1.3k | Python |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 248.9k | +1.1k | JavaScript |
-| 5 | [**humanizer**](https://github.com/blader/humanizer) | 43.0k | +1.1k | Python |
-| 6 | [**fanqiang**](https://github.com/bannedbook/fanqiang) | 52.9k | +730 | Kotlin |
-| 7 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 241.7k | +720 | Python |
-| 8 | [**fmt**](https://github.com/fmtlib/fmt) | 25.5k | +688 | C++ |
-| 9 | [**skills**](https://github.com/anthropics/skills) | 174.3k | +511 | Python |
-| 10 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 103.7k | +501 | Go |
+| 1 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 128.4k | +2.8k | JavaScript |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 253.3k | +2.7k | Shell |
+| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 250.3k | +1.3k | JavaScript |
+| 4 | [**humanizer**](https://github.com/blader/humanizer) | 43.7k | +990 | Python |
+| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 31.9k | +855 | HTML |
+| 6 | [**opencode**](https://github.com/anomalyco/opencode) | 204.9k | +725 | TypeScript |
+| 7 | [**magnitude**](https://github.com/magnitudedev/magnitude) | 3.4k | +674 | TypeScript |
+| 8 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 242.2k | +575 | Python |
+| 9 | [**skills**](https://github.com/anthropics/skills) | 174.7k | +475 | Python |
+| 10 | [**skills**](https://github.com/humanlayer/skills) | 2.9k | +442 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 251.1k | Otros |
-| 🥈 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 126.8k | AI & Data Science |
-| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 248.9k | Cybersecurity & Hacking |
-| 4 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 174.3k | Otros |
-| 5 | [**humanizer**](https://github.com/blader/humanizer) | **1.00** | 43.0k | AI & Data Science |
-| 6 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 241.7k | Otros |
-| 7 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 103.7k | Web3 & Blockchain |
-| 8 | [**fanqiang**](https://github.com/bannedbook/fanqiang) | **1.00** | 52.9k | Otros |
-| 9 | [**timesfm**](https://github.com/google-research/timesfm) | **1.00** | 31.2k | AI & Data Science |
-| 10 | [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 204.3k | Otros |
+| 🥇 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 253.3k | Otros |
+| 🥈 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 250.3k | Cybersecurity & Hacking |
+| 🥉 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 128.4k | AI & Data Science |
+| 4 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 242.2k | Otros |
+| 5 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 174.7k | Otros |
+| 6 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 31.9k | Web Development |
+| 7 | [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 204.9k | Otros |
+| 8 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 70.8k | AI & Data Science |
+| 9 | [**humanizer**](https://github.com/blader/humanizer) | **1.00** | 43.7k | AI & Data Science |
+| 10 | [**magnitude**](https://github.com/magnitudedev/magnitude) | **1.00** | 3.4k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **0.83** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
