@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-07 00:36`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-07 09:51`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 128.4k | +2.8k | JavaScript |
-| 2 | [**skills**](https://github.com/mattpocock/skills) | 253.3k | +2.7k | Shell |
-| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 250.3k | +1.3k | JavaScript |
-| 4 | [**humanizer**](https://github.com/blader/humanizer) | 43.7k | +990 | Python |
-| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 31.9k | +855 | HTML |
-| 6 | [**opencode**](https://github.com/anomalyco/opencode) | 204.9k | +725 | TypeScript |
-| 7 | [**magnitude**](https://github.com/magnitudedev/magnitude) | 3.4k | +674 | TypeScript |
-| 8 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 242.2k | +575 | Python |
-| 9 | [**skills**](https://github.com/anthropics/skills) | 174.7k | +475 | Python |
-| 10 | [**skills**](https://github.com/humanlayer/skills) | 2.9k | +442 | TypeScript |
+| 1 | [**skills**](https://github.com/mattpocock/skills) | 255.5k | +2.2k | Shell |
+| 2 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 130.2k | +1.5k | JavaScript |
+| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 252.2k | +1.5k | JavaScript |
+| 4 | [**humanizer**](https://github.com/blader/humanizer) | 44.7k | +748 | Python |
+| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 33.0k | +620 | HTML |
+| 6 | [**magnitude**](https://github.com/magnitudedev/magnitude) | 3.9k | +604 | TypeScript |
+| 7 | [**opencode**](https://github.com/anomalyco/opencode) | 205.5k | +551 | TypeScript |
+| 8 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 242.8k | +520 | Python |
+| 9 | [**skills**](https://github.com/humanlayer/skills) | 3.3k | +451 | TypeScript |
+| 10 | [**FckSignups**](https://github.com/BraveOPotato/FckSignups) | 3.5k | +436 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 253.3k | Otros |
-| 🥈 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 250.3k | Cybersecurity & Hacking |
-| 🥉 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 128.4k | AI & Data Science |
-| 4 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 242.2k | Otros |
-| 5 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 174.7k | Otros |
-| 6 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 31.9k | Web Development |
-| 7 | [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 204.9k | Otros |
-| 8 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 70.8k | AI & Data Science |
-| 9 | [**humanizer**](https://github.com/blader/humanizer) | **1.00** | 43.7k | AI & Data Science |
-| 10 | [**magnitude**](https://github.com/magnitudedev/magnitude) | **1.00** | 3.4k | Otros |
+| 🥇 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 252.2k | Cybersecurity & Hacking |
+| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 255.5k | Otros |
+| 🥉 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 33.0k | Web Development |
+| 4 | [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 242.8k | Otros |
+| 5 | [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 205.5k | Otros |
+| 6 | [**humanizer**](https://github.com/blader/humanizer) | **1.00** | 44.7k | AI & Data Science |
+| 7 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 130.2k | AI & Data Science |
+| 8 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 71.2k | AI & Data Science |
+| 9 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 47.8k | AI & Data Science |
+| 10 | [**magnitude**](https://github.com/magnitudedev/magnitude) | **0.97** | 3.9k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.79** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

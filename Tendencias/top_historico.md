@@ -188,3 +188,6 @@
 | 2026-09-06 | **1** | [ponytail](https://github.com/DietrichGebert/ponytail) | +2845 | 128.4k | `1.00` |
 | 2026-09-06 | **2** | [skills](https://github.com/mattpocock/skills) | +2692 | 253.3k | `1.00` |
 | 2026-09-06 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1314 | 250.3k | `1.00` |
+| 2026-09-07 | **1** | [skills](https://github.com/mattpocock/skills) | +2207 | 255.5k | `1.00` |
+| 2026-09-07 | **2** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1539 | 130.2k | `1.00` |
+| 2026-09-07 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1485 | 252.2k | `1.00` |
