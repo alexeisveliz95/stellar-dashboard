@@ -1,26 +1,11 @@
 [
   {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 253309,
-    "growth": 2692,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_affaan-m_ECC",
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 250321,
-    "growth": 1314,
+    "stars": 252150,
+    "growth": 1485,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -43,32 +28,45 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_DietrichGebert_ponytail",
-    "name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 128444,
-    "growth": 2845,
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 255534,
+    "growth": 2207,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Shell",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_cathrynlavery_diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "stars": 32972,
+    "growth": 620,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
     "tags": [
-      "ai"
+      "nlp:web-development"
     ],
     "raw_topics": [
       "agent-skills",
-      "ai-agents",
-      "claude",
       "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
     ],
     "raw_license": "MIT"
   },
@@ -77,8 +75,8 @@
     "name": "NousResearch/hermes-agent",
     "description": "The agent that grows with you",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 242165,
-    "growth": 575,
+    "stars": 242803,
+    "growth": 520,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -103,57 +101,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_anthropics_skills",
-    "name": "anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "url": "https://github.com/anthropics/skills",
-    "stars": 174694,
-    "growth": 475,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "id": "github_trending_cathrynlavery_diagram-design",
-    "name": "cathrynlavery/diagram-design",
-    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 31892,
-    "growth": 855,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "diagrams",
-      "drawio",
-      "mermaid",
-      "svg"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_anomalyco_opencode",
     "name": "anomalyco/opencode",
     "description": "The open source coding agent.",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 204853,
-    "growth": 725,
+    "stars": 205516,
+    "growth": 551,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -163,12 +116,69 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_blader_humanizer",
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "url": "https://github.com/blader/humanizer",
+    "stars": 44720,
+    "growth": 748,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_DietrichGebert_ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "stars": 130201,
+    "growth": 1539,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_ruvnet_ruflo",
     "name": "ruvnet/ruflo",
     "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "url": "https://github.com/ruvnet/ruflo",
-    "stars": 70784,
-    "growth": 136,
+    "stars": 71167,
+    "growth": 276,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -203,13 +213,91 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_blader_humanizer",
-    "name": "blader/humanizer",
-    "description": "Agent skill that removes signs of AI-generated writing from text",
-    "url": "https://github.com/blader/humanizer",
-    "stars": 43735,
-    "growth": 990,
+    "id": "github_trending_coreyhaines31_marketingskills",
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "stars": 47765,
+    "growth": 329,
     "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_magnitudedev_magnitude",
+    "name": "magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "stars": 3889,
+    "growth": 604,
+    "score": 0.9716,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_aipoch_open-science",
+    "name": "aipoch/open-science",
+    "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+    "url": "https://github.com/aipoch/open-science",
+    "stars": 4034,
+    "growth": 146,
+    "score": 0.9224,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "ai-for-science",
+      "ai-research",
+      "ai-workbench",
+      "bioinformatics",
+      "claude-science-alternative",
+      "desktop-app",
+      "electron",
+      "linux",
+      "local-first",
+      "macos",
+      "mcp",
+      "model-agnostic",
+      "open-science",
+      "python",
+      "r",
+      "reproducible-research",
+      "research-software",
+      "research-workbench",
+      "scientific-ai",
+      "windows"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_The-Swarm-Corporation_AutoHedge",
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "stars": 4946,
+    "growth": 142,
+    "score": 0.9065,
     "categories": [
       "AI & Data Science"
     ],
@@ -219,125 +307,17 @@
       "ai"
     ],
     "raw_topics": [
-      "agent-skills",
-      "ai-writing",
-      "claude-code",
-      "codex",
-      "cursor",
-      "prompt-engineering",
-      "writing-tools"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_magnitudedev_magnitude",
-    "name": "magnitudedev/magnitude",
-    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "stars": 3353,
-    "growth": 674,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_bikini_exploitarium",
-    "name": "bikini/exploitarium",
-    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-    "url": "https://github.com/bikini/exploitarium",
-    "stars": 4761,
-    "growth": 230,
-    "score": 0.9424,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ]
-  },
-  {
-    "id": "github_trending_nvm-sh_nvm",
-    "name": "nvm-sh/nvm",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-    "url": "https://github.com/nvm-sh/nvm",
-    "stars": 94967,
-    "growth": 22,
-    "score": 0.8285,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "bash",
-      "install",
-      "lts",
-      "node",
-      "node-js",
-      "nodejs",
-      "nvm",
-      "nvmrc",
-      "posix",
-      "posix-compliant",
-      "shell",
-      "version-manager",
-      "zsh"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_humanlayer_skills",
-    "name": "humanlayer/skills",
-    "description": "",
-    "url": "https://github.com/humanlayer/skills",
-    "stars": 2864,
-    "growth": 442,
-    "score": 0.8001,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_fmtlib_fmt",
-    "name": "fmtlib/fmt",
-    "description": "A modern formatting library",
-    "url": "https://github.com/fmtlib/fmt",
-    "stars": 25594,
-    "growth": 134,
-    "score": 0.7899,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "c-plus-plus",
-      "chrono",
-      "cpp",
-      "cross-platform",
-      "floating-point",
-      "formatting",
-      "multiplatform",
-      "output",
-      "performance",
-      "printf",
-      "ranges",
-      "unicode"
+      "ai",
+      "blackrock",
+      "finance",
+      "goldmansachs",
+      "hedgefund",
+      "jpmorgan",
+      "ml",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading"
     ],
     "raw_license": "MIT"
   },
@@ -346,9 +326,9 @@
     "name": "BraveOPotato/FckSignups",
     "description": "A list of tools that are open-source, in-browser, and require no-signups!",
     "url": "https://github.com/BraveOPotato/FckSignups",
-    "stars": 3025,
-    "growth": 68,
-    "score": 0.7019,
+    "stars": 3533,
+    "growth": 436,
+    "score": 0.8706,
     "categories": [
       "Web Development"
     ],
@@ -360,20 +340,107 @@
     "raw_license": "GPL-3.0"
   },
   {
-    "id": "github_trending_WorldFlowAI_everything-claude-code",
-    "name": "WorldFlowAI/everything-claude-code",
-    "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
-    "url": "https://github.com/WorldFlowAI/everything-claude-code",
-    "stars": 2459,
-    "growth": 95,
-    "score": 0.6691,
+    "id": "github_trending_openai_skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "url": "https://github.com/openai/skills",
+    "stars": 25768,
+    "growth": 46,
+    "score": 0.8365,
     "categories": [
-      "Python & Backend"
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "openai"
+    ]
+  },
+  {
+    "id": "github_trending_OpenWhispr_openwhispr",
+    "name": "OpenWhispr/openwhispr",
+    "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "url": "https://github.com/OpenWhispr/openwhispr",
+    "stars": 7686,
+    "growth": 121,
+    "score": 0.7917,
+    "categories": [
+      "Mobile Development"
     ],
     "source": "github_trending",
     "language": "JavaScript",
     "tags": [
-      "nlp:python-backend"
-    ]
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "anthropic",
+      "cross-platform",
+      "gemini",
+      "groq",
+      "linux",
+      "macos",
+      "nvidia",
+      "open-source",
+      "openai",
+      "parakeet",
+      "speech-to-text",
+      "transcribe",
+      "whisper",
+      "windows"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Stremio_stremio-web",
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "url": "https://github.com/Stremio/stremio-web",
+    "stars": 13640,
+    "growth": 122,
+    "score": 0.7883,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "hacktoberfest",
+      "stremio"
+    ],
+    "raw_license": "GPL-2.0"
+  },
+  {
+    "id": "github_trending_llvm_llvm-project",
+    "name": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "url": "https://github.com/llvm/llvm-project",
+    "stars": 40290,
+    "growth": 23,
+    "score": 0.7882,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "LLVM",
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_humanlayer_skills",
+    "name": "humanlayer/skills",
+    "description": "",
+    "url": "https://github.com/humanlayer/skills",
+    "stars": 3345,
+    "growth": 451,
+    "score": 0.7823,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
   }
 ]

@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **751.4k**
-> Actualizado: `2026-09-07 09:51`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**skills**](https://github.com/mattpocock/skills) | **1.00** | 255.5k | `█░░░░░░░░░` | Skills for Real Engineers. Straight from my .agents directory. |
-| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | **1.00** | 242.8k | `█░░░░░░░░░` | The agent that grows with you |
-| [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 205.5k | `█░░░░░░░░░` | The open source coding agent. |
-| [**magnitude**](https://github.com/magnitudedev/magnitude) | **0.97** | 3.9k | `██████████` | Open source inference server that runs the best local models for your hardware, plugged into… |
-| [**llvm-project**](https://github.com/llvm/llvm-project) | **0.79** | 40.3k | `█░░░░░░░░░` | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. |
-| [**skills**](https://github.com/humanlayer/skills) | **0.78** | 3.3k | `█████████░` | Sin descripción |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
