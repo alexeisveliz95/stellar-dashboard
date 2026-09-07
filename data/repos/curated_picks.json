@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T01:03:30.992297+00:00",
+  "updated_at": "2026-09-07T00:36:03.350127+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W37",
+      "week_start": "2026-09-07",
+      "generated_at": "2026-09-07T00:36:03.350127+00:00",
+      "picks": [
+        {
+          "name": "academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "score": 0.83,
+          "stars": 45800,
+          "growth": 799,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 250300,
+          "growth": 1314,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "score": 0.0,
+          "stars": 40500,
+          "growth": 3991,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "score": 0.0,
+          "stars": 30100,
+          "growth": 3128,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "score": 0.0,
+          "stars": 128400,
+          "growth": 2845,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 251100,
+          "growth": 2758,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "score": 0.0,
+          "stars": 41200,
+          "growth": 1980,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "score": 0.0,
+          "stars": 16800,
+          "growth": 1672,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "score": 0.0,
+          "stars": 30800,
+          "growth": 1618,
+          "momentum": 0.5,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "score": 0.0,
+          "stars": 32600,
+          "growth": 1439,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W36",
       "week_start": "2026-08-31",
@@ -318,113 +425,6 @@
           "stars": 44200,
           "growth": 1235,
           "momentum": 0.1,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W32",
-      "week_start": "2026-08-03",
-      "generated_at": "2026-08-09T23:26:34.370160+00:00",
-      "picks": [
-        {
-          "name": "TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "score": 0.73,
-          "stars": 96600,
-          "growth": 153,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "score": 0.71,
-          "stars": 35900,
-          "growth": 200,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "computer",
-          "url": "https://github.com/cloudflare/computer",
-          "score": 0.0,
-          "stars": 5000,
-          "growth": 2802,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "AI-For-Beginners",
-          "url": "https://github.com/microsoft/AI-For-Beginners",
-          "score": 0.0,
-          "stars": 60000,
-          "growth": 2629,
-          "momentum": 0.2,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "pdf-inspector",
-          "url": "https://github.com/firecrawl/pdf-inspector",
-          "score": 0.0,
-          "stars": 10500,
-          "growth": 2540,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "prime-agent",
-          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "score": 0.0,
-          "stars": 9300,
-          "growth": 2483,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "reverse-skill",
-          "url": "https://github.com/zhaoxuya520/reverse-skill",
-          "score": 0.0,
-          "stars": 16500,
-          "growth": 2446,
-          "momentum": 0.8,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "skills",
-          "url": "https://github.com/mattpocock/skills",
-          "score": 0.0,
-          "stars": 209100,
-          "growth": 2152,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "TencentDB-Agent-Memory",
-          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-          "score": 0.0,
-          "stars": 15400,
-          "growth": 1892,
-          "momentum": 0.4,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "score": 0.0,
-          "stars": 28600,
-          "growth": 1711,
-          "momentum": 0.2,
           "language": null,
           "description": null
         }
