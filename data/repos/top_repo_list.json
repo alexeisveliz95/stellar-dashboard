@@ -1,11 +1,66 @@
 [
   {
+    "id": "github_trending_heygen-com_hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "stars": 47095,
+    "growth": 474,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_microsoft_markitdown",
+    "name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "url": "https://github.com/microsoft/markitdown",
+    "stars": 181098,
+    "growth": 886,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_affaan-m_ECC",
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 252150,
-    "growth": 1485,
+    "stars": 253430,
+    "growth": 1897,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -28,127 +83,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 255534,
-    "growth": 2207,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_cathrynlavery_diagram-design",
-    "name": "cathrynlavery/diagram-design",
-    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 32972,
-    "growth": 620,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "diagrams",
-      "drawio",
-      "mermaid",
-      "svg"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_NousResearch_hermes-agent",
-    "name": "NousResearch/hermes-agent",
-    "description": "The agent that grows with you",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 242803,
-    "growth": 520,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "nous-research",
-      "openai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_anomalyco_opencode",
-    "name": "anomalyco/opencode",
-    "description": "The open source coding agent.",
-    "url": "https://github.com/anomalyco/opencode",
-    "stars": 205516,
-    "growth": 551,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_blader_humanizer",
-    "name": "blader/humanizer",
-    "description": "Agent skill that removes signs of AI-generated writing from text",
-    "url": "https://github.com/blader/humanizer",
-    "stars": 44720,
-    "growth": 748,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-writing",
-      "claude-code",
-      "codex",
-      "cursor",
-      "prompt-engineering",
-      "writing-tools"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_DietrichGebert_ponytail",
-    "name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 130201,
-    "growth": 1539,
+    "id": "github_trending_coreyhaines31_marketingskills",
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "stars": 48410,
+    "growth": 580,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -159,26 +99,105 @@
       "ai"
     ],
     "raw_topics": [
-      "agent-skills",
-      "ai-agents",
       "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
+      "codex",
+      "marketing"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_The-Swarm-Corporation_AutoHedge",
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "stars": 5432,
+    "growth": 517,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai",
+      "blackrock",
+      "finance",
+      "goldmansachs",
+      "hedgefund",
+      "jpmorgan",
+      "ml",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_bytedance_deer-flow",
+    "name": "bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "url": "https://github.com/bytedance/deer-flow",
+    "stars": 82013,
+    "growth": 195,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_openai_skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "url": "https://github.com/openai/skills",
+    "stars": 26243,
+    "growth": 351,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "openai"
+    ]
   },
   {
     "id": "github_trending_ruvnet_ruflo",
     "name": "ruvnet/ruflo",
     "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "url": "https://github.com/ruvnet/ruflo",
-    "stars": 71167,
-    "growth": 276,
+    "stars": 71551,
+    "growth": 394,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -213,122 +232,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_coreyhaines31_marketingskills",
-    "name": "coreyhaines31/marketingskills",
-    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "url": "https://github.com/coreyhaines31/marketingskills",
-    "stars": 47765,
-    "growth": 329,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "claude",
-      "codex",
-      "marketing"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_magnitudedev_magnitude",
-    "name": "magnitudedev/magnitude",
-    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "stars": 3889,
-    "growth": 604,
-    "score": 0.9716,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_aipoch_open-science",
-    "name": "aipoch/open-science",
-    "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
-    "url": "https://github.com/aipoch/open-science",
-    "stars": 4034,
-    "growth": 146,
-    "score": 0.9224,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "ai-for-science",
-      "ai-research",
-      "ai-workbench",
-      "bioinformatics",
-      "claude-science-alternative",
-      "desktop-app",
-      "electron",
-      "linux",
-      "local-first",
-      "macos",
-      "mcp",
-      "model-agnostic",
-      "open-science",
-      "python",
-      "r",
-      "reproducible-research",
-      "research-software",
-      "research-workbench",
-      "scientific-ai",
-      "windows"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_The-Swarm-Corporation_AutoHedge",
-    "name": "The-Swarm-Corporation/AutoHedge",
-    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-    "stars": 4946,
-    "growth": 142,
-    "score": 0.9065,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "blackrock",
-      "finance",
-      "goldmansachs",
-      "hedgefund",
-      "jpmorgan",
-      "ml",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading",
-      "trading"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_BraveOPotato_FckSignups",
     "name": "BraveOPotato/FckSignups",
     "description": "A list of tools that are open-source, in-browser, and require no-signups!",
     "url": "https://github.com/BraveOPotato/FckSignups",
-    "stars": 3533,
-    "growth": 436,
-    "score": 0.8706,
+    "stars": 4018,
+    "growth": 501,
+    "score": 0.8908,
     "categories": [
       "Web Development"
     ],
@@ -340,107 +250,150 @@
     "raw_license": "GPL-3.0"
   },
   {
-    "id": "github_trending_openai_skills",
-    "name": "openai/skills",
-    "description": "Skills Catalog for Codex",
-    "url": "https://github.com/openai/skills",
-    "stars": 25768,
-    "growth": 46,
-    "score": 0.8365,
+    "id": "github_trending_mksglu_context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "url": "https://github.com/mksglu/context-mode",
+    "stars": 21134,
+    "growth": 96,
+    "score": 0.8855,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "TypeScript",
     "tags": [
-      "openai"
-    ]
+      "ai"
+    ],
+    "raw_topics": [
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "cursor-plugin",
+      "kiro",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills",
+      "zed-extension"
+    ],
+    "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_OpenWhispr_openwhispr",
-    "name": "OpenWhispr/openwhispr",
-    "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-    "url": "https://github.com/OpenWhispr/openwhispr",
-    "stars": 7686,
-    "growth": 121,
-    "score": 0.7917,
+    "id": "github_trending_jo-inc_camofox-browser",
+    "name": "jo-inc/camofox-browser",
+    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "url": "https://github.com/jo-inc/camofox-browser",
+    "stars": 10088,
+    "growth": 135,
+    "score": 0.8842,
     "categories": [
-      "Mobile Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "JavaScript",
     "tags": [
-      "nlp:mobile-development"
+      "ai"
     ],
     "raw_topics": [
-      "ai",
-      "anthropic",
-      "cross-platform",
-      "gemini",
-      "groq",
-      "linux",
-      "macos",
-      "nvidia",
-      "open-source",
-      "openai",
-      "parakeet",
-      "speech-to-text",
-      "transcribe",
-      "whisper",
-      "windows"
+      "ai-agent",
+      "anti-bot",
+      "antidetect-browser",
+      "automation",
+      "bot-detection",
+      "browser-automation",
+      "cloudflare-bypass",
+      "headless-browser",
+      "javascript",
+      "nodejs",
+      "playwright",
+      "puppeteer",
+      "scraping",
+      "stealth-browser",
+      "web-scraping"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Stremio_stremio-web",
-    "name": "Stremio/stremio-web",
-    "description": "Stremio - Freedom to Stream",
-    "url": "https://github.com/Stremio/stremio-web",
-    "stars": 13640,
-    "growth": 122,
-    "score": 0.7883,
+    "id": "github_trending_lightpanda-io_browser",
+    "name": "lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "url": "https://github.com/lightpanda-io/browser",
+    "stars": 35079,
+    "growth": 58,
+    "score": 0.8606,
     "categories": [
-      "Web Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Zig",
     "tags": [
-      "nlp:web-development"
+      "ai"
     ],
     "raw_topics": [
-      "hacktoberfest",
-      "stremio"
+      "browser",
+      "browser-automation",
+      "cdp",
+      "headless",
+      "lightpanda",
+      "playwright",
+      "puppeteer",
+      "zig"
     ],
-    "raw_license": "GPL-2.0"
+    "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_llvm_llvm-project",
-    "name": "llvm/llvm-project",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-    "url": "https://github.com/llvm/llvm-project",
-    "stars": 40290,
-    "growth": 23,
-    "score": 0.7882,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "LLVM",
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_humanlayer_skills",
-    "name": "humanlayer/skills",
-    "description": "",
-    "url": "https://github.com/humanlayer/skills",
-    "stars": 3345,
-    "growth": 451,
-    "score": 0.7823,
+    "id": "github_trending_pascalorg_editor",
+    "name": "pascalorg/editor",
+    "description": "Create and share 3D architectural projects.",
+    "url": "https://github.com/pascalorg/editor",
+    "stars": 22556,
+    "growth": 168,
+    "score": 0.8231,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
+    "raw_topics": [
+      "3d",
+      "architecture",
+      "bim",
+      "cad",
+      "editor",
+      "floorplan",
+      "mcp",
+      "nextjs",
+      "parametric-design",
+      "react-three-fiber",
+      "threejs",
+      "typescript"
+    ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_MoonTechLab_LunaTV",
+    "name": "MoonTechLab/LunaTV",
+    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "url": "https://github.com/MoonTechLab/LunaTV",
+    "stars": 10032,
+    "growth": 197,
+    "score": 0.7243,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "NOASSERTION"
   }
 ]
