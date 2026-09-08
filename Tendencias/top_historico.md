@@ -191,3 +191,6 @@
 | 2026-09-07 | **1** | [skills](https://github.com/mattpocock/skills) | +2207 | 255.5k | `1.00` |
 | 2026-09-07 | **2** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1539 | 130.2k | `1.00` |
 | 2026-09-07 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1485 | 252.2k | `1.00` |
+| 2026-09-08 | **1** | [ECC](https://github.com/affaan-m/ECC) | +1897 | 253.4k | `1.00` |
+| 2026-09-08 | **2** | [markitdown](https://github.com/microsoft/markitdown) | +886 | 181.1k | `1.00` |
+| 2026-09-08 | **3** | [marketingskills](https://github.com/coreyhaines31/marketingskills) | +580 | 48.4k | `1.00` |
