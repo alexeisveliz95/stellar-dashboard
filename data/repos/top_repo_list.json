@@ -1,11 +1,107 @@
 [
   {
+    "id": "github_trending_ayghri_i-have-adhd",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "stars": 32183,
+    "growth": 656,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_cathrynlavery_diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "stars": 35793,
+    "growth": 710,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_openai_skills",
+    "name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "url": "https://github.com/openai/skills",
+    "stars": 26708,
+    "growth": 490,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "openai"
+    ]
+  },
+  {
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 254668,
+    "growth": 1427,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_heygen-com_hyperframes",
     "name": "heygen-com/hyperframes",
     "description": "Write HTML. Render video. Built for agents.",
     "url": "https://github.com/heygen-com/hyperframes",
-    "stars": 47095,
-    "growth": 474,
+    "stars": 48140,
+    "growth": 2627,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -31,12 +127,79 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_coreyhaines31_marketingskills",
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "stars": 49079,
+    "growth": 666,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 283623,
+    "growth": 452,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_multica-ai_andrej-karpathy-skills",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "stars": 211708,
+    "growth": 333,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
     "id": "github_trending_microsoft_markitdown",
     "name": "microsoft/markitdown",
     "description": "Python tool for converting files and office documents to Markdown.",
     "url": "https://github.com/microsoft/markitdown",
-    "stars": 181098,
-    "growth": 886,
+    "stars": 182008,
+    "growth": 2047,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -55,40 +218,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_affaan-m_ECC",
-    "name": "affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/ECC",
-    "stars": 253430,
-    "growth": 1897,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_coreyhaines31_marketingskills",
-    "name": "coreyhaines31/marketingskills",
-    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "url": "https://github.com/coreyhaines31/marketingskills",
-    "stars": 48410,
-    "growth": 580,
+    "id": "github_trending_jo-inc_camofox-browser",
+    "name": "jo-inc/camofox-browser",
+    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "url": "https://github.com/jo-inc/camofox-browser",
+    "stars": 10757,
+    "growth": 871,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -99,164 +234,32 @@
       "ai"
     ],
     "raw_topics": [
-      "claude",
-      "codex",
-      "marketing"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_The-Swarm-Corporation_AutoHedge",
-    "name": "The-Swarm-Corporation/AutoHedge",
-    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-    "stars": 5432,
-    "growth": 517,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "blackrock",
-      "finance",
-      "goldmansachs",
-      "hedgefund",
-      "jpmorgan",
-      "ml",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading",
-      "trading"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_bytedance_deer-flow",
-    "name": "bytedance/deer-flow",
-    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "url": "https://github.com/bytedance/deer-flow",
-    "stars": 82013,
-    "growth": 195,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "agent",
-      "agentic",
-      "agentic-framework",
-      "agentic-workflow",
-      "ai",
-      "ai-agents",
-      "deep-research",
-      "harness",
-      "langchain",
-      "langgraph",
-      "langmanus",
-      "llm",
-      "multi-agent",
+      "ai-agent",
+      "anti-bot",
+      "antidetect-browser",
+      "automation",
+      "bot-detection",
+      "browser-automation",
+      "cloudflare-bypass",
+      "headless-browser",
+      "javascript",
       "nodejs",
-      "podcast",
-      "python",
-      "superagent",
-      "typescript"
+      "playwright",
+      "puppeteer",
+      "scraping",
+      "stealth-browser",
+      "web-scraping"
     ],
     "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_openai_skills",
-    "name": "openai/skills",
-    "description": "Skills Catalog for Codex",
-    "url": "https://github.com/openai/skills",
-    "stars": 26243,
-    "growth": 351,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "openai"
-    ]
-  },
-  {
-    "id": "github_trending_ruvnet_ruflo",
-    "name": "ruvnet/ruflo",
-    "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "url": "https://github.com/ruvnet/ruflo",
-    "stars": 71551,
-    "growth": 394,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-workflow",
-      "agents",
-      "ai-agents",
-      "ai-assistant",
-      "ai-skills",
-      "autonomous-agents",
-      "claude-code",
-      "codex",
-      "dsh-plugin",
-      "harness",
-      "mcp-server",
-      "multi-agent",
-      "multi-agent-systems",
-      "npm",
-      "skills",
-      "swarm",
-      "swarm-intelligence",
-      "typescript"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_BraveOPotato_FckSignups",
-    "name": "BraveOPotato/FckSignups",
-    "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-    "url": "https://github.com/BraveOPotato/FckSignups",
-    "stars": 4018,
-    "growth": 501,
-    "score": 0.8908,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "GPL-3.0"
   },
   {
     "id": "github_trending_mksglu_context-mode",
     "name": "mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
     "url": "https://github.com/mksglu/context-mode",
-    "stars": 21134,
-    "growth": 96,
-    "score": 0.8855,
+    "stars": 21558,
+    "growth": 651,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -290,110 +293,147 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_jo-inc_camofox-browser",
-    "name": "jo-inc/camofox-browser",
-    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-    "url": "https://github.com/jo-inc/camofox-browser",
-    "stars": 10088,
-    "growth": 135,
-    "score": 0.8842,
+    "id": "github_trending_The-Swarm-Corporation_AutoHedge",
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "stars": 5878,
+    "growth": 494,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Python",
     "tags": [
       "ai"
     ],
     "raw_topics": [
-      "ai-agent",
-      "anti-bot",
-      "antidetect-browser",
-      "automation",
-      "bot-detection",
-      "browser-automation",
-      "cloudflare-bypass",
-      "headless-browser",
-      "javascript",
-      "nodejs",
-      "playwright",
-      "puppeteer",
-      "scraping",
-      "stealth-browser",
-      "web-scraping"
+      "ai",
+      "blackrock",
+      "finance",
+      "goldmansachs",
+      "hedgefund",
+      "jpmorgan",
+      "ml",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_lightpanda-io_browser",
-    "name": "lightpanda-io/browser",
-    "description": "Lightpanda: the headless browser designed for AI and automation",
-    "url": "https://github.com/lightpanda-io/browser",
-    "stars": 35079,
-    "growth": 58,
-    "score": 0.8606,
+    "id": "github_trending_browser-use_browser-use",
+    "name": "browser-use/browser-use",
+    "description": "Agents that use the browser.",
+    "url": "https://github.com/browser-use/browser-use",
+    "stars": 113827,
+    "growth": 228,
+    "score": 0.9536,
     "categories": [
-      "AI & Data Science"
+      "Web Development"
     ],
     "source": "github_trending",
-    "language": "Zig",
+    "language": "Python",
     "tags": [
-      "ai"
+      "nlp:web-development"
     ],
     "raw_topics": [
-      "browser",
+      "ai-agents",
+      "ai-tools",
       "browser-automation",
-      "cdp",
-      "headless",
-      "lightpanda",
+      "browser-use",
+      "llm",
       "playwright",
-      "puppeteer",
-      "zig"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_pascalorg_editor",
-    "name": "pascalorg/editor",
-    "description": "Create and share 3D architectural projects.",
-    "url": "https://github.com/pascalorg/editor",
-    "stars": 22556,
-    "growth": 168,
-    "score": 0.8231,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "3d",
-      "architecture",
-      "bim",
-      "cad",
-      "editor",
-      "floorplan",
-      "mcp",
-      "nextjs",
-      "parametric-design",
-      "react-three-fiber",
-      "threejs",
-      "typescript"
+      "python"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_liquidslr_system-design-notes",
+    "name": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "stars": 17325,
+    "growth": 910,
+    "score": 0.9398,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "tags": [
+      "nlp:web-development"
+    ]
   },
   {
     "id": "github_trending_MoonTechLab_LunaTV",
     "name": "MoonTechLab/LunaTV",
     "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
     "url": "https://github.com/MoonTechLab/LunaTV",
-    "stars": 10032,
-    "growth": 197,
-    "score": 0.7243,
+    "stars": 10355,
+    "growth": 505,
+    "score": 0.8666,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
     "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_viarotel-org_escrcpy",
+    "name": "viarotel-org/escrcpy",
+    "description": "📱 Display and control your Android device graphically with scrcpy.",
+    "url": "https://github.com/viarotel-org/escrcpy",
+    "stars": 11575,
+    "growth": 178,
+    "score": 0.8084,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "android",
+      "genymobile",
+      "gnirehtet",
+      "gui",
+      "hacktoberfest",
+      "hacktoberfest2026",
+      "hacktoberfest2027",
+      "linux",
+      "macos",
+      "mapping",
+      "mirroring",
+      "recording",
+      "scrcpy",
+      "scrcpy-engine",
+      "scrcpy-gui",
+      "screensharing",
+      "screenshots",
+      "windows"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_openai_plugins",
+    "name": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "url": "https://github.com/openai/plugins",
+    "stars": 6012,
+    "growth": 105,
+    "score": 0.7691,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "openai"
+    ]
   }
 ]
