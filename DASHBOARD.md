@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-08 10:59`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-09 09:20`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ECC**](https://github.com/affaan-m/ECC) | 253.4k | +1.9k | JavaScript |
-| 2 | [**markitdown**](https://github.com/microsoft/markitdown) | 181.1k | +886 | Python |
-| 3 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | 48.4k | +580 | JavaScript |
-| 4 | [**AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | 5.4k | +517 | Python |
-| 5 | [**FckSignups**](https://github.com/BraveOPotato/FckSignups) | 4.0k | +501 | TypeScript |
-| 6 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | 47.1k | +474 | TypeScript |
-| 7 | [**ruflo**](https://github.com/ruvnet/ruflo) | 71.6k | +394 | TypeScript |
-| 8 | [**skills**](https://github.com/openai/skills) | 26.2k | +351 | Python |
-| 9 | [**LunaTV**](https://github.com/MoonTechLab/LunaTV) | 10.0k | +197 | TypeScript |
-| 10 | [**deer-flow**](https://github.com/bytedance/deer-flow) | 82.0k | +195 | Python |
+| 1 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | 48.1k | +2.6k | TypeScript |
+| 2 | [**markitdown**](https://github.com/microsoft/markitdown) | 182.0k | +2.0k | Python |
+| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 254.7k | +1.4k | JavaScript |
+| 4 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 17.3k | +910 | — |
+| 5 | [**camofox-browser**](https://github.com/jo-inc/camofox-browser) | 10.8k | +871 | JavaScript |
+| 6 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 35.8k | +710 | HTML |
+| 7 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | 49.1k | +666 | JavaScript |
+| 8 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 32.2k | +656 | Python |
+| 9 | [**context-mode**](https://github.com/mksglu/context-mode) | 21.6k | +651 | TypeScript |
+| 10 | [**LunaTV**](https://github.com/MoonTechLab/LunaTV) | 10.4k | +505 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | **1.00** | 47.1k | Web Development |
-| 🥈 | [**markitdown**](https://github.com/microsoft/markitdown) | **1.00** | 181.1k | Otros |
-| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 253.4k | Cybersecurity & Hacking |
-| 4 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 48.4k | AI & Data Science |
-| 5 | [**AutoHedge**](https://github.com/The-Swarm-Corporation/AutoHedge) | **1.00** | 5.4k | AI & Data Science |
-| 6 | [**deer-flow**](https://github.com/bytedance/deer-flow) | **1.00** | 82.0k | Python & Backend |
-| 7 | [**skills**](https://github.com/openai/skills) | **1.00** | 26.2k | AI & Data Science |
-| 8 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 71.6k | AI & Data Science |
-| 9 | [**FckSignups**](https://github.com/BraveOPotato/FckSignups) | **0.89** | 4.0k | Web Development |
-| 10 | [**context-mode**](https://github.com/mksglu/context-mode) | **0.89** | 21.1k | AI & Data Science |
+| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 32.2k | Otros |
+| 🥈 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 35.8k | Web Development |
+| 🥉 | [**skills**](https://github.com/openai/skills) | **1.00** | 26.7k | AI & Data Science |
+| 4 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 254.7k | Cybersecurity & Hacking |
+| 5 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | **1.00** | 48.1k | Web Development |
+| 6 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 49.1k | AI & Data Science |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 283.6k | Python & Backend |
+| 8 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 211.7k | AI & Data Science |
+| 9 | [**markitdown**](https://github.com/microsoft/markitdown) | **1.00** | 182.0k | Otros |
+| 10 | [**camofox-browser**](https://github.com/jo-inc/camofox-browser) | **1.00** | 10.8k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.81** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 4 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

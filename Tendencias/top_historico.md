@@ -194,3 +194,6 @@
 | 2026-09-08 | **1** | [ECC](https://github.com/affaan-m/ECC) | +1897 | 253.4k | `1.00` |
 | 2026-09-08 | **2** | [markitdown](https://github.com/microsoft/markitdown) | +886 | 181.1k | `1.00` |
 | 2026-09-08 | **3** | [marketingskills](https://github.com/coreyhaines31/marketingskills) | +580 | 48.4k | `1.00` |
+| 2026-09-09 | **1** | [hyperframes](https://github.com/heygen-com/hyperframes) | +2627 | 48.1k | `1.00` |
+| 2026-09-09 | **2** | [markitdown](https://github.com/microsoft/markitdown) | +2047 | 182.0k | `1.00` |
+| 2026-09-09 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1427 | 254.7k | `1.00` |
