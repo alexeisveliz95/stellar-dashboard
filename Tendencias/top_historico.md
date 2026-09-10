@@ -197,3 +197,6 @@
 | 2026-09-09 | **1** | [hyperframes](https://github.com/heygen-com/hyperframes) | +2627 | 48.1k | `1.00` |
 | 2026-09-09 | **2** | [markitdown](https://github.com/microsoft/markitdown) | +2047 | 182.0k | `1.00` |
 | 2026-09-09 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1427 | 254.7k | `1.00` |
+| 2026-09-10 | **1** | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | +4650 | 36.1k | `1.00` |
+| 2026-09-10 | **2** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +2249 | 37.1k | `1.00` |
+| 2026-09-10 | **3** | [system-design-notes](https://github.com/liquidslr/system-design-notes) | +1397 | 18.3k | `0.95` |

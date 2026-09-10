@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-09 11:04`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-10 09:19`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | 48.1k | +2.6k | TypeScript |
-| 2 | [**markitdown**](https://github.com/microsoft/markitdown) | 182.0k | +2.0k | Python |
-| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 254.7k | +1.4k | JavaScript |
-| 4 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 17.3k | +910 | — |
-| 5 | [**camofox-browser**](https://github.com/jo-inc/camofox-browser) | 10.8k | +871 | JavaScript |
-| 6 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 35.8k | +710 | HTML |
-| 7 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | 49.1k | +666 | JavaScript |
-| 8 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 32.2k | +656 | Python |
-| 9 | [**context-mode**](https://github.com/mksglu/context-mode) | 21.6k | +651 | TypeScript |
-| 10 | [**LunaTV**](https://github.com/MoonTechLab/LunaTV) | 10.4k | +505 | TypeScript |
+| 1 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 36.1k | +4.7k | Python |
+| 2 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 37.1k | +2.2k | HTML |
+| 3 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 18.3k | +1.4k | — |
+| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 255.5k | +1.1k | JavaScript |
+| 5 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 30.5k | +705 | JavaScript |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | 284.3k | +688 | Shell |
+| 7 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | 3.4k | +556 | TypeScript |
+| 8 | [**plugins**](https://github.com/openai/plugins) | 6.3k | +498 | JavaScript |
+| 9 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | 2.0k | +417 | TypeScript |
+| 10 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 104.3k | +367 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 32.2k | Otros |
-| 🥈 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 35.8k | Web Development |
-| 🥉 | [**skills**](https://github.com/openai/skills) | **1.00** | 26.7k | AI & Data Science |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 254.7k | Cybersecurity & Hacking |
-| 5 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | **1.00** | 48.1k | Web Development |
-| 6 | [**marketingskills**](https://github.com/coreyhaines31/marketingskills) | **1.00** | 49.1k | AI & Data Science |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 283.6k | Python & Backend |
-| 8 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 211.7k | AI & Data Science |
-| 9 | [**markitdown**](https://github.com/microsoft/markitdown) | **1.00** | 182.0k | Otros |
-| 10 | [**camofox-browser**](https://github.com/jo-inc/camofox-browser) | **1.00** | 10.8k | AI & Data Science |
+| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 36.1k | Otros |
+| 🥈 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | **1.00** | 3.4k | AI & Data Science |
+| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 284.3k | Python & Backend |
+| 4 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 37.1k | Web Development |
+| 5 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 104.3k | AI & Data Science |
+| 6 | [**plugins**](https://github.com/openai/plugins) | **1.00** | 6.3k | AI & Data Science |
+| 7 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 30.5k | AI & Data Science |
+| 8 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 54.0k | AI & Data Science |
+| 9 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 255.5k | Cybersecurity & Hacking |
+| 10 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | **0.98** | 2.0k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 1 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
