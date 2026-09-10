@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **3 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **70.7k**
-> Actualizado: `2026-09-10 09:19`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,8 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 37.1k | `████████░░` | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No… |
-| [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | **0.95** | 18.3k | `██████████` | Notes of the book System Desgin Interview - An Insider's Guide |
-| [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | **0.78** | 15.3k | `█░░░░░░░░░` | A library of agent skills for CAD, CAE and CAM |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
