@@ -4,8 +4,8 @@
     "name": "ayghri/i-have-adhd",
     "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "url": "https://github.com/ayghri/i-have-adhd",
-    "stars": 36092,
-    "growth": 4650,
+    "stars": 39557,
+    "growth": 3882,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -23,20 +23,31 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Tencent_teamai-cli",
-    "name": "Tencent/teamai-cli",
-    "description": "Make Every Team AI Native",
-    "url": "https://github.com/Tencent/teamai-cli",
-    "stars": 3392,
-    "growth": 556,
+    "id": "github_trending_bilawalsidhu_gods-eye-view",
+    "name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "stars": 25500,
+    "growth": 1762,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
+    "language": "JavaScript",
+    "raw_topics": [
+      "3d-globe",
+      "cesium",
+      "flight-tracking",
+      "geospatial",
+      "geospatial-intelligence",
+      "gis",
+      "osint",
+      "photogrammetry",
+      "satellite-tracking",
+      "spatial-intelligence",
+      "webgl",
+      "worldview"
     ],
     "raw_license": "NOASSERTION"
   },
@@ -45,8 +56,8 @@
     "name": "obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "url": "https://github.com/obra/superpowers",
-    "stars": 284310,
-    "growth": 688,
+    "stars": 284983,
+    "growth": 732,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -69,12 +80,30 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_Tencent_teamai-cli",
+    "name": "Tencent/teamai-cli",
+    "description": "Make Every Team AI Native",
+    "url": "https://github.com/Tencent/teamai-cli",
+    "stars": 4060,
+    "growth": 841,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
     "id": "github_trending_cathrynlavery_diagram-design",
     "name": "cathrynlavery/diagram-design",
     "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 37108,
-    "growth": 2249,
+    "stars": 38170,
+    "growth": 1294,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -97,54 +126,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_TauricResearch_TradingAgents",
-    "name": "TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "stars": 104314,
-    "growth": 367,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "llm"
-    ],
-    "raw_topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_openai_plugins",
-    "name": "openai/plugins",
-    "description": "OpenAI Plugins",
-    "url": "https://github.com/openai/plugins",
-    "stars": 6322,
-    "growth": 498,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "openai"
-    ]
-  },
-  {
     "id": "github_trending_freestylefly_awesome-gpt-image-2",
     "name": "freestylefly/awesome-gpt-image-2",
     "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "stars": 30493,
-    "growth": 705,
+    "stars": 31183,
+    "growth": 962,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -169,70 +156,60 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_rohitg00_ai-engineering-from-scratch",
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 53983,
-    "growth": 343,
+    "id": "github_trending_diegosouzapw_OmniRoute",
+    "name": "diegosouzapw/OmniRoute",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "stars": 64537,
+    "growth": 626,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "TypeScript",
     "tags": [
-      "ai"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "agents",
-      "ai",
+      "a2a",
       "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
+      "ai-gateway",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cline",
+      "codex",
+      "copilot",
+      "cursor",
+      "deepseek",
+      "free-ai",
+      "gemini",
+      "kimi",
+      "llm-gateway",
       "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
+      "openai",
+      "openai-proxy",
+      "qwen",
+      "token-saver"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_affaan-m_ECC",
-    "name": "affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/ECC",
-    "stars": 255454,
-    "growth": 1133,
+    "id": "github_trending_THU-MAIC_OpenMAIC",
+    "name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "stars": 35661,
+    "growth": 837,
     "score": 1.0,
     "categories": [
-      "Cybersecurity & Hacking"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
+      "nlp:ai-data-science"
     ],
     "raw_license": "MIT"
   },
@@ -241,9 +218,9 @@
     "name": "vastsa/PI-Desktop",
     "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
     "url": "https://github.com/vastsa/PI-Desktop",
-    "stars": 1973,
-    "growth": 417,
-    "score": 0.9774,
+    "stars": 2534,
+    "growth": 624,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -272,13 +249,39 @@
     "raw_license": "LGPL-3.0"
   },
   {
+    "id": "github_trending_AlexsJones_llmfit",
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "stars": 35940,
+    "growth": 258,
+    "score": 0.9845,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "gguf",
+      "llm",
+      "localai",
+      "mlx",
+      "skill",
+      "unsloth"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_liquidslr_system-design-notes",
     "name": "liquidslr/system-design-notes",
     "description": "Notes of the book System Desgin Interview - An Insider's Guide",
     "url": "https://github.com/liquidslr/system-design-notes",
-    "stars": 18344,
-    "growth": 1397,
-    "score": 0.9511,
+    "stars": 19124,
+    "growth": 900,
+    "score": 0.946,
     "categories": [
       "Web Development"
     ],
@@ -288,69 +291,116 @@
     ]
   },
   {
-    "id": "github_trending_pascalorg_editor",
-    "name": "pascalorg/editor",
-    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-    "url": "https://github.com/pascalorg/editor",
-    "stars": 23176,
-    "growth": 107,
-    "score": 0.9223,
+    "id": "github_trending_alsk1992_CloddsBot",
+    "name": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "url": "https://github.com/alsk1992/CloddsBot",
+    "stars": 1885,
+    "growth": 277,
+    "score": 0.9283,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "TypeScript",
     "tags": [
-      "ai"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "3d",
-      "agent-skills",
-      "ai-agents",
-      "architecture",
-      "bim",
-      "cad",
-      "editor",
-      "floorplan",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "nextjs",
-      "parametric-design",
-      "react-three-fiber",
-      "threejs",
-      "typescript"
+      "agi",
+      "ai",
+      "arbitrage",
+      "claude",
+      "crypto",
+      "defi",
+      "ethereum",
+      "futures",
+      "hft",
+      "hyperliquid",
+      "kalshi",
+      "polymarket",
+      "prediction-markets",
+      "pumpswap",
+      "solana",
+      "telegram-bot",
+      "trading",
+      "trading-bot",
+      "typescript",
+      "x402"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_earthtojake_text-to-cad",
-    "name": "earthtojake/text-to-cad",
-    "description": "A library of agent skills for CAD, CAE and CAM",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 15253,
-    "growth": 124,
-    "score": 0.7849,
+    "id": "github_trending_vercel-labs_skills",
+    "name": "vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "url": "https://github.com/vercel-labs/skills",
+    "stars": 31338,
+    "growth": 122,
+    "score": 0.8588,
     "categories": [
-      "Web Development"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "agents",
-      "ai-agents",
-      "cad",
-      "mechanical-engineering",
-      "robotics",
-      "step",
-      "stl",
-      "stp",
-      "text-to-cad"
-    ],
+    "language": "TypeScript",
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_JustVugg_colibri",
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "url": "https://github.com/JustVugg/colibri",
+    "stars": 27618,
+    "growth": 98,
+    "score": 0.8093,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_nashsu_llm_wiki",
+    "name": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "stars": 18382,
+    "growth": 142,
+    "score": 0.8053,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_armory3d_armorpaint",
+    "name": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "url": "https://github.com/armory3d/armorpaint",
+    "stars": 4555,
+    "growth": 72,
+    "score": 0.7222,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "raw_topics": [
+      "3d",
+      "armorpaint",
+      "painting",
+      "texturing",
+      "tool"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]
