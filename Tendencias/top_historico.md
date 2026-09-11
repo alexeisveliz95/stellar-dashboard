@@ -200,3 +200,6 @@
 | 2026-09-10 | **1** | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | +4650 | 36.1k | `1.00` |
 | 2026-09-10 | **2** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +2249 | 37.1k | `1.00` |
 | 2026-09-10 | **3** | [system-design-notes](https://github.com/liquidslr/system-design-notes) | +1397 | 18.3k | `0.95` |
+| 2026-09-11 | **1** | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | +3882 | 39.6k | `1.00` |
+| 2026-09-11 | **2** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1762 | 25.5k | `1.00` |
+| 2026-09-11 | **3** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +1294 | 38.2k | `1.00` |

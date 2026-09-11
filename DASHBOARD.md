@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-10 11:00`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-11 09:16`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 36.1k | +4.7k | Python |
-| 2 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 37.1k | +2.2k | HTML |
-| 3 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 18.3k | +1.4k | — |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 255.5k | +1.1k | JavaScript |
-| 5 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 30.5k | +705 | JavaScript |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | 284.3k | +688 | Shell |
-| 7 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | 3.4k | +556 | TypeScript |
-| 8 | [**plugins**](https://github.com/openai/plugins) | 6.3k | +498 | JavaScript |
-| 9 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | 2.0k | +417 | TypeScript |
-| 10 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 104.3k | +367 | Python |
+| 1 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 39.6k | +3.9k | Python |
+| 2 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 25.5k | +1.8k | JavaScript |
+| 3 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 38.2k | +1.3k | HTML |
+| 4 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 31.2k | +962 | JavaScript |
+| 5 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 19.1k | +900 | — |
+| 6 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | 4.1k | +841 | TypeScript |
+| 7 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | 35.7k | +837 | TypeScript |
+| 8 | [**superpowers**](https://github.com/obra/superpowers) | 285.0k | +732 | Shell |
+| 9 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 64.5k | +626 | TypeScript |
+| 10 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | 2.5k | +624 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 36.1k | Otros |
-| 🥈 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | **1.00** | 3.4k | AI & Data Science |
-| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 284.3k | Python & Backend |
-| 4 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 37.1k | Web Development |
-| 5 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 104.3k | AI & Data Science |
-| 6 | [**plugins**](https://github.com/openai/plugins) | **1.00** | 6.3k | AI & Data Science |
-| 7 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 30.5k | AI & Data Science |
-| 8 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 54.0k | AI & Data Science |
-| 9 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 255.5k | Cybersecurity & Hacking |
-| 10 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | **0.98** | 2.0k | AI & Data Science |
+| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 39.6k | Otros |
+| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 25.5k | Otros |
+| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 285.0k | Python & Backend |
+| 4 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | **1.00** | 4.1k | AI & Data Science |
+| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 38.2k | Web Development |
+| 6 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 31.2k | AI & Data Science |
+| 7 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 64.5k | AI & Data Science |
+| 8 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | **1.00** | 35.7k | AI & Data Science |
+| 9 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | **1.00** | 2.5k | AI & Data Science |
+| 10 | [**llmfit**](https://github.com/AlexsJones/llmfit) | **0.98** | 35.9k | PlayStation Homebrew & Linux |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.81** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.98** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
