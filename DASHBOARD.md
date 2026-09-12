@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-11 10:59`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-12 08:55`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 39.6k | +3.9k | Python |
-| 2 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 25.5k | +1.8k | JavaScript |
-| 3 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 38.2k | +1.3k | HTML |
-| 4 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | 31.2k | +962 | JavaScript |
-| 5 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 19.1k | +900 | — |
-| 6 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | 4.1k | +841 | TypeScript |
-| 7 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | 35.7k | +837 | TypeScript |
-| 8 | [**superpowers**](https://github.com/obra/superpowers) | 285.0k | +732 | Shell |
-| 9 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 64.5k | +626 | TypeScript |
-| 10 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | 2.5k | +624 | TypeScript |
+| 1 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 27.7k | +3.7k | JavaScript |
+| 2 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 42.6k | +3.5k | Python |
+| 3 | [**spec-kit**](https://github.com/github/spec-kit) | 135.9k | +1.0k | Python |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | 285.5k | +729 | Shell |
+| 5 | [**llm_wiki**](https://github.com/nashsu/llm_wiki) | 18.9k | +647 | TypeScript |
+| 6 | [**CloddsBot**](https://github.com/alsk1992/CloddsBot) | 2.3k | +626 | TypeScript |
+| 7 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | 2.9k | +552 | TypeScript |
+| 8 | [**armorpaint**](https://github.com/armory3d/armorpaint) | 4.8k | +350 | C |
+| 9 | [**OpenFlux**](https://github.com/p1neappleXpress/OpenFlux) | 1.2k | +198 | Go |
+| 10 | [**Sonarr**](https://github.com/Sonarr/Sonarr) | 15.8k | +191 | C# |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 39.6k | Otros |
-| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 25.5k | Otros |
-| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 285.0k | Python & Backend |
-| 4 | [**teamai-cli**](https://github.com/Tencent/teamai-cli) | **1.00** | 4.1k | AI & Data Science |
-| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 38.2k | Web Development |
-| 6 | [**awesome-gpt-image-2**](https://github.com/freestylefly/awesome-gpt-image-2) | **1.00** | 31.2k | AI & Data Science |
-| 7 | [**OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | **1.00** | 64.5k | AI & Data Science |
-| 8 | [**OpenMAIC**](https://github.com/THU-MAIC/OpenMAIC) | **1.00** | 35.7k | AI & Data Science |
-| 9 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | **1.00** | 2.5k | AI & Data Science |
-| 10 | [**llmfit**](https://github.com/AlexsJones/llmfit) | **0.98** | 35.9k | PlayStation Homebrew & Linux |
+| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 42.6k | Otros |
+| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 27.7k | Otros |
+| 🥉 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | **1.00** | 2.9k | AI & Data Science |
+| 4 | [**CloddsBot**](https://github.com/alsk1992/CloddsBot) | **1.00** | 2.3k | AI & Data Science |
+| 5 | [**llm_wiki**](https://github.com/nashsu/llm_wiki) | **1.00** | 18.9k | Mobile Development |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 285.5k | Python & Backend |
+| 7 | [**spec-kit**](https://github.com/github/spec-kit) | **1.00** | 135.9k | Python & Backend |
+| 8 | [**editor**](https://github.com/pascalorg/editor) | **1.00** | 23.8k | AI & Data Science |
+| 9 | [**armorpaint**](https://github.com/armory3d/armorpaint) | **0.94** | 4.8k | Otros |
+| 10 | [**hyperresearch**](https://github.com/jordan-gibbs/hyperresearch) | **0.92** | 2.8k | Cybersecurity & Hacking |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **0.92** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **0.87** |
 
 ---
