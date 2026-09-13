@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-12 10:27`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-13 09:55`
+> 📦 **24** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 27.7k | +3.7k | JavaScript |
-| 2 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 42.6k | +3.5k | Python |
-| 3 | [**spec-kit**](https://github.com/github/spec-kit) | 135.9k | +1.0k | Python |
-| 4 | [**superpowers**](https://github.com/obra/superpowers) | 285.5k | +729 | Shell |
-| 5 | [**llm_wiki**](https://github.com/nashsu/llm_wiki) | 18.9k | +647 | TypeScript |
-| 6 | [**CloddsBot**](https://github.com/alsk1992/CloddsBot) | 2.3k | +626 | TypeScript |
-| 7 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | 2.9k | +552 | TypeScript |
-| 8 | [**armorpaint**](https://github.com/armory3d/armorpaint) | 4.8k | +350 | C |
-| 9 | [**OpenFlux**](https://github.com/p1neappleXpress/OpenFlux) | 1.2k | +198 | Go |
-| 10 | [**Sonarr**](https://github.com/Sonarr/Sonarr) | 15.8k | +191 | C# |
+| 1 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 30.8k | +2.3k | JavaScript |
+| 2 | [**DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | 2.0k | +504 | TypeScript |
+| 3 | [**CloddsBot**](https://github.com/alsk1992/CloddsBot) | 2.6k | +376 | TypeScript |
+| 4 | [**OpenFlux**](https://github.com/p1neappleXpress/OpenFlux) | 1.5k | +355 | Go |
+| 5 | [**MathModelAgent**](https://github.com/jihe520/MathModelAgent) | 5.2k | +262 | Python |
+| 6 | [**armorpaint**](https://github.com/armory3d/armorpaint) | 5.0k | +237 | C |
+| 7 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | 137.8k | +230 | Python |
+| 8 | [**Sonarr**](https://github.com/Sonarr/Sonarr) | 16.0k | +227 | C# |
+| 9 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 65.7k | +217 | JavaScript |
+| 10 | [**YuE**](https://github.com/multimodal-art-projection/YuE) | 7.5k | +210 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 42.6k | Otros |
-| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 27.7k | Otros |
-| 🥉 | [**PI-Desktop**](https://github.com/vastsa/PI-Desktop) | **1.00** | 2.9k | AI & Data Science |
-| 4 | [**CloddsBot**](https://github.com/alsk1992/CloddsBot) | **1.00** | 2.3k | AI & Data Science |
-| 5 | [**llm_wiki**](https://github.com/nashsu/llm_wiki) | **1.00** | 18.9k | Mobile Development |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 285.5k | Python & Backend |
-| 7 | [**spec-kit**](https://github.com/github/spec-kit) | **1.00** | 135.9k | Python & Backend |
-| 8 | [**editor**](https://github.com/pascalorg/editor) | **1.00** | 23.8k | AI & Data Science |
-| 9 | [**armorpaint**](https://github.com/armory3d/armorpaint) | **0.94** | 4.8k | Otros |
-| 10 | [**hyperresearch**](https://github.com/jordan-gibbs/hyperresearch) | **0.92** | 2.8k | Cybersecurity & Hacking |
+| 🥇 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 30.8k | Otros |
+| 🥈 | [**DeskcommCRM**](https://github.com/melgarafael/DeskcommCRM) | **1.00** | 2.0k | AI & Data Science |
+| 🥉 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 65.7k | AI & Data Science |
+| 4 | [**CloddsBot**](https://github.com/alsk1992/CloddsBot) | **1.00** | 2.6k | AI & Data Science |
+| 5 | [**awesome-llm-apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) | **1.00** | 137.8k | AI & Data Science |
+| 6 | [**pentagi**](https://github.com/vxcontrol/pentagi) | **1.00** | 23.6k | Cybersecurity & Hacking |
+| 7 | [**SmartTube**](https://github.com/yuliskov/SmartTube) | **0.96** | 33.3k | Mobile Development |
+| 8 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | **0.93** | 3.8k | Cybersecurity & Hacking |
+| 9 | [**OpenFlux**](https://github.com/p1neappleXpress/OpenFlux) | **0.92** | 1.5k | Cybersecurity & Hacking |
+| 10 | [**YuE**](https://github.com/multimodal-art-projection/YuE) | **0.91** | 7.5k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 3 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.96** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **0.89** |
 
 ---

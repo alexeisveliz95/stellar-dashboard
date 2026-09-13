@@ -206,3 +206,6 @@
 | 2026-09-12 | **1** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +3680 | 27.7k | `1.00` |
 | 2026-09-12 | **2** | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | +3463 | 42.6k | `1.00` |
 | 2026-09-12 | **3** | [spec-kit](https://github.com/github/spec-kit) | +1015 | 135.9k | `1.00` |
+| 2026-09-13 | **1** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +2265 | 30.8k | `1.00` |
+| 2026-09-13 | **2** | [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | +504 | 2.0k | `1.00` |
+| 2026-09-13 | **3** | [CloddsBot](https://github.com/alsk1992/CloddsBot) | +376 | 2.6k | `1.00` |
