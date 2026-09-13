@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **84.8k**
-> Actualizado: `2026-09-13 09:55`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 30.8k | `██████████` | A spy satellite simulator in your browser, except the data is real. Live open source spatial… |
-| [**YuE**](https://github.com/multimodal-art-projection/YuE) | **0.91** | 7.5k | `████░░░░░░` | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music… |
-| [**MathModelAgent**](https://github.com/jihe520/MathModelAgent) | **0.89** | 5.2k | `███████░░░` | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical… |
-| [**zapret-discord-youtube**](https://github.com/Flowseal/zapret-discord-youtube) | **0.86** | 33.2k | `█░░░░░░░░░` | Sin descripción |
-| [**armorpaint**](https://github.com/armory3d/armorpaint) | **0.84** | 5.0k | `██████░░░░` | Graphics Creation Tools |
-| [**iloader**](https://github.com/nab138/iloader) | **0.81** | 3.2k | `█████████░` | User friendly sideloader |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

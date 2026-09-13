@@ -1,34 +1,11 @@
 [
   {
-    "id": "github_trending_ayghri_i-have-adhd",
-    "name": "ayghri/i-have-adhd",
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "stars": 42630,
-    "growth": 3463,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "adhd",
-      "claude-",
-      "claude-code-plugin",
-      "claude-skills",
-      "developer-tools",
-      "productivity"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_bilawalsidhu_gods-eye-view",
     "name": "bilawalsidhu/gods-eye-view",
     "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "stars": 27722,
-    "growth": 3680,
+    "stars": 30769,
+    "growth": 2265,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -52,12 +29,12 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_vastsa_PI-Desktop",
-    "name": "vastsa/PI-Desktop",
-    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-    "url": "https://github.com/vastsa/PI-Desktop",
-    "stars": 2925,
-    "growth": 552,
+    "id": "github_trending_melgarafael_DeskcommCRM",
+    "name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "stars": 1969,
+    "growth": 504,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -68,31 +45,76 @@
       "ai"
     ],
     "raw_topics": [
-      "ai-agent",
-      "coding-agent",
-      "desktop-app",
-      "electron",
-      "global",
-      "i18n",
-      "local-first",
+      "ai",
+      "ai-agents",
+      "chatbot",
+      "crm",
+      "customer-support",
+      "ecommerce",
+      "lgpd",
       "mcp",
-      "pi",
-      "pi-agent",
-      "pi-desktop",
-      "plugins",
-      "react",
-      "rust",
-      "typescript"
+      "multi-tenant",
+      "nextjs",
+      "nuvemshop",
+      "open-source",
+      "rag",
+      "sales-automation",
+      "self-hosted",
+      "supabase",
+      "typescript",
+      "waha",
+      "whatsapp",
+      "whatsapp-api"
     ],
-    "raw_license": "LGPL-3.0"
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_asgeirtj_system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "stars": 65671,
+    "growth": 217,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "gpt"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-agents",
+      "ai-prompts",
+      "anthropic",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini",
+      "generative-ai",
+      "google",
+      "grok",
+      "llm",
+      "openai",
+      "prompt",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts"
+    ],
+    "raw_license": "CC0-1.0"
   },
   {
     "id": "github_trending_alsk1992_CloddsBot",
     "name": "alsk1992/CloddsBot",
     "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
     "url": "https://github.com/alsk1992/CloddsBot",
-    "stars": 2269,
-    "growth": 626,
+    "stars": 2621,
+    "growth": 376,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -127,124 +149,253 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_nashsu_llm_wiki",
-    "name": "nashsu/llm_wiki",
-    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-    "url": "https://github.com/nashsu/llm_wiki",
-    "stars": 18926,
-    "growth": 647,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 285531,
-    "growth": 729,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_github_spec-kit",
-    "name": "github/spec-kit",
-    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "url": "https://github.com/github/spec-kit",
-    "stars": 135883,
-    "growth": 1015,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_pascalorg_editor",
-    "name": "pascalorg/editor",
-    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-    "url": "https://github.com/pascalorg/editor",
-    "stars": 23776,
-    "growth": 106,
+    "id": "github_trending_Shubhamsaboo_awesome-llm-apps",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "stars": 137796,
+    "growth": 230,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_vxcontrol_pentagi",
+    "name": "vxcontrol/pentagi",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "stars": 23636,
+    "growth": 189,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "self-hosted"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_yuliskov_SmartTube",
+    "name": "yuliskov/SmartTube",
+    "description": "Browse media content with your own rules on Android TV",
+    "url": "https://github.com/yuliskov/SmartTube",
+    "stars": 33285,
+    "growth": 136,
+    "score": 0.9608,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "tags": [
+      "android"
+    ],
+    "raw_topics": [
+      "android",
+      "android-tv",
+      "android-tv-box",
+      "java",
+      "kotlin",
+      "retrofit2",
+      "rxjava-android"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_SnailSploit_Claude-Red",
+    "name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "stars": 3799,
+    "growth": 113,
+    "score": 0.9325,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "claude-ai",
+      "claude-pt",
+      "claude-skills",
+      "redteam",
+      "redteam-tools",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_p1neappleXpress_OpenFlux",
+    "name": "p1neappleXpress/OpenFlux",
+    "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "url": "https://github.com/p1neappleXpress/OpenFlux",
+    "stars": 1460,
+    "growth": 355,
+    "score": 0.9245,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_multimodal-art-projection_YuE",
+    "name": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "stars": 7466,
+    "growth": 210,
+    "score": 0.9059,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai",
+      "audio-generation",
+      "deep-learning",
+      "foundation-models",
+      "gpt",
+      "huggingface",
+      "llama",
+      "llms",
+      "music-generation",
+      "style-transfers",
+      "voice-cloning"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_Sonarr_Sonarr",
+    "name": "Sonarr/Sonarr",
+    "description": "Smart PVR for newsgroup and bittorrent users.",
+    "url": "https://github.com/Sonarr/Sonarr",
+    "stars": 15997,
+    "growth": 227,
+    "score": 0.8921,
+    "categories": [
+      "Web3 & Blockchain"
+    ],
+    "source": "github_trending",
+    "language": "C#",
+    "tags": [
+      "nlp:web3-blockchain"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_jihe520_MathModelAgent",
+    "name": "jihe520/MathModelAgent",
+    "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "url": "https://github.com/jihe520/MathModelAgent",
+    "stars": 5232,
+    "growth": 262,
+    "score": 0.886,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agent",
+      "llm",
+      "mathmodel",
+      "skills"
+    ]
+  },
+  {
+    "id": "github_trending_max-sixty_worktrunk",
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "stars": 7387,
+    "growth": 54,
+    "score": 0.8575,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
     "tags": [
       "ai"
     ],
     "raw_topics": [
-      "3d",
-      "agent-skills",
-      "ai-agents",
-      "architecture",
-      "bim",
-      "cad",
-      "editor",
-      "floorplan",
-      "gemini-cli-extension",
-      "local-first",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "nextjs",
-      "parametric-design",
-      "react-three-fiber",
-      "threejs",
-      "typescript"
+      "agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "git",
+      "worktrees"
     ],
-    "raw_license": "MIT"
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_Flowseal_zapret-discord-youtube",
+    "name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "stars": 33233,
+    "growth": 65,
+    "score": 0.8564,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Batchfile",
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_armory3d_armorpaint",
     "name": "armory3d/armorpaint",
     "description": "Graphics Creation Tools",
     "url": "https://github.com/armory3d/armorpaint",
-    "stars": 4801,
-    "growth": 350,
-    "score": 0.9405,
+    "stars": 4966,
+    "growth": 237,
+    "score": 0.8446,
     "categories": [
       "Otros"
     ],
@@ -260,152 +411,13 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_jordan-gibbs_hyperresearch",
-    "name": "jordan-gibbs/hyperresearch",
-    "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
-    "url": "https://github.com/jordan-gibbs/hyperresearch",
-    "stars": 2849,
-    "growth": 153,
-    "score": 0.9243,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "agents",
-      "agentskills",
-      "claude-code",
-      "deep-research",
-      "deep-research-agent"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Sonarr_Sonarr",
-    "name": "Sonarr/Sonarr",
-    "description": "Smart PVR for newsgroup and bittorrent users.",
-    "url": "https://github.com/Sonarr/Sonarr",
-    "stars": 15801,
-    "growth": 191,
-    "score": 0.8739,
-    "categories": [
-      "Web3 & Blockchain"
-    ],
-    "source": "github_trending",
-    "language": "C#",
-    "tags": [
-      "nlp:web3-blockchain"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_melgarafael_DeskcommCRM",
-    "name": "melgarafael/DeskcommCRM",
-    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-    "url": "https://github.com/melgarafael/DeskcommCRM",
-    "stars": 1501,
-    "growth": 152,
-    "score": 0.8698,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-agents",
-      "chatbot",
-      "crm",
-      "customer-support",
-      "ecommerce",
-      "lgpd",
-      "mcp",
-      "multi-tenant",
-      "nextjs",
-      "nuvemshop",
-      "open-source",
-      "rag",
-      "sales-automation",
-      "self-hosted",
-      "supabase",
-      "typescript",
-      "waha",
-      "whatsapp",
-      "whatsapp-api"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_jihe520_MathModelAgent",
-    "name": "jihe520/MathModelAgent",
-    "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-    "url": "https://github.com/jihe520/MathModelAgent",
-    "stars": 4965,
-    "growth": 129,
-    "score": 0.8552,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent",
-      "llm",
-      "mathmodel",
-      "skills"
-    ]
-  },
-  {
-    "id": "github_trending_p1neappleXpress_OpenFlux",
-    "name": "p1neappleXpress/OpenFlux",
-    "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-    "url": "https://github.com/p1neappleXpress/OpenFlux",
-    "stars": 1248,
-    "growth": 198,
-    "score": 0.8396,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_alphaXiv_OpenResearch",
-    "name": "alphaXiv/OpenResearch",
-    "description": "Run parallel research agents with any model",
-    "url": "https://github.com/alphaXiv/OpenResearch",
-    "stars": 1465,
-    "growth": 120,
-    "score": 0.8136,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_nab138_iloader",
     "name": "nab138/iloader",
     "description": "User friendly sideloader",
     "url": "https://github.com/nab138/iloader",
-    "stars": 2965,
-    "growth": 50,
-    "score": 0.7875,
+    "stars": 3184,
+    "growth": 209,
+    "score": 0.8144,
     "categories": [
       "Otros"
     ],
