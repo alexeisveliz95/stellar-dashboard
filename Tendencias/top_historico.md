@@ -209,3 +209,6 @@
 | 2026-09-13 | **1** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +2265 | 30.8k | `1.00` |
 | 2026-09-13 | **2** | [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | +504 | 2.0k | `1.00` |
 | 2026-09-13 | **3** | [CloddsBot](https://github.com/alsk1992/CloddsBot) | +376 | 2.6k | `1.00` |
+| 2026-09-14 | **1** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +2680 | 32.8k | `1.00` |
+| 2026-09-14 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2632 | 28.0k | `1.00` |
+| 2026-09-14 | **3** | [colibri](https://github.com/JustVugg/colibri) | +868 | 30.8k | `1.00` |
