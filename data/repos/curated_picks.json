@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-09-07T00:36:03.350127+00:00",
+  "updated_at": "2026-09-14T00:37:21.201477+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W38",
+      "week_start": "2026-09-14",
+      "generated_at": "2026-09-14T00:37:21.201477+00:00",
+      "picks": [
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 253400,
+          "growth": 1897,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "score": 0.73,
+          "stars": 104300,
+          "growth": 367,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "score": 0.73,
+          "stars": 137800,
+          "growth": 230,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "score": 0.0,
+          "stars": 36100,
+          "growth": 4650,
+          "momentum": 0.6,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "score": 0.0,
+          "stars": 27700,
+          "growth": 3680,
+          "momentum": 0.5,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "score": 0.0,
+          "stars": 48100,
+          "growth": 2627,
+          "momentum": 0.6,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "score": 0.0,
+          "stars": 37100,
+          "growth": 2249,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 255500,
+          "growth": 2207,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "score": 0.0,
+          "stars": 182000,
+          "growth": 2047,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "score": 0.0,
+          "stars": 130199,
+          "growth": 1539,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W37",
       "week_start": "2026-09-07",
@@ -318,113 +425,6 @@
           "stars": 2300,
           "growth": 1053,
           "momentum": 1.0,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W33",
-      "week_start": "2026-08-10",
-      "generated_at": "2026-08-16T23:17:19.348370+00:00",
-      "picks": [
-        {
-          "name": "RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "score": 0.8,
-          "stars": 89400,
-          "growth": 154,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "project-based-learning",
-          "url": "https://github.com/practical-tutorials/project-based-learning",
-          "score": 0.73,
-          "stars": 278600,
-          "growth": 401,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "score": 0.73,
-          "stars": 97400,
-          "growth": 177,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "Kronos",
-          "url": "https://github.com/shiyu-coder/Kronos",
-          "score": 0.71,
-          "stars": 37000,
-          "growth": 266,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "score": 0.0,
-          "stars": 15400,
-          "growth": 4475,
-          "momentum": 0.6,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "prime-agent",
-          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "score": 0.0,
-          "stars": 13300,
-          "growth": 2642,
-          "momentum": 0.9,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "public-apis",
-          "url": "https://github.com/public-apis/public-apis",
-          "score": 0.0,
-          "stars": 460400,
-          "growth": 2260,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "score": 0.0,
-          "stars": 144800,
-          "growth": 1873,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "macro",
-          "url": "https://github.com/macro-inc/macro",
-          "score": 0.0,
-          "stars": 2700,
-          "growth": 1239,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "orca",
-          "url": "https://github.com/stablyai/orca",
-          "score": 0.0,
-          "stars": 44200,
-          "growth": 1235,
-          "momentum": 0.1,
           "language": null,
           "description": null
         }
