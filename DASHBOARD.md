@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-14 12:23`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-15 09:42`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 32.8k | +2.7k | JavaScript |
-| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 28.0k | +2.6k | Python |
-| 3 | [**colibri**](https://github.com/JustVugg/colibri) | 30.8k | +868 | C |
-| 4 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 66.4k | +706 | JavaScript |
-| 5 | [**pentagi**](https://github.com/vxcontrol/pentagi) | 24.3k | +590 | Go |
-| 6 | [**omniget**](https://github.com/tonhowtf/omniget) | 12.2k | +507 | Rust |
-| 7 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | 4.4k | +506 | Python |
-| 8 | [**YuE**](https://github.com/multimodal-art-projection/YuE) | 8.0k | +487 | Python |
-| 9 | [**douyin-downloader**](https://github.com/jiji262/douyin-downloader) | 11.7k | +452 | Python |
-| 10 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 24.2k | +443 | Go |
+| 1 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 30.0k | +2.8k | Python |
+| 2 | [**colibri**](https://github.com/JustVugg/colibri) | 32.9k | +2.2k | C |
+| 3 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 26.8k | +1.6k | Go |
+| 4 | [**ever-gauzy**](https://github.com/ever-co/ever-gauzy) | 6.2k | +1.1k | TypeScript |
+| 5 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | 67.1k | +764 | JavaScript |
+| 6 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 106.4k | +745 | Python |
+| 7 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 81.8k | +651 | Python |
+| 8 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | 5.1k | +579 | Python |
+| 9 | [**MiroFish**](https://github.com/666ghj/MiroFish) | 73.5k | +560 | Python |
+| 10 | [**YuE**](https://github.com/multimodal-art-projection/YuE) | 8.8k | +559 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**colibri**](https://github.com/JustVugg/colibri) | **1.00** | 30.8k | PlayStation Homebrew & Linux |
-| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 32.8k | Otros |
-| 🥉 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 58.9k | AI & Data Science |
-| 4 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 66.4k | AI & Data Science |
-| 5 | [**pentagi**](https://github.com/vxcontrol/pentagi) | **1.00** | 24.3k | Cybersecurity & Hacking |
-| 6 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 28.0k | Web Development |
-| 7 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | **1.00** | 4.4k | Cybersecurity & Hacking |
-| 8 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 24.2k | AI & Data Science |
-| 9 | [**omniget**](https://github.com/tonhowtf/omniget) | **1.00** | 12.2k | PlayStation Homebrew & Linux |
-| 10 | [**transformers**](https://github.com/huggingface/transformers) | **1.00** | 165.8k | AI & Data Science |
+| 🥇 | [**colibri**](https://github.com/JustVugg/colibri) | **1.00** | 32.9k | PlayStation Homebrew & Linux |
+| 🥈 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 26.8k | AI & Data Science |
+| 🥉 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 30.0k | Web Development |
+| 4 | [**MiroFish**](https://github.com/666ghj/MiroFish) | **1.00** | 73.5k | Otros |
+| 5 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 81.8k | Python & Backend |
+| 6 | [**system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) | **1.00** | 67.1k | AI & Data Science |
+| 7 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 106.4k | AI & Data Science |
+| 8 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 94.0k | Otros |
+| 9 | [**agent-skills**](https://github.com/tech-leads-club/agent-skills) | **1.00** | 6.2k | AI & Data Science |
+| 10 | [**transformers**](https://github.com/huggingface/transformers) | **1.00** | 166.1k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **0.99** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **1.00** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

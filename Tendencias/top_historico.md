@@ -212,3 +212,6 @@
 | 2026-09-14 | **1** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +2680 | 32.8k | `1.00` |
 | 2026-09-14 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2632 | 28.0k | `1.00` |
 | 2026-09-14 | **3** | [colibri](https://github.com/JustVugg/colibri) | +868 | 30.8k | `1.00` |
+| 2026-09-15 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2776 | 30.0k | `1.00` |
+| 2026-09-15 | **2** | [colibri](https://github.com/JustVugg/colibri) | +2173 | 32.9k | `1.00` |
+| 2026-09-15 | **3** | [open-code-review](https://github.com/alibaba/open-code-review) | +1571 | 26.8k | `1.00` |
