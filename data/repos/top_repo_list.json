@@ -4,8 +4,8 @@
     "name": "JustVugg/colibri",
     "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
     "url": "https://github.com/JustVugg/colibri",
-    "stars": 30848,
-    "growth": 868,
+    "stars": 32855,
+    "growth": 2173,
     "score": 1.0,
     "categories": [
       "PlayStation Homebrew & Linux"
@@ -18,158 +18,38 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_bilawalsidhu_gods-eye-view",
-    "name": "bilawalsidhu/gods-eye-view",
-    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "stars": 32779,
-    "growth": 2680,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "raw_topics": [
-      "3d-globe",
-      "cesium",
-      "flight-tracking",
-      "geospatial",
-      "geospatial-intelligence",
-      "gis",
-      "osint",
-      "photogrammetry",
-      "satellite-tracking",
-      "spatial-intelligence",
-      "webgl",
-      "worldview"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_calesthio_OpenMontage",
-    "name": "calesthio/OpenMontage",
-    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 58909,
-    "growth": 380,
+    "id": "github_trending_alibaba_open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "url": "https://github.com/alibaba/open-code-review",
+    "stars": 26838,
+    "growth": 1571,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "claude",
-      "copilot",
-      "cursor",
-      "elevenlabs",
-      "ffmpeg",
-      "flux",
-      "image-generation",
-      "open-source",
-      "openai",
-      "python",
-      "remotion",
-      "stable-diffusion",
-      "text-to-speech",
-      "text-to-video",
-      "video-generation",
-      "video-production"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_asgeirtj_system_prompts_leaks",
-    "name": "asgeirtj/system_prompts_leaks",
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "stars": 66405,
-    "growth": 706,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "gpt"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-agents",
-      "ai-prompts",
-      "anthropic",
-      "chatbot",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "cursor",
-      "gemini",
-      "generative-ai",
-      "google",
-      "grok",
-      "llm",
-      "openai",
-      "prompt",
-      "prompt-engineering",
-      "system-prompt",
-      "system-prompts"
-    ],
-    "raw_license": "CC0-1.0"
-  },
-  {
-    "id": "github_trending_vxcontrol_pentagi",
-    "name": "vxcontrol/pentagi",
-    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "stars": 24316,
-    "growth": 590,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
     "language": "Go",
     "tags": [
-      "nlp:cybersecurity-hacking"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "ai-agents",
-      "ai-security-tool",
-      "anthropic",
-      "autonomous-agents",
-      "golang",
-      "gpt",
-      "graphql",
-      "multi-agent-system",
-      "offensive-security",
-      "open-source",
-      "openai",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "react",
-      "security-automation",
-      "security-testing",
-      "security-tools",
-      "self-hosted"
+      "agent",
+      "agent-skills",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_debpalash_VoiceStudio",
     "name": "debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 27964,
-    "growth": 2632,
+    "stars": 30026,
+    "growth": 2776,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -204,104 +84,205 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_SnailSploit_Claude-Red",
-    "name": "SnailSploit/Claude-Red",
-    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-    "url": "https://github.com/SnailSploit/Claude-Red",
-    "stars": 4391,
-    "growth": 506,
+    "id": "github_trending_666ghj_MiroFish",
+    "name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "url": "https://github.com/666ghj/MiroFish",
+    "stars": 73513,
+    "growth": 560,
     "score": 1.0,
     "categories": [
-      "Cybersecurity & Hacking"
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_Panniantong_Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "stars": 81775,
+    "growth": 651,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:cybersecurity-hacking"
+      "nlp:python-backend"
     ],
     "raw_topics": [
-      "claude-ai",
-      "claude-pt",
-      "claude-skills",
-      "redteam",
-      "redteam-tools",
-      "skills"
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "cursor",
+      "free-api",
+      "llm-tools",
+      "mcp",
+      "python",
+      "reddit-scraper",
+      "twitter-scraper",
+      "web-scraper",
+      "xiaohongshu",
+      "youtube-transcript"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_alibaba_open-code-review",
-    "name": "alibaba/open-code-review",
-    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "url": "https://github.com/alibaba/open-code-review",
-    "stars": 24157,
-    "growth": 443,
+    "id": "github_trending_asgeirtj_system_prompts_leaks",
+    "name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "stars": 67057,
+    "growth": 764,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "JavaScript",
     "tags": [
-      "nlp:ai-data-science"
+      "gpt"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-agents",
+      "ai-prompts",
+      "anthropic",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "gemini",
+      "generative-ai",
+      "google",
+      "grok",
+      "llm",
+      "openai",
+      "prompt",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts"
+    ],
+    "raw_license": "CC0-1.0"
+  },
+  {
+    "id": "github_trending_TauricResearch_TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "stars": 106443,
+    "growth": 745,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "llm"
     ],
     "raw_topics": [
       "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_tonhowtf_omniget",
-    "name": "tonhowtf/omniget",
-    "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-    "url": "https://github.com/tonhowtf/omniget",
-    "stars": 12153,
-    "growth": 507,
+    "id": "github_trending_ruvnet_RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "url": "https://github.com/ruvnet/RuView",
+    "stars": 94040,
+    "growth": 383,
     "score": 1.0,
     "categories": [
-      "PlayStation Homebrew & Linux"
+      "Otros"
     ],
     "source": "github_trending",
     "language": "Rust",
+    "raw_topics": [
+      "awesome",
+      "claude",
+      "densepose",
+      "esp32",
+      "firmware",
+      "home-assistant",
+      "home-automation",
+      "iot",
+      "monitoring",
+      "networking",
+      "npm",
+      "pose-estimation",
+      "react",
+      "rf",
+      "self-learning",
+      "skills",
+      "spatial-intelligence",
+      "typescript",
+      "wifi",
+      "wifi-security"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_tech-leads-club_agent-skills",
+    "name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "url": "https://github.com/tech-leads-club/agent-skills",
+    "stars": 6201,
+    "growth": 512,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
     "tags": [
-      "nlp:playstation-homebrew-linux"
+      "ai"
     ],
     "raw_topics": [
-      "bilibili-downloader",
-      "course-downloader",
-      "download-manager",
-      "downloader",
-      "epub-reader",
-      "hotmart-downloader",
-      "instagram-downloader",
-      "media-downloader",
-      "reddit-downloader",
-      "spaced-repetition",
-      "subtitle-downloader",
-      "telegram-downloader",
-      "tiktok-downloader",
-      "twitch-downloader",
-      "twitter-downloader",
-      "udemy-downloader",
-      "video-downloader",
-      "youtube-downloader",
-      "yt-dlp",
-      "yt-dlp-gui"
+      "agent",
+      "ai",
+      "antigravity",
+      "claude-code",
+      "copilot",
+      "cursor",
+      "skills"
     ],
-    "raw_license": "GPL-3.0"
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_huggingface_transformers",
     "name": "huggingface/transformers",
     "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
     "url": "https://github.com/huggingface/transformers",
-    "stars": 165768,
-    "growth": 152,
+    "stars": 166146,
+    "growth": 536,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -335,80 +316,63 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_yuliskov_SmartTube",
-    "name": "yuliskov/SmartTube",
-    "description": "Browse media content with your own rules on Android TV",
-    "url": "https://github.com/yuliskov/SmartTube",
-    "stars": 33582,
-    "growth": 233,
-    "score": 0.9997,
+    "id": "github_trending_SnailSploit_Claude-Red",
+    "name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "stars": 5089,
+    "growth": 579,
+    "score": 1.0,
     "categories": [
-      "Mobile Development"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
-    "language": "Java",
+    "language": "Python",
     "tags": [
-      "android"
+      "nlp:cybersecurity-hacking"
     ],
     "raw_topics": [
-      "android",
-      "android-tv",
-      "android-tv-box",
-      "java",
-      "kotlin",
-      "retrofit2",
-      "rxjava-android"
+      "claude-ai",
+      "claude-pt",
+      "claude-skills",
+      "redteam",
+      "redteam-tools",
+      "skills"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_melgarafael_DeskcommCRM",
-    "name": "melgarafael/DeskcommCRM",
-    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-    "url": "https://github.com/melgarafael/DeskcommCRM",
-    "stars": 2404,
-    "growth": 432,
-    "score": 0.9911,
+    "id": "github_trending_localsend_localsend",
+    "name": "localsend/localsend",
+    "description": "An open-source cross-platform alternative to AirDrop",
+    "url": "https://github.com/localsend/localsend",
+    "stars": 91560,
+    "growth": 251,
+    "score": 0.9907,
     "categories": [
-      "AI & Data Science"
+      "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Dart",
     "tags": [
-      "ai"
+      "nlp:mobile-development"
     ],
     "raw_topics": [
-      "ai",
-      "ai-agents",
-      "chatbot",
-      "crm",
-      "customer-support",
-      "ecommerce",
-      "lgpd",
-      "mcp",
-      "multi-tenant",
-      "nextjs",
-      "nuvemshop",
-      "open-source",
-      "rag",
-      "sales-automation",
-      "self-hosted",
-      "supabase",
-      "typescript",
-      "waha",
-      "whatsapp",
-      "whatsapp-api"
+      "dart",
+      "file-sharing",
+      "flutter",
+      "flutter-apps"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_multimodal-art-projection_YuE",
     "name": "multimodal-art-projection/YuE",
     "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
     "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 8017,
-    "growth": 487,
-    "score": 0.9886,
+    "stars": 8760,
+    "growth": 559,
+    "score": 0.9898,
     "categories": [
       "Otros"
     ],
@@ -430,76 +394,13 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_jiji262_douyin-downloader",
-    "name": "jiji262/douyin-downloader",
-    "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-    "url": "https://github.com/jiji262/douyin-downloader",
-    "stars": 11673,
-    "growth": 452,
-    "score": 0.9852,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_tech-leads-club_agent-skills",
-    "name": "tech-leads-club/agent-skills",
-    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-    "url": "https://github.com/tech-leads-club/agent-skills",
-    "stars": 5867,
-    "growth": 265,
-    "score": 0.9606,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "ai",
-      "antigravity",
-      "claude-code",
-      "copilot",
-      "cursor",
-      "skills"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_alphaXiv_OpenResearch",
-    "name": "alphaXiv/OpenResearch",
-    "description": "Turn your coding agents into research agents",
-    "url": "https://github.com/alphaXiv/OpenResearch",
-    "stars": 2343,
-    "growth": 289,
-    "score": 0.8795,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_ever-co_ever-gauzy",
     "name": "ever-co/ever-gauzy",
     "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
     "url": "https://github.com/ever-co/ever-gauzy",
-    "stars": 5603,
-    "growth": 191,
-    "score": 0.827,
+    "stars": 6217,
+    "growth": 1130,
+    "score": 0.9886,
     "categories": [
       "Otros"
     ],
@@ -530,45 +431,163 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_jihe520_MathModelAgent",
-    "name": "jihe520/MathModelAgent",
-    "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-    "url": "https://github.com/jihe520/MathModelAgent",
-    "stars": 5514,
-    "growth": 246,
-    "score": 0.8095,
+    "id": "github_trending_OpenBMB_VoxCPM",
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "stars": 37516,
+    "growth": 216,
+    "score": 0.9184,
     "categories": [
-      "Otros"
+      "Web Development"
     ],
     "source": "github_trending",
     "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
     "raw_topics": [
-      "agent",
-      "llm",
-      "mathmodel",
-      "skills"
-    ]
+      "audio",
+      "deeplearning",
+      "minicpm",
+      "multilingual",
+      "python",
+      "pytorch",
+      "speech",
+      "speech-synthesis",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "voice-cloning",
+      "voice-design",
+      "voxcpm"
+    ],
+    "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_Swordfish90_cool-retro-term",
-    "name": "Swordfish90/cool-retro-term",
-    "description": "A good looking terminal emulator which mimics the old cathode display...",
-    "url": "https://github.com/Swordfish90/cool-retro-term",
-    "stars": 26352,
-    "growth": 57,
-    "score": 0.7681,
+    "id": "github_trending_dani-garcia_vaultwarden",
+    "name": "dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "stars": 67618,
+    "growth": 115,
+    "score": 0.8676,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "bitwarden",
+      "bitwarden-rs",
+      "docker",
+      "rocket",
+      "rust",
+      "vaultwarden"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_reconurge_flowsint",
+    "name": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "url": "https://github.com/reconurge/flowsint",
+    "stars": 8512,
+    "growth": 280,
+    "score": 0.8625,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "investigation",
+      "osint",
+      "python",
+      "recon"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_Crosstalk-Solutions_project-nomad",
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "stars": 37072,
+    "growth": 40,
+    "score": 0.8151,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_rlaope_oh-my-hermes",
+    "name": "rlaope/oh-my-hermes",
+    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "url": "https://github.com/rlaope/oh-my-hermes",
+    "stars": 2303,
+    "growth": 77,
+    "score": 0.806,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "hermes-skill",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_peetzweg_opendisplay",
+    "name": "peetzweg/opendisplay",
+    "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+    "url": "https://github.com/peetzweg/opendisplay",
+    "stars": 3792,
+    "growth": 229,
+    "score": 0.779,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "QML",
+    "language": "Swift",
     "raw_topics": [
-      "linux",
+      "duet-display",
+      "external-display",
+      "ipad",
+      "iphone",
       "macos",
-      "qml",
-      "qt",
-      "retro",
-      "terminal"
-    ]
+      "screen-extension",
+      "screencapturekit",
+      "second-monitor",
+      "sidecar",
+      "swift",
+      "videotoolbox",
+      "virtual-display"
+    ],
+    "raw_license": "GPL-3.0"
   }
 ]

@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **149.4k**
-> Actualizado: `2026-09-15 09:42`
+> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 81.8k | `██████████` | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube,… |
-| [**vaultwarden**](https://github.com/dani-garcia/vaultwarden) | **0.87** | 67.6k | `██░░░░░░░░` | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
 
 ---
