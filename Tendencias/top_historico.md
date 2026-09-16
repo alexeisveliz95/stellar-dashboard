@@ -215,3 +215,6 @@
 | 2026-09-15 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2776 | 30.0k | `1.00` |
 | 2026-09-15 | **2** | [colibri](https://github.com/JustVugg/colibri) | +2173 | 32.9k | `1.00` |
 | 2026-09-15 | **3** | [open-code-review](https://github.com/alibaba/open-code-review) | +1571 | 26.8k | `1.00` |
+| 2026-09-16 | **1** | [open-code-review](https://github.com/alibaba/open-code-review) | +2756 | 30.0k | `1.00` |
+| 2026-09-16 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2072 | 31.6k | `1.00` |
+| 2026-09-16 | **3** | [colibri](https://github.com/JustVugg/colibri) | +2026 | 34.4k | `1.00` |
