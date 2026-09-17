@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-16 11:15`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-17 09:43`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 30.0k | +2.8k | Go |
-| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 31.6k | +2.1k | Python |
-| 3 | [**colibri**](https://github.com/JustVugg/colibri) | 34.4k | +2.0k | C |
-| 4 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | 77.2k | +725 | Java |
-| 5 | [**ever-gauzy**](https://github.com/ever-co/ever-gauzy) | 7.0k | +634 | TypeScript |
-| 6 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | 3.8k | +531 | Rust |
-| 7 | [**pi**](https://github.com/earendil-works/pi) | 106.1k | +458 | TypeScript |
-| 8 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 95.1k | +307 | JavaScript |
-| 9 | [**BrewUI**](https://github.com/Homebrew/BrewUI) | 1.7k | +271 | Swift |
-| 10 | [**omniget**](https://github.com/tonhowtf/omniget) | 13.3k | +258 | Rust |
+| 1 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 33.3k | +3.2k | Go |
+| 2 | [**colibri**](https://github.com/JustVugg/colibri) | 35.3k | +1.5k | C |
+| 3 | [**WeKnora**](https://github.com/Tencent/WeKnora) | 25.8k | +1.2k | Go |
+| 4 | [**tinycast**](https://github.com/abue-ammar/tinycast) | 5.9k | +1.2k | Swift |
+| 5 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | 78.1k | +1.1k | Java |
+| 6 | [**ECC**](https://github.com/affaan-m/ECC) | 260.7k | +1.1k | JavaScript |
+| 7 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | 4.8k | +1.0k | Rust |
+| 8 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 8.6k | +927 | JavaScript |
+| 9 | [**ever-gauzy**](https://github.com/ever-co/ever-gauzy) | 7.5k | +778 | TypeScript |
+| 10 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 95.7k | +658 | JavaScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 30.0k | AI & Data Science |
-| 🥈 | [**colibri**](https://github.com/JustVugg/colibri) | **1.00** | 34.4k | PlayStation Homebrew & Linux |
-| 🥉 | [**ever-gauzy**](https://github.com/ever-co/ever-gauzy) | **1.00** | 7.0k | Otros |
-| 4 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 31.6k | Web Development |
-| 5 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | **1.00** | 3.8k | Cybersecurity & Hacking |
-| 6 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | **1.00** | 77.2k | Cybersecurity & Hacking |
-| 7 | [**LibreChat**](https://github.com/danny-avila/LibreChat) | **1.00** | 44.0k | AI & Data Science |
-| 8 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 95.1k | AI & Data Science |
-| 9 | [**pi**](https://github.com/earendil-works/pi) | **1.00** | 106.1k | Python & Backend |
-| 10 | [**omniget**](https://github.com/tonhowtf/omniget) | **0.96** | 13.3k | PlayStation Homebrew & Linux |
+| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 33.3k | AI & Data Science |
+| 🥈 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 8.6k | Cybersecurity & Hacking |
+| 🥉 | [**colibri**](https://github.com/JustVugg/colibri) | **1.00** | 35.3k | PlayStation Homebrew & Linux |
+| 4 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 54.7k | AI & Data Science |
+| 5 | [**vphone-cli**](https://github.com/Lakr233/vphone-cli) | **1.00** | 13.6k | Automation & DevOps |
+| 6 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | **1.00** | 78.1k | Cybersecurity & Hacking |
+| 7 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 145.7k | AI & Data Science |
+| 8 | [**supervision**](https://github.com/roboflow/supervision) | **1.00** | 50.7k | AI & Data Science |
+| 9 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | **1.00** | 4.8k | Cybersecurity & Hacking |
+| 10 | [**WeKnora**](https://github.com/Tencent/WeKnora) | **1.00** | 25.8k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 3 | **0.96** |
+| [**Otros**](Categorias/Otros.md) | 3 | **0.98** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **1.00** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **0.78** |
 
 ---
