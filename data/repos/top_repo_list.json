@@ -4,8 +4,8 @@
     "name": "alibaba/open-code-review",
     "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
     "url": "https://github.com/alibaba/open-code-review",
-    "stars": 29961,
-    "growth": 2756,
+    "stars": 33285,
+    "growth": 3231,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -26,12 +26,30 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_cloudflare_security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "stars": 8632,
+    "growth": 927,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_JustVugg_colibri",
     "name": "JustVugg/colibri",
     "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
     "url": "https://github.com/JustVugg/colibri",
-    "stars": 34432,
-    "growth": 2026,
+    "stars": 35344,
+    "growth": 1546,
     "score": 1.0,
     "categories": [
       "PlayStation Homebrew & Linux"
@@ -44,13 +62,276 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_jamiepine_voicebox",
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "url": "https://github.com/jamiepine/voicebox",
+    "stars": 54667,
+    "growth": 417,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai",
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui",
+      "voice-ai",
+      "voice-clone",
+      "whisper"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Lakr233_vphone-cli",
+    "name": "Lakr233/vphone-cli",
+    "description": "",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "stars": 13550,
+    "growth": 547,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Swift",
+    "tags": [
+      "cli"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NationalSecurityAgency_ghidra",
+    "name": "NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "stars": 78129,
+    "growth": 1059,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "disassembler",
+      "reverse-engineering",
+      "software-analysis"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_anthropics_claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "url": "https://github.com/anthropics/claude-code",
+    "stars": 145729,
+    "growth": 165,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ]
+  },
+  {
+    "id": "github_trending_roboflow_supervision",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "url": "https://github.com/roboflow/supervision",
+    "stars": 50716,
+    "growth": 260,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_alphaXiv_OpenResearch",
+    "name": "alphaXiv/OpenResearch",
+    "description": "Turn your coding agents into research agents",
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "stars": 4765,
+    "growth": 1017,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Tencent_WeKnora",
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "url": "https://github.com/Tencent/WeKnora",
+    "stars": 25845,
+    "growth": 1197,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "agent",
+      "agentic",
+      "ai",
+      "chatbot",
+      "dsh-plugin",
+      "embeddings",
+      "evaluation",
+      "generative-ai",
+      "golang",
+      "knowledge-base",
+      "llm",
+      "multi-tenant",
+      "ollama",
+      "openai",
+      "question-answering",
+      "rag",
+      "reranking",
+      "semantic-search",
+      "vector-search",
+      "wiki"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_SnailSploit_Claude-Red",
+    "name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "stars": 5958,
+    "growth": 367,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "claude-ai",
+      "claude-pt",
+      "claude-skills",
+      "redteam",
+      "redteam-tools",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_addyosmani_agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "stars": 95720,
+    "growth": 658,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 260701,
+    "growth": 1057,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_ever-co_ever-gauzy",
     "name": "ever-co/ever-gauzy",
     "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
     "url": "https://github.com/ever-co/ever-gauzy",
-    "stars": 6992,
-    "growth": 634,
-    "score": 1.0,
+    "stars": 7493,
+    "growth": 778,
+    "score": 0.9792,
     "categories": [
       "Otros"
     ],
@@ -81,327 +362,168 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_debpalash_VoiceStudio",
-    "name": "debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 31588,
-    "growth": 2072,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ai",
-      "audiobook",
-      "cuda",
-      "dubbing",
-      "elevenlabs-alternative",
-      "huggingface",
-      "local-first",
-      "mlx",
-      "omnivoice-studio",
-      "speech-to-text",
-      "tauri",
-      "text-to-speech",
-      "transcription",
-      "translate",
-      "tts",
-      "voice-ai",
-      "voice-cloning",
-      "voice-generation",
-      "voicestudio",
-      "workflow"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_alphaXiv_OpenResearch",
-    "name": "alphaXiv/OpenResearch",
-    "description": "Turn your coding agents into research agents",
-    "url": "https://github.com/alphaXiv/OpenResearch",
-    "stars": 3764,
-    "growth": 531,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_NationalSecurityAgency_ghidra",
-    "name": "NationalSecurityAgency/ghidra",
-    "description": "Ghidra is a software reverse engineering (SRE) framework",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "stars": 77178,
-    "growth": 725,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "disassembler",
-      "reverse-engineering",
-      "software-analysis"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_danny-avila_LibreChat",
-    "name": "danny-avila/LibreChat",
-    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-    "url": "https://github.com/danny-avila/LibreChat",
-    "stars": 44032,
-    "growth": 254,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "ai",
-      "anthropic",
-      "artifacts",
-      "aws",
-      "azure",
-      "chatgpt",
-      "chatgpt-clone",
-      "claude",
-      "clone",
-      "deepseek",
-      "gemini",
-      "google",
-      "gpt-5",
-      "librechat",
-      "mcp",
-      "o1",
-      "openai",
-      "responses-api",
-      "vision",
-      "webui"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_addyosmani_agent-skills",
-    "name": "addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 95073,
-    "growth": 307,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_earendil-works_pi",
-    "name": "earendil-works/pi",
-    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-    "url": "https://github.com/earendil-works/pi",
-    "stars": 106077,
-    "growth": 458,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_tonhowtf_omniget",
-    "name": "tonhowtf/omniget",
-    "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-    "url": "https://github.com/tonhowtf/omniget",
-    "stars": 13329,
-    "growth": 258,
-    "score": 0.9605,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "bilibili-downloader",
-      "course-downloader",
-      "download-manager",
-      "downloader",
-      "epub-reader",
-      "hotmart-downloader",
-      "instagram-downloader",
-      "media-downloader",
-      "reddit-downloader",
-      "spaced-repetition",
-      "subtitle-downloader",
-      "telegram-downloader",
-      "tiktok-downloader",
-      "twitch-downloader",
-      "twitter-downloader",
-      "udemy-downloader",
-      "video-downloader",
-      "youtube-downloader",
-      "yt-dlp",
-      "yt-dlp-gui"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_melgarafael_DeskcommCRM",
-    "name": "melgarafael/DeskcommCRM",
-    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-    "url": "https://github.com/melgarafael/DeskcommCRM",
-    "stars": 3004,
-    "growth": 193,
-    "score": 0.8956,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-agents",
-      "chatbot",
-      "crm",
-      "customer-support",
-      "ecommerce",
-      "lgpd",
-      "mcp",
-      "multi-tenant",
-      "nextjs",
-      "nuvemshop",
-      "open-source",
-      "rag",
-      "sales-automation",
-      "self-hosted",
-      "supabase",
-      "typescript",
-      "waha",
-      "whatsapp",
-      "whatsapp-api"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_pacifio_atlas",
-    "name": "pacifio/atlas",
-    "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-    "url": "https://github.com/pacifio/atlas",
-    "stars": 4769,
-    "growth": 91,
-    "score": 0.8041,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "ai",
-      "ai-coding-assistant",
-      "claude-code",
-      "codex",
-      "coding-agents",
-      "git",
-      "gitops",
-      "kilo-code",
-      "mcp",
-      "mcp-client",
-      "opencode",
-      "opencode-ai",
-      "opencode-skills",
-      "self-hosted",
-      "skills"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_Homebrew_BrewUI",
-    "name": "Homebrew/BrewUI",
-    "description": "📺 Homebrew's official macOS GUI",
-    "url": "https://github.com/Homebrew/BrewUI",
-    "stars": 1669,
-    "growth": 271,
-    "score": 0.7305,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Swift",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_MG1937_ASC",
-    "name": "MG1937/ASC",
-    "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-    "url": "https://github.com/MG1937/ASC",
-    "stars": 1341,
-    "growth": 129,
-    "score": 0.7231,
+    "id": "github_trending_supabase_supabase",
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "url": "https://github.com/supabase/supabase",
+    "stars": 109957,
+    "growth": 120,
+    "score": 0.9615,
     "categories": [
       "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "TypeScript",
     "tags": [
       "nlp:mobile-development"
     ],
     "raw_topics": [
-      "agent",
-      "agentic-ai",
-      "android",
-      "decompilation",
-      "decompile",
-      "decompiler",
-      "mobile",
-      "reverse",
-      "reverse-engineering"
+      "ai",
+      "alternative",
+      "auth",
+      "database",
+      "deno",
+      "embeddings",
+      "example",
+      "firebase",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "postgres",
+      "postgresql",
+      "postgrest",
+      "realtime",
+      "supabase",
+      "vectors",
+      "websockets"
     ],
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_multimodal-art-projection_YuE",
+    "name": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "stars": 9538,
+    "growth": 332,
+    "score": 0.8986,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai",
+      "audio-generation",
+      "deep-learning",
+      "foundation-models",
+      "gpt",
+      "huggingface",
+      "llama",
+      "llms",
+      "music-generation",
+      "style-transfers",
+      "voice-cloning"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cline_cline",
+    "name": "cline/cline",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "url": "https://github.com/cline/cline",
+    "stars": 68511,
+    "growth": 112,
+    "score": 0.8947,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_abue-ammar_tinycast",
+    "name": "abue-ammar/tinycast",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "url": "https://github.com/abue-ammar/tinycast",
+    "stars": 5864,
+    "growth": 1179,
+    "score": 0.8679,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Swift",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_anthropics_knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "stars": 24398,
+    "growth": 110,
+    "score": 0.8139,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_rlaope_oh-my-hermes",
+    "name": "rlaope/oh-my-hermes",
+    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "url": "https://github.com/rlaope/oh-my-hermes",
+    "stars": 2660,
+    "growth": 80,
+    "score": 0.8065,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "hermes-skill",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_ankitects_anki",
+    "name": "ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "url": "https://github.com/ankitects/anki",
+    "stars": 31032,
+    "growth": 58,
+    "score": 0.7763,
+    "categories": [
+      "Web3 & Blockchain"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:web3-blockchain"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]

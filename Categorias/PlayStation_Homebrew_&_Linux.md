@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **35.3k**
-> Actualizado: `2026-09-17 09:43`
+> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**colibri**](https://github.com/JustVugg/colibri) | **1.00** | 35.3k | `██████████` | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from… |
+| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
+| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
 
 ---
