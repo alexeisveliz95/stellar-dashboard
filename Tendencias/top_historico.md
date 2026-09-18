@@ -221,3 +221,6 @@
 | 2026-09-17 | **1** | [open-code-review](https://github.com/alibaba/open-code-review) | +3231 | 33.3k | `1.00` |
 | 2026-09-17 | **2** | [colibri](https://github.com/JustVugg/colibri) | +1546 | 35.3k | `1.00` |
 | 2026-09-17 | **3** | [WeKnora](https://github.com/Tencent/WeKnora) | +1197 | 25.8k | `1.00` |
+| 2026-09-18 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +3607 | 11.5k | `1.00` |
+| 2026-09-18 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +3286 | 35.9k | `1.00` |
+| 2026-09-18 | **3** | [BrowserSkill](https://github.com/Tencent/BrowserSkill) | +1302 | 4.7k | `1.00` |

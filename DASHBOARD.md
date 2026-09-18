@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-17 11:23`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-18 09:21`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 33.3k | +3.2k | Go |
-| 2 | [**colibri**](https://github.com/JustVugg/colibri) | 35.3k | +1.5k | C |
-| 3 | [**WeKnora**](https://github.com/Tencent/WeKnora) | 25.8k | +1.2k | Go |
-| 4 | [**tinycast**](https://github.com/abue-ammar/tinycast) | 5.9k | +1.2k | Swift |
-| 5 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | 78.1k | +1.1k | Java |
-| 6 | [**ECC**](https://github.com/affaan-m/ECC) | 260.7k | +1.1k | JavaScript |
-| 7 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | 4.8k | +1.0k | Rust |
-| 8 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 8.6k | +927 | JavaScript |
-| 9 | [**ever-gauzy**](https://github.com/ever-co/ever-gauzy) | 7.5k | +778 | TypeScript |
-| 10 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 95.7k | +658 | JavaScript |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 11.5k | +3.6k | JavaScript |
+| 2 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 35.9k | +3.3k | Go |
+| 3 | [**BrowserSkill**](https://github.com/Tencent/BrowserSkill) | 4.7k | +1.3k | TypeScript |
+| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 261.4k | +1.2k | JavaScript |
+| 5 | [**WeKnora**](https://github.com/Tencent/WeKnora) | 26.7k | +1.1k | Go |
+| 6 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | 5.2k | +939 | Rust |
+| 7 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | 78.7k | +912 | Java |
+| 8 | [**colibri**](https://github.com/JustVugg/colibri) | 35.9k | +873 | C |
+| 9 | [**tinycast**](https://github.com/abue-ammar/tinycast) | 6.3k | +739 | Swift |
+| 10 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 96.1k | +680 | JavaScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 33.3k | AI & Data Science |
-| 🥈 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 8.6k | Cybersecurity & Hacking |
-| 🥉 | [**colibri**](https://github.com/JustVugg/colibri) | **1.00** | 35.3k | PlayStation Homebrew & Linux |
-| 4 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 54.7k | AI & Data Science |
-| 5 | [**vphone-cli**](https://github.com/Lakr233/vphone-cli) | **1.00** | 13.6k | Automation & DevOps |
-| 6 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | **1.00** | 78.1k | Cybersecurity & Hacking |
-| 7 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 145.7k | AI & Data Science |
-| 8 | [**supervision**](https://github.com/roboflow/supervision) | **1.00** | 50.7k | AI & Data Science |
-| 9 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | **1.00** | 4.8k | Cybersecurity & Hacking |
-| 10 | [**WeKnora**](https://github.com/Tencent/WeKnora) | **1.00** | 25.8k | AI & Data Science |
+| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 35.9k | AI & Data Science |
+| 🥈 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 11.5k | Cybersecurity & Hacking |
+| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 96.1k | AI & Data Science |
+| 4 | [**BrowserSkill**](https://github.com/Tencent/BrowserSkill) | **1.00** | 4.7k | AI & Data Science |
+| 5 | [**OpenResearch**](https://github.com/alphaXiv/OpenResearch) | **1.00** | 5.2k | Cybersecurity & Hacking |
+| 6 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 146.0k | AI & Data Science |
+| 7 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | **1.00** | 78.7k | Cybersecurity & Hacking |
+| 8 | [**WeKnora**](https://github.com/Tencent/WeKnora) | **1.00** | 26.7k | AI & Data Science |
+| 9 | [**voicebox**](https://github.com/jamiepine/voicebox) | **1.00** | 55.0k | AI & Data Science |
+| 10 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 261.4k | Cybersecurity & Hacking |
 
 ---
 
@@ -87,12 +87,12 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 8 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 3 | **0.96** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **1.00** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
