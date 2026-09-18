@@ -4,8 +4,8 @@
     "name": "alibaba/open-code-review",
     "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
     "url": "https://github.com/alibaba/open-code-review",
-    "stars": 33285,
-    "growth": 3231,
+    "stars": 35943,
+    "growth": 3286,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -30,8 +30,8 @@
     "name": "cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "url": "https://github.com/cloudflare/security-audit-skill",
-    "stars": 8632,
-    "growth": 927,
+    "stars": 11531,
+    "growth": 3607,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -44,30 +44,38 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_JustVugg_colibri",
-    "name": "JustVugg/colibri",
-    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-    "url": "https://github.com/JustVugg/colibri",
-    "stars": 35344,
-    "growth": 1546,
+    "id": "github_trending_addyosmani_agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "stars": 96093,
+    "growth": 680,
     "score": 1.0,
     "categories": [
-      "PlayStation Homebrew & Linux"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "C",
+    "language": "JavaScript",
     "tags": [
-      "nlp:playstation-homebrew-linux"
+      "ai"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_jamiepine_voicebox",
-    "name": "jamiepine/voicebox",
-    "description": "The open-source AI voice studio. Clone, dictate, create.",
-    "url": "https://github.com/jamiepine/voicebox",
-    "stars": 54667,
-    "growth": 417,
+    "id": "github_trending_Tencent_BrowserSkill",
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "url": "https://github.com/Tencent/BrowserSkill",
+    "stars": 4744,
+    "growth": 1302,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -78,42 +86,54 @@
       "ai"
     ],
     "raw_topics": [
-      "ai",
-      "cuda",
-      "mlx",
-      "qwen3-tts",
-      "qwen3-tts-ui",
-      "voice-ai",
-      "voice-clone",
-      "whisper"
+      "agent",
+      "browser-use",
+      "dsh-plugin"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Lakr233_vphone-cli",
-    "name": "Lakr233/vphone-cli",
-    "description": "",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "stars": 13550,
-    "growth": 547,
+    "id": "github_trending_alphaXiv_OpenResearch",
+    "name": "alphaXiv/OpenResearch",
+    "description": "Turn your coding agents into research agents",
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "stars": 5187,
+    "growth": 939,
     "score": 1.0,
     "categories": [
-      "Automation & DevOps"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
-    "language": "Swift",
+    "language": "Rust",
     "tags": [
-      "cli"
+      "nlp:cybersecurity-hacking"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_anthropics_claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "url": "https://github.com/anthropics/claude-code",
+    "stars": 146014,
+    "growth": 538,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ]
   },
   {
     "id": "github_trending_NationalSecurityAgency_ghidra",
     "name": "NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "stars": 78129,
-    "growth": 1059,
+    "stars": 78743,
+    "growth": 912,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -131,86 +151,12 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_anthropics_claude-code",
-    "name": "anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "url": "https://github.com/anthropics/claude-code",
-    "stars": 145729,
-    "growth": 165,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ]
-  },
-  {
-    "id": "github_trending_roboflow_supervision",
-    "name": "roboflow/supervision",
-    "description": "We write your reusable computer vision tools. 💜",
-    "url": "https://github.com/roboflow/supervision",
-    "stars": 50716,
-    "growth": 260,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "classification",
-      "coco",
-      "computer-vision",
-      "deep-learning",
-      "hacktoberfest",
-      "image-processing",
-      "instance-segmentation",
-      "low-code",
-      "machine-learning",
-      "metrics",
-      "object-detection",
-      "oriented-bounding-box",
-      "pascal-voc",
-      "python",
-      "pytorch",
-      "tensorflow",
-      "tracking",
-      "video-processing",
-      "yolo"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_alphaXiv_OpenResearch",
-    "name": "alphaXiv/OpenResearch",
-    "description": "Turn your coding agents into research agents",
-    "url": "https://github.com/alphaXiv/OpenResearch",
-    "stars": 4765,
-    "growth": 1017,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_Tencent_WeKnora",
     "name": "Tencent/WeKnora",
     "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
     "url": "https://github.com/Tencent/WeKnora",
-    "stars": 25845,
-    "growth": 1197,
+    "stars": 26700,
+    "growth": 1125,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -245,54 +191,30 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_SnailSploit_Claude-Red",
-    "name": "SnailSploit/Claude-Red",
-    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-    "url": "https://github.com/SnailSploit/Claude-Red",
-    "stars": 5958,
-    "growth": 367,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "claude-ai",
-      "claude-pt",
-      "claude-skills",
-      "redteam",
-      "redteam-tools",
-      "skills"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_addyosmani_agent-skills",
-    "name": "addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 95720,
-    "growth": 658,
+    "id": "github_trending_jamiepine_voicebox",
+    "name": "jamiepine/voicebox",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "url": "https://github.com/jamiepine/voicebox",
+    "stars": 55014,
+    "growth": 667,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "tags": [
       "ai"
     ],
     "raw_topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
+      "ai",
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui",
+      "voice-ai",
+      "voice-clone",
+      "whisper"
     ],
     "raw_license": "MIT"
   },
@@ -301,8 +223,8 @@
     "name": "affaan-m/ECC",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 260701,
-    "growth": 1057,
+    "stars": 261446,
+    "growth": 1171,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -325,13 +247,128 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_roboflow_supervision",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "url": "https://github.com/roboflow/supervision",
+    "stars": 50900,
+    "growth": 329,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_JustVugg_colibri",
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "url": "https://github.com/JustVugg/colibri",
+    "stars": 35931,
+    "growth": 873,
+    "score": 1.0,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cline_cline",
+    "name": "cline/cline",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "url": "https://github.com/cline/cline",
+    "stars": 68652,
+    "growth": 380,
+    "score": 1.0,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_n8n-io_n8n",
+    "name": "n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "url": "https://github.com/n8n-io/n8n",
+    "stars": 205187,
+    "growth": 281,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code",
+      "low-code-platform",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "n8n",
+      "no-code",
+      "self-hosted",
+      "typescript",
+      "workflow",
+      "workflow-automation"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
     "id": "github_trending_ever-co_ever-gauzy",
     "name": "ever-co/ever-gauzy",
     "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
     "url": "https://github.com/ever-co/ever-gauzy",
-    "stars": 7493,
-    "growth": 778,
-    "score": 0.9792,
+    "stars": 7683,
+    "growth": 470,
+    "score": 0.9646,
     "categories": [
       "Otros"
     ],
@@ -362,88 +399,81 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_supabase_supabase",
-    "name": "supabase/supabase",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "url": "https://github.com/supabase/supabase",
-    "stars": 109957,
-    "growth": 120,
-    "score": 0.9615,
+    "id": "github_trending_TencentCloud_Octop",
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "url": "https://github.com/TencentCloud/Octop",
+    "stars": 3724,
+    "growth": 367,
+    "score": 0.9359,
     "categories": [
-      "Mobile Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
     "tags": [
-      "nlp:mobile-development"
+      "ai"
     ],
     "raw_topics": [
+      "agent",
+      "agentic-ai",
       "ai",
-      "alternative",
-      "auth",
-      "database",
-      "deno",
-      "embeddings",
-      "example",
-      "firebase",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgis",
-      "postgres",
-      "postgresql",
-      "postgrest",
-      "realtime",
-      "supabase",
-      "vectors",
-      "websockets"
+      "ai-agent",
+      "ai-agents",
+      "local-first",
+      "long-term-memory"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_cilium_cilium",
+    "name": "cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "url": "https://github.com/cilium/cilium",
+    "stars": 25331,
+    "growth": 111,
+    "score": 0.9008,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "bpf",
+      "cncf",
+      "cni",
+      "containers",
+      "ebpf",
+      "k8s",
+      "kernel",
+      "kubernetes",
+      "kubernetes-networking",
+      "loadbalancing",
+      "monitoring",
+      "networking",
+      "observability",
+      "security",
+      "troubleshooting",
+      "xdp"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_multimodal-art-projection_YuE",
-    "name": "multimodal-art-projection/YuE",
-    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-    "url": "https://github.com/multimodal-art-projection/YuE",
-    "stars": 9538,
-    "growth": 332,
-    "score": 0.8986,
+    "id": "github_trending_anthropics_knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "stars": 24696,
+    "growth": 287,
+    "score": 0.8944,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
-    "raw_topics": [
-      "ai",
-      "audio-generation",
-      "deep-learning",
-      "foundation-models",
-      "gpt",
-      "huggingface",
-      "llama",
-      "llms",
-      "music-generation",
-      "style-transfers",
-      "voice-cloning"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_cline_cline",
-    "name": "cline/cline",
-    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-    "url": "https://github.com/cline/cline",
-    "stars": 68511,
-    "growth": 112,
-    "score": 0.8947,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
     "raw_license": "Apache-2.0"
   },
   {
@@ -451,9 +481,9 @@
     "name": "abue-ammar/tinycast",
     "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
     "url": "https://github.com/abue-ammar/tinycast",
-    "stars": 5864,
-    "growth": 1179,
-    "score": 0.8679,
+    "stars": 6300,
+    "growth": 739,
+    "score": 0.8788,
     "categories": [
       "Mobile Development"
     ],
@@ -465,65 +495,30 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_anthropics_knowledge-work-plugins",
-    "name": "anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "stars": 24398,
-    "growth": 110,
-    "score": 0.8139,
+    "id": "github_trending_coder_coder",
+    "name": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "url": "https://github.com/coder/coder",
+    "stars": 15006,
+    "growth": 145,
+    "score": 0.7882,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_rlaope_oh-my-hermes",
-    "name": "rlaope/oh-my-hermes",
-    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-    "url": "https://github.com/rlaope/oh-my-hermes",
-    "stars": 2660,
-    "growth": 80,
-    "score": 0.8065,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
+    "language": "Go",
     "raw_topics": [
-      "agent",
-      "ai",
-      "ai-agent",
-      "ai-tools",
-      "claude-code",
-      "codex",
-      "hermes-agent",
-      "hermes-skill",
-      "skills"
+      "agents",
+      "dev-tools",
+      "development-environment",
+      "go",
+      "golang",
+      "ide",
+      "jetbrains",
+      "remote-development",
+      "terraform",
+      "vscode"
     ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ankitects_anki",
-    "name": "ankitects/anki",
-    "description": "Anki is a smart spaced repetition flashcard program",
-    "url": "https://github.com/ankitects/anki",
-    "stars": 31032,
-    "growth": 58,
-    "score": 0.7763,
-    "categories": [
-      "Web3 & Blockchain"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:web3-blockchain"
-    ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "AGPL-3.0"
   }
 ]
