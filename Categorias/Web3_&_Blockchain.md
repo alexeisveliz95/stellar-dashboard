@@ -1,8 +1,8 @@
 # 📂 Web3 & Blockchain
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.85** · Estrellas totales: **31.3k**
-> Actualizado: `2026-09-19 09:03`
+> **4 proyectos** · ⭐ Mejor score: **0.50** · Estrellas totales: **72.6k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,9 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**anki**](https://github.com/ankitects/anki) | **0.85** | 31.3k | `██████████` | Anki is a smart spaced repetition flashcard program |
+| [**hummingbot**](https://github.com/hummingbot/hummingbot) | **0.50** | 18.6k | `░░░░░░░░░░` | Open source software that helps you create and deploy high-frequency crypto trading bots |
+| [**opentrader**](https://github.com/Open-Trader/opentrader) | **0.50** | 2.6k | `░░░░░░░░░░` | 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the… |
+| [**freqtrade**](https://github.com/freqtrade/freqtrade) | **0.40** | 50.4k | `░░░░░░░░░░` | Free, open source crypto trading bot |
+| [**tvscreener**](https://github.com/deepentropy/tvscreener) | **0.30** | 1.0k | `░░░░░░░░░░` | TradingView Screener API - Stock, Crypto, Forex, Bond, Futures, Coin |
 
 ---
