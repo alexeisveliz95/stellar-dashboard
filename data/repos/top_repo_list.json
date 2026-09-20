@@ -4,8 +4,8 @@
     "name": "cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "url": "https://github.com/cloudflare/security-audit-skill",
-    "stars": 14606,
-    "growth": 3006,
+    "stars": 17207,
+    "growth": 3155,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -18,96 +18,37 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_anthropics_claude-code",
-    "name": "anthropics/claude-code",
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "url": "https://github.com/anthropics/claude-code",
-    "stars": 146464,
-    "growth": 444,
+    "id": "github_trending_trycua_cua",
+    "name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "url": "https://github.com/trycua/cua",
+    "stars": 24798,
+    "growth": 859,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ]
-  },
-  {
-    "id": "github_trending_alibaba_open-code-review",
-    "name": "alibaba/open-code-review",
-    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "url": "https://github.com/alibaba/open-code-review",
-    "stars": 37046,
-    "growth": 2704,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
+    "language": "HTML",
     "raw_topics": [
       "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_affaan-m_ECC",
-    "name": "affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/ECC",
-    "stars": 262368,
-    "growth": 958,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Tencent_BrowserSkill",
-    "name": "Tencent/BrowserSkill",
-    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-    "url": "https://github.com/Tencent/BrowserSkill",
-    "stars": 5530,
-    "growth": 1306,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "browser-use",
-      "dsh-plugin"
+      "ai-agent",
+      "apple",
+      "computer-use",
+      "computer-use-agent",
+      "containerization",
+      "cua",
+      "desktop-automation",
+      "hacktoberfest",
+      "lume",
+      "macos",
+      "manus",
+      "operator",
+      "swift",
+      "virtualization",
+      "virtualization-framework",
+      "windows",
+      "windows-sandbox"
     ],
     "raw_license": "MIT"
   },
@@ -116,8 +57,8 @@
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 96590,
-    "growth": 675,
+    "stars": 97333,
+    "growth": 556,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -138,12 +79,52 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_TencentCloud_Octop",
-    "name": "TencentCloud/Octop",
-    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-    "url": "https://github.com/TencentCloud/Octop",
-    "stars": 4069,
-    "growth": 569,
+    "id": "github_trending_anthropics_claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "url": "https://github.com/anthropics/claude-code",
+    "stars": 146860,
+    "growth": 483,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ]
+  },
+  {
+    "id": "github_trending_Open-Dev-Society_OpenStock",
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "stars": 16381,
+    "growth": 472,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "coderabbit",
+      "inngest",
+      "nextjs",
+      "shadcn-ui",
+      "stock-market",
+      "tailwindcss"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_docling-project_docling",
+    "name": "docling-project/docling",
+    "description": "Get your documents ready for gen AI",
+    "url": "https://github.com/docling-project/docling",
+    "stars": 67322,
+    "growth": 129,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -154,54 +135,75 @@
       "ai"
     ],
     "raw_topics": [
-      "agent",
-      "agentic-ai",
       "ai",
-      "ai-agent",
-      "ai-agents",
-      "local-first",
-      "long-term-memory"
+      "convert",
+      "document-parser",
+      "document-parsing",
+      "documents",
+      "docx",
+      "html",
+      "markdown",
+      "pdf",
+      "pdf-converter",
+      "pdf-to-json",
+      "pdf-to-text",
+      "pptx",
+      "tables",
+      "xlsx"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Fission-AI_OpenSpec",
-    "name": "Fission-AI/OpenSpec",
-    "description": "Spec-driven development (SDD) for AI coding assistants.",
-    "url": "https://github.com/Fission-AI/OpenSpec",
-    "stars": 69492,
-    "growth": 296,
-    "score": 1.0,
+    "id": "github_trending_anthropics_knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "stars": 25222,
+    "growth": 281,
+    "score": 0.9713,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cactus-compute_needle",
+    "name": "cactus-compute/needle",
+    "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+    "url": "https://github.com/cactus-compute/needle",
+    "stars": 11778,
+    "growth": 234,
+    "score": 0.9485,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Python",
     "tags": [
-      "ai"
+      "automation"
     ],
     "raw_topics": [
-      "ai",
-      "context-engineering",
-      "engineering",
-      "planning",
-      "prd",
-      "sdd",
-      "sdlc",
-      "spec",
-      "spec-driven-development",
-      "specification"
+      "cactus",
+      "edge-ai",
+      "foundation-model",
+      "function-calling",
+      "llm",
+      "on-device-ai",
+      "tinyml",
+      "tool-calling"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_coder_coder",
     "name": "coder/coder",
     "description": "Secure environments for developers and their agents",
     "url": "https://github.com/coder/coder",
-    "stars": 15402,
-    "growth": 478,
-    "score": 0.9572,
+    "stars": 15770,
+    "growth": 402,
+    "score": 0.9329,
     "categories": [
       "Otros"
     ],
@@ -222,96 +224,55 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_supabase_supabase",
-    "name": "supabase/supabase",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "url": "https://github.com/supabase/supabase",
-    "stars": 110240,
-    "growth": 120,
-    "score": 0.9548,
+    "id": "github_trending_higgsfield-ai_higgsfield",
+    "name": "higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "url": "https://github.com/higgsfield-ai/higgsfield",
+    "stars": 5096,
+    "growth": 196,
+    "score": 0.8909,
     "categories": [
-      "Mobile Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Jupyter Notebook",
     "tags": [
-      "nlp:mobile-development"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "ai",
-      "alternative",
-      "auth",
-      "database",
-      "deno",
-      "embeddings",
-      "example",
-      "firebase",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgis",
-      "postgres",
-      "postgresql",
-      "postgrest",
-      "realtime",
-      "supabase",
-      "vectors",
-      "websockets"
+      "cluster-management",
+      "deep-learning",
+      "distributed",
+      "llama",
+      "llama2",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "pytorch"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_rustfs_rustfs",
-    "name": "rustfs/rustfs",
-    "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-    "url": "https://github.com/rustfs/rustfs",
-    "stars": 33269,
-    "growth": 267,
-    "score": 0.9282,
+    "id": "github_trending_ruanyf_weekly",
+    "name": "ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "url": "https://github.com/ruanyf/weekly",
+    "stars": 103551,
+    "growth": 98,
+    "score": 0.8591,
     "categories": [
       "Otros"
     ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "ai-native",
-      "ai-storage",
-      "amazon-s3",
-      "bigdata",
-      "cloud-native",
-      "filesystem",
-      "minio",
-      "multi-cloud",
-      "object-storage",
-      "objectstorage",
-      "rust",
-      "s3"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_anthropics_knowledge-work-plugins",
-    "name": "anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "stars": 24959,
-    "growth": 299,
-    "score": 0.9216,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_license": "Apache-2.0"
+    "source": "github_trending"
   },
   {
     "id": "github_trending_asciimoo_hister",
     "name": "asciimoo/hister",
     "description": "Your own search engine",
     "url": "https://github.com/asciimoo/hister",
-    "stars": 5056,
-    "growth": 889,
-    "score": 0.8785,
+    "stars": 5354,
+    "growth": 420,
+    "score": 0.8559,
     "categories": [
       "Otros"
     ],
@@ -336,91 +297,57 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_supermemoryai_supermemory",
-    "name": "supermemoryai/supermemory",
-    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "stars": 30449,
-    "growth": 140,
-    "score": 0.8592,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "agent-memory",
-      "ai-memory",
-      "cloudflare-kv",
-      "cloudflare-pages",
-      "cloudflare-workers",
-      "drizzle-orm",
-      "memory",
-      "postgres",
-      "remix",
-      "tailwindcss",
-      "typescript",
-      "vite"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ankitects_anki",
-    "name": "ankitects/anki",
-    "description": "Anki is a smart spaced repetition flashcard program",
-    "url": "https://github.com/ankitects/anki",
-    "stars": 31286,
-    "growth": 174,
-    "score": 0.8539,
-    "categories": [
-      "Web3 & Blockchain"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:web3-blockchain"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_tradesdontlie_tradingview-mcp",
-    "name": "tradesdontlie/tradingview-mcp",
-    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-    "url": "https://github.com/tradesdontlie/tradingview-mcp",
-    "stars": 6540,
-    "growth": 79,
-    "score": 0.841,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:automation-devops"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_ahmedkhaleel2004_gitdiagram",
-    "name": "ahmedkhaleel2004/gitdiagram",
-    "description": "Free, simple, fast interactive diagrams for any GitHub repository",
-    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-    "stars": 16577,
-    "growth": 152,
-    "score": 0.8102,
+    "id": "github_trending_ZuodaoTech_everyone-can-use-english",
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "stars": 38068,
+    "growth": 48,
+    "score": 0.8541,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_cloudflare_quiche",
+    "name": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "url": "https://github.com/cloudflare/quiche",
+    "stars": 12116,
+    "growth": 31,
+    "score": 0.7257,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
     "raw_topics": [
-      "ai",
-      "code",
-      "github",
-      "system-design"
+      "http3",
+      "network-programming",
+      "protocol",
+      "quic",
+      "rust"
+    ],
+    "raw_license": "BSD-2-Clause"
+  },
+  {
+    "id": "github_trending_yynxxxxx_Codex-X",
+    "name": "yynxxxxx/Codex-X",
+    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "stars": 3518,
+    "growth": 32,
+    "score": 0.6667,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:python-backend"
     ],
     "raw_license": "MIT"
   }
