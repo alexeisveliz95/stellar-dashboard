@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-19 10:40`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-20 09:31`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 14.6k | +3.0k | JavaScript |
-| 2 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 37.0k | +2.7k | Go |
-| 3 | [**BrowserSkill**](https://github.com/Tencent/BrowserSkill) | 5.5k | +1.3k | TypeScript |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | 262.4k | +958 | JavaScript |
-| 5 | [**hister**](https://github.com/asciimoo/hister) | 5.1k | +889 | Go |
-| 6 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 96.6k | +675 | JavaScript |
-| 7 | [**Octop**](https://github.com/TencentCloud/Octop) | 4.1k | +569 | Python |
-| 8 | [**coder**](https://github.com/coder/coder) | 15.4k | +478 | Go |
-| 9 | [**claude-code**](https://github.com/anthropics/claude-code) | 146.5k | +444 | TypeScript |
-| 10 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 25.0k | +299 | Python |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 17.2k | +3.2k | JavaScript |
+| 2 | [**cua**](https://github.com/trycua/cua) | 24.8k | +859 | HTML |
+| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 97.3k | +556 | JavaScript |
+| 4 | [**claude-code**](https://github.com/anthropics/claude-code) | 146.9k | +483 | TypeScript |
+| 5 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | 16.4k | +472 | TypeScript |
+| 6 | [**hister**](https://github.com/asciimoo/hister) | 5.4k | +420 | Go |
+| 7 | [**coder**](https://github.com/coder/coder) | 15.8k | +402 | Go |
+| 8 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 25.2k | +281 | Python |
+| 9 | [**needle**](https://github.com/cactus-compute/needle) | 11.8k | +234 | Python |
+| 10 | [**higgsfield**](https://github.com/higgsfield-ai/higgsfield) | 5.1k | +196 | Jupyter Notebook |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 14.6k | Cybersecurity & Hacking |
-| 🥈 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 146.5k | AI & Data Science |
-| 🥉 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 37.0k | AI & Data Science |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 262.4k | Cybersecurity & Hacking |
-| 5 | [**BrowserSkill**](https://github.com/Tencent/BrowserSkill) | **1.00** | 5.5k | AI & Data Science |
-| 6 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 96.6k | AI & Data Science |
-| 7 | [**Octop**](https://github.com/TencentCloud/Octop) | **1.00** | 4.1k | AI & Data Science |
-| 8 | [**OpenSpec**](https://github.com/Fission-AI/OpenSpec) | **1.00** | 69.5k | AI & Data Science |
-| 9 | [**coder**](https://github.com/coder/coder) | **0.96** | 15.4k | Otros |
-| 10 | [**supabase**](https://github.com/supabase/supabase) | **0.95** | 110.2k | Mobile Development |
+| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 17.2k | Cybersecurity & Hacking |
+| 🥈 | [**cua**](https://github.com/trycua/cua) | **1.00** | 24.8k | Otros |
+| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 97.3k | AI & Data Science |
+| 4 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 146.9k | AI & Data Science |
+| 5 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | **1.00** | 16.4k | Otros |
+| 6 | [**docling**](https://github.com/docling-project/docling) | **1.00** | 67.3k | AI & Data Science |
+| 7 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **0.97** | 25.2k | Otros |
+| 8 | [**needle**](https://github.com/cactus-compute/needle) | **0.95** | 11.8k | Automation & DevOps |
+| 9 | [**coder**](https://github.com/coder/coder) | **0.93** | 15.8k | Otros |
+| 10 | [**higgsfield**](https://github.com/higgsfield-ai/higgsfield) | **0.89** | 5.1k | AI & Data Science |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.95** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 8 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.67** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 

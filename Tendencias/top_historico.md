@@ -227,3 +227,6 @@
 | 2026-09-19 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +3006 | 14.6k | `1.00` |
 | 2026-09-19 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +2704 | 37.0k | `1.00` |
 | 2026-09-19 | **3** | [BrowserSkill](https://github.com/Tencent/BrowserSkill) | +1306 | 5.5k | `1.00` |
+| 2026-09-20 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +3155 | 17.2k | `1.00` |
+| 2026-09-20 | **2** | [cua](https://github.com/trycua/cua) | +859 | 24.8k | `1.00` |
+| 2026-09-20 | **3** | [agent-skills](https://github.com/addyosmani/agent-skills) | +556 | 97.3k | `1.00` |
