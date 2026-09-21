@@ -230,3 +230,6 @@
 | 2026-09-20 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +3155 | 17.2k | `1.00` |
 | 2026-09-20 | **2** | [cua](https://github.com/trycua/cua) | +859 | 24.8k | `1.00` |
 | 2026-09-20 | **3** | [agent-skills](https://github.com/addyosmani/agent-skills) | +556 | 97.3k | `1.00` |
+| 2026-09-21 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2428 | 18.5k | `1.00` |
+| 2026-09-21 | **2** | [cua](https://github.com/trycua/cua) | +1018 | 25.4k | `1.00` |
+| 2026-09-21 | **3** | [ECC](https://github.com/affaan-m/ECC) | +826 | 264.3k | `1.00` |
