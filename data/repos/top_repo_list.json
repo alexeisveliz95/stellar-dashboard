@@ -1,11 +1,39 @@
 [
   {
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 264255,
+    "growth": 826,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_cloudflare_security-audit-skill",
     "name": "cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "url": "https://github.com/cloudflare/security-audit-skill",
-    "stars": 17207,
-    "growth": 3155,
+    "stars": 18513,
+    "growth": 2428,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -22,8 +50,8 @@
     "name": "trycua/cua",
     "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
     "url": "https://github.com/trycua/cua",
-    "stars": 24798,
-    "growth": 859,
+    "stars": 25423,
+    "growth": 1018,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -53,38 +81,44 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_addyosmani_agent-skills",
-    "name": "addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 97333,
-    "growth": 556,
+    "id": "github_trending_paperless-ngx_paperless-ngx",
+    "name": "paperless-ngx/paperless-ngx",
+    "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "stars": 45764,
+    "growth": 57,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Python",
     "tags": [
-      "ai"
+      "nlp:automation-devops"
     ],
     "raw_topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
+      "ai",
+      "angular",
+      "archiving",
+      "django",
+      "dms",
+      "document-management",
+      "document-management-system",
+      "llm",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "pdf"
     ],
-    "raw_license": "MIT"
+    "raw_license": "GPL-3.0"
   },
   {
     "id": "github_trending_anthropics_claude-code",
     "name": "anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "url": "https://github.com/anthropics/claude-code",
-    "stars": 146860,
-    "growth": 483,
+    "stars": 147366,
+    "growth": 419,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -96,141 +130,13 @@
     ]
   },
   {
-    "id": "github_trending_Open-Dev-Society_OpenStock",
-    "name": "Open-Dev-Society/OpenStock",
-    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "stars": 16381,
-    "growth": 472,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "coderabbit",
-      "inngest",
-      "nextjs",
-      "shadcn-ui",
-      "stock-market",
-      "tailwindcss"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_docling-project_docling",
-    "name": "docling-project/docling",
-    "description": "Get your documents ready for gen AI",
-    "url": "https://github.com/docling-project/docling",
-    "stars": 67322,
-    "growth": 129,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "convert",
-      "document-parser",
-      "document-parsing",
-      "documents",
-      "docx",
-      "html",
-      "markdown",
-      "pdf",
-      "pdf-converter",
-      "pdf-to-json",
-      "pdf-to-text",
-      "pptx",
-      "tables",
-      "xlsx"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_anthropics_knowledge-work-plugins",
-    "name": "anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "stars": 25222,
-    "growth": 281,
-    "score": 0.9713,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_cactus-compute_needle",
-    "name": "cactus-compute/needle",
-    "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-    "url": "https://github.com/cactus-compute/needle",
-    "stars": 11778,
-    "growth": 234,
-    "score": 0.9485,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "automation"
-    ],
-    "raw_topics": [
-      "cactus",
-      "edge-ai",
-      "foundation-model",
-      "function-calling",
-      "llm",
-      "on-device-ai",
-      "tinyml",
-      "tool-calling"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_coder_coder",
-    "name": "coder/coder",
-    "description": "Secure environments for developers and their agents",
-    "url": "https://github.com/coder/coder",
-    "stars": 15770,
-    "growth": 402,
-    "score": 0.9329,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "raw_topics": [
-      "agents",
-      "dev-tools",
-      "development-environment",
-      "go",
-      "golang",
-      "ide",
-      "jetbrains",
-      "remote-development",
-      "terraform",
-      "vscode"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
     "id": "github_trending_higgsfield-ai_higgsfield",
     "name": "higgsfield-ai/higgsfield",
     "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
     "url": "https://github.com/higgsfield-ai/higgsfield",
-    "stars": 5096,
-    "growth": 196,
-    "score": 0.8909,
+    "stars": 5553,
+    "growth": 465,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -253,102 +159,147 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_ruanyf_weekly",
-    "name": "ruanyf/weekly",
-    "description": "科技爱好者周刊，每周五发布",
-    "url": "https://github.com/ruanyf/weekly",
-    "stars": 103551,
-    "growth": 98,
-    "score": 0.8591,
+    "id": "github_trending_Open-Dev-Society_OpenStock",
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "stars": 17203,
+    "growth": 755,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
-    "source": "github_trending"
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "coderabbit",
+      "inngest",
+      "nextjs",
+      "shadcn-ui",
+      "stock-market",
+      "tailwindcss"
+    ],
+    "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_asciimoo_hister",
-    "name": "asciimoo/hister",
-    "description": "Your own search engine",
-    "url": "https://github.com/asciimoo/hister",
-    "stars": 5354,
-    "growth": 420,
-    "score": 0.8559,
+    "id": "github_trending_addyosmani_agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "stars": 97951,
+    "growth": 736,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_anthropics_financial-services",
+    "name": "anthropics/financial-services",
+    "description": "",
+    "url": "https://github.com/anthropics/financial-services",
+    "stars": 35587,
+    "growth": 260,
+    "score": 0.9182,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_vercel-labs_json-render",
+    "name": "vercel-labs/json-render",
+    "description": "The Generative UI framework",
+    "url": "https://github.com/vercel-labs/json-render",
+    "stars": 17738,
+    "growth": 291,
+    "score": 0.8952,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_coder_coder",
+    "name": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "url": "https://github.com/coder/coder",
+    "stars": 16246,
+    "growth": 379,
+    "score": 0.8936,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Go",
     "raw_topics": [
-      "browser-history",
+      "agents",
+      "dev-tools",
+      "development-environment",
       "go",
       "golang",
-      "history",
-      "index",
-      "mcp",
-      "mcp-server",
-      "personal-search",
-      "personal-search-engine",
-      "privacy",
-      "search",
-      "search-engine",
-      "semantic-search",
-      "web"
+      "ide",
+      "jetbrains",
+      "remote-development",
+      "terraform",
+      "vscode"
     ],
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_ZuodaoTech_everyone-can-use-english",
-    "name": "ZuodaoTech/everyone-can-use-english",
-    "description": "人人都能用英语",
-    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-    "stars": 38068,
-    "growth": 48,
-    "score": 0.8541,
+    "id": "github_trending_BuilderIO_agent-native",
+    "name": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "stars": 5534,
+    "growth": 98,
+    "score": 0.6965,
     "categories": [
-      "Otros"
+      "Mobile Development"
     ],
     "source": "github_trending",
     "language": "TypeScript",
-    "raw_license": "GPL-3.0"
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "agent-native",
+      "agents",
+      "ai",
+      "react",
+      "typescript"
+    ]
   },
   {
-    "id": "github_trending_cloudflare_quiche",
-    "name": "cloudflare/quiche",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-    "url": "https://github.com/cloudflare/quiche",
-    "stars": 12116,
-    "growth": 31,
-    "score": 0.7257,
+    "id": "github_trending_mihail911_modern-software-dev-assignments",
+    "name": "mihail911/modern-software-dev-assignments",
+    "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+    "url": "https://github.com/mihail911/modern-software-dev-assignments",
+    "stars": 4692,
+    "growth": 172,
+    "score": 0.6918,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "http3",
-      "network-programming",
-      "protocol",
-      "quic",
-      "rust"
-    ],
-    "raw_license": "BSD-2-Clause"
-  },
-  {
-    "id": "github_trending_yynxxxxx_Codex-X",
-    "name": "yynxxxxx/Codex-X",
-    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-    "url": "https://github.com/yynxxxxx/Codex-X",
-    "stars": 3518,
-    "growth": 32,
-    "score": 0.6667,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_license": "MIT"
+    "language": "Python"
   }
 ]
