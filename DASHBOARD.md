@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-21 12:30`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-22 09:35`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 18.5k | +2.4k | JavaScript |
-| 2 | [**cua**](https://github.com/trycua/cua) | 25.4k | +1.0k | HTML |
-| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 264.3k | +826 | JavaScript |
-| 4 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | 17.2k | +755 | TypeScript |
-| 5 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 98.0k | +736 | JavaScript |
-| 6 | [**higgsfield**](https://github.com/higgsfield-ai/higgsfield) | 5.6k | +465 | Jupyter Notebook |
-| 7 | [**claude-code**](https://github.com/anthropics/claude-code) | 147.4k | +419 | TypeScript |
-| 8 | [**coder**](https://github.com/coder/coder) | 16.2k | +379 | Go |
-| 9 | [**json-render**](https://github.com/vercel-labs/json-render) | 17.7k | +291 | TypeScript |
-| 10 | [**financial-services**](https://github.com/anthropics/financial-services) | 35.6k | +260 | Python |
+| 1 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | 18.1k | +844 | TypeScript |
+| 2 | [**cua**](https://github.com/trycua/cua) | 25.9k | +609 | HTML |
+| 3 | [**agent-native**](https://github.com/BuilderIO/agent-native) | 6.2k | +607 | TypeScript |
+| 4 | [**coder**](https://github.com/coder/coder) | 16.6k | +460 | Go |
+| 5 | [**financial-services**](https://github.com/anthropics/financial-services) | 36.0k | +424 | Python |
+| 6 | [**project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | 38.1k | +394 | TypeScript |
+| 7 | [**autoclip**](https://github.com/zhouxiaoka/autoclip) | 8.6k | +250 | Python |
+| 8 | [**weekly**](https://github.com/ruanyf/weekly) | 104.4k | +182 | — |
+| 9 | [**mvt**](https://github.com/mvt-project/mvt) | 13.8k | +169 | Python |
+| 10 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | 7.9k | +167 | Rust |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 264.3k | Cybersecurity & Hacking |
-| 🥈 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 18.5k | Cybersecurity & Hacking |
-| 🥉 | [**cua**](https://github.com/trycua/cua) | **1.00** | 25.4k | Otros |
-| 4 | [**paperless-ngx**](https://github.com/paperless-ngx/paperless-ngx) | **1.00** | 45.8k | Automation & DevOps |
-| 5 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 147.4k | AI & Data Science |
-| 6 | [**higgsfield**](https://github.com/higgsfield-ai/higgsfield) | **1.00** | 5.6k | AI & Data Science |
-| 7 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | **1.00** | 17.2k | Otros |
-| 8 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 98.0k | AI & Data Science |
-| 9 | [**financial-services**](https://github.com/anthropics/financial-services) | **0.92** | 35.6k | Otros |
-| 10 | [**json-render**](https://github.com/vercel-labs/json-render) | **0.90** | 17.7k | Otros |
+| 🥇 | [**cua**](https://github.com/trycua/cua) | **1.00** | 25.9k | Otros |
+| 🥈 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | **1.00** | 18.1k | Otros |
+| 🥉 | [**coder**](https://github.com/coder/coder) | **1.00** | 16.6k | Otros |
+| 4 | [**financial-services**](https://github.com/anthropics/financial-services) | **1.00** | 36.0k | Otros |
+| 5 | [**project-nomad**](https://github.com/Crosstalk-Solutions/project-nomad) | **1.00** | 38.1k | PlayStation Homebrew & Linux |
+| 6 | [**autoclip**](https://github.com/zhouxiaoka/autoclip) | **0.94** | 8.6k | AI & Data Science |
+| 7 | [**weekly**](https://github.com/ruanyf/weekly) | **0.92** | 104.4k | Otros |
+| 8 | [**agent-native**](https://github.com/BuilderIO/agent-native) | **0.91** | 6.2k | Mobile Development |
+| 9 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | **0.89** | 7.9k | AI & Data Science |
+| 10 | [**mvt**](https://github.com/mvt-project/mvt) | **0.87** | 13.8k | Mobile Development |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 2 | **0.94** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **0.91** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **1.00** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.68** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 

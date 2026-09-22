@@ -233,3 +233,6 @@
 | 2026-09-21 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2428 | 18.5k | `1.00` |
 | 2026-09-21 | **2** | [cua](https://github.com/trycua/cua) | +1018 | 25.4k | `1.00` |
 | 2026-09-21 | **3** | [ECC](https://github.com/affaan-m/ECC) | +826 | 264.3k | `1.00` |
+| 2026-09-22 | **1** | [OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +844 | 18.1k | `1.00` |
+| 2026-09-22 | **2** | [cua](https://github.com/trycua/cua) | +609 | 25.9k | `1.00` |
+| 2026-09-22 | **3** | [agent-native](https://github.com/BuilderIO/agent-native) | +607 | 6.2k | `0.91` |
