@@ -1,96 +1,11 @@
 [
   {
-    "id": "github_trending_trycua_cua",
-    "name": "trycua/cua",
-    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-    "url": "https://github.com/trycua/cua",
-    "stars": 25879,
-    "growth": 609,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "raw_topics": [
-      "agent",
-      "ai-agent",
-      "apple",
-      "computer-use",
-      "computer-use-agent",
-      "containerization",
-      "cua",
-      "desktop-automation",
-      "hacktoberfest",
-      "lume",
-      "macos",
-      "manus",
-      "operator",
-      "swift",
-      "virtualization",
-      "virtualization-framework",
-      "windows",
-      "windows-sandbox"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Open-Dev-Society_OpenStock",
-    "name": "Open-Dev-Society/OpenStock",
-    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "stars": 18150,
-    "growth": 844,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "coderabbit",
-      "inngest",
-      "nextjs",
-      "shadcn-ui",
-      "stock-market",
-      "tailwindcss"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_coder_coder",
-    "name": "coder/coder",
-    "description": "Secure environments for developers and their agents",
-    "url": "https://github.com/coder/coder",
-    "stars": 16555,
-    "growth": 460,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "raw_topics": [
-      "agents",
-      "dev-tools",
-      "development-environment",
-      "go",
-      "golang",
-      "ide",
-      "jetbrains",
-      "remote-development",
-      "terraform",
-      "vscode"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
     "id": "github_trending_anthropics_financial-services",
     "name": "anthropics/financial-services",
     "description": "",
     "url": "https://github.com/anthropics/financial-services",
-    "stars": 35994,
-    "growth": 424,
+    "stars": 36640,
+    "growth": 438,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -100,119 +15,94 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_Crosstalk-Solutions_project-nomad",
-    "name": "Crosstalk-Solutions/project-nomad",
-    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "stars": 38067,
-    "growth": 394,
+    "id": "github_trending_dream-num_univer",
+    "name": "dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "url": "https://github.com/dream-num/univer",
+    "stars": 15974,
+    "growth": 255,
     "score": 1.0,
     "categories": [
-      "PlayStation Homebrew & Linux"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "TypeScript",
     "tags": [
-      "nlp:playstation-homebrew-linux"
+      "ai"
+    ],
+    "raw_topics": [
+      "board",
+      "collaboration",
+      "data-table",
+      "doc",
+      "docx",
+      "excel",
+      "grid",
+      "pdf",
+      "ppt",
+      "pptx",
+      "presentation",
+      "sdk",
+      "sheet",
+      "slides",
+      "spreadsheet",
+      "table",
+      "word",
+      "wordprocessor",
+      "xlsx"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_zhouxiaoka_autoclip",
-    "name": "zhouxiaoka/autoclip",
-    "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-    "url": "https://github.com/zhouxiaoka/autoclip",
-    "stars": 8590,
-    "growth": 250,
-    "score": 0.9372,
+    "id": "github_trending_davila7_claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "stars": 31281,
+    "growth": 64,
+    "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "ai"
+      "nlp:automation-devops"
     ],
     "raw_topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "ai-video",
-      "ai-video-editor",
-      "auto",
-      "auto-highlight",
-      "highlight",
-      "llm",
-      "video",
-      "video-editing",
-      "video-processing",
-      "videos"
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_ruanyf_weekly",
-    "name": "ruanyf/weekly",
-    "description": "科技爱好者周刊，每周五发布",
-    "url": "https://github.com/ruanyf/weekly",
-    "stars": 104370,
-    "growth": 182,
-    "score": 0.9211,
+    "id": "github_trending_google_ax",
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "url": "https://github.com/google/ax",
+    "stars": 8169,
+    "growth": 2305,
+    "score": 1.0,
     "categories": [
-      "Otros"
-    ],
-    "source": "github_trending"
-  },
-  {
-    "id": "github_trending_BuilderIO_agent-native",
-    "name": "BuilderIO/agent-native",
-    "description": "A framework for building agentic apps",
-    "url": "https://github.com/BuilderIO/agent-native",
-    "stars": 6234,
-    "growth": 607,
-    "score": 0.9073,
-    "categories": [
-      "Mobile Development"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Go",
     "tags": [
-      "nlp:mobile-development"
+      "nlp:automation-devops"
     ],
-    "raw_topics": [
-      "agent-native",
-      "agents",
-      "ai",
-      "react",
-      "typescript"
-    ]
-  },
-  {
-    "id": "github_trending_akitaonrails_ai-memory",
-    "name": "akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "stars": 7941,
-    "growth": 167,
-    "score": 0.8901,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_mvt-project_mvt",
     "name": "mvt-project/mvt",
     "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
     "url": "https://github.com/mvt-project/mvt",
-    "stars": 13754,
-    "growth": 169,
-    "score": 0.8654,
+    "stars": 14291,
+    "growth": 441,
+    "score": 1.0,
     "categories": [
       "Mobile Development"
     ],
@@ -232,43 +122,64 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_cloudflare_quiche",
-    "name": "cloudflare/quiche",
-    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-    "url": "https://github.com/cloudflare/quiche",
-    "stars": 12460,
-    "growth": 32,
-    "score": 0.7512,
+    "id": "github_trending_browser-use_video-use",
+    "name": "browser-use/video-use",
+    "description": "Edit videos with coding agents",
+    "url": "https://github.com/browser-use/video-use",
+    "stars": 26175,
+    "growth": 191,
+    "score": 0.931,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_agent-substrate_substrate",
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "url": "https://github.com/agent-substrate/substrate",
+    "stars": 3188,
+    "growth": 245,
+    "score": 0.7933,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "http3",
-      "network-programming",
-      "protocol",
-      "quic",
-      "rust"
-    ],
-    "raw_license": "BSD-2-Clause"
+    "language": "Go",
+    "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_yynxxxxx_Codex-X",
-    "name": "yynxxxxx/Codex-X",
-    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-    "url": "https://github.com/yynxxxxx/Codex-X",
-    "stars": 3826,
-    "growth": 50,
-    "score": 0.681,
+    "id": "github_trending_superdesigndev_treg",
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+    "url": "https://github.com/superdesigndev/treg",
+    "stars": 2416,
+    "growth": 230,
+    "score": 0.7896,
     "categories": [
-      "Python & Backend"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:python-backend"
+    "language": "Python",
+    "raw_topics": [
+      "agents",
+      "api-keys",
+      "cli",
+      "credentials",
+      "developer-tools",
+      "dsh-plugin",
+      "mcp",
+      "proxy",
+      "python",
+      "registry",
+      "secrets"
     ],
-    "raw_license": "MIT"
+    "raw_license": "NOASSERTION"
   }
 ]
