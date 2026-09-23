@@ -236,3 +236,6 @@
 | 2026-09-22 | **1** | [OpenStock](https://github.com/Open-Dev-Society/OpenStock) | +844 | 18.1k | `1.00` |
 | 2026-09-22 | **2** | [cua](https://github.com/trycua/cua) | +609 | 25.9k | `1.00` |
 | 2026-09-22 | **3** | [agent-native](https://github.com/BuilderIO/agent-native) | +607 | 6.2k | `0.91` |
+| 2026-09-23 | **1** | [ax](https://github.com/google/ax) | +2305 | 8.2k | `1.00` |
+| 2026-09-23 | **2** | [mvt](https://github.com/mvt-project/mvt) | +441 | 14.3k | `1.00` |
+| 2026-09-23 | **3** | [financial-services](https://github.com/anthropics/financial-services) | +438 | 36.6k | `1.00` |
