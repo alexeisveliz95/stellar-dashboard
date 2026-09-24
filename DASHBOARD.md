@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-23 11:13`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-24 09:37`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,14 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ax**](https://github.com/google/ax) | 8.2k | +2.3k | Go |
-| 2 | [**mvt**](https://github.com/mvt-project/mvt) | 14.3k | +441 | Python |
-| 3 | [**financial-services**](https://github.com/anthropics/financial-services) | 36.6k | +438 | Python |
-| 4 | [**univer**](https://github.com/dream-num/univer) | 16.0k | +255 | TypeScript |
-| 5 | [**substrate**](https://github.com/agent-substrate/substrate) | 3.2k | +245 | Go |
-| 6 | [**treg**](https://github.com/superdesigndev/treg) | 2.4k | +230 | Python |
-| 7 | [**video-use**](https://github.com/browser-use/video-use) | 26.2k | +191 | Python |
-| 8 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | 31.3k | +64 | Python |
+| 1 | [**ax**](https://github.com/google/ax) | 9.6k | +1.5k | Go |
+| 2 | [**univer**](https://github.com/dream-num/univer) | 16.6k | +1.1k | TypeScript |
+| 3 | [**video-use**](https://github.com/browser-use/video-use) | 26.7k | +746 | Python |
+| 4 | [**financial-services**](https://github.com/anthropics/financial-services) | 37.2k | +664 | Python |
+| 5 | [**substrate**](https://github.com/agent-substrate/substrate) | 3.7k | +558 | Go |
+| 6 | [**mvt**](https://github.com/mvt-project/mvt) | 14.6k | +543 | Python |
+| 7 | [**treg**](https://github.com/superdesigndev/treg) | 2.9k | +506 | Python |
+| 8 | [**superpowers**](https://github.com/obra/superpowers) | 290.9k | +474 | Shell |
+| 9 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | 31.7k | +389 | Python |
+| 10 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | 19.1k | +344 | TypeScript |
 
 ---
 
@@ -29,14 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**financial-services**](https://github.com/anthropics/financial-services) | **1.00** | 36.6k | Otros |
-| 🥈 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 16.0k | AI & Data Science |
-| 🥉 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **1.00** | 31.3k | Automation & DevOps |
-| 4 | [**ax**](https://github.com/google/ax) | **1.00** | 8.2k | Automation & DevOps |
-| 5 | [**mvt**](https://github.com/mvt-project/mvt) | **1.00** | 14.3k | Mobile Development |
-| 6 | [**video-use**](https://github.com/browser-use/video-use) | **0.93** | 26.2k | Web Development |
-| 7 | [**substrate**](https://github.com/agent-substrate/substrate) | **0.79** | 3.2k | Otros |
-| 8 | [**treg**](https://github.com/superdesigndev/treg) | **0.79** | 2.4k | Otros |
+| 🥇 | [**financial-services**](https://github.com/anthropics/financial-services) | **1.00** | 37.2k | Otros |
+| 🥈 | [**ax**](https://github.com/google/ax) | **1.00** | 9.6k | Automation & DevOps |
+| 🥉 | [**claude-code-templates**](https://github.com/davila7/claude-code-templates) | **1.00** | 31.7k | Automation & DevOps |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 290.9k | Python & Backend |
+| 5 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 16.6k | AI & Data Science |
+| 6 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | **1.00** | 19.1k | Otros |
+| 7 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 70.6k | AI & Data Science |
+| 8 | [**mvt**](https://github.com/mvt-project/mvt) | **1.00** | 14.6k | Mobile Development |
+| 9 | [**codebase-memory-mcp**](https://github.com/DeusData/codebase-memory-mcp) | **1.00** | 44.8k | Otros |
+| 10 | [**video-use**](https://github.com/browser-use/video-use) | **1.00** | 26.7k | Web Development |
 
 ---
 
@@ -83,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 4 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

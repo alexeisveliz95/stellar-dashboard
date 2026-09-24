@@ -239,3 +239,6 @@
 | 2026-09-23 | **1** | [ax](https://github.com/google/ax) | +2305 | 8.2k | `1.00` |
 | 2026-09-23 | **2** | [mvt](https://github.com/mvt-project/mvt) | +441 | 14.3k | `1.00` |
 | 2026-09-23 | **3** | [financial-services](https://github.com/anthropics/financial-services) | +438 | 36.6k | `1.00` |
+| 2026-09-24 | **1** | [ax](https://github.com/google/ax) | +1543 | 9.6k | `1.00` |
+| 2026-09-24 | **2** | [univer](https://github.com/dream-num/univer) | +1142 | 16.6k | `1.00` |
+| 2026-09-24 | **3** | [video-use](https://github.com/browser-use/video-use) | +746 | 26.7k | `1.00` |

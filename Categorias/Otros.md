@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **5 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **107.5k**
+> Actualizado: `2026-09-24 09:37`
 
 ---
 
@@ -10,11 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**financial-services**](https://github.com/anthropics/financial-services) | **1.00** | 37.2k | `█░░░░░░░░░` | Sin descripción |
+| [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | **1.00** | 19.1k | `█░░░░░░░░░` | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices,… |
+| [**codebase-memory-mcp**](https://github.com/DeusData/codebase-memory-mcp) | **1.00** | 44.8k | `█░░░░░░░░░` | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge… |
+| [**treg**](https://github.com/superdesigndev/treg) | **0.95** | 2.9k | `██████████` | OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn |
+| [**substrate**](https://github.com/agent-substrate/substrate) | **0.92** | 3.7k | `█████████░` | Agent Substrate: the core system |
 
 ---
