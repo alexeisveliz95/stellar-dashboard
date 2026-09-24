@@ -4,8 +4,8 @@
     "name": "anthropics/financial-services",
     "description": "",
     "url": "https://github.com/anthropics/financial-services",
-    "stars": 36640,
-    "growth": 438,
+    "stars": 37163,
+    "growth": 664,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -15,12 +15,82 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_google_ax",
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "url": "https://github.com/google/ax",
+    "stars": 9585,
+    "growth": 1543,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_davila7_claude-code-templates",
+    "name": "davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "stars": 31664,
+    "growth": 389,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 290930,
+    "growth": 474,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_dream-num_univer",
     "name": "dream-num/univer",
     "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "url": "https://github.com/dream-num/univer",
-    "stars": 15974,
-    "growth": 255,
+    "stars": 16594,
+    "growth": 1142,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -54,44 +124,43 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_davila7_claude-code-templates",
-    "name": "davila7/claude-code-templates",
-    "description": "CLI tool for configuring and monitoring Claude Code",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "stars": 31281,
-    "growth": 64,
+    "id": "github_trending_Open-Dev-Society_OpenStock",
+    "name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "stars": 19056,
+    "growth": 344,
     "score": 1.0,
     "categories": [
-      "Automation & DevOps"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:automation-devops"
-    ],
+    "language": "TypeScript",
     "raw_topics": [
-      "anthropic",
-      "anthropic-claude",
-      "claude",
-      "claude-code"
+      "coderabbit",
+      "inngest",
+      "nextjs",
+      "shadcn-ui",
+      "stock-market",
+      "tailwindcss"
     ],
-    "raw_license": "MIT"
+    "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_google_ax",
-    "name": "google/ax",
-    "description": "Google's open agentic orchestration runtime",
-    "url": "https://github.com/google/ax",
-    "stars": 8169,
-    "growth": 2305,
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 70574,
+    "growth": 304,
     "score": 1.0,
     "categories": [
-      "Automation & DevOps"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "JavaScript",
     "tags": [
-      "nlp:automation-devops"
+      "nlp:ai-data-science"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -100,8 +169,8 @@
     "name": "mvt-project/mvt",
     "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
     "url": "https://github.com/mvt-project/mvt",
-    "stars": 14291,
-    "growth": 441,
+    "stars": 14570,
+    "growth": 543,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -122,13 +191,50 @@
     "raw_license": "NOASSERTION"
   },
   {
+    "id": "github_trending_DeusData_codebase-memory-mcp",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "stars": 44756,
+    "growth": 190,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "raw_topics": [
+      "aider",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-intelligence",
+      "codex",
+      "cursor",
+      "cypher",
+      "developer-tools",
+      "gemini-cli",
+      "graph-visualization",
+      "kilocode",
+      "knowledge-graph",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "opencode",
+      "sqlite",
+      "tree-sitter",
+      "windsurf"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_browser-use_video-use",
     "name": "browser-use/video-use",
     "description": "Edit videos with coding agents",
     "url": "https://github.com/browser-use/video-use",
-    "stars": 26175,
-    "growth": 191,
-    "score": 0.931,
+    "stars": 26704,
+    "growth": 746,
+    "score": 1.0,
     "categories": [
       "Web Development"
     ],
@@ -140,28 +246,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_agent-substrate_substrate",
-    "name": "agent-substrate/substrate",
-    "description": "Agent Substrate: the core system",
-    "url": "https://github.com/agent-substrate/substrate",
-    "stars": 3188,
-    "growth": 245,
-    "score": 0.7933,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_superdesigndev_treg",
     "name": "superdesigndev/treg",
     "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
     "url": "https://github.com/superdesigndev/treg",
-    "stars": 2416,
-    "growth": 230,
-    "score": 0.7896,
+    "stars": 2902,
+    "growth": 506,
+    "score": 0.946,
     "categories": [
       "Otros"
     ],
@@ -181,5 +272,176 @@
       "secrets"
     ],
     "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_agent-substrate_substrate",
+    "name": "agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "url": "https://github.com/agent-substrate/substrate",
+    "stars": 3656,
+    "growth": 558,
+    "score": 0.922,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_HKUDS_CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "stars": 50109,
+    "growth": 57,
+    "score": 0.9033,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_strands-agents_harness-sdk",
+    "name": "strands-agents/harness-sdk",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+    "url": "https://github.com/strands-agents/harness-sdk",
+    "stars": 8027,
+    "growth": 115,
+    "score": 0.8945,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "autonomous-agents",
+      "bedrock",
+      "generative-ai",
+      "harness",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "multi-agent-systems",
+      "openai",
+      "python",
+      "sdk",
+      "strands-agents",
+      "typescript"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_TNT-Likely_PanWatch",
+    "name": "TNT-Likely/PanWatch",
+    "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+    "url": "https://github.com/TNT-Likely/PanWatch",
+    "stars": 1731,
+    "growth": 95,
+    "score": 0.8369,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "a-share",
+      "agent",
+      "ai",
+      "ai-agent",
+      "akshare",
+      "deepseek",
+      "fastapi",
+      "fintech",
+      "langgraph",
+      "llm",
+      "mcp",
+      "openai",
+      "pwa",
+      "quant",
+      "self-hosted",
+      "stock",
+      "stock-analysis",
+      "stock-market",
+      "trading-agents",
+      "trading-bot"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_BuilderIO_agent-native",
+    "name": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "stars": 6719,
+    "growth": 87,
+    "score": 0.7327,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "agent-native",
+      "agents",
+      "ai",
+      "react",
+      "typescript"
+    ]
+  },
+  {
+    "id": "github_trending_harry7557558_spirula-studio",
+    "name": "harry7557558/spirula-studio",
+    "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+    "url": "https://github.com/harry7557558/spirula-studio",
+    "stars": 856,
+    "growth": 69,
+    "score": 0.6882,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "360-camera",
+      "3d-gaussian-splatting",
+      "3d-reconstruction",
+      "3dgs",
+      "3dgs-acceleration",
+      "computer-vision",
+      "cross-vendor",
+      "cuda",
+      "gaussian-splatting",
+      "mesh-generation",
+      "quantized-training",
+      "structure-from-motion",
+      "vram-optimization",
+      "vulkan"
+    ],
+    "raw_license": "GPL-3.0"
   }
 ]
