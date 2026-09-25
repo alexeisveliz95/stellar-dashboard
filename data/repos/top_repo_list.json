@@ -1,86 +1,62 @@
 [
   {
-    "id": "github_trending_anthropics_financial-services",
-    "name": "anthropics/financial-services",
-    "description": "",
-    "url": "https://github.com/anthropics/financial-services",
-    "stars": 37163,
-    "growth": 664,
+    "id": "github_trending_rohitg00_ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 57004,
+    "growth": 347,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_vectorize-io_hindsight",
+    "name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "stars": 28423,
+    "growth": 1668,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Python",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_google_ax",
-    "name": "google/ax",
-    "description": "Google's open agentic orchestration runtime",
-    "url": "https://github.com/google/ax",
-    "stars": 9585,
-    "growth": 1543,
-    "score": 1.0,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:automation-devops"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_davila7_claude-code-templates",
-    "name": "davila7/claude-code-templates",
-    "description": "CLI tool for configuring and monitoring Claude Code",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "stars": 31664,
-    "growth": 389,
-    "score": 1.0,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:automation-devops"
-    ],
     "raw_topics": [
-      "anthropic",
-      "anthropic-claude",
-      "claude",
-      "claude-code"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 290930,
-    "growth": 474,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
+      "agentic-ai",
+      "agents",
+      "ai-memory",
+      "memory"
     ],
     "raw_license": "MIT"
   },
@@ -89,8 +65,8 @@
     "name": "dream-num/univer",
     "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "url": "https://github.com/dream-num/univer",
-    "stars": 16594,
-    "growth": 1142,
+    "stars": 18061,
+    "growth": 1082,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -124,168 +100,36 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_Open-Dev-Society_OpenStock",
-    "name": "Open-Dev-Society/OpenStock",
-    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "stars": 19056,
-    "growth": 344,
+    "id": "github_trending_google_ax",
+    "name": "google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "url": "https://github.com/google/ax",
+    "stars": 10961,
+    "growth": 1373,
     "score": 1.0,
     "categories": [
-      "Otros"
+      "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "coderabbit",
-      "inngest",
-      "nextjs",
-      "shadcn-ui",
-      "stock-market",
-      "tailwindcss"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_pbakaus_impeccable",
-    "name": "pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "url": "https://github.com/pbakaus/impeccable",
-    "stars": 70574,
-    "growth": 304,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Go",
     "tags": [
-      "nlp:ai-data-science"
+      "nlp:automation-devops"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_mvt-project_mvt",
-    "name": "mvt-project/mvt",
-    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-    "url": "https://github.com/mvt-project/mvt",
-    "stars": 14570,
-    "growth": 543,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "android",
-      "forensics",
-      "forensics-tools",
-      "ios",
-      "mobile",
-      "security"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_DeusData_codebase-memory-mcp",
-    "name": "DeusData/codebase-memory-mcp",
-    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "stars": 44756,
-    "growth": 190,
+    "id": "github_trending_anthropics_financial-services",
+    "name": "anthropics/financial-services",
+    "description": "",
+    "url": "https://github.com/anthropics/financial-services",
+    "stars": 37458,
+    "growth": 509,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "C",
-    "raw_topics": [
-      "aider",
-      "ast",
-      "claude-code",
-      "code-analysis",
-      "code-intelligence",
-      "codex",
-      "cursor",
-      "cypher",
-      "developer-tools",
-      "gemini-cli",
-      "graph-visualization",
-      "kilocode",
-      "knowledge-graph",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "opencode",
-      "sqlite",
-      "tree-sitter",
-      "windsurf"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_browser-use_video-use",
-    "name": "browser-use/video-use",
-    "description": "Edit videos with coding agents",
-    "url": "https://github.com/browser-use/video-use",
-    "stars": 26704,
-    "growth": 746,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
     "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_superdesigndev_treg",
-    "name": "superdesigndev/treg",
-    "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
-    "url": "https://github.com/superdesigndev/treg",
-    "stars": 2902,
-    "growth": 506,
-    "score": 0.946,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agents",
-      "api-keys",
-      "cli",
-      "credentials",
-      "developer-tools",
-      "dsh-plugin",
-      "mcp",
-      "proxy",
-      "python",
-      "registry",
-      "secrets"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_agent-substrate_substrate",
-    "name": "agent-substrate/substrate",
-    "description": "Agent Substrate: the core system",
-    "url": "https://github.com/agent-substrate/substrate",
-    "stars": 3656,
-    "growth": 558,
-    "score": 0.922,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Go",
     "raw_license": "Apache-2.0"
   },
   {
@@ -293,9 +137,9 @@
     "name": "HKUDS/CLI-Anything",
     "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
     "url": "https://github.com/HKUDS/CLI-Anything",
-    "stars": 50109,
-    "growth": 57,
-    "score": 0.9033,
+    "stars": 50456,
+    "growth": 413,
+    "score": 1.0,
     "categories": [
       "Mobile Development"
     ],
@@ -307,13 +151,41 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 291375,
+    "growth": 611,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_strands-agents_harness-sdk",
     "name": "strands-agents/harness-sdk",
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
     "url": "https://github.com/strands-agents/harness-sdk",
-    "stars": 8027,
-    "growth": 115,
-    "score": 0.8945,
+    "stars": 8365,
+    "growth": 455,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -347,100 +219,165 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_TNT-Likely_PanWatch",
-    "name": "TNT-Likely/PanWatch",
-    "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
-    "url": "https://github.com/TNT-Likely/PanWatch",
-    "stars": 1731,
-    "growth": 95,
-    "score": 0.8369,
+    "id": "github_trending_mvt-project_mvt",
+    "name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "url": "https://github.com/mvt-project/mvt",
+    "stars": 14781,
+    "growth": 272,
+    "score": 0.9388,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "android",
+      "forensics",
+      "forensics-tools",
+      "ios",
+      "mobile",
+      "security"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_superdesigndev_treg",
+    "name": "superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+    "url": "https://github.com/superdesigndev/treg",
+    "stars": 3280,
+    "growth": 468,
+    "score": 0.9176,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agents",
+      "api-keys",
+      "cli",
+      "credentials",
+      "developer-tools",
+      "dsh-plugin",
+      "mcp",
+      "proxy",
+      "python",
+      "registry",
+      "secrets"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_leejet_stable-diffusion_cpp",
+    "name": "leejet/stable-diffusion.cpp",
+    "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+    "url": "https://github.com/leejet/stable-diffusion.cpp",
+    "stars": 7321,
+    "growth": 36,
+    "score": 0.8555,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "ai",
+      "cplusplus",
+      "diffusion",
+      "flux",
+      "flux-dev",
+      "ggml",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "latent-diffusion",
+      "ltx-video",
+      "qwen-image",
+      "stable-diffusion",
+      "text2image",
+      "txt2img",
+      "videogeneration",
+      "wan",
+      "z-image",
+      "z-image-turbo"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_NVIDIA_Model-Optimizer",
+    "name": "NVIDIA/Model-Optimizer",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "stars": 4215,
+    "growth": 44,
+    "score": 0.8271,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "ai"
+      "nlp:ai-data-science"
     ],
-    "raw_topics": [
-      "a-share",
-      "agent",
-      "ai",
-      "ai-agent",
-      "akshare",
-      "deepseek",
-      "fastapi",
-      "fintech",
-      "langgraph",
-      "llm",
-      "mcp",
-      "openai",
-      "pwa",
-      "quant",
-      "self-hosted",
-      "stock",
-      "stock-analysis",
-      "stock-market",
-      "trading-agents",
-      "trading-bot"
-    ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_BuilderIO_agent-native",
-    "name": "BuilderIO/agent-native",
-    "description": "A framework for building agentic apps",
-    "url": "https://github.com/BuilderIO/agent-native",
-    "stars": 6719,
-    "growth": 87,
-    "score": 0.7327,
+    "id": "github_trending_FxEmbed_FxEmbed",
+    "name": "FxEmbed/FxEmbed",
+    "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "url": "https://github.com/FxEmbed/FxEmbed",
+    "stars": 5417,
+    "growth": 182,
+    "score": 0.7592,
     "categories": [
-      "Mobile Development"
+      "PlayStation Homebrew & Linux"
     ],
     "source": "github_trending",
     "language": "TypeScript",
     "tags": [
-      "nlp:mobile-development"
+      "nlp:playstation-homebrew-linux"
     ],
-    "raw_topics": [
-      "agent-native",
-      "agents",
-      "ai",
-      "react",
-      "typescript"
-    ]
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_harry7557558_spirula-studio",
-    "name": "harry7557558/spirula-studio",
-    "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
-    "url": "https://github.com/harry7557558/spirula-studio",
-    "stars": 856,
-    "growth": 69,
-    "score": 0.6882,
+    "id": "github_trending_julyx10_lap",
+    "name": "julyx10/lap",
+    "description": "An offline-first photo manager for large local libraries",
+    "url": "https://github.com/julyx10/lap",
+    "stars": 2997,
+    "growth": 122,
+    "score": 0.6955,
     "categories": [
-      "Mobile Development"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:mobile-development"
-    ],
+    "language": "Vue",
     "raw_topics": [
-      "360-camera",
-      "3d-gaussian-splatting",
-      "3d-reconstruction",
-      "3dgs",
-      "3dgs-acceleration",
-      "computer-vision",
-      "cross-vendor",
-      "cuda",
-      "gaussian-splatting",
-      "mesh-generation",
-      "quantized-training",
-      "structure-from-motion",
-      "vram-optimization",
-      "vulkan"
+      "desktop-app",
+      "digital-asset-manager",
+      "duplicate-detection",
+      "face-recognition",
+      "family-photos",
+      "image-search",
+      "large-photo-collections",
+      "linux-app",
+      "local-first",
+      "macos-app",
+      "offline",
+      "open-source",
+      "photo-library",
+      "photo-management",
+      "photo-organizer",
+      "privacy",
+      "windows-app"
     ],
     "raw_license": "GPL-3.0"
   }
