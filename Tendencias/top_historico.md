@@ -242,3 +242,6 @@
 | 2026-09-24 | **1** | [ax](https://github.com/google/ax) | +1543 | 9.6k | `1.00` |
 | 2026-09-24 | **2** | [univer](https://github.com/dream-num/univer) | +1142 | 16.6k | `1.00` |
 | 2026-09-24 | **3** | [video-use](https://github.com/browser-use/video-use) | +746 | 26.7k | `1.00` |
+| 2026-09-25 | **1** | [hindsight](https://github.com/vectorize-io/hindsight) | +1668 | 28.4k | `1.00` |
+| 2026-09-25 | **2** | [ax](https://github.com/google/ax) | +1373 | 11.0k | `1.00` |
+| 2026-09-25 | **3** | [univer](https://github.com/dream-num/univer) | +1082 | 18.1k | `1.00` |
