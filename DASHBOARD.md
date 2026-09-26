@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-25 11:35`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-26 09:37`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 28.4k | +1.7k | Python |
-| 2 | [**ax**](https://github.com/google/ax) | 11.0k | +1.4k | Go |
-| 3 | [**univer**](https://github.com/dream-num/univer) | 18.1k | +1.1k | TypeScript |
-| 4 | [**superpowers**](https://github.com/obra/superpowers) | 291.4k | +611 | Shell |
-| 5 | [**financial-services**](https://github.com/anthropics/financial-services) | 37.5k | +509 | Python |
-| 6 | [**treg**](https://github.com/superdesigndev/treg) | 3.3k | +468 | Python |
-| 7 | [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | 8.4k | +455 | Python |
-| 8 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | 50.5k | +413 | Python |
-| 9 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 57.0k | +347 | Python |
-| 10 | [**mvt**](https://github.com/mvt-project/mvt) | 14.8k | +272 | Python |
+| 1 | [**paperclip**](https://github.com/paperclipai/paperclip) | 85.7k | +2.1k | TypeScript |
+| 2 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 30.4k | +1.7k | Python |
+| 3 | [**ax**](https://github.com/google/ax) | 11.7k | +1.4k | Go |
+| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 57.8k | +1.2k | Python |
+| 5 | [**univer**](https://github.com/dream-num/univer) | 18.9k | +1.1k | TypeScript |
+| 6 | [**skills**](https://github.com/mattpocock/skills) | 269.9k | +583 | Shell |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | 291.8k | +468 | Shell |
+| 8 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | 4.6k | +359 | Python |
+| 9 | [**impeccable**](https://github.com/pbakaus/impeccable) | 71.4k | +306 | JavaScript |
+| 10 | [**skills**](https://github.com/anthropics/skills) | 178.5k | +189 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 57.0k | AI & Data Science |
-| 🥈 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 28.4k | Otros |
-| 🥉 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 18.1k | AI & Data Science |
-| 4 | [**ax**](https://github.com/google/ax) | **1.00** | 11.0k | Automation & DevOps |
-| 5 | [**financial-services**](https://github.com/anthropics/financial-services) | **1.00** | 37.5k | Otros |
-| 6 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **1.00** | 50.5k | Mobile Development |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 291.4k | Python & Backend |
-| 8 | [**harness-sdk**](https://github.com/strands-agents/harness-sdk) | **1.00** | 8.4k | AI & Data Science |
-| 9 | [**mvt**](https://github.com/mvt-project/mvt) | **0.94** | 14.8k | Mobile Development |
-| 10 | [**treg**](https://github.com/superdesigndev/treg) | **0.92** | 3.3k | Otros |
+| 🥇 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 85.7k | Mobile Development |
+| 🥈 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 30.4k | Otros |
+| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 291.8k | Python & Backend |
+| 4 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 269.9k | Otros |
+| 5 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 18.9k | AI & Data Science |
+| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 57.8k | AI & Data Science |
+| 7 | [**ax**](https://github.com/google/ax) | **1.00** | 11.7k | Automation & DevOps |
+| 8 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 71.4k | AI & Data Science |
+| 9 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | **0.98** | 4.6k | AI & Data Science |
+| 10 | [**kubernetes-the-hard-way**](https://github.com/kelseyhightower/kubernetes-the-hard-way) | **0.96** | 50.2k | Automation & DevOps |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **1.00** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
