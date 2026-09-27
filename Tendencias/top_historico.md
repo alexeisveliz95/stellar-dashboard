@@ -248,3 +248,6 @@
 | 2026-09-26 | **1** | [paperclip](https://github.com/paperclipai/paperclip) | +2109 | 85.7k | `1.00` |
 | 2026-09-26 | **2** | [hindsight](https://github.com/vectorize-io/hindsight) | +1653 | 30.4k | `1.00` |
 | 2026-09-26 | **3** | [ax](https://github.com/google/ax) | +1379 | 11.7k | `1.00` |
+| 2026-09-27 | **1** | [paperclip](https://github.com/paperclipai/paperclip) | +2608 | 88.3k | `1.00` |
+| 2026-09-27 | **2** | [hindsight](https://github.com/vectorize-io/hindsight) | +2147 | 34.7k | `1.00` |
+| 2026-09-27 | **3** | [univer](https://github.com/dream-num/univer) | +849 | 19.8k | `1.00` |

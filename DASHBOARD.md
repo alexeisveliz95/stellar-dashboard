@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-26 11:08`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-27 10:17`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**paperclip**](https://github.com/paperclipai/paperclip) | 85.7k | +2.1k | TypeScript |
-| 2 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 30.4k | +1.7k | Python |
-| 3 | [**ax**](https://github.com/google/ax) | 11.7k | +1.4k | Go |
-| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 57.8k | +1.2k | Python |
-| 5 | [**univer**](https://github.com/dream-num/univer) | 18.9k | +1.1k | TypeScript |
-| 6 | [**skills**](https://github.com/mattpocock/skills) | 269.9k | +583 | Shell |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | 291.8k | +468 | Shell |
-| 8 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | 4.6k | +359 | Python |
-| 9 | [**impeccable**](https://github.com/pbakaus/impeccable) | 71.4k | +306 | JavaScript |
-| 10 | [**skills**](https://github.com/anthropics/skills) | 178.5k | +189 | Python |
+| 1 | [**paperclip**](https://github.com/paperclipai/paperclip) | 88.3k | +2.6k | TypeScript |
+| 2 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 34.7k | +2.1k | Python |
+| 3 | [**univer**](https://github.com/dream-num/univer) | 19.8k | +849 | TypeScript |
+| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 58.7k | +827 | Python |
+| 5 | [**openbao**](https://github.com/openbao/openbao) | 8.1k | +364 | Go |
+| 6 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 38.2k | +361 | PowerShell |
+| 7 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | 4.9k | +357 | Python |
+| 8 | [**buzz**](https://github.com/block/buzz) | 34.9k | +339 | Rust |
+| 9 | [**mobile-mcp**](https://github.com/mobile-next/mobile-mcp) | 7.6k | +168 | TypeScript |
+| 10 | [**vscode**](https://github.com/microsoft/vscode) | 193.1k | +95 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 85.7k | Mobile Development |
-| 🥈 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 30.4k | Otros |
-| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 291.8k | Python & Backend |
-| 4 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 269.9k | Otros |
-| 5 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 18.9k | AI & Data Science |
-| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 57.8k | AI & Data Science |
-| 7 | [**ax**](https://github.com/google/ax) | **1.00** | 11.7k | Automation & DevOps |
-| 8 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 71.4k | AI & Data Science |
-| 9 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | **0.98** | 4.6k | AI & Data Science |
-| 10 | [**kubernetes-the-hard-way**](https://github.com/kelseyhightower/kubernetes-the-hard-way) | **0.96** | 50.2k | Automation & DevOps |
+| 🥇 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 88.3k | Mobile Development |
+| 🥈 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 34.7k | Otros |
+| 🥉 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 19.8k | AI & Data Science |
+| 4 | [**tensorflow**](https://github.com/tensorflow/tensorflow) | **1.00** | 200.5k | AI & Data Science |
+| 5 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 58.7k | AI & Data Science |
+| 6 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 38.2k | Cybersecurity & Hacking |
+| 7 | [**vscode**](https://github.com/microsoft/vscode) | **0.96** | 193.1k | Otros |
+| 8 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | **0.94** | 4.9k | AI & Data Science |
+| 9 | [**buzz**](https://github.com/block/buzz) | **0.92** | 34.9k | Mobile Development |
+| 10 | [**next.js**](https://github.com/vercel/next.js) | **0.90** | 142.7k | Web Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 3 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.90** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
