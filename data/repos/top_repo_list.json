@@ -4,8 +4,8 @@
     "name": "paperclipai/paperclip",
     "description": "The open-source app everyone uses to manage agents at work",
     "url": "https://github.com/paperclipai/paperclip",
-    "stars": 85703,
-    "growth": 2109,
+    "stars": 88253,
+    "growth": 2608,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -22,8 +22,8 @@
     "name": "vectorize-io/hindsight",
     "description": "Hindsight: Agent Memory That Learns",
     "url": "https://github.com/vectorize-io/hindsight",
-    "stars": 30412,
-    "growth": 1653,
+    "stars": 34691,
+    "growth": 2147,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -39,55 +39,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 291805,
-    "growth": 468,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 269922,
-    "growth": 583,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_dream-num_univer",
     "name": "dream-num/univer",
     "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "url": "https://github.com/dream-num/univer",
-    "stars": 18884,
-    "growth": 1050,
+    "stars": 19813,
+    "growth": 849,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -121,12 +78,40 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_tensorflow_tensorflow",
+    "name": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "stars": 200530,
+    "growth": 46,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "deep-learning",
+      "deep-neural-networks",
+      "distributed",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "python",
+      "tensorflow"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_rohitg00_ai-engineering-from-scratch",
     "name": "rohitg00/ai-engineering-from-scratch",
     "description": "Learn it. Build it. Ship it for others.",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 57817,
-    "growth": 1177,
+    "stars": 58667,
+    "growth": 827,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -161,49 +146,53 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_google_ax",
-    "name": "google/ax",
-    "description": "Google's open agentic orchestration runtime",
-    "url": "https://github.com/google/ax",
-    "stars": 11716,
-    "growth": 1379,
+    "id": "github_trending_zhaoxuya520_reverse-skill",
+    "name": "zhaoxuya520/reverse-skill",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "stars": 38213,
+    "growth": 361,
     "score": 1.0,
     "categories": [
-      "Automation & DevOps"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "PowerShell",
     "tags": [
-      "nlp:automation-devops"
+      "nlp:cybersecurity-hacking"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_pbakaus_impeccable",
-    "name": "pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "url": "https://github.com/pbakaus/impeccable",
-    "stars": 71367,
-    "growth": 306,
-    "score": 1.0,
+    "id": "github_trending_microsoft_vscode",
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "url": "https://github.com/microsoft/vscode",
+    "stars": 193143,
+    "growth": 95,
+    "score": 0.9575,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:ai-data-science"
+    "language": "TypeScript",
+    "raw_topics": [
+      "editor",
+      "electron",
+      "microsoft",
+      "typescript",
+      "visual-studio-code"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_NVIDIA_Model-Optimizer",
     "name": "NVIDIA/Model-Optimizer",
     "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
     "url": "https://github.com/NVIDIA/Model-Optimizer",
-    "stars": 4567,
-    "growth": 359,
-    "score": 0.9816,
+    "stars": 4864,
+    "growth": 357,
+    "score": 0.944,
     "categories": [
       "AI & Data Science"
     ],
@@ -215,88 +204,54 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_kelseyhightower_kubernetes-the-hard-way",
-    "name": "kelseyhightower/kubernetes-the-hard-way",
-    "description": "Bootstrap Kubernetes the hard way. No scripts.",
-    "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
-    "stars": 50177,
-    "growth": 119,
-    "score": 0.9572,
+    "id": "github_trending_block_buzz",
+    "name": "block/buzz",
+    "description": "A hive mind communication platform",
+    "url": "https://github.com/block/buzz",
+    "stars": 34925,
+    "growth": 339,
+    "score": 0.9202,
     "categories": [
-      "Automation & DevOps"
+      "Mobile Development"
     ],
     "source": "github_trending",
+    "language": "Rust",
     "tags": [
-      "nlp:automation-devops"
+      "nlp:mobile-development"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_anthropics_skills",
-    "name": "anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "url": "https://github.com/anthropics/skills",
-    "stars": 178468,
-    "growth": 189,
-    "score": 0.9371,
+    "id": "github_trending_vercel_next_js",
+    "name": "vercel/next.js",
+    "description": "The React Framework",
+    "url": "https://github.com/vercel/next.js",
+    "stars": 142738,
+    "growth": 54,
+    "score": 0.897,
     "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "id": "github_trending_anthropics_claude-plugins-official",
-    "name": "anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "stars": 37021,
-    "growth": 83,
-    "score": 0.8204,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_androoAGI_starnet",
-    "name": "androoAGI/starnet",
-    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-    "url": "https://github.com/androoAGI/starnet",
-    "stars": 578,
-    "growth": 93,
-    "score": 0.8073,
-    "categories": [
-      "AI & Data Science"
+      "Web Development"
     ],
     "source": "github_trending",
     "language": "JavaScript",
     "tags": [
-      "ai"
+      "react"
     ],
     "raw_topics": [
-      "agent-harness",
-      "ai",
-      "ai-agents",
-      "byok",
-      "desktop-app",
-      "game-ui",
-      "llm",
-      "local-first",
-      "multi-agent",
-      "openrouter",
-      "pixel-art",
-      "tauri"
+      "blog",
+      "browser",
+      "compiler",
+      "components",
+      "hybrid",
+      "nextjs",
+      "node",
+      "react",
+      "server-rendering",
+      "ssg",
+      "static",
+      "static-site-generator",
+      "universal",
+      "vercel"
     ],
     "raw_license": "MIT"
   },
@@ -305,9 +260,9 @@
     "name": "openbao/openbao",
     "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
     "url": "https://github.com/openbao/openbao",
-    "stars": 7850,
-    "growth": 49,
-    "score": 0.7687,
+    "stars": 8091,
+    "growth": 364,
+    "score": 0.8954,
     "categories": [
       "Otros"
     ],
@@ -321,65 +276,77 @@
     "raw_license": "MPL-2.0"
   },
   {
-    "id": "github_trending_derv82_wifit3",
-    "name": "derv82/wifit3",
-    "description": "Wifite but USB-only & cross-platform.",
-    "url": "https://github.com/derv82/wifit3",
-    "stars": 1070,
-    "growth": 183,
-    "score": 0.7518,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "cross-platform",
-      "userland",
-      "wifi-scanner",
-      "wifi-security",
-      "wireless-security"
-    ],
-    "raw_license": "GPL-2.0"
-  },
-  {
-    "id": "github_trending_shy3130_tick-stock-panel",
-    "name": "shy3130/tick-stock-panel",
-    "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-    "url": "https://github.com/shy3130/tick-stock-panel",
-    "stars": 5207,
-    "growth": 44,
-    "score": 0.7476,
+    "id": "github_trending_llvm_llvm-project",
+    "name": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "url": "https://github.com/llvm/llvm-project",
+    "stars": 40793,
+    "growth": 41,
+    "score": 0.8306,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "a-stock",
-      "ai-agent",
-      "aigc",
-      "backtesting",
-      "daily",
-      "duckdb",
-      "fastapi",
-      "llm",
-      "polars",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading",
-      "react",
-      "screener",
-      "self-hosted",
-      "stock",
-      "stock-analysis",
-      "tdx",
-      "tickflow",
-      "tsp"
+    "language": "LLVM",
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_mobile-next_mobile-mcp",
+    "name": "mobile-next/mobile-mcp",
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "stars": 7591,
+    "growth": 168,
+    "score": 0.7757,
+    "categories": [
+      "Mobile Development"
     ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "agent",
+      "android",
+      "emulator",
+      "ios",
+      "mcp",
+      "mobile",
+      "physical",
+      "real",
+      "simulator"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_actions_runner-images",
+    "name": "actions/runner-images",
+    "description": "GitHub Actions runner images",
+    "url": "https://github.com/actions/runner-images",
+    "stars": 13361,
+    "growth": 19,
+    "score": 0.7196,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "PowerShell",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_anthropics_claude-code-action",
+    "name": "anthropics/claude-code-action",
+    "description": "",
+    "url": "https://github.com/anthropics/claude-code-action",
+    "stars": 9173,
+    "growth": 31,
+    "score": 0.6758,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
     "raw_license": "MIT"
   }
 ]
