@@ -1,11 +1,51 @@
 [
   {
+    "id": "github_trending_debpalash_VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "stars": 41520,
+    "growth": 3086,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "tauri",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
     "id": "github_trending_paperclipai_paperclip",
     "name": "paperclipai/paperclip",
     "description": "The open-source app everyone uses to manage agents at work",
     "url": "https://github.com/paperclipai/paperclip",
-    "stars": 88253,
-    "growth": 2608,
+    "stars": 91489,
+    "growth": 2401,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -22,8 +62,8 @@
     "name": "vectorize-io/hindsight",
     "description": "Hindsight: Agent Memory That Learns",
     "url": "https://github.com/vectorize-io/hindsight",
-    "stars": 34691,
-    "growth": 2147,
+    "stars": 39432,
+    "growth": 4520,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -39,12 +79,32 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_byoungd_up",
+    "name": "byoungd/up",
+    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+    "url": "https://github.com/byoungd/up",
+    "stars": 64323,
+    "growth": 310,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "raw_topics": [
+      "chinese",
+      "english-learning",
+      "tutorial"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
     "id": "github_trending_dream-num_univer",
     "name": "dream-num/univer",
     "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "url": "https://github.com/dream-num/univer",
-    "stars": 19813,
-    "growth": 849,
+    "stars": 20904,
+    "growth": 895,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -78,275 +138,69 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_tensorflow_tensorflow",
-    "name": "tensorflow/tensorflow",
-    "description": "An Open Source Machine Learning Framework for Everyone",
-    "url": "https://github.com/tensorflow/tensorflow",
-    "stars": 200530,
-    "growth": 46,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "deep-learning",
-      "deep-neural-networks",
-      "distributed",
-      "machine-learning",
-      "ml",
-      "neural-network",
-      "python",
-      "tensorflow"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_rohitg00_ai-engineering-from-scratch",
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 58667,
-    "growth": 827,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_zhaoxuya520_reverse-skill",
-    "name": "zhaoxuya520/reverse-skill",
-    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "stars": 38213,
-    "growth": 361,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "PowerShell",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_microsoft_vscode",
-    "name": "microsoft/vscode",
-    "description": "Visual Studio Code",
-    "url": "https://github.com/microsoft/vscode",
-    "stars": 193143,
-    "growth": 95,
-    "score": 0.9575,
+    "id": "github_trending_cs341-illinois_coursebook",
+    "name": "cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "url": "https://github.com/cs341-illinois/coursebook",
+    "stars": 2200,
+    "growth": 265,
+    "score": 0.8365,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "TeX",
     "raw_topics": [
-      "editor",
-      "electron",
-      "microsoft",
-      "typescript",
-      "visual-studio-code"
-    ],
-    "raw_license": "MIT"
+      "awesome",
+      "c",
+      "latex",
+      "linux",
+      "posix",
+      "system-programming",
+      "wikibook"
+    ]
   },
   {
-    "id": "github_trending_NVIDIA_Model-Optimizer",
-    "name": "NVIDIA/Model-Optimizer",
-    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-    "url": "https://github.com/NVIDIA/Model-Optimizer",
-    "stars": 4864,
-    "growth": 357,
-    "score": 0.944,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_block_buzz",
-    "name": "block/buzz",
-    "description": "A hive mind communication platform",
-    "url": "https://github.com/block/buzz",
-    "stars": 34925,
-    "growth": 339,
-    "score": 0.9202,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_vercel_next_js",
-    "name": "vercel/next.js",
-    "description": "The React Framework",
-    "url": "https://github.com/vercel/next.js",
-    "stars": 142738,
-    "growth": 54,
-    "score": 0.897,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "react"
-    ],
-    "raw_topics": [
-      "blog",
-      "browser",
-      "compiler",
-      "components",
-      "hybrid",
-      "nextjs",
-      "node",
-      "react",
-      "server-rendering",
-      "ssg",
-      "static",
-      "static-site-generator",
-      "universal",
-      "vercel"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_openbao_openbao",
-    "name": "openbao/openbao",
-    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-    "url": "https://github.com/openbao/openbao",
-    "stars": 8091,
-    "growth": 364,
-    "score": 0.8954,
+    "id": "github_trending_NawfalMotii79_PLFM_RADAR",
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "stars": 25593,
+    "growth": 145,
+    "score": 0.8329,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Go",
-    "raw_topics": [
-      "go",
-      "secret-management",
-      "security"
-    ],
-    "raw_license": "MPL-2.0"
-  },
-  {
-    "id": "github_trending_llvm_llvm-project",
-    "name": "llvm/llvm-project",
-    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-    "url": "https://github.com/llvm/llvm-project",
-    "stars": 40793,
-    "growth": 41,
-    "score": 0.8306,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "LLVM",
+    "language": "PLSQL",
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_mobile-next_mobile-mcp",
-    "name": "mobile-next/mobile-mcp",
-    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-    "url": "https://github.com/mobile-next/mobile-mcp",
-    "stars": 7591,
-    "growth": 168,
-    "score": 0.7757,
+    "id": "github_trending_mvschwarz_openrig",
+    "name": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "url": "https://github.com/mvschwarz/openrig",
+    "stars": 1318,
+    "growth": 114,
+    "score": 0.731,
     "categories": [
-      "Mobile Development"
+      "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
     "raw_topics": [
-      "agent",
-      "android",
-      "emulator",
-      "ios",
-      "mcp",
-      "mobile",
-      "physical",
-      "real",
-      "simulator"
+      "agent-harness",
+      "agent-orchestration",
+      "agent-skills",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "codex-cli",
+      "multi-agent",
+      "multi-agent-systems",
+      "tmux",
+      "typescript"
     ],
     "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_actions_runner-images",
-    "name": "actions/runner-images",
-    "description": "GitHub Actions runner images",
-    "url": "https://github.com/actions/runner-images",
-    "stars": 13361,
-    "growth": 19,
-    "score": 0.7196,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "PowerShell",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_anthropics_claude-code-action",
-    "name": "anthropics/claude-code-action",
-    "description": "",
-    "url": "https://github.com/anthropics/claude-code-action",
-    "stars": 9173,
-    "growth": 31,
-    "score": 0.6758,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "MIT"
   }
 ]
