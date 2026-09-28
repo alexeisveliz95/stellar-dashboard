@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T00:45:17.546661+00:00",
+  "updated_at": "2026-09-28T01:20:34.289159+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W40",
+      "week_start": "2026-09-28",
+      "generated_at": "2026-09-28T01:20:34.289159+00:00",
+      "picks": [
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 264300,
+          "growth": 826,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "score": 0.0,
+          "stars": 88300,
+          "growth": 2608,
+          "momentum": 0.4,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "score": 0.0,
+          "stars": 18500,
+          "growth": 2428,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ax",
+          "url": "https://github.com/google/ax",
+          "score": 0.0,
+          "stars": 8200,
+          "growth": 2305,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "score": 0.0,
+          "stars": 34700,
+          "growth": 2147,
+          "momentum": 0.8,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "score": 0.0,
+          "stars": 57800,
+          "growth": 1177,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "univer",
+          "url": "https://github.com/dream-num/univer",
+          "score": 0.0,
+          "stars": 16600,
+          "growth": 1142,
+          "momentum": 0.4,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "cua",
+          "url": "https://github.com/trycua/cua",
+          "score": 0.0,
+          "stars": 25400,
+          "growth": 1018,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "score": 0.0,
+          "stars": 18100,
+          "growth": 844,
+          "momentum": 0.5,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "score": 0.0,
+          "stars": 26700,
+          "growth": 746,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W39",
       "week_start": "2026-09-21",
@@ -318,113 +425,6 @@
           "stars": 32600,
           "growth": 1439,
           "momentum": 0.3,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W36",
-      "week_start": "2026-08-31",
-      "generated_at": "2026-08-31T01:03:30.992297+00:00",
-      "picks": [
-        {
-          "name": "ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "score": 0.75,
-          "stars": 242700,
-          "growth": 427,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "score": 0.73,
-          "stars": 101000,
-          "growth": 707,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "score": 0.73,
-          "stars": 134300,
-          "growth": 161,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "archify",
-          "url": "https://github.com/tt-a1i/archify",
-          "score": 0.0,
-          "stars": 29200,
-          "growth": 4562,
-          "momentum": 0.5,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "gods-eye-view",
-          "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "score": 0.0,
-          "stars": 11800,
-          "growth": 3829,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "codex",
-          "url": "https://github.com/openai/codex",
-          "score": 0.0,
-          "stars": 115900,
-          "growth": 2715,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "awesome-gpt-image-2",
-          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "score": 0.0,
-          "stars": 15900,
-          "growth": 2449,
-          "momentum": 0.5,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "skills",
-          "url": "https://github.com/mattpocock/skills",
-          "score": 0.0,
-          "stars": 234200,
-          "growth": 2447,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "score": 0.0,
-          "stars": 113700,
-          "growth": 1610,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "score": 0.0,
-          "stars": 38300,
-          "growth": 1587,
-          "momentum": 0.2,
           "language": null,
           "description": null
         }
