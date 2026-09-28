@@ -251,3 +251,6 @@
 | 2026-09-27 | **1** | [paperclip](https://github.com/paperclipai/paperclip) | +2608 | 88.3k | `1.00` |
 | 2026-09-27 | **2** | [hindsight](https://github.com/vectorize-io/hindsight) | +2147 | 34.7k | `1.00` |
 | 2026-09-27 | **3** | [univer](https://github.com/dream-num/univer) | +849 | 19.8k | `1.00` |
+| 2026-09-28 | **1** | [hindsight](https://github.com/vectorize-io/hindsight) | +4520 | 39.4k | `1.00` |
+| 2026-09-28 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3086 | 41.5k | `1.00` |
+| 2026-09-28 | **3** | [paperclip](https://github.com/paperclipai/paperclip) | +2401 | 91.5k | `1.00` |

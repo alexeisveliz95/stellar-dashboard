@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-28 01:20`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-28 11:18`
+> 📦 **24** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,14 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**paperclip**](https://github.com/paperclipai/paperclip) | 88.3k | +2.6k | TypeScript |
-| 2 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 34.7k | +2.1k | Python |
-| 3 | [**univer**](https://github.com/dream-num/univer) | 19.8k | +849 | TypeScript |
-| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 58.7k | +827 | Python |
-| 5 | [**openbao**](https://github.com/openbao/openbao) | 8.1k | +364 | Go |
-| 6 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 38.2k | +361 | PowerShell |
-| 7 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | 4.9k | +357 | Python |
-| 8 | [**buzz**](https://github.com/block/buzz) | 34.9k | +339 | Rust |
-| 9 | [**mobile-mcp**](https://github.com/mobile-next/mobile-mcp) | 7.6k | +168 | TypeScript |
-| 10 | [**vscode**](https://github.com/microsoft/vscode) | 193.1k | +95 | TypeScript |
+| 1 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 39.4k | +4.5k | Python |
+| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 41.5k | +3.1k | Python |
+| 3 | [**paperclip**](https://github.com/paperclipai/paperclip) | 91.5k | +2.4k | TypeScript |
+| 4 | [**univer**](https://github.com/dream-num/univer) | 20.9k | +895 | TypeScript |
+| 5 | [**up**](https://github.com/byoungd/up) | 64.3k | +310 | JavaScript |
+| 6 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | 2.2k | +265 | TeX |
+| 7 | [**PLFM_RADAR**](https://github.com/NawfalMotii79/PLFM_RADAR) | 25.6k | +145 | PLSQL |
+| 8 | [**openrig**](https://github.com/mvschwarz/openrig) | 1.3k | +114 | TypeScript |
 
 ---
 
@@ -31,16 +29,14 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 88.3k | Mobile Development |
-| 🥈 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 34.7k | Otros |
-| 🥉 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 19.8k | AI & Data Science |
-| 4 | [**tensorflow**](https://github.com/tensorflow/tensorflow) | **1.00** | 200.5k | AI & Data Science |
-| 5 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 58.7k | AI & Data Science |
-| 6 | [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | **1.00** | 38.2k | Cybersecurity & Hacking |
-| 7 | [**vscode**](https://github.com/microsoft/vscode) | **0.96** | 193.1k | Otros |
-| 8 | [**Model-Optimizer**](https://github.com/NVIDIA/Model-Optimizer) | **0.94** | 4.9k | AI & Data Science |
-| 9 | [**buzz**](https://github.com/block/buzz) | **0.92** | 34.9k | Mobile Development |
-| 10 | [**next.js**](https://github.com/vercel/next.js) | **0.90** | 142.7k | Web Development |
+| 🥇 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 41.5k | Web Development |
+| 🥈 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 91.5k | Mobile Development |
+| 🥉 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 39.4k | Otros |
+| 4 | [**up**](https://github.com/byoungd/up) | **1.00** | 64.3k | Otros |
+| 5 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 20.9k | AI & Data Science |
+| 6 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | **0.84** | 2.2k | Otros |
+| 7 | [**PLFM_RADAR**](https://github.com/NawfalMotii79/PLFM_RADAR) | **0.83** | 25.6k | Otros |
+| 8 | [**openrig**](https://github.com/mvschwarz/openrig) | **0.73** | 1.3k | Otros |
 
 ---
 
@@ -87,14 +83,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
