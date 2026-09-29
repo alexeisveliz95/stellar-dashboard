@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **117.3k**
-> Actualizado: `2026-09-29 10:58`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 41.9k | `███░░░░░░░` | Hindsight: Agent Memory That Learns |
-| [**PageIndex**](https://github.com/VectifyAI/PageIndex) | **1.00** | 36.7k | `█░░░░░░░░░` | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| [**openship**](https://github.com/oblien/openship) | **0.98** | 13.5k | `█░░░░░░░░░` | Self-hosted deployment platform |
-| [**openrig**](https://github.com/mvschwarz/openrig) | **0.95** | 2.0k | `██████████` | Multi-agent harness that runs Claude Code and Codex together as one system |
-| [**coursebook**](https://github.com/cs341-illinois/coursebook) | **0.79** | 2.8k | `██░░░░░░░░` | Open Source Introductory Systems Programming Textbook for the University of Illinois |
-| [**hey**](https://github.com/rakyll/hey) | **0.78** | 20.4k | `█░░░░░░░░░` | HTTP load generator, ApacheBench (ab) replacement |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---

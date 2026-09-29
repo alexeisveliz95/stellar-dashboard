@@ -4,8 +4,8 @@
     "name": "debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 41520,
-    "growth": 3086,
+    "stars": 46154,
+    "growth": 3221,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -40,30 +40,30 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_paperclipai_paperclip",
-    "name": "paperclipai/paperclip",
-    "description": "The open-source app everyone uses to manage agents at work",
-    "url": "https://github.com/paperclipai/paperclip",
-    "stars": 91489,
-    "growth": 2401,
+    "id": "github_trending_NVIDIA_OpenShell",
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "stars": 9855,
+    "growth": 978,
     "score": 1.0,
     "categories": [
-      "Mobile Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Rust",
     "tags": [
-      "nlp:mobile-development"
+      "ai"
     ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_vectorize-io_hindsight",
     "name": "vectorize-io/hindsight",
     "description": "Hindsight: Agent Memory That Learns",
     "url": "https://github.com/vectorize-io/hindsight",
-    "stars": 39432,
-    "growth": 4520,
+    "stars": 41909,
+    "growth": 4561,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -79,32 +79,137 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_byoungd_up",
-    "name": "byoungd/up",
-    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-    "url": "https://github.com/byoungd/up",
-    "stars": 64323,
-    "growth": 310,
+    "id": "github_trending_paperclipai_paperclip",
+    "name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "url": "https://github.com/paperclipai/paperclip",
+    "stars": 93870,
+    "growth": 3197,
+    "score": 1.0,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_t8y2_dbx",
+    "name": "t8y2/dbx",
+    "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+    "url": "https://github.com/t8y2/dbx",
+    "stars": 21615,
+    "growth": 460,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "cli",
+      "clickhouse",
+      "database",
+      "database-client",
+      "database-management",
+      "docker",
+      "gui",
+      "mcp",
+      "mongodb",
+      "mysql",
+      "postgresql",
+      "redis",
+      "rust",
+      "sql-server",
+      "sqlite",
+      "tauri",
+      "vue"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_rohitg00_ai-engineering-from-scratch",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "stars": 60761,
+    "growth": 1287,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_VectifyAI_PageIndex",
+    "name": "VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "stars": 36703,
+    "growth": 822,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "Python",
     "raw_topics": [
-      "chinese",
-      "english-learning",
-      "tutorial"
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "information-retrieval",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_dream-num_univer",
     "name": "dream-num/univer",
     "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "url": "https://github.com/dream-num/univer",
-    "stars": 20904,
-    "growth": 895,
+    "stars": 21581,
+    "growth": 1099,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -138,51 +243,34 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_cs341-illinois_coursebook",
-    "name": "cs341-illinois/coursebook",
-    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-    "url": "https://github.com/cs341-illinois/coursebook",
-    "stars": 2200,
-    "growth": 265,
-    "score": 0.8365,
+    "id": "github_trending_oblien_openship",
+    "name": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "url": "https://github.com/oblien/openship",
+    "stars": 13536,
+    "growth": 436,
+    "score": 0.979,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "TeX",
+    "language": "TypeScript",
     "raw_topics": [
-      "awesome",
-      "c",
-      "latex",
-      "linux",
-      "posix",
-      "system-programming",
-      "wikibook"
-    ]
-  },
-  {
-    "id": "github_trending_NawfalMotii79_PLFM_RADAR",
-    "name": "NawfalMotii79/PLFM_RADAR",
-    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-    "stars": 25593,
-    "growth": 145,
-    "score": 0.8329,
-    "categories": [
-      "Otros"
+      "agents",
+      "ai",
+      "deployments",
+      "self-hosted"
     ],
-    "source": "github_trending",
-    "language": "PLSQL",
-    "raw_license": "NOASSERTION"
+    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_mvschwarz_openrig",
     "name": "mvschwarz/openrig",
     "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
     "url": "https://github.com/mvschwarz/openrig",
-    "stars": 1318,
-    "growth": 114,
-    "score": 0.731,
+    "stars": 2044,
+    "growth": 734,
+    "score": 0.9498,
     "categories": [
       "Otros"
     ],
@@ -202,5 +290,79 @@
       "typescript"
     ],
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cs341-illinois_coursebook",
+    "name": "cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "url": "https://github.com/cs341-illinois/coursebook",
+    "stars": 2760,
+    "growth": 195,
+    "score": 0.7871,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TeX",
+    "raw_topics": [
+      "awesome",
+      "c",
+      "latex",
+      "linux",
+      "posix",
+      "system-programming",
+      "wikibook"
+    ]
+  },
+  {
+    "id": "github_trending_rakyll_hey",
+    "name": "rakyll/hey",
+    "description": "HTTP load generator, ApacheBench (ab) replacement",
+    "url": "https://github.com/rakyll/hey",
+    "stars": 20368,
+    "growth": 31,
+    "score": 0.7756,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_averygan_reclip",
+    "name": "averygan/reclip",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "url": "https://github.com/averygan/reclip",
+    "stars": 9787,
+    "growth": 114,
+    "score": 0.7736,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_willfaust_Madeira",
+    "name": "willfaust/Madeira",
+    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "url": "https://github.com/willfaust/Madeira",
+    "stars": 1015,
+    "growth": 229,
+    "score": 0.7628,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "tags": [
+      "ios"
+    ],
+    "raw_license": "GPL-3.0"
   }
 ]
