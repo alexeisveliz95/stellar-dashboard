@@ -254,3 +254,6 @@
 | 2026-09-28 | **1** | [hindsight](https://github.com/vectorize-io/hindsight) | +4520 | 39.4k | `1.00` |
 | 2026-09-28 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3086 | 41.5k | `1.00` |
 | 2026-09-28 | **3** | [paperclip](https://github.com/paperclipai/paperclip) | +2401 | 91.5k | `1.00` |
+| 2026-09-29 | **1** | [hindsight](https://github.com/vectorize-io/hindsight) | +4561 | 41.9k | `1.00` |
+| 2026-09-29 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3221 | 46.2k | `1.00` |
+| 2026-09-29 | **3** | [paperclip](https://github.com/paperclipai/paperclip) | +3197 | 93.9k | `1.00` |

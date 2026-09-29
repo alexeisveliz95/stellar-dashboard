@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-28 13:29`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-29 10:58`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,14 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 39.4k | +4.5k | Python |
-| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 41.5k | +3.1k | Python |
-| 3 | [**paperclip**](https://github.com/paperclipai/paperclip) | 91.5k | +2.4k | TypeScript |
-| 4 | [**univer**](https://github.com/dream-num/univer) | 20.9k | +895 | TypeScript |
-| 5 | [**up**](https://github.com/byoungd/up) | 64.3k | +310 | JavaScript |
-| 6 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | 2.2k | +265 | TeX |
-| 7 | [**PLFM_RADAR**](https://github.com/NawfalMotii79/PLFM_RADAR) | 25.6k | +145 | PLSQL |
-| 8 | [**openrig**](https://github.com/mvschwarz/openrig) | 1.3k | +114 | TypeScript |
+| 1 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 41.9k | +4.6k | Python |
+| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 46.2k | +3.2k | Python |
+| 3 | [**paperclip**](https://github.com/paperclipai/paperclip) | 93.9k | +3.2k | TypeScript |
+| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 60.8k | +1.3k | Python |
+| 5 | [**univer**](https://github.com/dream-num/univer) | 21.6k | +1.1k | TypeScript |
+| 6 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 9.9k | +978 | Rust |
+| 7 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | 36.7k | +822 | Python |
+| 8 | [**openrig**](https://github.com/mvschwarz/openrig) | 2.0k | +734 | TypeScript |
+| 9 | [**dbx**](https://github.com/t8y2/dbx) | 21.6k | +460 | Rust |
+| 10 | [**openship**](https://github.com/oblien/openship) | 13.5k | +436 | TypeScript |
 
 ---
 
@@ -29,14 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 41.5k | Web Development |
-| 🥈 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 91.5k | Mobile Development |
-| 🥉 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 39.4k | Otros |
-| 4 | [**up**](https://github.com/byoungd/up) | **1.00** | 64.3k | Otros |
-| 5 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 20.9k | AI & Data Science |
-| 6 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | **0.84** | 2.2k | Otros |
-| 7 | [**PLFM_RADAR**](https://github.com/NawfalMotii79/PLFM_RADAR) | **0.83** | 25.6k | Otros |
-| 8 | [**openrig**](https://github.com/mvschwarz/openrig) | **0.73** | 1.3k | Otros |
+| 🥇 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 46.2k | Web Development |
+| 🥈 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 9.9k | AI & Data Science |
+| 🥉 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 41.9k | Otros |
+| 4 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 93.9k | Mobile Development |
+| 5 | [**dbx**](https://github.com/t8y2/dbx) | **1.00** | 21.6k | Python & Backend |
+| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 60.8k | AI & Data Science |
+| 7 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | **1.00** | 36.7k | Otros |
+| 8 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 21.6k | AI & Data Science |
+| 9 | [**openship**](https://github.com/oblien/openship) | **0.98** | 13.5k | Otros |
+| 10 | [**openrig**](https://github.com/mvschwarz/openrig) | **0.95** | 2.0k | Otros |
 
 ---
 
@@ -83,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
