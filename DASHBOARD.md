@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-29 12:32`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-09-30 10:50`
+> 📦 **29** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 41.9k | +4.6k | Python |
-| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 46.2k | +3.2k | Python |
-| 3 | [**paperclip**](https://github.com/paperclipai/paperclip) | 93.9k | +3.2k | TypeScript |
-| 4 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 60.8k | +1.3k | Python |
-| 5 | [**univer**](https://github.com/dream-num/univer) | 21.6k | +1.1k | TypeScript |
-| 6 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 9.9k | +978 | Rust |
-| 7 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | 36.7k | +822 | Python |
-| 8 | [**openrig**](https://github.com/mvschwarz/openrig) | 2.0k | +734 | TypeScript |
-| 9 | [**dbx**](https://github.com/t8y2/dbx) | 21.6k | +460 | Rust |
-| 10 | [**openship**](https://github.com/oblien/openship) | 13.5k | +436 | TypeScript |
+| 1 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 49.6k | +4.8k | Python |
+| 2 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 43.4k | +2.6k | Python |
+| 3 | [**paperclip**](https://github.com/paperclipai/paperclip) | 95.0k | +2.5k | TypeScript |
+| 4 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 11.1k | +990 | Rust |
+| 5 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | 37.8k | +835 | Python |
+| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 61.9k | +786 | Python |
+| 7 | [**openrig**](https://github.com/mvschwarz/openrig) | 2.7k | +737 | TypeScript |
+| 8 | [**univer**](https://github.com/dream-num/univer) | 22.1k | +696 | TypeScript |
+| 9 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | 3.3k | +572 | TeX |
+| 10 | [**openship**](https://github.com/oblien/openship) | 14.1k | +437 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 46.2k | Web Development |
-| 🥈 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 9.9k | AI & Data Science |
-| 🥉 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 41.9k | Otros |
-| 4 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 93.9k | Mobile Development |
-| 5 | [**dbx**](https://github.com/t8y2/dbx) | **1.00** | 21.6k | Python & Backend |
-| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 60.8k | AI & Data Science |
-| 7 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | **1.00** | 36.7k | Otros |
-| 8 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 21.6k | AI & Data Science |
-| 9 | [**openship**](https://github.com/oblien/openship) | **0.98** | 13.5k | Otros |
-| 10 | [**openrig**](https://github.com/mvschwarz/openrig) | **0.95** | 2.0k | Otros |
+| 🥇 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 49.6k | Web Development |
+| 🥈 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 11.1k | AI & Data Science |
+| 🥉 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 43.4k | Otros |
+| 4 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 95.0k | Mobile Development |
+| 5 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 61.9k | AI & Data Science |
+| 6 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | **1.00** | 37.8k | Otros |
+| 7 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 22.1k | AI & Data Science |
+| 8 | [**dbx**](https://github.com/t8y2/dbx) | **0.99** | 22.7k | Python & Backend |
+| 9 | [**openship**](https://github.com/oblien/openship) | **0.98** | 14.1k | Otros |
+| 10 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | **0.95** | 3.3k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.99** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
