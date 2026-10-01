@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-09-30 10:50`
-> 📦 **29** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-01 11:18`
+> 📦 **30** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 49.6k | +4.8k | Python |
-| 2 | [**hindsight**](https://github.com/vectorize-io/hindsight) | 43.4k | +2.6k | Python |
-| 3 | [**paperclip**](https://github.com/paperclipai/paperclip) | 95.0k | +2.5k | TypeScript |
-| 4 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 11.1k | +990 | Rust |
-| 5 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | 37.8k | +835 | Python |
-| 6 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | 61.9k | +786 | Python |
-| 7 | [**openrig**](https://github.com/mvschwarz/openrig) | 2.7k | +737 | TypeScript |
-| 8 | [**univer**](https://github.com/dream-num/univer) | 22.1k | +696 | TypeScript |
-| 9 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | 3.3k | +572 | TeX |
-| 10 | [**openship**](https://github.com/oblien/openship) | 14.1k | +437 | TypeScript |
+| 1 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 13.6k | +2.5k | Rust |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 273.4k | +876 | Shell |
+| 3 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 149.7k | +743 | JavaScript |
+| 4 | [**openrig**](https://github.com/mvschwarz/openrig) | 3.3k | +640 | TypeScript |
+| 5 | [**GhostTrack**](https://github.com/HunxByts/GhostTrack) | 16.1k | +635 | Python |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | 293.6k | +594 | Shell |
+| 7 | [**impeccable**](https://github.com/pbakaus/impeccable) | 73.2k | +463 | JavaScript |
+| 8 | [**yoinks**](https://github.com/pablostanley/yoinks) | 2.6k | +356 | TypeScript |
+| 9 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | 55.0k | +349 | TypeScript |
+| 10 | [**pi**](https://github.com/earendil-works/pi) | 110.9k | +294 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 49.6k | Web Development |
-| 🥈 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 11.1k | AI & Data Science |
-| 🥉 | [**hindsight**](https://github.com/vectorize-io/hindsight) | **1.00** | 43.4k | Otros |
-| 4 | [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 95.0k | Mobile Development |
-| 5 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | **1.00** | 61.9k | AI & Data Science |
-| 6 | [**PageIndex**](https://github.com/VectifyAI/PageIndex) | **1.00** | 37.8k | Otros |
-| 7 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 22.1k | AI & Data Science |
-| 8 | [**dbx**](https://github.com/t8y2/dbx) | **0.99** | 22.7k | Python & Backend |
-| 9 | [**openship**](https://github.com/oblien/openship) | **0.98** | 14.1k | Otros |
-| 10 | [**coursebook**](https://github.com/cs341-illinois/coursebook) | **0.95** | 3.3k | Otros |
+| 🥇 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 149.7k | AI & Data Science |
+| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 273.4k | Otros |
+| 🥉 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 13.6k | AI & Data Science |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 293.6k | Python & Backend |
+| 5 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | **1.00** | 55.0k | Web Development |
+| 6 | [**GhostTrack**](https://github.com/HunxByts/GhostTrack) | **1.00** | 16.1k | Mobile Development |
+| 7 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 73.2k | AI & Data Science |
+| 8 | [**pi**](https://github.com/earendil-works/pi) | **1.00** | 110.9k | Python & Backend |
+| 9 | [**openrig**](https://github.com/mvschwarz/openrig) | **0.97** | 3.3k | Otros |
+| 10 | [**context-mode**](https://github.com/mksglu/context-mode) | **0.96** | 24.6k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
-| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.99** |
-| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

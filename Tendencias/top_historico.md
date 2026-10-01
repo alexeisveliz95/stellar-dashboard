@@ -260,3 +260,6 @@
 | 2026-09-30 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +4758 | 49.6k | `1.00` |
 | 2026-09-30 | **2** | [hindsight](https://github.com/vectorize-io/hindsight) | +2575 | 43.4k | `1.00` |
 | 2026-09-30 | **3** | [paperclip](https://github.com/paperclipai/paperclip) | +2458 | 95.0k | `1.00` |
+| 2026-10-01 | **1** | [OpenShell](https://github.com/NVIDIA/OpenShell) | +2503 | 13.6k | `1.00` |
+| 2026-10-01 | **2** | [skills](https://github.com/mattpocock/skills) | +876 | 273.4k | `1.00` |
+| 2026-10-01 | **3** | [ponytail](https://github.com/DietrichGebert/ponytail) | +743 | 149.7k | `1.00` |

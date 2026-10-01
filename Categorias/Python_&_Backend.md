@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.99** · Estrellas totales: **22.7k**
-> Actualizado: `2026-09-30 10:50`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **404.5k**
+> Actualizado: `2026-10-01 11:18`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**dbx**](https://github.com/t8y2/dbx) | **0.99** | 22.7k | `██████████` | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL,… |
+| [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 293.6k | `███████░░░` | An agentic skills framework & software development methodology that works. |
+| [**pi**](https://github.com/earendil-works/pi) | **1.00** | 110.9k | `██████████` | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 
 ---

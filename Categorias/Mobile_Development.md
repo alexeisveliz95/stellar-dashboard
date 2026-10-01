@@ -1,8 +1,8 @@
 # 📂 Mobile Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **96.1k**
-> Actualizado: `2026-09-30 10:50`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **22.9k**
+> Actualizado: `2026-10-01 11:18`
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**paperclip**](https://github.com/paperclipai/paperclip) | **1.00** | 95.0k | `████░░░░░░` | The open-source app everyone uses to manage agents at work |
-| [**Madeira**](https://github.com/willfaust/Madeira) | **0.68** | 1.2k | `██████████` | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
+| [**GhostTrack**](https://github.com/HunxByts/GhostTrack) | **1.00** | 16.1k | `██████████` | Useful tool to track location or mobile number |
+| [**firebase-ios-sdk**](https://github.com/firebase/firebase-ios-sdk) | **0.71** | 6.8k | `█░░░░░░░░░` | Firebase SDK for Apple App Development |
 
 ---
