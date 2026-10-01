@@ -1,51 +1,56 @@
 [
   {
-    "id": "github_trending_debpalash_VoiceStudio",
-    "name": "debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 46154,
-    "growth": 3221,
+    "id": "github_trending_DietrichGebert_ponytail",
+    "name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "stars": 149704,
+    "growth": 743,
     "score": 1.0,
     "categories": [
-      "Web Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "JavaScript",
     "tags": [
-      "nlp:web-development"
+      "ai"
     ],
     "raw_topics": [
-      "ai",
-      "audiobook",
-      "cuda",
-      "dubbing",
-      "elevenlabs-alternative",
-      "huggingface",
-      "local-first",
-      "mlx",
-      "omnivoice-studio",
-      "speech-to-text",
-      "tauri",
-      "text-to-speech",
-      "transcription",
-      "translate",
-      "tts",
-      "voice-ai",
-      "voice-cloning",
-      "voice-generation",
-      "voicestudio",
-      "workflow"
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
     ],
-    "raw_license": "AGPL-3.0"
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 273372,
+    "growth": 876,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_NVIDIA_OpenShell",
     "name": "NVIDIA/OpenShell",
     "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
     "url": "https://github.com/NVIDIA/OpenShell",
-    "stars": 9855,
-    "growth": 978,
+    "stars": 13626,
+    "growth": 2503,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -58,219 +63,146 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_vectorize-io_hindsight",
-    "name": "vectorize-io/hindsight",
-    "description": "Hindsight: Agent Memory That Learns",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "stars": 41909,
-    "growth": 4561,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agentic-ai",
-      "agents",
-      "ai-memory",
-      "memory"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_paperclipai_paperclip",
-    "name": "paperclipai/paperclip",
-    "description": "The open-source app everyone uses to manage agents at work",
-    "url": "https://github.com/paperclipai/paperclip",
-    "stars": 93870,
-    "growth": 3197,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_t8y2_dbx",
-    "name": "t8y2/dbx",
-    "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-    "url": "https://github.com/t8y2/dbx",
-    "stars": 21615,
-    "growth": 460,
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 293646,
+    "growth": 594,
     "score": 1.0,
     "categories": [
       "Python & Backend"
     ],
     "source": "github_trending",
-    "language": "Rust",
+    "language": "Shell",
     "tags": [
       "nlp:python-backend"
     ],
     "raw_topics": [
       "ai",
-      "cli",
-      "clickhouse",
-      "database",
-      "database-client",
-      "database-management",
-      "docker",
-      "gui",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_heygen-com_hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "stars": 54999,
+    "growth": 349,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
       "mcp",
-      "mongodb",
-      "mysql",
-      "postgresql",
-      "redis",
-      "rust",
-      "sql-server",
-      "sqlite",
-      "tauri",
-      "vue"
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_rohitg00_ai-engineering-from-scratch",
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "stars": 60761,
-    "growth": 1287,
+    "id": "github_trending_HunxByts_GhostTrack",
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "stars": 16097,
+    "growth": 635,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Mobile Development"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "ai"
+      "nlp:mobile-development"
     ],
     "raw_topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
+      "cybersecurity",
+      "fyp",
+      "hacking",
+      "hacking-tool",
+      "indonesia",
+      "information",
+      "information-gathering",
+      "ip-geolocation",
+      "linux",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "pentesting",
+      "phone-number",
       "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
-    ],
-    "raw_license": "MIT"
+      "python-hacking",
+      "termux",
+      "termux-hacks",
+      "termux-tool"
+    ]
   },
   {
-    "id": "github_trending_VectifyAI_PageIndex",
-    "name": "VectifyAI/PageIndex",
-    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "url": "https://github.com/VectifyAI/PageIndex",
-    "stars": 36703,
-    "growth": 822,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "context-engineering",
-      "information-retrieval",
-      "llm",
-      "rag",
-      "reasoning",
-      "retrieval",
-      "retrieval-augmented-generation",
-      "vector-database"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_dream-num_univer",
-    "name": "dream-num/univer",
-    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-    "url": "https://github.com/dream-num/univer",
-    "stars": 21581,
-    "growth": 1099,
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 73248,
+    "growth": 463,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "board",
-      "collaboration",
-      "data-table",
-      "doc",
-      "docx",
-      "excel",
-      "grid",
-      "pdf",
-      "ppt",
-      "pptx",
-      "presentation",
-      "sdk",
-      "sheet",
-      "slides",
-      "spreadsheet",
-      "table",
-      "word",
-      "wordprocessor",
-      "xlsx"
+      "nlp:ai-data-science"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_oblien_openship",
-    "name": "oblien/openship",
-    "description": "Self-hosted deployment platform",
-    "url": "https://github.com/oblien/openship",
-    "stars": 13536,
-    "growth": 436,
-    "score": 0.979,
+    "id": "github_trending_earendil-works_pi",
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "url": "https://github.com/earendil-works/pi",
+    "stars": 110898,
+    "growth": 294,
+    "score": 0.9972,
     "categories": [
-      "Otros"
+      "Python & Backend"
     ],
     "source": "github_trending",
     "language": "TypeScript",
-    "raw_topics": [
-      "agents",
-      "ai",
-      "deployments",
-      "self-hosted"
+    "tags": [
+      "nlp:python-backend"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_mvschwarz_openrig",
     "name": "mvschwarz/openrig",
-    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: long-running teams with roles, shared context and owned work.",
     "url": "https://github.com/mvschwarz/openrig",
-    "stars": 2044,
-    "growth": 734,
-    "score": 0.9498,
+    "stars": 3307,
+    "growth": 640,
+    "score": 0.9745,
     "categories": [
       "Otros"
     ],
@@ -292,77 +224,145 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_cs341-illinois_coursebook",
-    "name": "cs341-illinois/coursebook",
-    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-    "url": "https://github.com/cs341-illinois/coursebook",
-    "stars": 2760,
-    "growth": 195,
-    "score": 0.7871,
+    "id": "github_trending_mksglu_context-mode",
+    "name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "url": "https://github.com/mksglu/context-mode",
+    "stars": 24634,
+    "growth": 90,
+    "score": 0.9553,
     "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TeX",
-    "raw_topics": [
-      "awesome",
-      "c",
-      "latex",
-      "linux",
-      "posix",
-      "system-programming",
-      "wikibook"
-    ]
-  },
-  {
-    "id": "github_trending_rakyll_hey",
-    "name": "rakyll/hey",
-    "description": "HTTP load generator, ApacheBench (ab) replacement",
-    "url": "https://github.com/rakyll/hey",
-    "stars": 20368,
-    "growth": 31,
-    "score": 0.7756,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_averygan_reclip",
-    "name": "averygan/reclip",
-    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-    "url": "https://github.com/averygan/reclip",
-    "stars": 9787,
-    "growth": 114,
-    "score": 0.7736,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
+    "language": "TypeScript",
     "tags": [
-      "nlp:web-development"
+      "ai"
+    ],
+    "raw_topics": [
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "cursor-plugin",
+      "kiro",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills",
+      "zed-extension"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_tile-ai_tilelang",
+    "name": "tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "url": "https://github.com/tile-ai/tilelang",
+    "stars": 7963,
+    "growth": 157,
+    "score": 0.89,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_Friedrich-M_UniMate",
+    "name": "Friedrich-M/UniMate",
+    "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+    "url": "https://github.com/Friedrich-M/UniMate",
+    "stars": 922,
+    "growth": 225,
+    "score": 0.8608,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_willfaust_Madeira",
-    "name": "willfaust/Madeira",
-    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-    "url": "https://github.com/willfaust/Madeira",
-    "stars": 1015,
-    "growth": 229,
-    "score": 0.7628,
+    "id": "github_trending_pablostanley_yoinks",
+    "name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "url": "https://github.com/pablostanley/yoinks",
+    "stars": 2565,
+    "growth": 356,
+    "score": 0.8384,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_cursor_plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "url": "https://github.com/cursor/plugins",
+    "stars": 9229,
+    "growth": 157,
+    "score": 0.7798,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript"
+  },
+  {
+    "id": "github_trending_firebase_firebase-ios-sdk",
+    "name": "firebase/firebase-ios-sdk",
+    "description": "Firebase SDK for Apple App Development",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "stars": 6802,
+    "growth": 8,
+    "score": 0.7141,
     "categories": [
       "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "C",
+    "language": "C++",
     "tags": [
-      "ios"
+      "nlp:mobile-development"
     ],
-    "raw_license": "GPL-3.0"
+    "raw_topics": [
+      "ai",
+      "analytics",
+      "authentication",
+      "crash-reporting",
+      "database",
+      "database-as-a-service",
+      "firebase",
+      "firebase-auth",
+      "firebase-authentication",
+      "firebase-database",
+      "firebase-messaging",
+      "firebase-storage",
+      "gemini",
+      "ios-sdk",
+      "objective-c",
+      "push-notifications",
+      "storage-service"
+    ],
+    "raw_license": "Apache-2.0"
   }
 ]

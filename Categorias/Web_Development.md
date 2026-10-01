@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **55.0k**
-> Actualizado: `2026-10-01 11:18`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**hyperframes**](https://github.com/heygen-com/hyperframes) | **1.00** | 55.0k | `██████████` | Write HTML. Render video. Built for agents. |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
