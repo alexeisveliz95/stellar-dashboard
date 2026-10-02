@@ -4,8 +4,8 @@
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 149704,
-    "growth": 743,
+    "stars": 151080,
+    "growth": 1194,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -34,8 +34,8 @@
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 273372,
-    "growth": 876,
+    "stars": 274281,
+    "growth": 883,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -49,8 +49,8 @@
     "name": "NVIDIA/OpenShell",
     "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
     "url": "https://github.com/NVIDIA/OpenShell",
-    "stars": 13626,
-    "growth": 2503,
+    "stars": 14208,
+    "growth": 2456,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -63,12 +63,43 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_mvschwarz_openrig",
+    "name": "mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "url": "https://github.com/mvschwarz/openrig",
+    "stars": 3966,
+    "growth": 642,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "agent-harness",
+      "agent-orchestration",
+      "agent-skills",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "codex-cli",
+      "multi-agent",
+      "multi-agent-systems",
+      "tmux",
+      "typescript"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_obra_superpowers",
     "name": "obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "url": "https://github.com/obra/superpowers",
-    "stars": 293646,
-    "growth": 594,
+    "stars": 294162,
+    "growth": 455,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -91,146 +122,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_heygen-com_hyperframes",
-    "name": "heygen-com/hyperframes",
-    "description": "Write HTML. Render video. Built for agents.",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "stars": 54999,
-    "growth": 349,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ai",
-      "animation",
-      "ffmpeg",
-      "framework",
-      "gsap",
-      "html",
-      "mcp",
-      "puppeteer",
-      "rendering",
-      "typescript",
-      "video"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_HunxByts_GhostTrack",
-    "name": "HunxByts/GhostTrack",
-    "description": "Useful tool to track location or mobile number",
-    "url": "https://github.com/HunxByts/GhostTrack",
-    "stars": 16097,
-    "growth": 635,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "cybersecurity",
-      "fyp",
-      "hacking",
-      "hacking-tool",
-      "indonesia",
-      "information",
-      "information-gathering",
-      "ip-geolocation",
-      "linux",
-      "osint",
-      "osint-python",
-      "osint-tool",
-      "pentesting",
-      "phone-number",
-      "python",
-      "python-hacking",
-      "termux",
-      "termux-hacks",
-      "termux-tool"
-    ]
-  },
-  {
-    "id": "github_trending_pbakaus_impeccable",
-    "name": "pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "url": "https://github.com/pbakaus/impeccable",
-    "stars": 73248,
-    "growth": 463,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_earendil-works_pi",
-    "name": "earendil-works/pi",
-    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-    "url": "https://github.com/earendil-works/pi",
-    "stars": 110898,
-    "growth": 294,
-    "score": 0.9972,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_mvschwarz_openrig",
-    "name": "mvschwarz/openrig",
-    "description": "Build your own network of agents from Claude Code, Codex and Pi: long-running teams with roles, shared context and owned work.",
-    "url": "https://github.com/mvschwarz/openrig",
-    "stars": 3307,
-    "growth": 640,
-    "score": 0.9745,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "agent-harness",
-      "agent-orchestration",
-      "agent-skills",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "codex-cli",
-      "multi-agent",
-      "multi-agent-systems",
-      "tmux",
-      "typescript"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_mksglu_context-mode",
     "name": "mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
     "url": "https://github.com/mksglu/context-mode",
-    "stars": 24634,
-    "growth": 90,
-    "score": 0.9553,
+    "stars": 24900,
+    "growth": 362,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -264,13 +162,118 @@
     "raw_license": "NOASSERTION"
   },
   {
+    "id": "github_trending_heygen-com_hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "stars": 55563,
+    "growth": 627,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 73942,
+    "growth": 495,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_earendil-works_pi",
+    "name": "earendil-works/pi",
+    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "url": "https://github.com/earendil-works/pi",
+    "stars": 111536,
+    "growth": 298,
+    "score": 0.9992,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_HunxByts_GhostTrack",
+    "name": "HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "stars": 16622,
+    "growth": 368,
+    "score": 0.9457,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "cybersecurity",
+      "fyp",
+      "hacking",
+      "hacking-tool",
+      "indonesia",
+      "information",
+      "information-gathering",
+      "ip-geolocation",
+      "linux",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "pentesting",
+      "phone-number",
+      "python",
+      "python-hacking",
+      "termux",
+      "termux-hacks",
+      "termux-tool"
+    ]
+  },
+  {
     "id": "github_trending_tile-ai_tilelang",
     "name": "tile-ai/tilelang",
     "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
     "url": "https://github.com/tile-ai/tilelang",
-    "stars": 7963,
-    "growth": 157,
-    "score": 0.89,
+    "stars": 8202,
+    "growth": 163,
+    "score": 0.893,
     "categories": [
       "AI & Data Science"
     ],
@@ -286,9 +289,9 @@
     "name": "Friedrich-M/UniMate",
     "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
     "url": "https://github.com/Friedrich-M/UniMate",
-    "stars": 922,
-    "growth": 225,
-    "score": 0.8608,
+    "stars": 1167,
+    "growth": 217,
+    "score": 0.8524,
     "categories": [
       "AI & Data Science"
     ],
@@ -304,9 +307,9 @@
     "name": "pablostanley/yoinks",
     "description": "yoink any video from your terminal. no shady ads.",
     "url": "https://github.com/pablostanley/yoinks",
-    "stars": 2565,
-    "growth": 356,
-    "score": 0.8384,
+    "stars": 3171,
+    "growth": 361,
+    "score": 0.839,
     "categories": [
       "Otros"
     ],
@@ -319,9 +322,9 @@
     "name": "cursor/plugins",
     "description": "Cursor plugin specification and official plugins",
     "url": "https://github.com/cursor/plugins",
-    "stars": 9229,
-    "growth": 157,
-    "score": 0.7798,
+    "stars": 9387,
+    "growth": 150,
+    "score": 0.7762,
     "categories": [
       "Otros"
     ],
@@ -333,9 +336,9 @@
     "name": "firebase/firebase-ios-sdk",
     "description": "Firebase SDK for Apple App Development",
     "url": "https://github.com/firebase/firebase-ios-sdk",
-    "stars": 6802,
-    "growth": 8,
-    "score": 0.7141,
+    "stars": 6910,
+    "growth": 112,
+    "score": 0.7672,
     "categories": [
       "Mobile Development"
     ],
