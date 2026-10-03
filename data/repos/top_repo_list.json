@@ -1,11 +1,106 @@
 [
   {
+    "id": "github_trending_Panniantong_Agent-Reach",
+    "name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "stars": 89255,
+    "growth": 696,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "cursor",
+      "free-api",
+      "llm-tools",
+      "mcp",
+      "python",
+      "reddit-scraper",
+      "twitter-scraper",
+      "web-scraper",
+      "xiaohongshu",
+      "youtube-transcript"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_JuliusBrussee_caveman",
+    "name": "JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "stars": 109268,
+    "growth": 209,
+    "score": 1.0,
+    "categories": [
+      "Web3 & Blockchain"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:web3-blockchain"
+    ],
+    "raw_topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 294644,
+    "growth": 556,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_DietrichGebert_ponytail",
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 151080,
-    "growth": 1194,
+    "stars": 152240,
+    "growth": 1435,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -30,12 +125,30 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 74583,
+    "growth": 722,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_mattpocock_skills",
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 274281,
-    "growth": 883,
+    "stars": 274963,
+    "growth": 955,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -49,8 +162,8 @@
     "name": "NVIDIA/OpenShell",
     "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
     "url": "https://github.com/NVIDIA/OpenShell",
-    "stars": 14208,
-    "growth": 2456,
+    "stars": 14567,
+    "growth": 594,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -63,12 +176,43 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_heygen-com_hyperframes",
+    "name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "stars": 56077,
+    "growth": 580,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_mvschwarz_openrig",
     "name": "mvschwarz/openrig",
     "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
     "url": "https://github.com/mvschwarz/openrig",
-    "stars": 3966,
-    "growth": 642,
+    "stars": 4533,
+    "growth": 683,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -94,41 +238,13 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 294162,
-    "growth": 455,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_mksglu_context-mode",
     "name": "mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
     "url": "https://github.com/mksglu/context-mode",
-    "stars": 24900,
-    "growth": 362,
-    "score": 1.0,
+    "stars": 25140,
+    "growth": 282,
+    "score": 0.9954,
     "categories": [
       "AI & Data Science"
     ],
@@ -162,13 +278,138 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_heygen-com_hyperframes",
-    "name": "heygen-com/hyperframes",
-    "description": "Write HTML. Render video. Built for agents.",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "stars": 55563,
-    "growth": 627,
-    "score": 1.0,
+    "id": "github_trending_coreyhaines31_marketingskills",
+    "name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "stars": 52554,
+    "growth": 140,
+    "score": 0.979,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_colbymchenry_codegraph",
+    "name": "colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "stars": 73076,
+    "growth": 98,
+    "score": 0.9032,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_pablostanley_yoinks",
+    "name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "url": "https://github.com/pablostanley/yoinks",
+    "stars": 3672,
+    "growth": 623,
+    "score": 0.8904,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_getsentry_sentry",
+    "name": "getsentry/sentry",
+    "description": "Developer-first error tracking and performance monitoring",
+    "url": "https://github.com/getsentry/sentry",
+    "stars": 45101,
+    "growth": 16,
+    "score": 0.8592,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "apm",
+      "crash-reporting",
+      "crash-reports",
+      "csp-report",
+      "devops",
+      "django",
+      "error-logging",
+      "error-monitoring",
+      "fair-source",
+      "hacktoberfest",
+      "monitor",
+      "monitoring",
+      "python",
+      "sentry",
+      "tag-production"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_google_skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "url": "https://github.com/google/skills",
+    "stars": 20858,
+    "growth": 39,
+    "score": 0.7355,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cursor_plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "url": "https://github.com/cursor/plugins",
+    "stars": 9577,
+    "growth": 163,
+    "score": 0.7157,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript"
+  },
+  {
+    "id": "github_trending_Effect-TS_effect",
+    "name": "Effect-TS/effect",
+    "description": "Build production-ready applications in TypeScript",
+    "url": "https://github.com/Effect-TS/effect",
+    "stars": 16660,
+    "growth": 80,
+    "score": 0.6886,
     "categories": [
       "Web Development"
     ],
@@ -178,194 +419,20 @@
       "nlp:web-development"
     ],
     "raw_topics": [
-      "ai",
-      "animation",
-      "ffmpeg",
-      "framework",
-      "gsap",
-      "html",
-      "mcp",
-      "puppeteer",
-      "rendering",
+      "cli",
+      "clustering",
+      "concurrency",
+      "dependency-injection",
+      "effect",
+      "error-handling",
+      "javascript",
+      "observability",
+      "opentelemetry",
+      "platform",
+      "schema",
       "typescript",
-      "video"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_pbakaus_impeccable",
-    "name": "pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "url": "https://github.com/pbakaus/impeccable",
-    "stars": 73942,
-    "growth": 495,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_earendil-works_pi",
-    "name": "earendil-works/pi",
-    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-    "url": "https://github.com/earendil-works/pi",
-    "stars": 111536,
-    "growth": 298,
-    "score": 0.9992,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:python-backend"
+      "workflows"
     ],
     "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_HunxByts_GhostTrack",
-    "name": "HunxByts/GhostTrack",
-    "description": "Useful tool to track location or mobile number",
-    "url": "https://github.com/HunxByts/GhostTrack",
-    "stars": 16622,
-    "growth": 368,
-    "score": 0.9457,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "cybersecurity",
-      "fyp",
-      "hacking",
-      "hacking-tool",
-      "indonesia",
-      "information",
-      "information-gathering",
-      "ip-geolocation",
-      "linux",
-      "osint",
-      "osint-python",
-      "osint-tool",
-      "pentesting",
-      "phone-number",
-      "python",
-      "python-hacking",
-      "termux",
-      "termux-hacks",
-      "termux-tool"
-    ]
-  },
-  {
-    "id": "github_trending_tile-ai_tilelang",
-    "name": "tile-ai/tilelang",
-    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-    "url": "https://github.com/tile-ai/tilelang",
-    "stars": 8202,
-    "growth": 163,
-    "score": 0.893,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_Friedrich-M_UniMate",
-    "name": "Friedrich-M/UniMate",
-    "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-    "url": "https://github.com/Friedrich-M/UniMate",
-    "stars": 1167,
-    "growth": 217,
-    "score": 0.8524,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_pablostanley_yoinks",
-    "name": "pablostanley/yoinks",
-    "description": "yoink any video from your terminal. no shady ads.",
-    "url": "https://github.com/pablostanley/yoinks",
-    "stars": 3171,
-    "growth": 361,
-    "score": 0.839,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_cursor_plugins",
-    "name": "cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "url": "https://github.com/cursor/plugins",
-    "stars": 9387,
-    "growth": 150,
-    "score": 0.7762,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript"
-  },
-  {
-    "id": "github_trending_firebase_firebase-ios-sdk",
-    "name": "firebase/firebase-ios-sdk",
-    "description": "Firebase SDK for Apple App Development",
-    "url": "https://github.com/firebase/firebase-ios-sdk",
-    "stars": 6910,
-    "growth": 112,
-    "score": 0.7672,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "C++",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "ai",
-      "analytics",
-      "authentication",
-      "crash-reporting",
-      "database",
-      "database-as-a-service",
-      "firebase",
-      "firebase-auth",
-      "firebase-authentication",
-      "firebase-database",
-      "firebase-messaging",
-      "firebase-storage",
-      "gemini",
-      "ios-sdk",
-      "objective-c",
-      "push-notifications",
-      "storage-service"
-    ],
-    "raw_license": "Apache-2.0"
   }
 ]

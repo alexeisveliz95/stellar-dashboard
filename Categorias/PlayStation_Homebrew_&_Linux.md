@@ -1,8 +1,8 @@
 # 📂 PlayStation Homebrew & Linux
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.90** · Estrellas totales: **73.1k**
-> Actualizado: `2026-10-03 10:09`
+> **2 proyectos** · ⭐ Mejor score: **0.34** · Estrellas totales: **1.7k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**codegraph**](https://github.com/colbymchenry/codegraph) | **0.90** | 73.1k | `██████████` | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini,… |
+| [**ps5-linux-loader**](https://github.com/ps5-linux/ps5-linux-loader) | **0.34** | 1.4k | `░░░░░░░░░░` | Linux payload implementing HV exploits to run a custom bootloader |
+| [**ps5-y2jb-autoloader**](https://github.com/itsPLK/ps5-y2jb-autoloader) | **0.23** | 269 | `░░░░░░░░░░` | An automated payload loader for exploited PS5 consoles |
 
 ---
