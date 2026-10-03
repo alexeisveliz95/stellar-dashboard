@@ -266,3 +266,6 @@
 | 2026-10-02 | **1** | [OpenShell](https://github.com/NVIDIA/OpenShell) | +2456 | 14.2k | `1.00` |
 | 2026-10-02 | **2** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1194 | 151.1k | `1.00` |
 | 2026-10-02 | **3** | [skills](https://github.com/mattpocock/skills) | +883 | 274.3k | `1.00` |
+| 2026-10-03 | **1** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1435 | 152.2k | `1.00` |
+| 2026-10-03 | **2** | [skills](https://github.com/mattpocock/skills) | +955 | 275.0k | `1.00` |
+| 2026-10-03 | **3** | [impeccable](https://github.com/pbakaus/impeccable) | +722 | 74.6k | `1.00` |

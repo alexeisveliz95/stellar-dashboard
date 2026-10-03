@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-02 12:15`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-03 10:09`
+> 📦 **22** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 14.2k | +2.5k | Rust |
-| 2 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 151.1k | +1.2k | JavaScript |
-| 3 | [**skills**](https://github.com/mattpocock/skills) | 274.3k | +883 | Shell |
-| 4 | [**openrig**](https://github.com/mvschwarz/openrig) | 4.0k | +642 | TypeScript |
-| 5 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | 55.6k | +627 | TypeScript |
-| 6 | [**impeccable**](https://github.com/pbakaus/impeccable) | 73.9k | +495 | JavaScript |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | 294.2k | +455 | Shell |
-| 8 | [**GhostTrack**](https://github.com/HunxByts/GhostTrack) | 16.6k | +368 | Python |
-| 9 | [**context-mode**](https://github.com/mksglu/context-mode) | 24.9k | +362 | TypeScript |
-| 10 | [**yoinks**](https://github.com/pablostanley/yoinks) | 3.2k | +361 | TypeScript |
+| 1 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 152.2k | +1.4k | JavaScript |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 275.0k | +955 | Shell |
+| 3 | [**impeccable**](https://github.com/pbakaus/impeccable) | 74.6k | +722 | JavaScript |
+| 4 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 89.3k | +696 | Python |
+| 5 | [**openrig**](https://github.com/mvschwarz/openrig) | 4.5k | +683 | TypeScript |
+| 6 | [**yoinks**](https://github.com/pablostanley/yoinks) | 3.7k | +623 | TypeScript |
+| 7 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 14.6k | +594 | Rust |
+| 8 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | 56.1k | +580 | TypeScript |
+| 9 | [**superpowers**](https://github.com/obra/superpowers) | 294.6k | +556 | Shell |
+| 10 | [**context-mode**](https://github.com/mksglu/context-mode) | 25.1k | +282 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 151.1k | AI & Data Science |
-| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 274.3k | Otros |
-| 🥉 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 14.2k | AI & Data Science |
-| 4 | [**openrig**](https://github.com/mvschwarz/openrig) | **1.00** | 4.0k | Cybersecurity & Hacking |
-| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 294.2k | Python & Backend |
-| 6 | [**context-mode**](https://github.com/mksglu/context-mode) | **1.00** | 24.9k | AI & Data Science |
-| 7 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | **1.00** | 55.6k | Web Development |
-| 8 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 73.9k | AI & Data Science |
-| 9 | [**pi**](https://github.com/earendil-works/pi) | **1.00** | 111.5k | Python & Backend |
-| 10 | [**GhostTrack**](https://github.com/HunxByts/GhostTrack) | **0.95** | 16.6k | Mobile Development |
+| 🥇 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 89.3k | Python & Backend |
+| 🥈 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 109.3k | Web3 & Blockchain |
+| 🥉 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 294.6k | Python & Backend |
+| 4 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 152.2k | AI & Data Science |
+| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 74.6k | AI & Data Science |
+| 6 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 275.0k | Otros |
+| 7 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 14.6k | AI & Data Science |
+| 8 | [**hyperframes**](https://github.com/heygen-com/hyperframes) | **1.00** | 56.1k | Web Development |
+| 9 | [**openrig**](https://github.com/mvschwarz/openrig) | **1.00** | 4.5k | Cybersecurity & Hacking |
+| 10 | [**context-mode**](https://github.com/mksglu/context-mode) | **1.00** | 25.1k | AI & Data Science |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **0.86** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.90** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **1.00** |
 
 ---
