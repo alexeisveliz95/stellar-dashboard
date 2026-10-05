@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T01:20:34.289159+00:00",
+  "updated_at": "2026-10-05T01:31:06.358346+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W41",
+      "week_start": "2026-10-05",
+      "generated_at": "2026-10-05T01:31:06.358346+00:00",
+      "picks": [
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 272500,
+          "growth": 897,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "score": 0.0,
+          "stars": 49600,
+          "growth": 4758,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "score": 0.0,
+          "stars": 41900,
+          "growth": 4561,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "score": 0.0,
+          "stars": 93900,
+          "growth": 3197,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "score": 0.0,
+          "stars": 13600,
+          "growth": 2503,
+          "momentum": 0.8,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "score": 0.0,
+          "stars": 90200,
+          "growth": 1696,
+          "momentum": 0.9,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "score": 0.0,
+          "stars": 152200,
+          "growth": 1435,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "score": 0.0,
+          "stars": 60800,
+          "growth": 1287,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "univer",
+          "url": "https://github.com/dream-num/univer",
+          "score": 0.0,
+          "stars": 21600,
+          "growth": 1099,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 275000,
+          "growth": 955,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W40",
       "week_start": "2026-09-28",
@@ -318,113 +425,6 @@
           "stars": 130199,
           "growth": 1539,
           "momentum": 0.1,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W37",
-      "week_start": "2026-09-07",
-      "generated_at": "2026-09-07T00:36:03.350127+00:00",
-      "picks": [
-        {
-          "name": "academic-research-skills",
-          "url": "https://github.com/Imbad0202/academic-research-skills",
-          "score": 0.83,
-          "stars": 45800,
-          "growth": 799,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "score": 0.75,
-          "stars": 250300,
-          "growth": 1314,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "archify",
-          "url": "https://github.com/tt-a1i/archify",
-          "score": 0.0,
-          "stars": 40500,
-          "growth": 3991,
-          "momentum": 0.3,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "OpenMAIC",
-          "url": "https://github.com/THU-MAIC/OpenMAIC",
-          "score": 0.0,
-          "stars": 30100,
-          "growth": 3128,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "score": 0.0,
-          "stars": 128400,
-          "growth": 2845,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "skills",
-          "url": "https://github.com/mattpocock/skills",
-          "score": 0.0,
-          "stars": 251100,
-          "growth": 2758,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "scientific-agent-skills",
-          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "score": 0.0,
-          "stars": 41200,
-          "growth": 1980,
-          "momentum": 0.2,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "score": 0.0,
-          "stars": 16800,
-          "growth": 1672,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "timesfm",
-          "url": "https://github.com/google-research/timesfm",
-          "score": 0.0,
-          "stars": 30800,
-          "growth": 1618,
-          "momentum": 0.5,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "reverse-skill",
-          "url": "https://github.com/zhaoxuya520/reverse-skill",
-          "score": 0.0,
-          "stars": 32600,
-          "growth": 1439,
-          "momentum": 0.3,
           "language": null,
           "description": null
         }
