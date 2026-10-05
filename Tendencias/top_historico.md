@@ -272,3 +272,6 @@
 | 2026-10-04 | **1** | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +1696 | 90.2k | `1.00` |
 | 2026-10-04 | **2** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1281 | 154.1k | `1.00` |
 | 2026-10-04 | **3** | [ECC](https://github.com/affaan-m/ECC) | +897 | 272.5k | `1.00` |
+| 2026-10-05 | **1** | [e2e](https://github.com/tester-army/e2e) | +1430 | 3.8k | `0.89` |
+| 2026-10-05 | **2** | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +1156 | 91.4k | `1.00` |
+| 2026-10-05 | **3** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +994 | 4.4k | `0.95` |

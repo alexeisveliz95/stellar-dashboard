@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-05 01:31`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-05 11:56`
+> 📦 **25** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 90.2k | +1.7k | Python |
-| 2 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 154.1k | +1.3k | JavaScript |
-| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 272.5k | +897 | JavaScript |
-| 4 | [**skills**](https://github.com/mattpocock/skills) | 275.6k | +751 | Shell |
-| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | 75.7k | +699 | JavaScript |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | 295.1k | +577 | Shell |
-| 7 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 109.7k | +507 | Go |
-| 8 | [**pi**](https://github.com/earendil-works/pi) | 112.3k | +408 | TypeScript |
-| 9 | [**effect**](https://github.com/Effect-TS/effect) | 16.9k | +302 | TypeScript |
-| 10 | [**context-mode**](https://github.com/mksglu/context-mode) | 25.3k | +256 | TypeScript |
+| 1 | [**e2e**](https://github.com/tester-army/e2e) | 3.8k | +1.4k | TypeScript |
+| 2 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 91.4k | +1.2k | Python |
+| 3 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 4.4k | +994 | C++ |
+| 4 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 63.5k | +758 | Python |
+| 5 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 156.9k | +595 | Shell |
+| 6 | [**openGym**](https://github.com/DuarteSantos8/openGym) | 3.4k | +570 | JavaScript |
+| 7 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 96.4k | +534 | TypeScript |
+| 8 | [**caddy**](https://github.com/caddyserver/caddy) | 76.8k | +526 | Go |
+| 9 | [**t3code**](https://github.com/pingdotgg/t3code) | 25.4k | +487 | TypeScript |
+| 10 | [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | 17.1k | +456 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 154.1k | AI & Data Science |
-| 🥈 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 75.7k | AI & Data Science |
-| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 272.5k | Cybersecurity & Hacking |
-| 4 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 109.7k | Web3 & Blockchain |
-| 5 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 90.2k | Python & Backend |
-| 6 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 101.0k | AI & Data Science |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 295.1k | Python & Backend |
-| 8 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 275.6k | Otros |
-| 9 | [**pi**](https://github.com/earendil-works/pi) | **1.00** | 112.3k | Python & Backend |
-| 10 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 149.3k | AI & Data Science |
+| 🥇 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 96.4k | AI & Data Science |
+| 🥈 | [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | **1.00** | 17.1k | Otros |
+| 🥉 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 91.4k | Python & Backend |
+| 4 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 63.5k | AI & Data Science |
+| 5 | [**caddy**](https://github.com/caddyserver/caddy) | **1.00** | 76.8k | Web Development |
+| 6 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 156.9k | AI & Data Science |
+| 7 | [**t3code**](https://github.com/pingdotgg/t3code) | **1.00** | 25.4k | Otros |
+| 8 | [**openGym**](https://github.com/DuarteSantos8/openGym) | **0.97** | 3.4k | Otros |
+| 9 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.95** | 4.4k | PlayStation Homebrew & Linux |
+| 10 | [**e2e**](https://github.com/tester-army/e2e) | **0.89** | 3.8k | Mobile Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.89** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.95** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
