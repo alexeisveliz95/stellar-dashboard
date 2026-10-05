@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **90.9k**
-> Actualizado: `2026-10-05 11:56`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**caddy**](https://github.com/caddyserver/caddy) | **1.00** | 76.8k | `█████████░` | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
-| [**stremio-web**](https://github.com/Stremio/stremio-web) | **0.79** | 14.1k | `██████████` | Stremio - Freedom to Stream |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
