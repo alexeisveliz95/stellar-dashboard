@@ -275,3 +275,6 @@
 | 2026-10-05 | **1** | [e2e](https://github.com/tester-army/e2e) | +1430 | 3.8k | `0.89` |
 | 2026-10-05 | **2** | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | +1156 | 91.4k | `1.00` |
 | 2026-10-05 | **3** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +994 | 4.4k | `0.95` |
+| 2026-10-06 | **1** | [rea](https://github.com/morluto/rea) | +2963 | 6.8k | `1.00` |
+| 2026-10-06 | **2** | [e2e](https://github.com/tester-army/e2e) | +1720 | 5.5k | `0.91` |
+| 2026-10-06 | **3** | [openGym](https://github.com/DuarteSantos8/openGym) | +1419 | 4.8k | `0.98` |

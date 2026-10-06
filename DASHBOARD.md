@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-05 14:12`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-06 11:38`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**e2e**](https://github.com/tester-army/e2e) | 3.8k | +1.4k | TypeScript |
-| 2 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 91.4k | +1.2k | Python |
-| 3 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 4.4k | +994 | C++ |
-| 4 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | 63.5k | +758 | Python |
-| 5 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 156.9k | +595 | Shell |
-| 6 | [**openGym**](https://github.com/DuarteSantos8/openGym) | 3.4k | +570 | JavaScript |
-| 7 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 96.4k | +534 | TypeScript |
-| 8 | [**caddy**](https://github.com/caddyserver/caddy) | 76.8k | +526 | Go |
-| 9 | [**t3code**](https://github.com/pingdotgg/t3code) | 25.4k | +487 | TypeScript |
-| 10 | [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | 17.1k | +456 | Python |
+| 1 | [**rea**](https://github.com/morluto/rea) | 6.8k | +3.0k | TypeScript |
+| 2 | [**e2e**](https://github.com/tester-army/e2e) | 5.5k | +1.7k | TypeScript |
+| 3 | [**openGym**](https://github.com/DuarteSantos8/openGym) | 4.8k | +1.4k | JavaScript |
+| 4 | [**skills**](https://github.com/mattpocock/skills) | 277.5k | +1.0k | Shell |
+| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | 77.3k | +947 | JavaScript |
+| 6 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 5.3k | +943 | C++ |
+| 7 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 157.5k | +621 | Shell |
+| 8 | [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | 17.7k | +620 | Python |
+| 9 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 96.9k | +536 | TypeScript |
+| 10 | [**DeepGEMM**](https://github.com/deepseek-ai/DeepGEMM) | 8.5k | +363 | Cuda |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 96.4k | AI & Data Science |
-| 🥈 | [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | **1.00** | 17.1k | Otros |
-| 🥉 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 91.4k | Python & Backend |
-| 4 | [**OpenMontage**](https://github.com/calesthio/OpenMontage) | **1.00** | 63.5k | AI & Data Science |
-| 5 | [**caddy**](https://github.com/caddyserver/caddy) | **1.00** | 76.8k | Web Development |
-| 6 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 156.9k | AI & Data Science |
-| 7 | [**t3code**](https://github.com/pingdotgg/t3code) | **1.00** | 25.4k | Otros |
-| 8 | [**openGym**](https://github.com/DuarteSantos8/openGym) | **0.97** | 3.4k | Otros |
-| 9 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.95** | 4.4k | PlayStation Homebrew & Linux |
-| 10 | [**e2e**](https://github.com/tester-army/e2e) | **0.89** | 3.8k | Mobile Development |
+| 🥇 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 277.5k | Otros |
+| 🥈 | [**text-to-cad**](https://github.com/earthtojake/text-to-cad) | **1.00** | 17.7k | Otros |
+| 🥉 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 77.3k | AI & Data Science |
+| 4 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 96.9k | AI & Data Science |
+| 5 | [**rea**](https://github.com/morluto/rea) | **1.00** | 6.8k | Mobile Development |
+| 6 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 157.5k | AI & Data Science |
+| 7 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **0.99** | 54.1k | Otros |
+| 8 | [**openGym**](https://github.com/DuarteSantos8/openGym) | **0.98** | 4.8k | Otros |
+| 9 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **0.94** | 43.6k | Web Development |
+| 10 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.92** | 5.3k | PlayStation Homebrew & Linux |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.92** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.94** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
