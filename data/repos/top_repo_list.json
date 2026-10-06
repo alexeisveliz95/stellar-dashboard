@@ -1,11 +1,70 @@
 [
   {
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 277458,
+    "growth": 1028,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_earthtojake_text-to-cad",
+    "name": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "stars": 17696,
+    "growth": 620,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agents",
+      "ai-agents",
+      "cad",
+      "mechanical-engineering",
+      "robotics",
+      "step",
+      "stl",
+      "stp",
+      "text-to-cad"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 77336,
+    "growth": 947,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_thedotmack_claude-mem",
     "name": "thedotmack/claude-mem",
     "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
     "url": "https://github.com/thedotmack/claude-mem",
-    "stars": 96358,
-    "growth": 534,
+    "stars": 96864,
+    "growth": 536,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -40,149 +99,52 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_earthtojake_text-to-cad",
-    "name": "earthtojake/text-to-cad",
-    "description": "Give your agent CAD superpowers.",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "stars": 17100,
-    "growth": 456,
+    "id": "github_trending_morluto_rea",
+    "name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "url": "https://github.com/morluto/rea",
+    "stars": 6796,
+    "growth": 2963,
     "score": 1.0,
     "categories": [
-      "Otros"
+      "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:mobile-development"
+    ],
     "raw_topics": [
-      "agents",
+      "agent-skills",
+      "ai-agent-tools",
       "ai-agents",
-      "cad",
-      "mechanical-engineering",
-      "robotics",
-      "step",
-      "stl",
-      "stp",
-      "text-to-cad"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Panniantong_Agent-Reach",
-    "name": "Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "stars": 91397,
-    "growth": 1156,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "agent-infrastructure",
-      "ai-agent",
-      "ai-search",
-      "automation",
-      "bilibili",
-      "claude-code",
+      "binary-analysis",
       "cli",
-      "cursor",
-      "free-api",
-      "llm-tools",
+      "coding-agents",
+      "cordis",
+      "ctf",
+      "decompiler",
+      "disassembler",
+      "dsh",
+      "dsh-plugin",
+      "ghidra",
+      "hopper",
       "mcp",
-      "python",
-      "reddit-scraper",
-      "twitter-scraper",
-      "web-scraper",
-      "xiaohongshu",
-      "youtube-transcript"
+      "mcp-server",
+      "model-context-protocol",
+      "reverse-engineering",
+      "reverse-engineering-tools",
+      "static-analysis"
     ],
     "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_calesthio_OpenMontage",
-    "name": "calesthio/OpenMontage",
-    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "stars": 63538,
-    "growth": 758,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "claude",
-      "copilot",
-      "cursor",
-      "elevenlabs",
-      "ffmpeg",
-      "flux",
-      "image-generation",
-      "open-source",
-      "openai",
-      "python",
-      "remotion",
-      "stable-diffusion",
-      "text-to-speech",
-      "text-to-video",
-      "video-generation",
-      "video-production"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_caddyserver_caddy",
-    "name": "caddyserver/caddy",
-    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-    "url": "https://github.com/caddyserver/caddy",
-    "stars": 76788,
-    "growth": 526,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "acme",
-      "automatic-https",
-      "caddy",
-      "caddyfile",
-      "go",
-      "golang",
-      "http",
-      "http-server",
-      "http3",
-      "https",
-      "privacy",
-      "reverse-proxy",
-      "security",
-      "tls",
-      "web-server"
-    ],
-    "raw_license": "Apache-2.0"
   },
   {
     "id": "github_trending_msitarzewski_agency-agents",
     "name": "msitarzewski/agency-agents",
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "url": "https://github.com/msitarzewski/agency-agents",
-    "stars": 156935,
-    "growth": 595,
+    "stars": 157529,
+    "growth": 621,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -195,18 +157,26 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_pingdotgg_t3code",
-    "name": "pingdotgg/t3code",
-    "description": "",
-    "url": "https://github.com/pingdotgg/t3code",
-    "stars": 25383,
-    "growth": 487,
-    "score": 0.9999,
+    "id": "github_trending_ayghri_i-have-adhd",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "stars": 54096,
+    "growth": 318,
+    "score": 0.9894,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
+    "raw_topics": [
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
+    ],
     "raw_license": "MIT"
   },
   {
@@ -214,9 +184,9 @@
     "name": "DuarteSantos8/openGym",
     "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
     "url": "https://github.com/DuarteSantos8/openGym",
-    "stars": 3438,
-    "growth": 570,
-    "score": 0.9674,
+    "stars": 4847,
+    "growth": 1419,
+    "score": 0.977,
     "categories": [
       "Otros"
     ],
@@ -245,13 +215,41 @@
     "raw_license": "AGPL-3.0"
   },
   {
+    "id": "github_trending_cathrynlavery_diagram-design",
+    "name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "stars": 43611,
+    "growth": 227,
+    "score": 0.9389,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "HTML",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_boykopovar_AnyPS5",
     "name": "boykopovar/AnyPS5",
     "description": "Tool for automatic PS5 executables porting to Linux and Windows",
     "url": "https://github.com/boykopovar/AnyPS5",
-    "stars": 4395,
-    "growth": 994,
-    "score": 0.952,
+    "stars": 5329,
+    "growth": 943,
+    "score": 0.9233,
     "categories": [
       "PlayStation Homebrew & Linux"
     ],
@@ -276,9 +274,9 @@
     "name": "tester-army/e2e",
     "description": "Next generation e2e testing framework for web and mobile apps.",
     "url": "https://github.com/tester-army/e2e",
-    "stars": 3798,
-    "growth": 1430,
-    "score": 0.8882,
+    "stars": 5506,
+    "growth": 1720,
+    "score": 0.9084,
     "categories": [
       "Mobile Development"
     ],
@@ -299,43 +297,21 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_Stremio_stremio-web",
-    "name": "Stremio/stremio-web",
-    "description": "Stremio - Freedom to Stream",
-    "url": "https://github.com/Stremio/stremio-web",
-    "stars": 14131,
-    "growth": 111,
-    "score": 0.7911,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "hacktoberfest",
-      "stremio"
-    ],
-    "raw_license": "GPL-2.0"
-  },
-  {
-    "id": "github_trending_cloudflare_cloudflare-os",
-    "name": "cloudflare/cloudflare-os",
-    "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-    "url": "https://github.com/cloudflare/cloudflare-os",
-    "stars": 10810,
-    "growth": 102,
-    "score": 0.7617,
+    "id": "github_trending_deepseek-ai_DeepGEMM",
+    "name": "deepseek-ai/DeepGEMM",
+    "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+    "url": "https://github.com/deepseek-ai/DeepGEMM",
+    "stars": 8527,
+    "growth": 363,
+    "score": 0.8997,
     "categories": [
       "PlayStation Homebrew & Linux"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Cuda",
     "tags": [
       "nlp:playstation-homebrew-linux"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   }
 ]
