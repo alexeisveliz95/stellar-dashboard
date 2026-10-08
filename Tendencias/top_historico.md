@@ -281,3 +281,6 @@
 | 2026-10-07 | **1** | [rea](https://github.com/morluto/rea) | +4666 | 11.4k | `1.00` |
 | 2026-10-07 | **2** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +2725 | 8.1k | `0.98` |
 | 2026-10-07 | **3** | [openGym](https://github.com/DuarteSantos8/openGym) | +1494 | 6.3k | `0.97` |
+| 2026-10-08 | **1** | [rea](https://github.com/morluto/rea) | +7744 | 19.2k | `1.00` |
+| 2026-10-08 | **2** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +4640 | 12.8k | `0.99` |
+| 2026-10-08 | **3** | [skills](https://github.com/mattpocock/skills) | +1770 | 280.5k | `1.00` |

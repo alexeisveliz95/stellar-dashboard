@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-07 13:03`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-08 11:43`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,15 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**rea**](https://github.com/morluto/rea) | 11.4k | +4.7k | TypeScript |
-| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 8.1k | +2.7k | C++ |
-| 3 | [**openGym**](https://github.com/DuarteSantos8/openGym) | 6.3k | +1.5k | JavaScript |
-| 4 | [**skills**](https://github.com/mattpocock/skills) | 278.8k | +1.4k | Shell |
-| 5 | [**e2e**](https://github.com/tester-army/e2e) | 6.9k | +1.4k | TypeScript |
-| 6 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 44.4k | +828 | HTML |
-| 7 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | 54.7k | +620 | Python |
-| 8 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 97.4k | +578 | TypeScript |
-| 9 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 25.6k | +538 | JavaScript |
-| 10 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 102.3k | +453 | JavaScript |
+| 1 | [**rea**](https://github.com/morluto/rea) | 19.2k | +7.7k | TypeScript |
+| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 12.8k | +4.6k | C++ |
+| 3 | [**skills**](https://github.com/mattpocock/skills) | 280.5k | +1.8k | Shell |
+| 4 | [**artcraft**](https://github.com/storytold/artcraft) | 6.0k | +1.5k | Rust |
+| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 45.6k | +1.2k | HTML |
+| 6 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 27.3k | +766 | Python |
+| 7 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 98.1k | +662 | TypeScript |
+| 8 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 24.2k | +398 | — |
+| 9 | [**raddebugger**](https://github.com/EpicGames/raddebugger) | 8.0k | +283 | C |
 
 ---
 
@@ -31,16 +30,15 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 11.4k | Mobile Development |
-| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 278.8k | Otros |
-| 🥉 | [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) | **1.00** | 54.7k | Otros |
-| 4 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 44.4k | Web Development |
-| 5 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 102.3k | AI & Data Science |
-| 6 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 97.4k | AI & Data Science |
-| 7 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 25.6k | Cybersecurity & Hacking |
-| 8 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.98** | 8.1k | PlayStation Homebrew & Linux |
-| 9 | [**openGym**](https://github.com/DuarteSantos8/openGym) | **0.97** | 6.3k | Otros |
-| 10 | [**cmux**](https://github.com/manaflow-ai/cmux) | **0.94** | 27.7k | AI & Data Science |
+| 🥇 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 45.6k | Web Development |
+| 🥈 | [**rea**](https://github.com/morluto/rea) | **1.00** | 19.2k | Mobile Development |
+| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 280.5k | Otros |
+| 4 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 98.1k | AI & Data Science |
+| 5 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **1.00** | 27.3k | Otros |
+| 6 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.99** | 12.8k | PlayStation Homebrew & Linux |
+| 7 | [**artcraft**](https://github.com/storytold/artcraft) | **0.95** | 6.0k | Otros |
+| 8 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | **0.95** | 24.2k | Web Development |
+| 9 | [**raddebugger**](https://github.com/EpicGames/raddebugger) | **0.75** | 8.0k | Mobile Development |
 
 ---
 
@@ -87,14 +85,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.99** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
