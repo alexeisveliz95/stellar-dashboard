@@ -284,3 +284,6 @@
 | 2026-10-08 | **1** | [rea](https://github.com/morluto/rea) | +7744 | 19.2k | `1.00` |
 | 2026-10-08 | **2** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +4640 | 12.8k | `0.99` |
 | 2026-10-08 | **3** | [skills](https://github.com/mattpocock/skills) | +1770 | 280.5k | `1.00` |
+| 2026-10-09 | **1** | [rea](https://github.com/morluto/rea) | +7738 | 34.4k | `1.00` |
+| 2026-10-09 | **2** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +4669 | 18.6k | `0.99` |
+| 2026-10-09 | **3** | [artcraft](https://github.com/storytold/artcraft) | +2103 | 9.7k | `0.97` |

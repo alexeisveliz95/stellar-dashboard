@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-08 13:10`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-09 11:37`
+> 📦 **25** proyectos curados en **9** categorías
 
 ---
 
@@ -12,15 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**rea**](https://github.com/morluto/rea) | 19.2k | +7.7k | TypeScript |
-| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 12.8k | +4.6k | C++ |
-| 3 | [**skills**](https://github.com/mattpocock/skills) | 280.5k | +1.8k | Shell |
-| 4 | [**artcraft**](https://github.com/storytold/artcraft) | 6.0k | +1.5k | Rust |
-| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 45.6k | +1.2k | HTML |
-| 6 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 27.3k | +766 | Python |
-| 7 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 98.1k | +662 | TypeScript |
-| 8 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | 24.2k | +398 | — |
-| 9 | [**raddebugger**](https://github.com/EpicGames/raddebugger) | 8.0k | +283 | C |
+| 1 | [**rea**](https://github.com/morluto/rea) | 34.4k | +7.7k | TypeScript |
+| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 18.6k | +4.7k | C++ |
+| 3 | [**artcraft**](https://github.com/storytold/artcraft) | 9.7k | +2.1k | Rust |
+| 4 | [**skills**](https://github.com/mattpocock/skills) | 281.9k | +1.8k | Shell |
+| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 47.3k | +1.2k | HTML |
+| 6 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 103.6k | +751 | JavaScript |
+| 7 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 28.0k | +392 | Python |
+| 8 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 44.8k | +323 | Go |
+| 9 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | 17.5k | +109 | Python |
+| 10 | [**litellm**](https://github.com/BerriAI/litellm) | 60.4k | +95 | Python |
 
 ---
 
@@ -30,15 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 45.6k | Web Development |
-| 🥈 | [**rea**](https://github.com/morluto/rea) | **1.00** | 19.2k | Mobile Development |
-| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 280.5k | Otros |
-| 4 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 98.1k | AI & Data Science |
-| 5 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **1.00** | 27.3k | Otros |
-| 6 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.99** | 12.8k | PlayStation Homebrew & Linux |
-| 7 | [**artcraft**](https://github.com/storytold/artcraft) | **0.95** | 6.0k | Otros |
-| 8 | [**system-design-notes**](https://github.com/liquidslr/system-design-notes) | **0.95** | 24.2k | Web Development |
-| 9 | [**raddebugger**](https://github.com/EpicGames/raddebugger) | **0.75** | 8.0k | Mobile Development |
+| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 34.4k | Mobile Development |
+| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 281.9k | Otros |
+| 🥉 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 47.3k | Web Development |
+| 4 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 44.8k | AI & Data Science |
+| 5 | [**litellm**](https://github.com/BerriAI/litellm) | **1.00** | 60.4k | AI & Data Science |
+| 6 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 103.6k | AI & Data Science |
+| 7 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.99** | 18.6k | PlayStation Homebrew & Linux |
+| 8 | [**artcraft**](https://github.com/storytold/artcraft) | **0.97** | 9.7k | Otros |
+| 9 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **0.96** | 28.0k | Otros |
+| 10 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | **0.75** | 17.5k | Otros |
 
 ---
 
@@ -85,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.99** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
