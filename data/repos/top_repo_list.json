@@ -4,8 +4,8 @@
     "name": "morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "url": "https://github.com/morluto/rea",
-    "stars": 34408,
-    "growth": 7738,
+    "stars": 59317,
+    "growth": 14927,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -44,8 +44,8 @@
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 281925,
-    "growth": 1774,
+    "stars": 283526,
+    "growth": 1687,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -57,10 +57,10 @@
   {
     "id": "github_trending_cathrynlavery_diagram-design",
     "name": "cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 47285,
-    "growth": 1160,
+    "stars": 48416,
+    "growth": 1739,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -87,8 +87,8 @@
     "name": "alibaba/open-code-review",
     "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
     "url": "https://github.com/alibaba/open-code-review",
-    "stars": 44792,
-    "growth": 323,
+    "stars": 45709,
+    "growth": 326,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -109,11 +109,26 @@
     "raw_license": "Apache-2.0"
   },
   {
+    "id": "github_trending_anthropics_knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "stars": 28557,
+    "growth": 709,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_BerriAI_litellm",
     "name": "BerriAI/litellm",
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
     "url": "https://github.com/BerriAI/litellm",
-    "stars": 60449,
+    "stars": 60860,
     "growth": 95,
     "score": 1.0,
     "categories": [
@@ -149,8 +164,8 @@
     "name": "addyosmani/agent-skills",
     "description": "Production-grade engineering skills for AI coding agents.",
     "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 103604,
-    "growth": 751,
+    "stars": 104298,
+    "growth": 436,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -175,9 +190,9 @@
     "name": "boykopovar/AnyPS5",
     "description": "Tool for automatic PS5 executables porting to Linux and Windows",
     "url": "https://github.com/boykopovar/AnyPS5",
-    "stars": 18636,
-    "growth": 4669,
-    "score": 0.9879,
+    "stars": 24173,
+    "growth": 5868,
+    "score": 0.9873,
     "categories": [
       "PlayStation Homebrew & Linux"
     ],
@@ -202,9 +217,9 @@
     "name": "storytold/artcraft",
     "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
     "url": "https://github.com/storytold/artcraft",
-    "stars": 9660,
-    "growth": 2103,
-    "score": 0.9709,
+    "stars": 12750,
+    "growth": 3752,
+    "score": 0.9766,
     "categories": [
       "Otros"
     ],
@@ -217,21 +232,6 @@
       "filmmaking",
       "imagegeneration"
     ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_anthropics_knowledge-work-plugins",
-    "name": "anthropics/knowledge-work-plugins",
-    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "stars": 27956,
-    "growth": 392,
-    "score": 0.9634,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
     "raw_license": "Apache-2.0"
   },
   {
@@ -239,9 +239,9 @@
     "name": "Robbyant/lingbot-map",
     "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
     "url": "https://github.com/Robbyant/lingbot-map",
-    "stars": 17522,
-    "growth": 109,
-    "score": 0.7468,
+    "stars": 17890,
+    "growth": 110,
+    "score": 0.7473,
     "categories": [
       "Otros"
     ],
@@ -254,9 +254,9 @@
     "name": "twostraws/SwiftUI-Agent-Skill",
     "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
     "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-    "stars": 5212,
-    "growth": 88,
-    "score": 0.7325,
+    "stars": 5649,
+    "growth": 65,
+    "score": 0.7206,
     "categories": [
       "AI & Data Science"
     ],
