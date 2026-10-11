@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **85.6k**
-> Actualizado: `2026-10-11 11:08`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 49.5k | `██████████` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and… |
-| [**airllm**](https://github.com/lyogavin/airllm) | **0.99** | 36.1k | `██████░░░░` | AirLLM 70B inference with single 4GB GPU |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
