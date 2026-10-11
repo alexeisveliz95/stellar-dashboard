@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-10 12:14`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-11 11:08`
+> 📦 **22** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,14 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**rea**](https://github.com/morluto/rea) | 59.3k | +14.9k | TypeScript |
-| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 24.2k | +5.9k | C++ |
-| 3 | [**artcraft**](https://github.com/storytold/artcraft) | 12.8k | +3.8k | Rust |
-| 4 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 48.4k | +1.7k | HTML |
-| 5 | [**skills**](https://github.com/mattpocock/skills) | 283.5k | +1.7k | Shell |
-| 6 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 28.6k | +709 | Python |
-| 7 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 104.3k | +436 | JavaScript |
-| 8 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 45.7k | +326 | Go |
-| 9 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | 17.9k | +110 | Python |
-| 10 | [**litellm**](https://github.com/BerriAI/litellm) | 60.9k | +95 | Python |
+| 1 | [**rea**](https://github.com/morluto/rea) | 85.0k | +25.8k | TypeScript |
+| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 28.2k | +5.8k | C++ |
+| 3 | [**artcraft**](https://github.com/storytold/artcraft) | 15.7k | +3.2k | Rust |
+| 4 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 49.5k | +1.2k | HTML |
+| 5 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 50.7k | +872 | JavaScript |
+| 6 | [**airllm**](https://github.com/lyogavin/airllm) | 36.1k | +541 | Jupyter Notebook |
+| 7 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | 73.8k | +496 | Assembly |
+| 8 | [**pytorch**](https://github.com/pytorch/pytorch) | 104.3k | +84 | Python |
 
 ---
 
@@ -31,16 +29,14 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 59.3k | Mobile Development |
-| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 283.5k | Otros |
-| 🥉 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 48.4k | Web Development |
-| 4 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 45.7k | AI & Data Science |
-| 5 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **1.00** | 28.6k | Otros |
-| 6 | [**litellm**](https://github.com/BerriAI/litellm) | **1.00** | 60.9k | AI & Data Science |
-| 7 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 104.3k | AI & Data Science |
-| 8 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.99** | 24.2k | PlayStation Homebrew & Linux |
-| 9 | [**artcraft**](https://github.com/storytold/artcraft) | **0.98** | 12.8k | Otros |
-| 10 | [**lingbot-map**](https://github.com/Robbyant/lingbot-map) | **0.75** | 17.9k | Otros |
+| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 85.0k | Mobile Development |
+| 🥈 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 49.5k | Web Development |
+| 🥉 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 50.7k | Otros |
+| 4 | [**pytorch**](https://github.com/pytorch/pytorch) | **1.00** | 104.3k | AI & Data Science |
+| 5 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 73.8k | Otros |
+| 6 | [**airllm**](https://github.com/lyogavin/airllm) | **0.99** | 36.1k | Web Development |
+| 7 | [**artcraft**](https://github.com/storytold/artcraft) | **0.95** | 15.7k | Otros |
+| 8 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.95** | 28.2k | PlayStation Homebrew & Linux |
 
 ---
 
@@ -87,14 +83,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.95** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

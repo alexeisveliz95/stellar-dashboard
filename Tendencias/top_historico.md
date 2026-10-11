@@ -290,3 +290,6 @@
 | 2026-10-10 | **1** | [rea](https://github.com/morluto/rea) | +14927 | 59.3k | `1.00` |
 | 2026-10-10 | **2** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +5868 | 24.2k | `0.99` |
 | 2026-10-10 | **3** | [artcraft](https://github.com/storytold/artcraft) | +3752 | 12.8k | `0.98` |
+| 2026-10-11 | **1** | [rea](https://github.com/morluto/rea) | +25793 | 85.0k | `1.00` |
+| 2026-10-11 | **2** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +5805 | 28.2k | `0.95` |
+| 2026-10-11 | **3** | [artcraft](https://github.com/storytold/artcraft) | +3222 | 15.7k | `0.95` |
