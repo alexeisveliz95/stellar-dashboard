@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-12 02:00`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-12 12:32`
+> 📦 **24** proyectos curados en **9** categorías
 
 ---
 
@@ -12,14 +12,15 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**rea**](https://github.com/morluto/rea) | 85.0k | +25.8k | TypeScript |
-| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | 28.2k | +5.8k | C++ |
-| 3 | [**artcraft**](https://github.com/storytold/artcraft) | 15.7k | +3.2k | Rust |
-| 4 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 49.5k | +1.2k | HTML |
-| 5 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 50.7k | +872 | JavaScript |
-| 6 | [**airllm**](https://github.com/lyogavin/airllm) | 36.1k | +541 | Jupyter Notebook |
-| 7 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | 73.8k | +496 | Assembly |
-| 8 | [**pytorch**](https://github.com/pytorch/pytorch) | 104.3k | +84 | Python |
+| 1 | [**rea**](https://github.com/morluto/rea) | 132.9k | +45.5k | TypeScript |
+| 2 | [**artcraft**](https://github.com/storytold/artcraft) | 20.0k | +4.1k | Rust |
+| 3 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 51.7k | +2.1k | HTML |
+| 4 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 52.7k | +1.9k | JavaScript |
+| 5 | [**airllm**](https://github.com/lyogavin/airllm) | 37.0k | +886 | Jupyter Notebook |
+| 6 | [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | 58.3k | +506 | Python |
+| 7 | [**context-mode**](https://github.com/mksglu/context-mode) | 26.8k | +485 | TypeScript |
+| 8 | [**BitNet**](https://github.com/microsoft/BitNet) | 40.7k | +195 | C++ |
+| 9 | [**open-webui**](https://github.com/open-webui/open-webui) | 154.4k | +142 | Python |
 
 ---
 
@@ -29,14 +30,15 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 85.0k | Mobile Development |
-| 🥈 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 49.5k | Web Development |
-| 🥉 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 50.7k | Otros |
-| 4 | [**pytorch**](https://github.com/pytorch/pytorch) | **1.00** | 104.3k | AI & Data Science |
-| 5 | [**Apollo-11**](https://github.com/chrislgarry/Apollo-11) | **1.00** | 73.8k | Otros |
-| 6 | [**airllm**](https://github.com/lyogavin/airllm) | **0.99** | 36.1k | Web Development |
-| 7 | [**artcraft**](https://github.com/storytold/artcraft) | **0.95** | 15.7k | Otros |
-| 8 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | **0.95** | 28.2k | PlayStation Homebrew & Linux |
+| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 132.9k | Mobile Development |
+| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 52.7k | Otros |
+| 🥉 | [**context-mode**](https://github.com/mksglu/context-mode) | **1.00** | 26.8k | AI & Data Science |
+| 4 | [**open-webui**](https://github.com/open-webui/open-webui) | **1.00** | 154.4k | Python & Backend |
+| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 51.7k | Web Development |
+| 6 | [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | **1.00** | 58.3k | Web Development |
+| 7 | [**airllm**](https://github.com/lyogavin/airllm) | **0.98** | 37.0k | Web Development |
+| 8 | [**artcraft**](https://github.com/storytold/artcraft) | **0.95** | 20.0k | Otros |
+| 9 | [**BitNet**](https://github.com/microsoft/BitNet) | **0.84** | 40.7k | Otros |
 
 ---
 
@@ -83,14 +85,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

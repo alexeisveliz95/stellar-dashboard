@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **3 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **147.1k**
+> Actualizado: `2026-10-12 12:32`
 
 ---
 
@@ -10,6 +10,8 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 51.7k | `██████████` | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and… |
+| [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | **1.00** | 58.3k | `██░░░░░░░░` | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free… |
+| [**airllm**](https://github.com/lyogavin/airllm) | **0.98** | 37.0k | `██████░░░░` | AirLLM 70B inference with single 4GB GPU |
 
 ---

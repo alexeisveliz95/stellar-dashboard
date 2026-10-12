@@ -293,3 +293,6 @@
 | 2026-10-11 | **1** | [rea](https://github.com/morluto/rea) | +25793 | 85.0k | `1.00` |
 | 2026-10-11 | **2** | [AnyPS5](https://github.com/boykopovar/AnyPS5) | +5805 | 28.2k | `0.95` |
 | 2026-10-11 | **3** | [artcraft](https://github.com/storytold/artcraft) | +3222 | 15.7k | `0.95` |
+| 2026-10-12 | **1** | [rea](https://github.com/morluto/rea) | +45495 | 132.9k | `1.00` |
+| 2026-10-12 | **2** | [artcraft](https://github.com/storytold/artcraft) | +4106 | 20.0k | `0.95` |
+| 2026-10-12 | **3** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +2100 | 51.7k | `1.00` |
