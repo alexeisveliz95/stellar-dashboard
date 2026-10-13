@@ -4,8 +4,8 @@
     "name": "morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "url": "https://github.com/morluto/rea",
-    "stars": 132909,
-    "growth": 45495,
+    "stars": 187064,
+    "growth": 54706,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -44,8 +44,8 @@
     "name": "bilawalsidhu/gods-eye-view",
     "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "stars": 52680,
-    "growth": 1903,
+    "stars": 54570,
+    "growth": 1961,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -69,12 +69,52 @@
     "raw_license": "NOASSERTION"
   },
   {
+    "id": "github_trending_debpalash_VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "stars": 61470,
+    "growth": 1691,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "tauri",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
     "id": "github_trending_mksglu_context-mode",
     "name": "mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
     "url": "https://github.com/mksglu/context-mode",
-    "stars": 26830,
-    "growth": 485,
+    "stars": 27785,
+    "growth": 978,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -109,47 +149,12 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_open-webui_open-webui",
-    "name": "open-webui/open-webui",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "url": "https://github.com/open-webui/open-webui",
-    "stars": 154449,
-    "growth": 142,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "llm",
-      "llm-ui",
-      "llm-webui",
-      "llms",
-      "mcp",
-      "ollama",
-      "ollama-webui",
-      "open-webui",
-      "openai",
-      "openapi",
-      "rag",
-      "self-hosted",
-      "ui",
-      "webui"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
     "id": "github_trending_cathrynlavery_diagram-design",
     "name": "cathrynlavery/diagram-design",
     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 51714,
-    "growth": 2100,
+    "stars": 53416,
+    "growth": 1813,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -172,38 +177,20 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Alishahryar1_free-claude-code",
-    "name": "Alishahryar1/free-claude-code",
-    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "stars": 58329,
-    "growth": 506,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
     "id": "github_trending_lyogavin_airllm",
     "name": "lyogavin/airllm",
-    "description": "AirLLM 70B inference with single 4GB GPU",
+    "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
     "url": "https://github.com/lyogavin/airllm",
-    "stars": 37020,
-    "growth": 886,
-    "score": 0.9818,
+    "stars": 37981,
+    "growth": 1004,
+    "score": 1.0,
     "categories": [
-      "Web Development"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Jupyter Notebook",
     "tags": [
-      "nlp:web-development"
+      "llm"
     ],
     "raw_topics": [
       "chinese-llm",
@@ -227,9 +214,9 @@
     "name": "storytold/artcraft",
     "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
     "url": "https://github.com/storytold/artcraft",
-    "stars": 19998,
-    "growth": 4106,
-    "score": 0.9487,
+    "stars": 24022,
+    "growth": 4078,
+    "score": 0.9794,
     "categories": [
       "Otros"
     ],
@@ -245,18 +232,44 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_microsoft_BitNet",
-    "name": "microsoft/BitNet",
-    "description": "Official inference framework for 1-bit LLMs",
-    "url": "https://github.com/microsoft/BitNet",
-    "stars": 40739,
-    "growth": 195,
-    "score": 0.8412,
+    "id": "github_trending_xtool-org_xtool",
+    "name": "xtool-org/xtool",
+    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "url": "https://github.com/xtool-org/xtool",
+    "stars": 8599,
+    "growth": 936,
+    "score": 0.8715,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Swift",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_topics": [
+      "ios",
+      "linux",
+      "swift",
+      "swift-package-manager",
+      "windows",
+      "xcode"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_vercel-labs_skills",
+    "name": "vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "url": "https://github.com/vercel-labs/skills",
+    "stars": 34150,
+    "growth": 187,
+    "score": 0.8372,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "C++",
+    "language": "TypeScript",
     "raw_license": "MIT"
   }
 ]
