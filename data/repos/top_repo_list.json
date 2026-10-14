@@ -4,8 +4,8 @@
     "name": "morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "url": "https://github.com/morluto/rea",
-    "stars": 187064,
-    "growth": 54706,
+    "stars": 223323,
+    "growth": 54679,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -26,7 +26,6 @@
       "ctf",
       "decompiler",
       "developer-tools",
-      "disassembler",
       "dsh",
       "dsh-plugin",
       "ghidra",
@@ -34,6 +33,7 @@
       "llm",
       "mcp",
       "model-context-protocol",
+      "rea",
       "reverse-engineering",
       "static-analysis"
     ],
@@ -44,7 +44,7 @@
     "name": "bilawalsidhu/gods-eye-view",
     "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "stars": 54570,
+    "stars": 56064,
     "growth": 1961,
     "score": 1.0,
     "categories": [
@@ -73,8 +73,8 @@
     "name": "debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 61470,
-    "growth": 1691,
+    "stars": 64628,
+    "growth": 1748,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -95,7 +95,6 @@
       "mlx",
       "omnivoice-studio",
       "speech-to-text",
-      "tauri",
       "text-to-speech",
       "transcription",
       "translate",
@@ -113,8 +112,8 @@
     "name": "mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
     "url": "https://github.com/mksglu/context-mode",
-    "stars": 27785,
-    "growth": 978,
+    "stars": 28626,
+    "growth": 969,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -153,8 +152,8 @@
     "name": "cathrynlavery/diagram-design",
     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 53416,
-    "growth": 1813,
+    "stars": 54876,
+    "growth": 1815,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -181,8 +180,8 @@
     "name": "lyogavin/airllm",
     "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
     "url": "https://github.com/lyogavin/airllm",
-    "stars": 37981,
-    "growth": 1004,
+    "stars": 38576,
+    "growth": 1001,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -214,9 +213,9 @@
     "name": "storytold/artcraft",
     "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
     "url": "https://github.com/storytold/artcraft",
-    "stars": 24022,
-    "growth": 4078,
-    "score": 0.9794,
+    "stars": 26809,
+    "growth": 4081,
+    "score": 0.9781,
     "categories": [
       "Otros"
     ],
@@ -236,9 +235,9 @@
     "name": "xtool-org/xtool",
     "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
     "url": "https://github.com/xtool-org/xtool",
-    "stars": 8599,
-    "growth": 936,
-    "score": 0.8715,
+    "stars": 9955,
+    "growth": 1198,
+    "score": 0.8724,
     "categories": [
       "Mobile Development"
     ],
@@ -262,9 +261,9 @@
     "name": "vercel-labs/skills",
     "description": "The open agent skills tool - npx skills",
     "url": "https://github.com/vercel-labs/skills",
-    "stars": 34150,
-    "growth": 187,
-    "score": 0.8372,
+    "stars": 34805,
+    "growth": 190,
+    "score": 0.8387,
     "categories": [
       "Otros"
     ],
