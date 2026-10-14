@@ -299,3 +299,6 @@
 | 2026-10-13 | **1** | [rea](https://github.com/morluto/rea) | +54706 | 187.1k | `1.00` |
 | 2026-10-13 | **2** | [artcraft](https://github.com/storytold/artcraft) | +4078 | 24.0k | `0.98` |
 | 2026-10-13 | **3** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1961 | 54.6k | `1.00` |
+| 2026-10-14 | **1** | [rea](https://github.com/morluto/rea) | +54679 | 223.3k | `1.00` |
+| 2026-10-14 | **2** | [artcraft](https://github.com/storytold/artcraft) | +4081 | 26.8k | `0.98` |
+| 2026-10-14 | **3** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1961 | 56.1k | `1.00` |

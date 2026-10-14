@@ -1,8 +1,8 @@
 # 📂 Mobile Development
 
 > [!info] Resumen de Categoría
-> **5 proyectos** · ⭐ Mejor score: **0.50** · Estrellas totales: **59.8k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **233.3k**
+> Actualizado: `2026-10-14 09:51`
 
 ---
 
@@ -10,10 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**termux-app**](https://github.com/termux/termux-app) | **0.50** | 55.1k | `░░░░░░░░░░` | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| [**ubuntu-on-android**](https://github.com/RandomCoderOrg/ubuntu-on-android) | **0.45** | 1.5k | `░░░░░░░░░░` | Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is… |
-| [**DroidDesk**](https://github.com/orailnoor/DroidDesk) | **0.43** | 1.3k | `░░░░░░░░░░` | DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR,… |
-| [**openclaw-android**](https://github.com/AidanPark/openclaw-android) | **0.35** | 1.5k | `░░░░░░░░░░` | Run OpenClaw on Android with a single command — no proot, no Linux |
-| [**ios-builder**](https://github.com/MobAI-App/ios-builder) | **0.25** | 455 | `░░░░░░░░░░` | Sin descripción |
+| [**rea**](https://github.com/morluto/rea) | **1.00** | 223.3k | `██████████` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [**xtool**](https://github.com/xtool-org/xtool) | **0.87** | 10.0k | `█████░░░░░` | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows,… |
 
 ---
