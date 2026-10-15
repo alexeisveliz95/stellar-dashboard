@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-14 11:33`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-15 09:30`
+> 📦 **22** proyectos curados en **9** categorías
 
 ---
 
@@ -12,15 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**rea**](https://github.com/morluto/rea) | 223.3k | +54.7k | TypeScript |
-| 2 | [**artcraft**](https://github.com/storytold/artcraft) | 26.8k | +4.1k | Rust |
-| 3 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | 56.1k | +2.0k | JavaScript |
-| 4 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 54.9k | +1.8k | HTML |
-| 5 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 64.6k | +1.7k | Python |
-| 6 | [**xtool**](https://github.com/xtool-org/xtool) | 10.0k | +1.2k | Swift |
-| 7 | [**airllm**](https://github.com/lyogavin/airllm) | 38.6k | +1.0k | Jupyter Notebook |
-| 8 | [**context-mode**](https://github.com/mksglu/context-mode) | 28.6k | +969 | TypeScript |
-| 9 | [**skills**](https://github.com/vercel-labs/skills) | 34.8k | +190 | TypeScript |
+| 1 | [**rea**](https://github.com/morluto/rea) | 255.2k | +41.0k | TypeScript |
+| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 67.6k | +3.5k | Python |
+| 3 | [**iFixAi**](https://github.com/ifixai-ai/iFixAi) | 28.0k | +2.1k | Python |
+| 4 | [**xtool**](https://github.com/xtool-org/xtool) | 11.3k | +1.5k | Swift |
+| 5 | [**pentagi**](https://github.com/vxcontrol/pentagi) | 30.1k | +1.0k | Go |
+| 6 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | 88.0k | +1.0k | Java |
+| 7 | [**context-mode**](https://github.com/mksglu/context-mode) | 29.5k | +947 | TypeScript |
+| 8 | [**rust**](https://github.com/rust-lang/rust) | 120.2k | +207 | Rust |
+| 9 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 49.8k | +163 | Python |
+| 10 | [**tiny11builder**](https://github.com/ntdevlabs/tiny11builder) | 20.4k | +139 | C# |
 
 ---
 
@@ -30,15 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 223.3k | Mobile Development |
-| 🥈 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | **1.00** | 56.1k | Otros |
-| 🥉 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 64.6k | Web Development |
-| 4 | [**context-mode**](https://github.com/mksglu/context-mode) | **1.00** | 28.6k | AI & Data Science |
-| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 54.9k | Web Development |
-| 6 | [**airllm**](https://github.com/lyogavin/airllm) | **1.00** | 38.6k | AI & Data Science |
-| 7 | [**artcraft**](https://github.com/storytold/artcraft) | **0.98** | 26.8k | Otros |
-| 8 | [**xtool**](https://github.com/xtool-org/xtool) | **0.87** | 10.0k | Mobile Development |
-| 9 | [**skills**](https://github.com/vercel-labs/skills) | **0.84** | 34.8k | Otros |
+| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 255.2k | Mobile Development |
+| 🥈 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 67.6k | Web Development |
+| 🥉 | [**context-mode**](https://github.com/mksglu/context-mode) | **1.00** | 29.5k | AI & Data Science |
+| 4 | [**iFixAi**](https://github.com/ifixai-ai/iFixAi) | **1.00** | 28.0k | AI & Data Science |
+| 5 | [**pentagi**](https://github.com/vxcontrol/pentagi) | **1.00** | 30.1k | Cybersecurity & Hacking |
+| 6 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | **1.00** | 88.0k | Cybersecurity & Hacking |
+| 7 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **0.99** | 49.8k | AI & Data Science |
+| 8 | [**rust**](https://github.com/rust-lang/rust) | **0.99** | 120.2k | Otros |
+| 9 | [**nvm**](https://github.com/nvm-sh/nvm) | **0.91** | 95.5k | Python & Backend |
+| 10 | [**xtool**](https://github.com/xtool-org/xtool) | **0.86** | 11.3k | Mobile Development |
 
 ---
 
@@ -85,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 4 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 1 | **0.99** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.91** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

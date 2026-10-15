@@ -302,3 +302,6 @@
 | 2026-10-14 | **1** | [rea](https://github.com/morluto/rea) | +54679 | 223.3k | `1.00` |
 | 2026-10-14 | **2** | [artcraft](https://github.com/storytold/artcraft) | +4081 | 26.8k | `0.98` |
 | 2026-10-14 | **3** | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | +1961 | 56.1k | `1.00` |
+| 2026-10-15 | **1** | [rea](https://github.com/morluto/rea) | +41034 | 255.2k | `1.00` |
+| 2026-10-15 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3538 | 67.6k | `1.00` |
+| 2026-10-15 | **3** | [iFixAi](https://github.com/ifixai-ai/iFixAi) | +2109 | 28.0k | `1.00` |
