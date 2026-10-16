@@ -305,3 +305,6 @@
 | 2026-10-15 | **1** | [rea](https://github.com/morluto/rea) | +41034 | 255.2k | `1.00` |
 | 2026-10-15 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3538 | 67.6k | `1.00` |
 | 2026-10-15 | **3** | [iFixAi](https://github.com/ifixai-ai/iFixAi) | +2109 | 28.0k | `1.00` |
+| 2026-10-16 | **1** | [rea](https://github.com/morluto/rea) | +32314 | 280.5k | `1.00` |
+| 2026-10-16 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3024 | 69.9k | `1.00` |
+| 2026-10-16 | **3** | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | +1369 | 89.2k | `1.00` |
