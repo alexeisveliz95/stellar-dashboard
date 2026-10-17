@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-16 11:06`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-17 08:54`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**rea**](https://github.com/morluto/rea) | 280.5k | +32.3k | TypeScript |
-| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 69.9k | +3.0k | Python |
-| 3 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | 89.2k | +1.4k | Java |
-| 4 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 51.0k | +1.1k | Python |
-| 5 | [**ECC**](https://github.com/affaan-m/ECC) | 280.8k | +1.0k | JavaScript |
-| 6 | [**LibreTV**](https://github.com/LibreSpark/LibreTV) | 18.5k | +978 | TypeScript |
-| 7 | [**context-mode**](https://github.com/mksglu/context-mode) | 30.0k | +904 | TypeScript |
-| 8 | [**xerj**](https://github.com/xerj-org/xerj) | 6.2k | +715 | Rust |
-| 9 | [**superpowers**](https://github.com/obra/superpowers) | 300.3k | +582 | Shell |
-| 10 | [**caveman**](https://github.com/JuliusBrussee/caveman) | 112.9k | +433 | Go |
+| 1 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 71.9k | +2.3k | Python |
+| 2 | [**xerj**](https://github.com/xerj-org/xerj) | 7.2k | +1.6k | Rust |
+| 3 | [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | 41.0k | +1.6k | Python |
+| 4 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | 51.8k | +1.2k | Python |
+| 5 | [**ECC**](https://github.com/affaan-m/ECC) | 281.8k | +1.1k | JavaScript |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | 300.9k | +973 | Shell |
+| 7 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 49.0k | +898 | Python |
+| 8 | [**ruflo**](https://github.com/ruvnet/ruflo) | 75.8k | +672 | TypeScript |
+| 9 | [**LinkSwift**](https://github.com/hmjz100/LinkSwift) | 24.1k | +538 | JavaScript |
+| 10 | [**context-mode**](https://github.com/mksglu/context-mode) | 30.4k | +449 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**rea**](https://github.com/morluto/rea) | **1.00** | 280.5k | Mobile Development |
-| 🥈 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 51.0k | AI & Data Science |
-| 🥉 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 112.9k | Web3 & Blockchain |
-| 4 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 69.9k | Web Development |
-| 5 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 300.3k | Python & Backend |
-| 6 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 75.4k | AI & Data Science |
-| 7 | [**context-mode**](https://github.com/mksglu/context-mode) | **1.00** | 30.0k | AI & Data Science |
-| 8 | [**ghidra**](https://github.com/NationalSecurityAgency/ghidra) | **1.00** | 89.2k | Cybersecurity & Hacking |
-| 9 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 280.8k | Cybersecurity & Hacking |
-| 10 | [**xerj**](https://github.com/xerj-org/xerj) | **1.00** | 6.2k | Cybersecurity & Hacking |
+| 🥇 | [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | **1.00** | 41.0k | Otros |
+| 🥈 | [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) | **1.00** | 51.8k | AI & Data Science |
+| 🥉 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 281.8k | Cybersecurity & Hacking |
+| 4 | [**context-mode**](https://github.com/mksglu/context-mode) | **1.00** | 30.4k | AI & Data Science |
+| 5 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 75.8k | AI & Data Science |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 300.9k | Python & Backend |
+| 7 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 71.9k | Web Development |
+| 8 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 49.0k | AI & Data Science |
+| 9 | [**xerj**](https://github.com/xerj-org/xerj) | **1.00** | 7.2k | Cybersecurity & Hacking |
+| 10 | [**LinkSwift**](https://github.com/hmjz100/LinkSwift) | **0.99** | 24.1k | Web Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **0.96** |
+| [**Otros**](Categorias/Otros.md) | 2 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

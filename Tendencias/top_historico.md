@@ -308,3 +308,6 @@
 | 2026-10-16 | **1** | [rea](https://github.com/morluto/rea) | +32314 | 280.5k | `1.00` |
 | 2026-10-16 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +3024 | 69.9k | `1.00` |
 | 2026-10-16 | **3** | [ghidra](https://github.com/NationalSecurityAgency/ghidra) | +1369 | 89.2k | `1.00` |
+| 2026-10-17 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2301 | 71.9k | `1.00` |
+| 2026-10-17 | **2** | [xerj](https://github.com/xerj-org/xerj) | +1648 | 7.2k | `1.00` |
+| 2026-10-17 | **3** | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | +1552 | 41.0k | `1.00` |
