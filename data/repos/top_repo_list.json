@@ -1,21 +1,79 @@
 [
   {
-    "id": "github_trending_anthropics_claude-plugins-official",
-    "name": "anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "stars": 40993,
-    "growth": 1552,
+    "id": "github_trending_MadsLorentzen_ai-job-search",
+    "name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "stars": 51140,
+    "growth": 1365,
     "score": 1.0,
     "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
     "language": "Python",
+    "tags": [
+      "ai"
+    ],
     "raw_topics": [
+      "ai",
+      "ai-agents",
+      "career",
       "claude-code",
+      "cover-letter",
+      "cv",
+      "interview-preparation",
+      "job-application",
+      "job-hunting",
+      "job-search",
+      "latex",
+      "resume"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 282838,
+    "growth": 1145,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
       "mcp",
-      "skills"
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_HKUDS_CLI-Anything",
+    "name": "HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "stars": 54263,
+    "growth": 574,
+    "score": 1.0,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:mobile-development"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -24,8 +82,8 @@
     "name": "K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "stars": 51802,
-    "growth": 1158,
+    "stars": 52479,
+    "growth": 878,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -57,40 +115,52 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_affaan-m_ECC",
-    "name": "affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/ECC",
-    "stars": 281803,
-    "growth": 1057,
+    "id": "github_trending_stablyai_orca",
+    "name": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "url": "https://github.com/stablyai/orca",
+    "stars": 95803,
+    "growth": 830,
     "score": 1.0,
     "categories": [
-      "Cybersecurity & Hacking"
+      "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "tags": [
-      "nlp:cybersecurity-hacking"
+      "nlp:mobile-development"
     ],
     "raw_topics": [
+      "ade",
+      "agent-ide",
       "ai-agents",
-      "anthropic",
-      "claude",
+      "automation",
+      "bot",
       "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
+      "codex",
+      "ghostty",
+      "grok-bot",
+      "hermes-agent",
+      "mobile-app",
+      "muse",
+      "openclaw",
+      "opencode",
+      "orchestration",
+      "pi",
+      "runtime",
+      "terminal",
+      "worktrees",
+      "yc-backed"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_mksglu_context-mode",
-    "name": "mksglu/context-mode",
-    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-    "url": "https://github.com/mksglu/context-mode",
-    "stars": 30360,
-    "growth": 449,
+    "id": "github_trending_anthropics_claude-code",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "url": "https://github.com/anthropics/claude-code",
+    "stars": 152169,
+    "growth": 179,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -98,39 +168,70 @@
     "source": "github_trending",
     "language": "TypeScript",
     "tags": [
-      "ai"
+      "nlp:ai-data-science"
+    ]
+  },
+  {
+    "id": "github_trending_debpalash_VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "stars": 73993,
+    "growth": 2125,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
     ],
     "raw_topics": [
-      "antigravity",
-      "claude",
-      "claude-code",
-      "claude-code-hooks",
-      "claude-code-plugins",
-      "claude-code-skill",
-      "codex",
-      "codex-cli",
-      "context-mode",
-      "copilot",
-      "cursor-plugin",
-      "kiro",
-      "mcp",
-      "mcp-server",
-      "mcp-tools",
-      "openclaw",
-      "opencode",
-      "pi-agent",
-      "skills",
-      "zed-extension"
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_anomalyco_opencode",
+    "name": "anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "url": "https://github.com/anomalyco/opencode",
+    "stars": 215799,
+    "growth": 438,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_ruvnet_ruflo",
     "name": "ruvnet/ruflo",
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "url": "https://github.com/ruvnet/ruflo",
-    "stars": 75771,
-    "growth": 672,
+    "stars": 76239,
+    "growth": 420,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -165,111 +266,12 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_obra_superpowers",
-    "name": "obra/superpowers",
-    "description": "An agentic skills framework & software development methodology that works.",
-    "url": "https://github.com/obra/superpowers",
-    "stars": 300889,
-    "growth": 973,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_debpalash_VoiceStudio",
-    "name": "debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 71886,
-    "growth": 2301,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ai",
-      "audiobook",
-      "cuda",
-      "dubbing",
-      "elevenlabs-alternative",
-      "huggingface",
-      "local-first",
-      "mlx",
-      "omnivoice-studio",
-      "speech-to-text",
-      "text-to-speech",
-      "transcription",
-      "translate",
-      "tts",
-      "voice-ai",
-      "voice-cloning",
-      "voice-generation",
-      "voicestudio",
-      "workflow"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_MadsLorentzen_ai-job-search",
-    "name": "MadsLorentzen/ai-job-search",
-    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "stars": 48969,
-    "growth": 898,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-agents",
-      "career",
-      "claude-code",
-      "cover-letter",
-      "cv",
-      "interview-preparation",
-      "job-application",
-      "job-hunting",
-      "job-search",
-      "latex",
-      "resume"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_xerj-org_xerj",
     "name": "xerj-org/xerj",
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
     "url": "https://github.com/xerj-org/xerj",
-    "stars": 7243,
-    "growth": 1648,
+    "stars": 8074,
+    "growth": 1160,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -304,85 +306,51 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_hmjz100_LinkSwift",
-    "name": "hmjz100/LinkSwift",
-    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-    "url": "https://github.com/hmjz100/LinkSwift",
-    "stars": 24121,
-    "growth": 538,
-    "score": 0.994,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "123pan",
-      "aliyun-drive",
-      "aliyunpan",
-      "aria2",
-      "baidu",
-      "baidu-netdisk",
-      "baidunetdisk",
-      "baidupan",
-      "baiduyun",
-      "guangya-netdisk",
-      "motrix",
-      "quark-netdisk",
-      "tampermonkey",
-      "tampermonkey-script",
-      "tampermonkey-userscript",
-      "tianyi-netdisk",
-      "uc-netdisk",
-      "userscript",
-      "xunlei-netdisk",
-      "yidong-netdisk"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_HKUDS_CLI-Anything",
-    "name": "HKUDS/CLI-Anything",
-    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "stars": 53686,
-    "growth": 281,
-    "score": 0.9586,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_cursor_plugins",
-    "name": "cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "url": "https://github.com/cursor/plugins",
-    "stars": 12118,
-    "growth": 278,
-    "score": 0.79,
+    "id": "github_trending_anthropics_claude-plugins-official",
+    "name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "stars": 42156,
+    "growth": 1397,
+    "score": 0.9548,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "TypeScript"
+    "language": "Python",
+    "raw_topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_akitaonrails_ai-memory",
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "stars": 10129,
+    "growth": 178,
+    "score": 0.8895,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_android_skills",
     "name": "android/skills",
     "description": "",
     "url": "https://github.com/android/skills",
-    "stars": 8188,
-    "growth": 36,
-    "score": 0.6645,
+    "stars": 8558,
+    "growth": 355,
+    "score": 0.8268,
     "categories": [
       "Mobile Development"
     ],
