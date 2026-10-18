@@ -311,3 +311,6 @@
 | 2026-10-17 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2301 | 71.9k | `1.00` |
 | 2026-10-17 | **2** | [xerj](https://github.com/xerj-org/xerj) | +1648 | 7.2k | `1.00` |
 | 2026-10-17 | **3** | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | +1552 | 41.0k | `1.00` |
+| 2026-10-18 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2125 | 74.0k | `1.00` |
+| 2026-10-18 | **2** | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | +1397 | 42.2k | `0.95` |
+| 2026-10-18 | **3** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +1365 | 51.1k | `1.00` |
