@@ -314,3 +314,6 @@
 | 2026-10-18 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2125 | 74.0k | `1.00` |
 | 2026-10-18 | **2** | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | +1397 | 42.2k | `0.95` |
 | 2026-10-18 | **3** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +1365 | 51.1k | `1.00` |
+| 2026-10-19 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +2232 | 55.0k | `1.00` |
+| 2026-10-19 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2082 | 76.5k | `1.00` |
+| 2026-10-19 | **3** | [opencode](https://github.com/anomalyco/opencode) | +1414 | 217.1k | `1.00` |
