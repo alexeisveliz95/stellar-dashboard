@@ -1,7 +1,7 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-18 10:45`
+> 🕒 Última actualización: `2026-10-19 00:42`
 > 📦 **49** proyectos curados en **9** categorías
 
 ---
@@ -50,36 +50,36 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🚀 Growth | 🏷️ Category |
 | :---: | :--- | ---: | ---: | ---: | :--- |
-| 1 | [**rea**](https://github.com/morluto/rea) | — | 85.0k | +25793 | `W42` |
-| 2 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | — | 24.2k | +5868 | `W42` |
-| 3 | [**artcraft**](https://github.com/storytold/artcraft) | — | 12.8k | +3752 | `W42` |
-| 4 | [**skills**](https://github.com/mattpocock/skills) | — | 281.9k | +1774 | `W42` |
-| 5 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | — | 48.4k | +1739 | `W42` |
-| 6 | [**e2e**](https://github.com/tester-army/e2e) | — | 5.5k | +1720 | `W42` |
-| 7 | [**openGym**](https://github.com/DuarteSantos8/openGym) | — | 6.3k | +1494 | `W42` |
-| 8 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | — | 91.4k | +1156 | `W42` |
-| 9 | [**impeccable**](https://github.com/pbakaus/impeccable) | — | 77.3k | +947 | `W42` |
-| 10 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | — | 50.7k | +872 | `W42` |
-| 11 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 272.5k | +897 | `W41` |
-| 12 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | — | 49.6k | +4758 | `W41` |
-| 13 | [**hindsight**](https://github.com/vectorize-io/hindsight) | — | 41.9k | +4561 | `W41` |
-| 14 | [**paperclip**](https://github.com/paperclipai/paperclip) | — | 93.9k | +3197 | `W41` |
-| 15 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | — | 13.6k | +2503 | `W41` |
-| 16 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | — | 90.2k | +1696 | `W41` |
-| 17 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | — | 152.2k | +1435 | `W41` |
-| 18 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | — | 60.8k | +1287 | `W41` |
-| 19 | [**univer**](https://github.com/dream-num/univer) | — | 21.6k | +1099 | `W41` |
-| 20 | [**skills**](https://github.com/mattpocock/skills) | — | 275.0k | +955 | `W41` |
-| 21 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 264.3k | +826 | `W40` |
-| 22 | [**paperclip**](https://github.com/paperclipai/paperclip) | — | 88.3k | +2608 | `W40` |
-| 23 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | — | 18.5k | +2428 | `W40` |
-| 24 | [**ax**](https://github.com/google/ax) | — | 8.2k | +2305 | `W40` |
-| 25 | [**hindsight**](https://github.com/vectorize-io/hindsight) | — | 34.7k | +2147 | `W40` |
-| 26 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | — | 57.8k | +1177 | `W40` |
-| 27 | [**univer**](https://github.com/dream-num/univer) | — | 16.6k | +1142 | `W40` |
-| 28 | [**cua**](https://github.com/trycua/cua) | — | 25.4k | +1018 | `W40` |
-| 29 | [**OpenStock**](https://github.com/Open-Dev-Society/OpenStock) | — | 18.1k | +844 | `W40` |
-| 30 | [**video-use**](https://github.com/browser-use/video-use) | — | 26.7k | +746 | `W40` |
+| 1 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 282.8k | +1145 | `W43` |
+| 2 | [**rea**](https://github.com/morluto/rea) | — | 187.1k | +54706 | `W43` |
+| 3 | [**artcraft**](https://github.com/storytold/artcraft) | — | 20.0k | +4106 | `W43` |
+| 4 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | — | 67.6k | +3538 | `W43` |
+| 5 | [**iFixAi**](https://github.com/ifixai-ai/iFixAi) | — | 28.0k | +2109 | `W43` |
+| 6 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | — | 51.7k | +2100 | `W43` |
+| 7 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | — | 56.1k | +1961 | `W43` |
+| 8 | [**xerj**](https://github.com/xerj-org/xerj) | — | 7.2k | +1648 | `W43` |
+| 9 | [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | — | 41.0k | +1552 | `W43` |
+| 10 | [**xtool**](https://github.com/xtool-org/xtool) | — | 11.3k | +1502 | `W43` |
+| 11 | [**rea**](https://github.com/morluto/rea) | — | 85.0k | +25793 | `W42` |
+| 12 | [**AnyPS5**](https://github.com/boykopovar/AnyPS5) | — | 24.2k | +5868 | `W42` |
+| 13 | [**artcraft**](https://github.com/storytold/artcraft) | — | 12.8k | +3752 | `W42` |
+| 14 | [**skills**](https://github.com/mattpocock/skills) | — | 281.9k | +1774 | `W42` |
+| 15 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | — | 48.4k | +1739 | `W42` |
+| 16 | [**e2e**](https://github.com/tester-army/e2e) | — | 5.5k | +1720 | `W42` |
+| 17 | [**openGym**](https://github.com/DuarteSantos8/openGym) | — | 6.3k | +1494 | `W42` |
+| 18 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | — | 91.4k | +1156 | `W42` |
+| 19 | [**impeccable**](https://github.com/pbakaus/impeccable) | — | 77.3k | +947 | `W42` |
+| 20 | [**gods-eye-view**](https://github.com/bilawalsidhu/gods-eye-view) | — | 50.7k | +872 | `W42` |
+| 21 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 272.5k | +897 | `W41` |
+| 22 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | — | 49.6k | +4758 | `W41` |
+| 23 | [**hindsight**](https://github.com/vectorize-io/hindsight) | — | 41.9k | +4561 | `W41` |
+| 24 | [**paperclip**](https://github.com/paperclipai/paperclip) | — | 93.9k | +3197 | `W41` |
+| 25 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | — | 13.6k | +2503 | `W41` |
+| 26 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | — | 90.2k | +1696 | `W41` |
+| 27 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | — | 152.2k | +1435 | `W41` |
+| 28 | [**ai-engineering-from-scratch**](https://github.com/rohitg00/ai-engineering-from-scratch) | — | 60.8k | +1287 | `W41` |
+| 29 | [**univer**](https://github.com/dream-num/univer) | — | 21.6k | +1099 | `W41` |
+| 30 | [**skills**](https://github.com/mattpocock/skills) | — | 275.0k | +955 | `W41` |
 
 ---
 

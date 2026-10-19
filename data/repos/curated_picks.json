@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T02:00:22.693084+00:00",
+  "updated_at": "2026-10-19T00:42:31.652449+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W43",
+      "week_start": "2026-10-19",
+      "generated_at": "2026-10-19T00:42:31.652449+00:00",
+      "picks": [
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 282800,
+          "growth": 1145,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "rea",
+          "url": "https://github.com/morluto/rea",
+          "score": 0.0,
+          "stars": 187100,
+          "growth": 54706,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "score": 0.0,
+          "stars": 20000,
+          "growth": 4106,
+          "momentum": 0.6,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "score": 0.0,
+          "stars": 67600,
+          "growth": 3538,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "score": 0.0,
+          "stars": 28000,
+          "growth": 2109,
+          "momentum": 0.5,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "score": 0.0,
+          "stars": 51700,
+          "growth": 2100,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "score": 0.0,
+          "stars": 56100,
+          "growth": 1961,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "xerj",
+          "url": "https://github.com/xerj-org/xerj",
+          "score": 0.0,
+          "stars": 7200,
+          "growth": 1648,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "score": 0.0,
+          "stars": 41000,
+          "growth": 1552,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "xtool",
+          "url": "https://github.com/xtool-org/xtool",
+          "score": 0.0,
+          "stars": 11300,
+          "growth": 1502,
+          "momentum": 0.8,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W42",
       "week_start": "2026-10-12",
@@ -318,113 +425,6 @@
           "stars": 26700,
           "growth": 746,
           "momentum": 0.2,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W39",
-      "week_start": "2026-09-21",
-      "generated_at": "2026-09-21T00:45:17.546661+00:00",
-      "picks": [
-        {
-          "name": "RuView",
-          "url": "https://github.com/ruvnet/RuView",
-          "score": 0.8,
-          "stars": 94000,
-          "growth": 383,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "score": 0.75,
-          "stars": 261399,
-          "growth": 1171,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "TradingAgents",
-          "url": "https://github.com/TauricResearch/TradingAgents",
-          "score": 0.73,
-          "stars": 106400,
-          "growth": 745,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "score": 0.73,
-          "stars": 205200,
-          "growth": 281,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "security-audit-skill",
-          "url": "https://github.com/cloudflare/security-audit-skill",
-          "score": 0.0,
-          "stars": 11500,
-          "growth": 3607,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "open-code-review",
-          "url": "https://github.com/alibaba/open-code-review",
-          "score": 0.0,
-          "stars": 35900,
-          "growth": 3286,
-          "momentum": 0.3,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "score": 0.0,
-          "stars": 30000,
-          "growth": 2776,
-          "momentum": 0.5,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "gods-eye-view",
-          "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "score": 0.0,
-          "stars": 32800,
-          "growth": 2680,
-          "momentum": 0.5,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "colibri",
-          "url": "https://github.com/JustVugg/colibri",
-          "score": 0.0,
-          "stars": 32900,
-          "growth": 2173,
-          "momentum": 0.4,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "BrowserSkill",
-          "url": "https://github.com/Tencent/BrowserSkill",
-          "score": 0.0,
-          "stars": 5500,
-          "growth": 1306,
-          "momentum": 1.0,
           "language": null,
           "description": null
         }
