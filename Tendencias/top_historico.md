@@ -317,3 +317,6 @@
 | 2026-10-19 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +2232 | 55.0k | `1.00` |
 | 2026-10-19 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2082 | 76.5k | `1.00` |
 | 2026-10-19 | **3** | [opencode](https://github.com/anomalyco/opencode) | +1414 | 217.1k | `1.00` |
+| 2026-10-20 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +3856 | 58.7k | `1.00` |
+| 2026-10-20 | **2** | [orca](https://github.com/stablyai/orca) | +1590 | 98.9k | `1.00` |
+| 2026-10-20 | **3** | [opencode](https://github.com/anomalyco/opencode) | +1311 | 218.3k | `1.00` |
