@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-20 11:15`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-21 09:48`
+> 📦 **25** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 58.7k | +3.9k | Python |
-| 2 | [**orca**](https://github.com/stablyai/orca) | 98.9k | +1.6k | TypeScript |
-| 3 | [**opencode**](https://github.com/anomalyco/opencode) | 218.3k | +1.3k | TypeScript |
-| 4 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | 140.2k | +1.0k | Python |
-| 5 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | 11.7k | +666 | Rust |
-| 6 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | 55.5k | +606 | Python |
-| 7 | [**ruflo**](https://github.com/ruvnet/ruflo) | 77.5k | +564 | TypeScript |
-| 8 | [**jasna**](https://github.com/Kruk2/jasna) | 3.2k | +498 | Python |
-| 9 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 42.0k | +363 | Python |
-| 10 | [**headroom**](https://github.com/headroomlabs-ai/headroom) | 76.5k | +310 | Python |
+| 1 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | 61.9k | +3.9k | Python |
+| 2 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 34.9k | +1.7k | JavaScript |
+| 3 | [**orca**](https://github.com/stablyai/orca) | 100.4k | +1.6k | TypeScript |
+| 4 | [**opencode**](https://github.com/anomalyco/opencode) | 219.4k | +1.2k | TypeScript |
+| 5 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 170.5k | +1.2k | JavaScript |
+| 6 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | 141.1k | +1.2k | Python |
+| 7 | [**graphify**](https://github.com/Graphify-Labs/graphify) | 130.8k | +802 | Python |
+| 8 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 42.5k | +733 | Python |
+| 9 | [**ruflo**](https://github.com/ruvnet/ruflo) | 78.0k | +684 | TypeScript |
+| 10 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | 162.7k | +562 | Shell |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 58.7k | AI & Data Science |
-| 🥈 | [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 218.3k | Otros |
-| 🥉 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | **1.00** | 11.7k | AI & Data Science |
-| 4 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | **1.00** | 140.2k | AI & Data Science |
-| 5 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 77.5k | AI & Data Science |
-| 6 | [**orca**](https://github.com/stablyai/orca) | **1.00** | 98.9k | Mobile Development |
-| 7 | [**headroom**](https://github.com/headroomlabs-ai/headroom) | **1.00** | 76.5k | AI & Data Science |
-| 8 | [**claude-code**](https://github.com/anthropics/claude-code) | **1.00** | 152.9k | AI & Data Science |
-| 9 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.99** | 42.0k | AI & Data Science |
-| 10 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **0.99** | 55.5k | Mobile Development |
+| 🥇 | [**ai-job-search**](https://github.com/MadsLorentzen/ai-job-search) | **1.00** | 61.9k | AI & Data Science |
+| 🥈 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 34.9k | Cybersecurity & Hacking |
+| 🥉 | [**orca**](https://github.com/stablyai/orca) | **1.00** | 100.4k | Mobile Development |
+| 4 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 170.5k | AI & Data Science |
+| 5 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | **1.00** | 141.1k | AI & Data Science |
+| 6 | [**ruflo**](https://github.com/ruvnet/ruflo) | **1.00** | 78.0k | AI & Data Science |
+| 7 | [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 130.8k | Python & Backend |
+| 8 | [**opencode**](https://github.com/anomalyco/opencode) | **1.00** | 219.4k | Otros |
+| 9 | [**agency-agents**](https://github.com/msitarzewski/agency-agents) | **1.00** | 162.7k | AI & Data Science |
+| 10 | [**headroom**](https://github.com/headroomlabs-ai/headroom) | **1.00** | 76.9k | AI & Data Science |
 
 ---
 
@@ -87,13 +87,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 

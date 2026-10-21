@@ -320,3 +320,6 @@
 | 2026-10-20 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +3856 | 58.7k | `1.00` |
 | 2026-10-20 | **2** | [orca](https://github.com/stablyai/orca) | +1590 | 98.9k | `1.00` |
 | 2026-10-20 | **3** | [opencode](https://github.com/anomalyco/opencode) | +1311 | 218.3k | `1.00` |
+| 2026-10-21 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +3861 | 61.9k | `1.00` |
+| 2026-10-21 | **2** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +1712 | 34.9k | `1.00` |
+| 2026-10-21 | **3** | [orca](https://github.com/stablyai/orca) | +1565 | 100.4k | `1.00` |
