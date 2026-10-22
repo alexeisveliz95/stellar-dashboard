@@ -323,3 +323,6 @@
 | 2026-10-21 | **1** | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +3861 | 61.9k | `1.00` |
 | 2026-10-21 | **2** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +1712 | 34.9k | `1.00` |
 | 2026-10-21 | **3** | [orca](https://github.com/stablyai/orca) | +1565 | 100.4k | `1.00` |
+| 2026-10-22 | **1** | [ponytail](https://github.com/DietrichGebert/ponytail) | +2079 | 172.4k | `1.00` |
+| 2026-10-22 | **2** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2012 | 37.8k | `1.00` |
+| 2026-10-22 | **3** | [orca](https://github.com/stablyai/orca) | +1541 | 102.0k | `1.00` |
