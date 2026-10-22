@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **132.2k**
-> Actualizado: `2026-10-22 09:43`
+> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 132.2k | `██████████` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge… |
+| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
 
 ---
