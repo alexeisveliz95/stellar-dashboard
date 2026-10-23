@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-22 11:31`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-23 09:43`
+> 📦 **20** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,15 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 172.4k | +2.1k | JavaScript |
-| 2 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 37.8k | +2.0k | JavaScript |
-| 3 | [**orca**](https://github.com/stablyai/orca) | 102.0k | +1.5k | TypeScript |
-| 4 | [**graphify**](https://github.com/Graphify-Labs/graphify) | 132.2k | +1.4k | Python |
-| 5 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | 141.8k | +939 | Python |
-| 6 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 43.0k | +575 | Python |
-| 7 | [**supabase**](https://github.com/supabase/supabase) | 113.2k | +504 | TypeScript |
-| 8 | [**headroom**](https://github.com/headroomlabs-ai/headroom) | 77.5k | +474 | Python |
-| 9 | [**vllm**](https://github.com/vllm-project/vllm) | 95.1k | +441 | Python |
-| 10 | [**freehire**](https://github.com/strelov1/freehire) | 2.7k | +360 | Go |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 40.5k | +3.0k | JavaScript |
+| 2 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 174.2k | +1.9k | JavaScript |
+| 3 | [**graphify**](https://github.com/Graphify-Labs/graphify) | 133.5k | +1.4k | Python |
+| 4 | [**supabase**](https://github.com/supabase/supabase) | 113.7k | +693 | TypeScript |
+| 5 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 31.9k | +303 | Python |
+| 6 | [**php-src**](https://github.com/php/php-src) | 41.4k | +287 | C |
+| 7 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | 43.7k | +177 | Python |
+| 8 | [**PCL**](https://github.com/Meloong-Git/PCL) | 8.9k | +119 | Visual Basic .NET |
+| 9 | [**fastapi**](https://github.com/fastapi/fastapi) | 104.0k | +101 | Python |
 
 ---
 
@@ -31,16 +30,15 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 37.8k | Cybersecurity & Hacking |
-| 🥈 | [**vllm**](https://github.com/vllm-project/vllm) | **1.00** | 95.1k | Otros |
-| 🥉 | [**orca**](https://github.com/stablyai/orca) | **1.00** | 102.0k | Mobile Development |
-| 4 | [**headroom**](https://github.com/headroomlabs-ai/headroom) | **1.00** | 77.5k | AI & Data Science |
-| 5 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 172.4k | AI & Data Science |
-| 6 | [**ComfyUI**](https://github.com/Comfy-Org/ComfyUI) | **1.00** | 141.8k | AI & Data Science |
-| 7 | [**supabase**](https://github.com/supabase/supabase) | **1.00** | 113.2k | Mobile Development |
-| 8 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 43.0k | AI & Data Science |
-| 9 | [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 132.2k | Python & Backend |
-| 10 | [**ai-memory**](https://github.com/akitaonrails/ai-memory) | **0.92** | 12.6k | AI & Data Science |
+| 🥇 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 174.2k | AI & Data Science |
+| 🥈 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 40.5k | Cybersecurity & Hacking |
+| 🥉 | [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 133.5k | Python & Backend |
+| 4 | [**supabase**](https://github.com/supabase/supabase) | **1.00** | 113.7k | Mobile Development |
+| 5 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | **0.91** | 43.7k | Otros |
+| 6 | [**fastapi**](https://github.com/fastapi/fastapi) | **0.88** | 104.0k | Python & Backend |
+| 7 | [**php-src**](https://github.com/php/php-src) | **0.87** | 41.4k | Otros |
+| 8 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **0.85** | 31.9k | Otros |
+| 9 | [**PCL**](https://github.com/Meloong-Git/PCL) | **0.72** | 8.9k | Otros |
 
 ---
 
@@ -87,13 +85,13 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **0.91** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
