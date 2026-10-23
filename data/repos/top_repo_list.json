@@ -1,146 +1,11 @@
 [
   {
-    "id": "github_trending_cloudflare_security-audit-skill",
-    "name": "cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "stars": 37777,
-    "growth": 2012,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_vllm-project_vllm",
-    "name": "vllm-project/vllm",
-    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-    "url": "https://github.com/vllm-project/vllm",
-    "stars": 95081,
-    "growth": 441,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "amd",
-      "blackwell",
-      "cuda",
-      "deepseek",
-      "deepseek-v3",
-      "gpt",
-      "gpt-oss",
-      "inference",
-      "kimi",
-      "llama",
-      "llm",
-      "llm-serving",
-      "model-serving",
-      "moe",
-      "openai",
-      "pytorch",
-      "qwen",
-      "qwen3",
-      "tpu",
-      "transformer"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_stablyai_orca",
-    "name": "stablyai/orca",
-    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "url": "https://github.com/stablyai/orca",
-    "stars": 101984,
-    "growth": 1541,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "ade",
-      "agent-ide",
-      "ai-agents",
-      "automation",
-      "bot",
-      "claude-code",
-      "codex",
-      "ghostty",
-      "grok-bot",
-      "hermes-agent",
-      "mobile-app",
-      "muse",
-      "openclaw",
-      "opencode",
-      "orchestration",
-      "pi",
-      "runtime",
-      "terminal",
-      "worktrees",
-      "yc-backed"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_headroomlabs-ai_headroom",
-    "name": "headroomlabs-ai/headroom",
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-    "url": "https://github.com/headroomlabs-ai/headroom",
-    "stars": 77471,
-    "growth": 474,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent",
-      "ai",
-      "anthropic",
-      "claude-code",
-      "compression",
-      "context-engineering",
-      "context-window",
-      "cursor",
-      "fastapi",
-      "langchain",
-      "llm",
-      "mcp",
-      "openai",
-      "prompt-engineering",
-      "proxy",
-      "python",
-      "rag",
-      "token-optimization",
-      "tokens",
-      "typescript"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_DietrichGebert_ponytail",
     "name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 172404,
-    "growth": 2079,
+    "stars": 174223,
+    "growth": 1948,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -165,85 +30,20 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Comfy-Org_ComfyUI",
-    "name": "Comfy-Org/ComfyUI",
-    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "stars": 141818,
-    "growth": 939,
+    "id": "github_trending_cloudflare_security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "stars": 40477,
+    "growth": 2979,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "JavaScript",
     "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "ai",
-      "comfy",
-      "comfyui",
-      "python",
-      "pytorch",
-      "stable-diffusion"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_supabase_supabase",
-    "name": "supabase/supabase",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "url": "https://github.com/supabase/supabase",
-    "stars": 113230,
-    "growth": 504,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "ai",
-      "alternative",
-      "auth",
-      "database",
-      "deno",
-      "embeddings",
-      "example",
-      "firebase",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgis",
-      "postgres",
-      "postgresql",
-      "postgrest",
-      "realtime",
-      "supabase",
-      "vectors",
-      "websockets"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_shiyu-coder_Kronos",
-    "name": "shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "stars": 43040,
-    "growth": 575,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
+      "nlp:cybersecurity-hacking"
     ],
     "raw_license": "MIT"
   },
@@ -252,8 +52,8 @@
     "name": "Graphify-Labs/graphify",
     "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
     "url": "https://github.com/Graphify-Labs/graphify",
-    "stars": 132152,
-    "growth": 1433,
+    "stars": 133468,
+    "growth": 1408,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -288,95 +88,152 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_akitaonrails_ai-memory",
-    "name": "akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "stars": 12587,
-    "growth": 286,
-    "score": 0.9247,
+    "id": "github_trending_supabase_supabase",
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "url": "https://github.com/supabase/supabase",
+    "stars": 113658,
+    "growth": 693,
+    "score": 1.0,
     "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_twentyhq_twenty",
-    "name": "twentyhq/twenty",
-    "description": "The open alternative to Salesforce, designed for AI.",
-    "url": "https://github.com/twentyhq/twenty",
-    "stars": 59459,
-    "growth": 112,
-    "score": 0.8911,
-    "categories": [
-      "AI & Data Science"
+      "Mobile Development"
     ],
     "source": "github_trending",
     "language": "TypeScript",
     "tags": [
-      "ai"
+      "nlp:mobile-development"
     ],
     "raw_topics": [
-      "crm",
-      "crm-system",
-      "customer",
-      "good-first-issue",
-      "graphql",
-      "hacktoberfest",
-      "javascript",
-      "marketing",
-      "monorepo",
-      "nestjs",
-      "open-source",
+      "ai",
+      "alternative",
+      "auth",
+      "database",
+      "deno",
+      "embeddings",
+      "example",
+      "firebase",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "postgres",
       "postgresql",
-      "react",
-      "reactjs",
-      "sales",
-      "typescript",
-      "web"
+      "postgrest",
+      "realtime",
+      "supabase",
+      "vectors",
+      "websockets"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_strelov1_freehire",
-    "name": "strelov1/freehire",
-    "description": "freehire — the open-source search engine for job seekers",
-    "url": "https://github.com/strelov1/freehire",
-    "stars": 2657,
-    "growth": 360,
-    "score": 0.8252,
+    "id": "github_trending_luongnv89_claude-howto",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "stars": 43673,
+    "growth": 177,
+    "score": 0.9055,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "Python",
     "raw_topics": [
-      "ats",
-      "career",
-      "careers",
-      "golang",
-      "hiring",
-      "job-aggregator",
-      "job-board",
-      "job-portal",
-      "job-scraper",
-      "job-search",
-      "jobs",
-      "langchain",
-      "llm",
-      "meilisearch",
-      "postgresql",
-      "recruitment",
-      "remote-jobs",
-      "self-hosted",
-      "svelte",
-      "sveltekit"
+      "claude-code",
+      "guide",
+      "tutorial"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_fastapi_fastapi",
+    "name": "fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "url": "https://github.com/fastapi/fastapi",
+    "stars": 104010,
+    "growth": 101,
+    "score": 0.8806,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "api",
+      "async",
+      "asyncio",
+      "fastapi",
+      "framework",
+      "json",
+      "json-schema",
+      "openapi",
+      "openapi3",
+      "pydantic",
+      "python",
+      "python-types",
+      "python3",
+      "redoc",
+      "rest",
+      "starlette",
+      "swagger",
+      "swagger-ui",
+      "uvicorn",
+      "web"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_php_php-src",
+    "name": "php/php-src",
+    "description": "The PHP Interpreter",
+    "url": "https://github.com/php/php-src",
+    "stars": 41400,
+    "growth": 287,
+    "score": 0.8674,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_anthropics_knowledge-work-plugins",
+    "name": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "stars": 31874,
+    "growth": 303,
+    "score": 0.8489,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_Meloong-Git_PCL",
+    "name": "Meloong-Git/PCL",
+    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "url": "https://github.com/Meloong-Git/PCL",
+    "stars": 8854,
+    "growth": 119,
+    "score": 0.7238,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Visual Basic .NET",
+    "raw_topics": [
+      "launcher",
+      "minecraft",
+      "minecraft-launcher"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]
