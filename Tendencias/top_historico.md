@@ -329,3 +329,6 @@
 | 2026-10-23 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2979 | 40.5k | `1.00` |
 | 2026-10-23 | **2** | [ponytail](https://github.com/DietrichGebert/ponytail) | +1948 | 174.2k | `1.00` |
 | 2026-10-23 | **3** | [graphify](https://github.com/Graphify-Labs/graphify) | +1408 | 133.5k | `1.00` |
+| 2026-10-24 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2716 | 42.8k | `1.00` |
+| 2026-10-24 | **2** | [OpenShell](https://github.com/NVIDIA/OpenShell) | +1119 | 19.0k | `1.00` |
+| 2026-10-24 | **3** | [php-src](https://github.com/php/php-src) | +716 | 41.6k | `1.00` |

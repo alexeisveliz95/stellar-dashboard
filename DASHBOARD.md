@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-23 11:21`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-24 09:16`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,15 +12,14 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 40.5k | +3.0k | JavaScript |
-| 2 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | 174.2k | +1.9k | JavaScript |
-| 3 | [**graphify**](https://github.com/Graphify-Labs/graphify) | 133.5k | +1.4k | Python |
-| 4 | [**supabase**](https://github.com/supabase/supabase) | 113.7k | +693 | TypeScript |
-| 5 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 31.9k | +303 | Python |
-| 6 | [**php-src**](https://github.com/php/php-src) | 41.4k | +287 | C |
-| 7 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | 43.7k | +177 | Python |
-| 8 | [**PCL**](https://github.com/Meloong-Git/PCL) | 8.9k | +119 | Visual Basic .NET |
-| 9 | [**fastapi**](https://github.com/fastapi/fastapi) | 104.0k | +101 | Python |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 42.8k | +2.7k | JavaScript |
+| 2 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 19.0k | +1.1k | Rust |
+| 3 | [**php-src**](https://github.com/php/php-src) | 41.6k | +716 | C |
+| 4 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 32.4k | +635 | Python |
+| 5 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | 7.1k | +546 | TypeScript |
+| 6 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | 8.7k | +226 | Python |
+| 7 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | 40.4k | +150 | Python |
+| 8 | [**node**](https://github.com/nodejs/node) | 123.0k | +66 | JavaScript |
 
 ---
 
@@ -30,15 +29,14 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ponytail**](https://github.com/DietrichGebert/ponytail) | **1.00** | 174.2k | AI & Data Science |
-| 🥈 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 40.5k | Cybersecurity & Hacking |
-| 🥉 | [**graphify**](https://github.com/Graphify-Labs/graphify) | **1.00** | 133.5k | Python & Backend |
-| 4 | [**supabase**](https://github.com/supabase/supabase) | **1.00** | 113.7k | Mobile Development |
-| 5 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | **0.91** | 43.7k | Otros |
-| 6 | [**fastapi**](https://github.com/fastapi/fastapi) | **0.88** | 104.0k | Python & Backend |
-| 7 | [**php-src**](https://github.com/php/php-src) | **0.87** | 41.4k | Otros |
-| 8 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **0.85** | 31.9k | Otros |
-| 9 | [**PCL**](https://github.com/Meloong-Git/PCL) | **0.72** | 8.9k | Otros |
+| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 42.8k | Cybersecurity & Hacking |
+| 🥈 | [**php-src**](https://github.com/php/php-src) | **1.00** | 41.6k | Otros |
+| 🥉 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **1.00** | 32.4k | Otros |
+| 4 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 19.0k | AI & Data Science |
+| 5 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | **0.97** | 8.7k | Cybersecurity & Hacking |
+| 6 | [**node**](https://github.com/nodejs/node) | **0.94** | 123.0k | Python & Backend |
+| 7 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | **0.90** | 7.1k | Otros |
+| 8 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | **0.89** | 40.4k | Web Development |
 
 ---
 
@@ -85,14 +83,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.94** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.89** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
