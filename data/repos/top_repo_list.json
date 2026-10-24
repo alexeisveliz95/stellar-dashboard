@@ -1,41 +1,11 @@
 [
   {
-    "id": "github_trending_DietrichGebert_ponytail",
-    "name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 174223,
-    "growth": 1948,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_cloudflare_security-audit-skill",
     "name": "cloudflare/security-audit-skill",
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "url": "https://github.com/cloudflare/security-audit-skill",
-    "stars": 40477,
-    "growth": 2979,
+    "stars": 42758,
+    "growth": 2716,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -48,152 +18,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_Graphify-Labs_graphify",
-    "name": "Graphify-Labs/graphify",
-    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-    "url": "https://github.com/Graphify-Labs/graphify",
-    "stars": 133468,
-    "growth": 1408,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "sql"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "antigravity",
-      "ast",
-      "claude-code",
-      "code-analysis",
-      "code-search",
-      "codex",
-      "cursor",
-      "developer-tools",
-      "gemini",
-      "graphify",
-      "graphrag",
-      "knowledge-graph",
-      "leiden",
-      "llm",
-      "mcp",
-      "openclaw",
-      "rag",
-      "skills",
-      "tree-sitter"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_supabase_supabase",
-    "name": "supabase/supabase",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "url": "https://github.com/supabase/supabase",
-    "stars": 113658,
-    "growth": 693,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "ai",
-      "alternative",
-      "auth",
-      "database",
-      "deno",
-      "embeddings",
-      "example",
-      "firebase",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgis",
-      "postgres",
-      "postgresql",
-      "postgrest",
-      "realtime",
-      "supabase",
-      "vectors",
-      "websockets"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_luongnv89_claude-howto",
-    "name": "luongnv89/claude-howto",
-    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "url": "https://github.com/luongnv89/claude-howto",
-    "stars": 43673,
-    "growth": 177,
-    "score": 0.9055,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "claude-code",
-      "guide",
-      "tutorial"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_fastapi_fastapi",
-    "name": "fastapi/fastapi",
-    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-    "url": "https://github.com/fastapi/fastapi",
-    "stars": 104010,
-    "growth": 101,
-    "score": 0.8806,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "api",
-      "async",
-      "asyncio",
-      "fastapi",
-      "framework",
-      "json",
-      "json-schema",
-      "openapi",
-      "openapi3",
-      "pydantic",
-      "python",
-      "python-types",
-      "python3",
-      "redoc",
-      "rest",
-      "starlette",
-      "swagger",
-      "swagger-ui",
-      "uvicorn",
-      "web"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_php_php-src",
     "name": "php/php-src",
     "description": "The PHP Interpreter",
     "url": "https://github.com/php/php-src",
-    "stars": 41400,
-    "growth": 287,
-    "score": 0.8674,
+    "stars": 41618,
+    "growth": 716,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -206,9 +37,9 @@
     "name": "anthropics/knowledge-work-plugins",
     "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "stars": 31874,
-    "growth": 303,
-    "score": 0.8489,
+    "stars": 32436,
+    "growth": 635,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -217,23 +48,137 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_Meloong-Git_PCL",
-    "name": "Meloong-Git/PCL",
-    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-    "url": "https://github.com/Meloong-Git/PCL",
-    "stars": 8854,
-    "growth": 119,
-    "score": 0.7238,
+    "id": "github_trending_NVIDIA_OpenShell",
+    "name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "stars": 19023,
+    "growth": 1119,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_SnailSploit_Claude-Red",
+    "name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "url": "https://github.com/SnailSploit/Claude-Red",
+    "stars": 8707,
+    "growth": 226,
+    "score": 0.9699,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "claude-ai",
+      "claude-pt",
+      "claude-skills",
+      "redteam",
+      "redteam-tools",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_nodejs_node",
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "url": "https://github.com/nodejs/node",
+    "stars": 123008,
+    "growth": 66,
+    "score": 0.943,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "javascript",
+      "js",
+      "linux",
+      "macos",
+      "mit",
+      "node",
+      "nodejs",
+      "runtime",
+      "windows"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_Renhuai123_ziwei-doushu",
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "stars": 7118,
+    "growth": 546,
+    "score": 0.9033,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Visual Basic .NET",
+    "language": "TypeScript",
     "raw_topics": [
-      "launcher",
-      "minecraft",
-      "minecraft-launcher"
+      "bazi",
+      "chinese-astrology",
+      "divination",
+      "fortune-telling",
+      "nextjs",
+      "open-source",
+      "purple-star-astrology",
+      "typescript",
+      "zi-wei-dou-shu",
+      "ziwei-doushu"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_OpenBMB_VoxCPM",
+    "name": "OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "stars": 40429,
+    "growth": 150,
+    "score": 0.8928,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "audio",
+      "deeplearning",
+      "minicpm",
+      "multilingual",
+      "python",
+      "pytorch",
+      "speech",
+      "speech-synthesis",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "voice-cloning",
+      "voice-design",
+      "voxcpm"
+    ],
+    "raw_license": "Apache-2.0"
   }
 ]
