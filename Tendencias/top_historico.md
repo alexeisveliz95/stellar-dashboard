@@ -332,3 +332,6 @@
 | 2026-10-24 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2716 | 42.8k | `1.00` |
 | 2026-10-24 | **2** | [OpenShell](https://github.com/NVIDIA/OpenShell) | +1119 | 19.0k | `1.00` |
 | 2026-10-24 | **3** | [php-src](https://github.com/php/php-src) | +716 | 41.6k | `1.00` |
+| 2026-10-25 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2264 | 45.5k | `1.00` |
+| 2026-10-25 | **2** | [OpenShell](https://github.com/NVIDIA/OpenShell) | +896 | 19.7k | `1.00` |
+| 2026-10-25 | **3** | [impeccable](https://github.com/pbakaus/impeccable) | +619 | 86.8k | `1.00` |

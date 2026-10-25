@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-24 10:40`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-25 09:28`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,14 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 42.8k | +2.7k | JavaScript |
-| 2 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 19.0k | +1.1k | Rust |
-| 3 | [**php-src**](https://github.com/php/php-src) | 41.6k | +716 | C |
-| 4 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | 32.4k | +635 | Python |
-| 5 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | 7.1k | +546 | TypeScript |
-| 6 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | 8.7k | +226 | Python |
-| 7 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | 40.4k | +150 | Python |
-| 8 | [**node**](https://github.com/nodejs/node) | 123.0k | +66 | JavaScript |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 45.5k | +2.3k | JavaScript |
+| 2 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 19.7k | +896 | Rust |
+| 3 | [**impeccable**](https://github.com/pbakaus/impeccable) | 86.8k | +619 | Rust |
+| 4 | [**cindy**](https://github.com/makecindy/cindy) | 4.3k | +477 | TypeScript |
+| 5 | [**hallmark**](https://github.com/Nutlope/hallmark) | 32.6k | +455 | CSS |
+| 6 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | 44.8k | +392 | Python |
+| 7 | [**microduck**](https://github.com/pollen-robotics/microduck) | 11.2k | +319 | Rust |
+| 8 | [**ebook-treasure-chest**](https://github.com/jbiaojerry/ebook-treasure-chest) | 23.0k | +227 | Python |
+| 9 | [**gemini-cli**](https://github.com/google-gemini/gemini-cli) | 108.3k | +44 | TypeScript |
+| 10 | [**agent-toolkit-for-aws**](https://github.com/aws/agent-toolkit-for-aws) | 3.2k | +13 | Python |
 
 ---
 
@@ -29,14 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 42.8k | Cybersecurity & Hacking |
-| 🥈 | [**php-src**](https://github.com/php/php-src) | **1.00** | 41.6k | Otros |
-| 🥉 | [**knowledge-work-plugins**](https://github.com/anthropics/knowledge-work-plugins) | **1.00** | 32.4k | Otros |
-| 4 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 19.0k | AI & Data Science |
-| 5 | [**Claude-Red**](https://github.com/SnailSploit/Claude-Red) | **0.97** | 8.7k | Cybersecurity & Hacking |
-| 6 | [**node**](https://github.com/nodejs/node) | **0.94** | 123.0k | Python & Backend |
-| 7 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | **0.90** | 7.1k | Otros |
-| 8 | [**VoxCPM**](https://github.com/OpenBMB/VoxCPM) | **0.89** | 40.4k | Web Development |
+| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 45.5k | Cybersecurity & Hacking |
+| 🥈 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 19.7k | AI & Data Science |
+| 🥉 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 32.6k | AI & Data Science |
+| 4 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | **1.00** | 44.8k | Otros |
+| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 86.8k | AI & Data Science |
+| 6 | [**gemini-cli**](https://github.com/google-gemini/gemini-cli) | **1.00** | 108.3k | AI & Data Science |
+| 7 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 4.3k | AI & Data Science |
+| 8 | [**ebook-treasure-chest**](https://github.com/jbiaojerry/ebook-treasure-chest) | **0.86** | 23.0k | Otros |
+| 9 | [**microduck**](https://github.com/pollen-robotics/microduck) | **0.84** | 11.2k | Otros |
+| 10 | [**agent-toolkit-for-aws**](https://github.com/aws/agent-toolkit-for-aws) | **0.75** | 3.2k | AI & Data Science |
 
 ---
 
@@ -83,11 +87,11 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 3 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
 | [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
