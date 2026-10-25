@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **3 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **79.0k**
-> Actualizado: `2026-10-25 09:28`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,8 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**claude-howto**](https://github.com/luongnv89/claude-howto) | **1.00** | 44.8k | `███░░░░░░░` | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with… |
-| [**ebook-treasure-chest**](https://github.com/jbiaojerry/ebook-treasure-chest) | **0.86** | 23.0k | `███░░░░░░░` | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。… |
-| [**microduck**](https://github.com/pollen-robotics/microduck) | **0.84** | 11.2k | `██████████` | A Tiny biped duck robot 🦆 |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
