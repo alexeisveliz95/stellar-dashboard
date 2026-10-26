@@ -335,3 +335,6 @@
 | 2026-10-25 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2264 | 45.5k | `1.00` |
 | 2026-10-25 | **2** | [OpenShell](https://github.com/NVIDIA/OpenShell) | +896 | 19.7k | `1.00` |
 | 2026-10-25 | **3** | [impeccable](https://github.com/pbakaus/impeccable) | +619 | 86.8k | `1.00` |
+| 2026-10-26 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2878 | 47.7k | `1.00` |
+| 2026-10-26 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1592 | 87.8k | `1.00` |
+| 2026-10-26 | **3** | [hallmark](https://github.com/Nutlope/hallmark) | +1317 | 34.9k | `1.00` |

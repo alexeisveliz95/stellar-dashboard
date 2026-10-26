@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-26 01:00`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-26 10:38`
+> 📦 **25** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 45.5k | +2.3k | JavaScript |
-| 2 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | 19.7k | +896 | Rust |
-| 3 | [**impeccable**](https://github.com/pbakaus/impeccable) | 86.8k | +619 | Rust |
-| 4 | [**cindy**](https://github.com/makecindy/cindy) | 4.3k | +477 | TypeScript |
-| 5 | [**hallmark**](https://github.com/Nutlope/hallmark) | 32.6k | +455 | CSS |
-| 6 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | 44.8k | +392 | Python |
-| 7 | [**microduck**](https://github.com/pollen-robotics/microduck) | 11.2k | +319 | Rust |
-| 8 | [**ebook-treasure-chest**](https://github.com/jbiaojerry/ebook-treasure-chest) | 23.0k | +227 | Python |
-| 9 | [**gemini-cli**](https://github.com/google-gemini/gemini-cli) | 108.3k | +44 | TypeScript |
-| 10 | [**agent-toolkit-for-aws**](https://github.com/aws/agent-toolkit-for-aws) | 3.2k | +13 | Python |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 47.7k | +2.9k | JavaScript |
+| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 87.8k | +1.6k | Python |
+| 3 | [**hallmark**](https://github.com/Nutlope/hallmark) | 34.9k | +1.3k | CSS |
+| 4 | [**impeccable**](https://github.com/pbakaus/impeccable) | 88.4k | +1.1k | Rust |
+| 5 | [**cindy**](https://github.com/makecindy/cindy) | 5.6k | +675 | TypeScript |
+| 6 | [**microduck**](https://github.com/pollen-robotics/microduck) | 12.1k | +647 | Rust |
+| 7 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 115.2k | +381 | Python |
+| 8 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | 8.1k | +199 | TypeScript |
+| 9 | [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) | 21.7k | +197 | Python |
+| 10 | [**coolify**](https://github.com/coollabsio/coolify) | 64.8k | +152 | PHP |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 45.5k | Cybersecurity & Hacking |
-| 🥈 | [**OpenShell**](https://github.com/NVIDIA/OpenShell) | **1.00** | 19.7k | AI & Data Science |
-| 🥉 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 32.6k | AI & Data Science |
-| 4 | [**claude-howto**](https://github.com/luongnv89/claude-howto) | **1.00** | 44.8k | Otros |
-| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 86.8k | AI & Data Science |
-| 6 | [**gemini-cli**](https://github.com/google-gemini/gemini-cli) | **1.00** | 108.3k | AI & Data Science |
-| 7 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 4.3k | AI & Data Science |
-| 8 | [**ebook-treasure-chest**](https://github.com/jbiaojerry/ebook-treasure-chest) | **0.86** | 23.0k | Otros |
-| 9 | [**microduck**](https://github.com/pollen-robotics/microduck) | **0.84** | 11.2k | Otros |
-| 10 | [**agent-toolkit-for-aws**](https://github.com/aws/agent-toolkit-for-aws) | **0.75** | 3.2k | AI & Data Science |
+| 🥇 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 5.6k | AI & Data Science |
+| 🥈 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 34.9k | AI & Data Science |
+| 🥉 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 87.8k | Web Development |
+| 4 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 88.4k | AI & Data Science |
+| 5 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 115.2k | AI & Data Science |
+| 6 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 47.7k | Cybersecurity & Hacking |
+| 7 | [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) | **1.00** | 21.7k | AI & Data Science |
+| 8 | [**microduck**](https://github.com/pollen-robotics/microduck) | **0.95** | 12.1k | Otros |
+| 9 | [**coolify**](https://github.com/coollabsio/coolify) | **0.92** | 64.8k | PlayStation Homebrew & Linux |
+| 10 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | **0.79** | 8.1k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Otros**](Categorias/Otros.md) | 3 | **0.95** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.92** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
