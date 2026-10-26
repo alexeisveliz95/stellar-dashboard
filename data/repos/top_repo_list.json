@@ -1,130 +1,11 @@
 [
   {
-    "id": "github_trending_cloudflare_security-audit-skill",
-    "name": "cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "stars": 45511,
-    "growth": 2264,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_NVIDIA_OpenShell",
-    "name": "NVIDIA/OpenShell",
-    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "stars": 19683,
-    "growth": 896,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_Nutlope_hallmark",
-    "name": "Nutlope/hallmark",
-    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "url": "https://github.com/Nutlope/hallmark",
-    "stars": 32649,
-    "growth": 455,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "CSS",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_luongnv89_claude-howto",
-    "name": "luongnv89/claude-howto",
-    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-    "url": "https://github.com/luongnv89/claude-howto",
-    "stars": 44811,
-    "growth": 392,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "claude-code",
-      "guide",
-      "tutorial"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_pbakaus_impeccable",
-    "name": "pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "url": "https://github.com/pbakaus/impeccable",
-    "stars": 86787,
-    "growth": 619,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_google-gemini_gemini-cli",
-    "name": "google-gemini/gemini-cli",
-    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-    "url": "https://github.com/google-gemini/gemini-cli",
-    "stars": 108318,
-    "growth": 44,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-agents",
-      "cli",
-      "gemini",
-      "gemini-api",
-      "mcp-client",
-      "mcp-server"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_makecindy_cindy",
     "name": "makecindy/cindy",
     "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
     "url": "https://github.com/makecindy/cindy",
-    "stars": 4347,
-    "growth": 477,
+    "stars": 5615,
+    "growth": 675,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -152,27 +33,158 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_jbiaojerry_ebook-treasure-chest",
-    "name": "jbiaojerry/ebook-treasure-chest",
-    "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-    "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
-    "stars": 22960,
-    "growth": 227,
-    "score": 0.8642,
+    "id": "github_trending_Nutlope_hallmark",
+    "name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "url": "https://github.com/Nutlope/hallmark",
+    "stars": 34915,
+    "growth": 1317,
+    "score": 1.0,
     "categories": [
-      "Otros"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python"
+    "language": "CSS",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_debpalash_VoiceStudio",
+    "name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "stars": 87789,
+    "growth": 1592,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 88371,
+    "growth": 1092,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_TauricResearch_TradingAgents",
+    "name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "stars": 115183,
+    "growth": 381,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_cloudflare_security-audit-skill",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "stars": 47719,
+    "growth": 2878,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_AgriciDaniel_claude-seo",
+    "name": "AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "stars": 21661,
+    "growth": 197,
+    "score": 0.9955,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-seo",
+      "claude-code",
+      "claude-code-skill",
+      "marketing-automation",
+      "open-source",
+      "seo"
+    ],
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_pollen-robotics_microduck",
     "name": "pollen-robotics/microduck",
     "description": "A Tiny biped duck robot 🦆",
     "url": "https://github.com/pollen-robotics/microduck",
-    "stars": 11221,
-    "growth": 319,
-    "score": 0.8416,
+    "stars": 12077,
+    "growth": 647,
+    "score": 0.9531,
     "categories": [
       "Otros"
     ],
@@ -181,20 +193,99 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_aws_agent-toolkit-for-aws",
-    "name": "aws/agent-toolkit-for-aws",
-    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-    "url": "https://github.com/aws/agent-toolkit-for-aws",
-    "stars": 3243,
-    "growth": 13,
-    "score": 0.7468,
+    "id": "github_trending_coollabsio_coolify",
+    "name": "coollabsio/coolify",
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+    "url": "https://github.com/coollabsio/coolify",
+    "stars": 64840,
+    "growth": 152,
+    "score": 0.9244,
     "categories": [
-      "AI & Data Science"
+      "PlayStation Homebrew & Linux"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "PHP",
     "tags": [
-      "ai"
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "coolify",
+      "databases",
+      "deployment",
+      "docker",
+      "docker-compose",
+      "inertiajs",
+      "laravel",
+      "mariadb",
+      "mysql",
+      "nextjs",
+      "nodejs",
+      "php",
+      "postgres",
+      "redis",
+      "self-hosted",
+      "self-hosting",
+      "server",
+      "static-site",
+      "svelte",
+      "svelte5"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_Renhuai123_ziwei-doushu",
+    "name": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "stars": 8148,
+    "growth": 199,
+    "score": 0.7931,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "bazi",
+      "chinese-astrology",
+      "divination",
+      "fortune-telling",
+      "nextjs",
+      "open-source",
+      "purple-star-astrology",
+      "typescript",
+      "zi-wei-dou-shu",
+      "ziwei-doushu"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_JetBrains_thinkrail",
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "stars": 2242,
+    "growth": 51,
+    "score": 0.7045,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "agent",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-coding",
+      "ai-tools",
+      "pi-agent",
+      "pi-agent-extension",
+      "spec-driven",
+      "spec-driven-coding",
+      "spec-driven-development",
+      "vibe-coding",
+      "vibecoding"
     ],
     "raw_license": "Apache-2.0"
   }
