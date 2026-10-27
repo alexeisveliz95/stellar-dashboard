@@ -338,3 +338,6 @@
 | 2026-10-26 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2878 | 47.7k | `1.00` |
 | 2026-10-26 | **2** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1592 | 87.8k | `1.00` |
 | 2026-10-26 | **3** | [hallmark](https://github.com/Nutlope/hallmark) | +1317 | 34.9k | `1.00` |
+| 2026-10-27 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2297 | 90.3k | `1.00` |
+| 2026-10-27 | **2** | [hallmark](https://github.com/Nutlope/hallmark) | +2244 | 37.6k | `1.00` |
+| 2026-10-27 | **3** | [impeccable](https://github.com/pbakaus/impeccable) | +1506 | 89.8k | `1.00` |

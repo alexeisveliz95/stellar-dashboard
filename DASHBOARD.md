@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-26 12:38`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-27 10:08`
+> 📦 **24** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 47.7k | +2.9k | JavaScript |
-| 2 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 87.8k | +1.6k | Python |
-| 3 | [**hallmark**](https://github.com/Nutlope/hallmark) | 34.9k | +1.3k | CSS |
-| 4 | [**impeccable**](https://github.com/pbakaus/impeccable) | 88.4k | +1.1k | Rust |
-| 5 | [**cindy**](https://github.com/makecindy/cindy) | 5.6k | +675 | TypeScript |
-| 6 | [**microduck**](https://github.com/pollen-robotics/microduck) | 12.1k | +647 | Rust |
-| 7 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 115.2k | +381 | Python |
-| 8 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | 8.1k | +199 | TypeScript |
-| 9 | [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) | 21.7k | +197 | Python |
-| 10 | [**coolify**](https://github.com/coollabsio/coolify) | 64.8k | +152 | PHP |
+| 1 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 90.3k | +2.3k | Python |
+| 2 | [**hallmark**](https://github.com/Nutlope/hallmark) | 37.6k | +2.2k | CSS |
+| 3 | [**impeccable**](https://github.com/pbakaus/impeccable) | 89.8k | +1.5k | Rust |
+| 4 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 116.8k | +1.4k | Python |
+| 5 | [**cindy**](https://github.com/makecindy/cindy) | 7.0k | +1.3k | TypeScript |
+| 6 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | 3.4k | +1.2k | TypeScript |
+| 7 | [**ECC**](https://github.com/affaan-m/ECC) | 290.2k | +896 | JavaScript |
+| 8 | [**microduck**](https://github.com/pollen-robotics/microduck) | 12.7k | +843 | Rust |
+| 9 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 104.4k | +746 | Python |
+| 10 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | 225.1k | +638 | — |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 5.6k | AI & Data Science |
-| 🥈 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 34.9k | AI & Data Science |
-| 🥉 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 87.8k | Web Development |
-| 4 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 88.4k | AI & Data Science |
-| 5 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 115.2k | AI & Data Science |
-| 6 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 47.7k | Cybersecurity & Hacking |
-| 7 | [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) | **1.00** | 21.7k | AI & Data Science |
-| 8 | [**microduck**](https://github.com/pollen-robotics/microduck) | **0.95** | 12.1k | Otros |
-| 9 | [**coolify**](https://github.com/coollabsio/coolify) | **0.92** | 64.8k | PlayStation Homebrew & Linux |
-| 10 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | **0.79** | 8.1k | Otros |
+| 🥇 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 37.6k | AI & Data Science |
+| 🥈 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 116.8k | AI & Data Science |
+| 🥉 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 7.0k | AI & Data Science |
+| 4 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 290.2k | Cybersecurity & Hacking |
+| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 89.8k | AI & Data Science |
+| 6 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 104.4k | Python & Backend |
+| 7 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 90.3k | Web Development |
+| 8 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 225.1k | AI & Data Science |
+| 9 | [**SkillSpector**](https://github.com/NVIDIA/SkillSpector) | **0.99** | 22.6k | Cybersecurity & Hacking |
+| 10 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | **0.97** | 3.4k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 6 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.88** |
+| [**Otros**](Categorias/Otros.md) | 2 | **0.97** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
