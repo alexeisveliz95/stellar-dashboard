@@ -1,11 +1,82 @@
 [
   {
+    "id": "github_trending_elayadesign_ai-design-skills",
+    "name": "elayadesign/ai-design-skills",
+    "description": "",
+    "url": "https://github.com/elayadesign/ai-design-skills",
+    "stars": 10490,
+    "growth": 1395,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 306887,
+    "growth": 617,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_HKUDS_DeepTutor",
+    "name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "stars": 47062,
+    "growth": 1598,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "learning",
+      "multi-agent-systems",
+      "rag"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_Nutlope_hallmark",
     "name": "Nutlope/hallmark",
     "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
     "url": "https://github.com/Nutlope/hallmark",
-    "stars": 37649,
-    "growth": 2244,
+    "stars": 39814,
+    "growth": 2830,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -18,27 +89,27 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_TauricResearch_TradingAgents",
-    "name": "TauricResearch/TradingAgents",
-    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "stars": 116831,
-    "growth": 1395,
+    "id": "github_trending_pbakaus_impeccable",
+    "name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "url": "https://github.com/pbakaus/impeccable",
+    "stars": 91236,
+    "growth": 1449,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "Rust",
     "tags": [
-      "llm"
+      "ai"
     ],
     "raw_topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
+      "agent-skills",
+      "ai",
+      "anti-slop",
+      "design",
+      "slop"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -47,8 +118,8 @@
     "name": "makecindy/cindy",
     "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
     "url": "https://github.com/makecindy/cindy",
-    "stars": 7038,
-    "growth": 1296,
+    "stars": 7801,
+    "growth": 1465,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -76,182 +147,118 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_affaan-m_ECC",
-    "name": "affaan-m/ECC",
-    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "url": "https://github.com/affaan-m/ECC",
-    "stars": 290240,
-    "growth": 896,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_pbakaus_impeccable",
-    "name": "pbakaus/impeccable",
-    "description": "The design language that makes your AI harness better at design.",
-    "url": "https://github.com/pbakaus/impeccable",
-    "stars": 89751,
-    "growth": 1506,
+    "id": "github_trending_nightly-labs_openbot",
+    "name": "nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "url": "https://github.com/nightly-labs/openbot",
+    "stars": 2858,
+    "growth": 777,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Rust",
+    "language": "TypeScript",
     "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_Panniantong_Agent-Reach",
-    "name": "Panniantong/Agent-Reach",
-    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "stars": 104375,
-    "growth": 746,
-    "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
+      "ai"
     ],
     "raw_topics": [
-      "agent-infrastructure",
-      "ai-agent",
-      "ai-search",
-      "automation",
-      "bilibili",
-      "claude-code",
-      "cli",
-      "cursor",
-      "free-api",
-      "llm-tools",
-      "mcp",
-      "python",
-      "reddit-scraper",
-      "twitter-scraper",
-      "web-scraper",
-      "xiaohongshu",
-      "youtube-transcript"
+      "ai-agents",
+      "bun",
+      "codex",
+      "electron",
+      "local-first",
+      "macos",
+      "solidjs",
+      "typescript"
     ],
-    "raw_license": "MIT"
+    "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_debpalash_VoiceStudio",
-    "name": "debpalash/VoiceStudio",
-    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "stars": 90305,
-    "growth": 2297,
+    "id": "github_trending_hmjz100_LinkSwift",
+    "name": "hmjz100/LinkSwift",
+    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+    "url": "https://github.com/hmjz100/LinkSwift",
+    "stars": 33715,
+    "growth": 3209,
     "score": 1.0,
     "categories": [
       "Web Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "JavaScript",
     "tags": [
       "nlp:web-development"
     ],
     "raw_topics": [
-      "ai",
-      "audiobook",
-      "cuda",
-      "dubbing",
-      "elevenlabs-alternative",
-      "huggingface",
-      "local-first",
-      "mlx",
-      "omnivoice-studio",
-      "speech-to-text",
-      "text-to-speech",
-      "transcription",
-      "translate",
-      "tts",
-      "voice-ai",
-      "voice-cloning",
-      "voice-generation",
-      "voicestudio",
-      "workflow"
+      "123pan",
+      "aliyun-drive",
+      "aliyunpan",
+      "aria2",
+      "baidu",
+      "baidu-netdisk",
+      "baidunetdisk",
+      "baidupan",
+      "baiduyun",
+      "guangya-netdisk",
+      "motrix",
+      "quark-netdisk",
+      "tampermonkey",
+      "tampermonkey-script",
+      "tampermonkey-userscript",
+      "tianyi-netdisk",
+      "uc-netdisk",
+      "userscript",
+      "xunlei-netdisk",
+      "yidong-netdisk"
     ],
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_multica-ai_andrej-karpathy-skills",
-    "name": "multica-ai/andrej-karpathy-skills",
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "stars": 225098,
-    "growth": 638,
+    "id": "github_trending_ruvnet_RuView",
+    "name": "ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "url": "https://github.com/ruvnet/RuView",
+    "stars": 100496,
+    "growth": 415,
     "score": 1.0,
     "categories": [
-      "AI & Data Science"
+      "Otros"
     ],
     "source": "github_trending",
-    "tags": [
-      "ai"
-    ]
-  },
-  {
-    "id": "github_trending_NVIDIA_SkillSpector",
-    "name": "NVIDIA/SkillSpector",
-    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "stars": 22589,
-    "growth": 214,
-    "score": 0.9949,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
+    "language": "Rust",
     "raw_topics": [
-      "agent-security",
-      "agent-skills",
-      "agentic-ai",
-      "ai-security",
-      "claude-code",
-      "mcp",
-      "prompt-injection",
-      "security-scanner",
-      "security-tools",
-      "security-workflow",
-      "supply-chain-security"
+      "awesome",
+      "claude",
+      "densepose",
+      "esp32",
+      "firmware",
+      "home-assistant",
+      "home-automation",
+      "iot",
+      "monitoring",
+      "networking",
+      "npm",
+      "pose-estimation",
+      "react",
+      "rf",
+      "self-learning",
+      "skills",
+      "spatial-intelligence",
+      "typescript",
+      "wifi",
+      "wifi-security"
     ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_JetBrains_thinkrail",
     "name": "JetBrains/thinkrail",
     "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
     "url": "https://github.com/JetBrains/thinkrail",
-    "stars": 3405,
-    "growth": 1173,
-    "score": 0.9687,
+    "stars": 4507,
+    "growth": 1204,
+    "score": 0.9843,
     "categories": [
       "Otros"
     ],
@@ -275,106 +282,88 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_pollen-robotics_microduck",
-    "name": "pollen-robotics/microduck",
-    "description": "A Tiny biped duck robot 🦆",
-    "url": "https://github.com/pollen-robotics/microduck",
-    "stars": 12654,
-    "growth": 843,
-    "score": 0.9307,
+    "id": "github_trending_togg53192-cmd_jailbreaks",
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "url": "https://github.com/togg53192-cmd/jailbreaks",
+    "stars": 6270,
+    "growth": 902,
+    "score": 0.9479,
     "categories": [
       "Otros"
     ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_license": "Apache-2.0"
+    "source": "github_trending"
   },
   {
-    "id": "github_trending_alchaincyf_huashu-design",
-    "name": "alchaincyf/huashu-design",
-    "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-    "url": "https://github.com/alchaincyf/huashu-design",
-    "stars": 27547,
-    "growth": 251,
-    "score": 0.9048,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "HTML",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-design",
-      "claude-code",
-      "claude-skills",
-      "codex",
-      "cursor",
-      "design",
-      "html",
-      "pptx",
-      "prototype"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_gitroomhq_postiz-app",
-    "name": "gitroomhq/postiz-app",
-    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-    "url": "https://github.com/gitroomhq/postiz-app",
-    "stars": 38798,
-    "growth": 188,
-    "score": 0.8758,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_topics": [
-      "nextjs",
-      "open-source",
-      "open-source-social-media-scheduling-tool",
-      "oss",
-      "postiz-cloud",
-      "postiz-hosted",
-      "redis",
-      "scheduling-tool",
-      "social-media-scheduling-tool",
-      "typescript"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_nightly-labs_openbot",
-    "name": "nightly-labs/openbot",
-    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-    "url": "https://github.com/nightly-labs/openbot",
-    "stars": 1787,
-    "growth": 176,
-    "score": 0.8468,
+    "id": "github_trending_macro-inc_macro",
+    "name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "url": "https://github.com/macro-inc/macro",
+    "stars": 5158,
+    "growth": 106,
+    "score": 0.8903,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Rust",
     "tags": [
       "ai"
     ],
     "raw_topics": [
+      "agent",
+      "ai",
       "ai-agents",
-      "bun",
-      "codex",
-      "electron",
-      "local-first",
-      "macos",
-      "solidjs",
-      "typescript"
+      "all-in-one",
+      "crm",
+      "crm-system",
+      "email",
+      "linear",
+      "mcp",
+      "messaging",
+      "notes",
+      "notion",
+      "office",
+      "rust",
+      "slack",
+      "slack-alternative",
+      "startup",
+      "startup-tools",
+      "typescript",
+      "workspace"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_expo_skills",
+    "name": "expo/skills",
+    "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "url": "https://github.com/expo/skills",
+    "stars": 3337,
+    "growth": 212,
+    "score": 0.8636,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_xiaolai_the-craft-of-selfteaching",
+    "name": "xiaolai/the-craft-of-selfteaching",
+    "description": "One has no future if one couldn't teach themself.",
+    "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+    "stars": 18229,
+    "growth": 143,
+    "score": 0.7935,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Jupyter Notebook"
   }
 ]
