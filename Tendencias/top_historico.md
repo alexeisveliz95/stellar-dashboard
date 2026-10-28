@@ -341,3 +341,6 @@
 | 2026-10-27 | **1** | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | +2297 | 90.3k | `1.00` |
 | 2026-10-27 | **2** | [hallmark](https://github.com/Nutlope/hallmark) | +2244 | 37.6k | `1.00` |
 | 2026-10-27 | **3** | [impeccable](https://github.com/pbakaus/impeccable) | +1506 | 89.8k | `1.00` |
+| 2026-10-28 | **1** | [LinkSwift](https://github.com/hmjz100/LinkSwift) | +3209 | 33.7k | `1.00` |
+| 2026-10-28 | **2** | [hallmark](https://github.com/Nutlope/hallmark) | +2830 | 39.8k | `1.00` |
+| 2026-10-28 | **3** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +1598 | 47.1k | `1.00` |

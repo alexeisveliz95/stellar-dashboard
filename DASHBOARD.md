@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-27 11:54`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-28 10:57`
+> 📦 **34** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | 90.3k | +2.3k | Python |
-| 2 | [**hallmark**](https://github.com/Nutlope/hallmark) | 37.6k | +2.2k | CSS |
-| 3 | [**impeccable**](https://github.com/pbakaus/impeccable) | 89.8k | +1.5k | Rust |
-| 4 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | 116.8k | +1.4k | Python |
-| 5 | [**cindy**](https://github.com/makecindy/cindy) | 7.0k | +1.3k | TypeScript |
-| 6 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | 3.4k | +1.2k | TypeScript |
-| 7 | [**ECC**](https://github.com/affaan-m/ECC) | 290.2k | +896 | JavaScript |
-| 8 | [**microduck**](https://github.com/pollen-robotics/microduck) | 12.7k | +843 | Rust |
-| 9 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | 104.4k | +746 | Python |
-| 10 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | 225.1k | +638 | — |
+| 1 | [**LinkSwift**](https://github.com/hmjz100/LinkSwift) | 33.7k | +3.2k | JavaScript |
+| 2 | [**hallmark**](https://github.com/Nutlope/hallmark) | 39.8k | +2.8k | CSS |
+| 3 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 47.1k | +1.6k | Python |
+| 4 | [**cindy**](https://github.com/makecindy/cindy) | 7.8k | +1.5k | TypeScript |
+| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | 91.2k | +1.4k | Rust |
+| 6 | [**ai-design-skills**](https://github.com/elayadesign/ai-design-skills) | 10.5k | +1.4k | — |
+| 7 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | 4.5k | +1.2k | TypeScript |
+| 8 | [**jailbreaks**](https://github.com/togg53192-cmd/jailbreaks) | 6.3k | +902 | — |
+| 9 | [**openbot**](https://github.com/nightly-labs/openbot) | 2.9k | +777 | TypeScript |
+| 10 | [**superpowers**](https://github.com/obra/superpowers) | 306.9k | +617 | Shell |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 37.6k | AI & Data Science |
-| 🥈 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **1.00** | 116.8k | AI & Data Science |
-| 🥉 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 7.0k | AI & Data Science |
-| 4 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 290.2k | Cybersecurity & Hacking |
-| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 89.8k | AI & Data Science |
-| 6 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | **1.00** | 104.4k | Python & Backend |
-| 7 | [**VoiceStudio**](https://github.com/debpalash/VoiceStudio) | **1.00** | 90.3k | Web Development |
-| 8 | [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) | **1.00** | 225.1k | AI & Data Science |
-| 9 | [**SkillSpector**](https://github.com/NVIDIA/SkillSpector) | **0.99** | 22.6k | Cybersecurity & Hacking |
-| 10 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | **0.97** | 3.4k | Otros |
+| 🥇 | [**ai-design-skills**](https://github.com/elayadesign/ai-design-skills) | **1.00** | 10.5k | AI & Data Science |
+| 🥈 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 306.9k | Python & Backend |
+| 🥉 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 47.1k | Otros |
+| 4 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 39.8k | AI & Data Science |
+| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 91.2k | AI & Data Science |
+| 6 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 7.8k | AI & Data Science |
+| 7 | [**openbot**](https://github.com/nightly-labs/openbot) | **1.00** | 2.9k | AI & Data Science |
+| 8 | [**LinkSwift**](https://github.com/hmjz100/LinkSwift) | **1.00** | 33.7k | Web Development |
+| 9 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 100.5k | Otros |
+| 10 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | **0.98** | 4.5k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
