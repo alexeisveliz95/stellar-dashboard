@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **4 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **69.5k**
-> Actualizado: `2026-10-29 11:12`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,9 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 49.0k | `███░░░░░░░` | DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/. |
-| [**jailbreaks**](https://github.com/togg53192-cmd/jailbreaks) | **0.98** | 7.9k | `██████████` | LIST OF ALL MY JAILBREAKS |
-| [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **0.97** | 7.0k | `█████████░` | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| [**thinkrail**](https://github.com/JetBrains/thinkrail) | **0.97** | 5.6k | `██████████` | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work —… |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
