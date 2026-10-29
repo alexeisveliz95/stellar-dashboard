@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-28 12:30`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-10-29 11:12`
+> 📦 **31** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**LinkSwift**](https://github.com/hmjz100/LinkSwift) | 33.7k | +3.2k | JavaScript |
-| 2 | [**hallmark**](https://github.com/Nutlope/hallmark) | 39.8k | +2.8k | CSS |
-| 3 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 47.1k | +1.6k | Python |
-| 4 | [**cindy**](https://github.com/makecindy/cindy) | 7.8k | +1.5k | TypeScript |
-| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | 91.2k | +1.4k | Rust |
-| 6 | [**ai-design-skills**](https://github.com/elayadesign/ai-design-skills) | 10.5k | +1.4k | — |
-| 7 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | 4.5k | +1.2k | TypeScript |
-| 8 | [**jailbreaks**](https://github.com/togg53192-cmd/jailbreaks) | 6.3k | +902 | — |
-| 9 | [**openbot**](https://github.com/nightly-labs/openbot) | 2.9k | +777 | TypeScript |
-| 10 | [**superpowers**](https://github.com/obra/superpowers) | 306.9k | +617 | Shell |
+| 1 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 49.0k | +2.4k | Python |
+| 2 | [**ai-design-skills**](https://github.com/elayadesign/ai-design-skills) | 11.7k | +2.1k | — |
+| 3 | [**jailbreaks**](https://github.com/togg53192-cmd/jailbreaks) | 7.9k | +1.5k | — |
+| 4 | [**impeccable**](https://github.com/pbakaus/impeccable) | 94.1k | +1.5k | Rust |
+| 5 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | 7.0k | +1.2k | TypeScript |
+| 6 | [**superpowers**](https://github.com/obra/superpowers) | 307.9k | +1.1k | Shell |
+| 7 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | 5.6k | +1.1k | TypeScript |
+| 8 | [**openbot**](https://github.com/nightly-labs/openbot) | 3.6k | +1.1k | TypeScript |
+| 9 | [**Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) | 28.6k | +538 | Shell |
+| 10 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 104.2k | +324 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**ai-design-skills**](https://github.com/elayadesign/ai-design-skills) | **1.00** | 10.5k | AI & Data Science |
-| 🥈 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 306.9k | Python & Backend |
-| 🥉 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 47.1k | Otros |
-| 4 | [**hallmark**](https://github.com/Nutlope/hallmark) | **1.00** | 39.8k | AI & Data Science |
-| 5 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 91.2k | AI & Data Science |
-| 6 | [**cindy**](https://github.com/makecindy/cindy) | **1.00** | 7.8k | AI & Data Science |
-| 7 | [**openbot**](https://github.com/nightly-labs/openbot) | **1.00** | 2.9k | AI & Data Science |
-| 8 | [**LinkSwift**](https://github.com/hmjz100/LinkSwift) | **1.00** | 33.7k | Web Development |
-| 9 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 100.5k | Otros |
-| 10 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | **0.98** | 4.5k | Otros |
+| 🥇 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 49.0k | Otros |
+| 🥈 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 307.9k | Python & Backend |
+| 🥉 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 94.1k | AI & Data Science |
+| 4 | [**openbot**](https://github.com/nightly-labs/openbot) | **1.00** | 3.6k | AI & Data Science |
+| 5 | [**ai-design-skills**](https://github.com/elayadesign/ai-design-skills) | **1.00** | 11.7k | AI & Data Science |
+| 6 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 104.2k | AI & Data Science |
+| 7 | [**Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) | **1.00** | 28.6k | AI & Data Science |
+| 8 | [**jailbreaks**](https://github.com/togg53192-cmd/jailbreaks) | **0.98** | 7.9k | Otros |
+| 9 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **0.97** | 7.0k | Otros |
+| 10 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | **0.97** | 5.6k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.88** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

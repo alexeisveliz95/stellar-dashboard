@@ -344,3 +344,6 @@
 | 2026-10-28 | **1** | [LinkSwift](https://github.com/hmjz100/LinkSwift) | +3209 | 33.7k | `1.00` |
 | 2026-10-28 | **2** | [hallmark](https://github.com/Nutlope/hallmark) | +2830 | 39.8k | `1.00` |
 | 2026-10-28 | **3** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +1598 | 47.1k | `1.00` |
+| 2026-10-29 | **1** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +2371 | 49.0k | `1.00` |
+| 2026-10-29 | **2** | [ai-design-skills](https://github.com/elayadesign/ai-design-skills) | +2139 | 11.7k | `1.00` |
+| 2026-10-29 | **3** | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +1477 | 7.9k | `0.98` |
