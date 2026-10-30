@@ -347,3 +347,6 @@
 | 2026-10-29 | **1** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +2371 | 49.0k | `1.00` |
 | 2026-10-29 | **2** | [ai-design-skills](https://github.com/elayadesign/ai-design-skills) | +2139 | 11.7k | `1.00` |
 | 2026-10-29 | **3** | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +1477 | 7.9k | `0.98` |
+| 2026-10-30 | **1** | [impeccable](https://github.com/pbakaus/impeccable) | +2870 | 96.3k | `1.00` |
+| 2026-10-30 | **2** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +1930 | 51.2k | `1.00` |
+| 2026-10-30 | **3** | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +1594 | 9.9k | `0.96` |
