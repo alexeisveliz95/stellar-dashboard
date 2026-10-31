@@ -4,8 +4,8 @@
     "name": "thedotmack/claude-mem",
     "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
     "url": "https://github.com/thedotmack/claude-mem",
-    "stars": 105279,
-    "growth": 336,
+    "stars": 106917,
+    "growth": 1140,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -44,8 +44,8 @@
     "name": "pbakaus/impeccable",
     "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
     "url": "https://github.com/pbakaus/impeccable",
-    "stars": 96307,
-    "growth": 2870,
+    "stars": 97597,
+    "growth": 2300,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -69,8 +69,8 @@
     "name": "Renhuai123/ziwei-doushu",
     "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
     "url": "https://github.com/Renhuai123/ziwei-doushu",
-    "stars": 10715,
-    "growth": 1146,
+    "stars": 11757,
+    "growth": 1126,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -96,8 +96,8 @@
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 306979,
-    "growth": 882,
+    "stars": 307794,
+    "growth": 876,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -111,8 +111,8 @@
     "name": "HKUDS/DeepTutor",
     "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "stars": 51215,
-    "growth": 1930,
+    "stars": 52204,
+    "growth": 2282,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -137,8 +137,8 @@
     "name": "obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "url": "https://github.com/obra/superpowers",
-    "stars": 309061,
-    "growth": 1034,
+    "stars": 309671,
+    "growth": 1259,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -165,8 +165,8 @@
     "name": "lightpanda-io/browser",
     "description": "Lightpanda: the headless browser designed for AI and automation",
     "url": "https://github.com/lightpanda-io/browser",
-    "stars": 37841,
-    "growth": 559,
+    "stars": 38739,
+    "growth": 626,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -193,8 +193,8 @@
     "name": "pingdotgg/t3code",
     "description": "",
     "url": "https://github.com/pingdotgg/t3code",
-    "stars": 32241,
-    "growth": 920,
+    "stars": 33330,
+    "growth": 930,
     "score": 0.9921,
     "categories": [
       "Otros"
@@ -204,13 +204,129 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_anthropics_skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "url": "https://github.com/anthropics/skills",
+    "stars": 185645,
+    "growth": 295,
+    "score": 0.9876,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "agent-skills"
+    ]
+  },
+  {
+    "id": "github_trending_milind-soni_OpenMausBot",
+    "name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "stars": 9157,
+    "growth": 895,
+    "score": 0.9873,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "computer-use",
+      "docker",
+      "electron",
+      "expo",
+      "grok",
+      "grok-bot",
+      "grok-bot-alternative",
+      "self-hosted",
+      "typescript"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_CopilotKit_OpenBot",
+    "name": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "stars": 9029,
+    "growth": 706,
+    "score": 0.9859,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_JetBrains_thinkrail",
+    "name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "stars": 6736,
+    "growth": 722,
+    "score": 0.968,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "agent",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-coding",
+      "ai-tools",
+      "pi-agent",
+      "pi-agent-extension",
+      "spec-driven",
+      "spec-driven-coding",
+      "spec-driven-development",
+      "vibe-coding",
+      "vibecoding"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_togg53192-cmd_jailbreaks",
+    "name": "togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "url": "https://github.com/togg53192-cmd/jailbreaks",
+    "stars": 11754,
+    "growth": 2055,
+    "score": 0.9631,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending"
+  },
+  {
     "id": "github_trending_macro-inc_macro",
     "name": "macro-inc/macro",
     "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
     "url": "https://github.com/macro-inc/macro",
-    "stars": 5679,
-    "growth": 379,
-    "score": 0.9845,
+    "stars": 5989,
+    "growth": 57,
+    "score": 0.8192,
     "categories": [
       "AI & Data Science"
     ],
@@ -244,129 +360,13 @@
     "raw_license": "AGPL-3.0"
   },
   {
-    "id": "github_trending_anthropics_skills",
-    "name": "anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "url": "https://github.com/anthropics/skills",
-    "stars": 184924,
-    "growth": 287,
-    "score": 0.9836,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "id": "github_trending_JetBrains_thinkrail",
-    "name": "JetBrains/thinkrail",
-    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-    "url": "https://github.com/JetBrains/thinkrail",
-    "stars": 6316,
-    "growth": 1117,
-    "score": 0.9733,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "agent",
-      "agent-skills",
-      "agentic-ai",
-      "agentic-workflow",
-      "ai-coding",
-      "ai-tools",
-      "pi-agent",
-      "pi-agent-extension",
-      "spec-driven",
-      "spec-driven-coding",
-      "spec-driven-development",
-      "vibe-coding",
-      "vibecoding"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_milind-soni_OpenMausBot",
-    "name": "milind-soni/OpenMausBot",
-    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-    "url": "https://github.com/milind-soni/OpenMausBot",
-    "stars": 7890,
-    "growth": 1199,
-    "score": 0.9714,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "computer-use",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "grok-bot",
-      "grok-bot-alternative",
-      "self-hosted",
-      "typescript"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_togg53192-cmd_jailbreaks",
-    "name": "togg53192-cmd/jailbreaks",
-    "description": "LIST OF ALL MY JAILBREAKS",
-    "url": "https://github.com/togg53192-cmd/jailbreaks",
-    "stars": 9883,
-    "growth": 1594,
-    "score": 0.9621,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending"
-  },
-  {
-    "id": "github_trending_CopilotKit_OpenBot",
-    "name": "CopilotKit/OpenBot",
-    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-    "url": "https://github.com/CopilotKit/OpenBot",
-    "stars": 8441,
-    "growth": 247,
-    "score": 0.8757,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ag-ui",
-      "agent-governance",
-      "ai-agents",
-      "browser-automation",
-      "copilotkit",
-      "generative-ui",
-      "mcp"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_expo_skills",
     "name": "expo/skills",
     "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
     "url": "https://github.com/expo/skills",
-    "stars": 3774,
-    "growth": 233,
-    "score": 0.8511,
+    "stars": 3966,
+    "growth": 38,
+    "score": 0.7497,
     "categories": [
       "AI & Data Science"
     ],
