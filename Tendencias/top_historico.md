@@ -350,3 +350,6 @@
 | 2026-10-30 | **1** | [impeccable](https://github.com/pbakaus/impeccable) | +2870 | 96.3k | `1.00` |
 | 2026-10-30 | **2** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +1930 | 51.2k | `1.00` |
 | 2026-10-30 | **3** | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +1594 | 9.9k | `0.96` |
+| 2026-10-31 | **1** | [impeccable](https://github.com/pbakaus/impeccable) | +2300 | 97.6k | `1.00` |
+| 2026-10-31 | **2** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +2282 | 52.2k | `1.00` |
+| 2026-10-31 | **3** | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +2055 | 11.8k | `0.96` |
