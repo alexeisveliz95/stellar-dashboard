@@ -353,3 +353,6 @@
 | 2026-10-31 | **1** | [impeccable](https://github.com/pbakaus/impeccable) | +2300 | 97.6k | `1.00` |
 | 2026-10-31 | **2** | [DeepTutor](https://github.com/HKUDS/DeepTutor) | +2282 | 52.2k | `1.00` |
 | 2026-10-31 | **3** | [jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | +2055 | 11.8k | `0.96` |
+| 2026-11-01 | **1** | [t3code](https://github.com/pingdotgg/t3code) | +3100 | 36.5k | `1.00` |
+| 2026-11-01 | **2** | [claude-mem](https://github.com/thedotmack/claude-mem) | +1527 | 108.4k | `1.00` |
+| 2026-11-01 | **3** | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | +970 | 31.6k | `1.00` |

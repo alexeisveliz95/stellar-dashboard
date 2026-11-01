@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-10-31 11:59`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-01 11:36`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**impeccable**](https://github.com/pbakaus/impeccable) | 97.6k | +2.3k | Rust |
-| 2 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | 52.2k | +2.3k | Python |
-| 3 | [**jailbreaks**](https://github.com/togg53192-cmd/jailbreaks) | 11.8k | +2.1k | — |
-| 4 | [**superpowers**](https://github.com/obra/superpowers) | 309.7k | +1.3k | Shell |
-| 5 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 106.9k | +1.1k | TypeScript |
-| 6 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | 11.8k | +1.1k | TypeScript |
-| 7 | [**t3code**](https://github.com/pingdotgg/t3code) | 33.3k | +930 | TypeScript |
-| 8 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | 9.2k | +895 | TypeScript |
-| 9 | [**skills**](https://github.com/mattpocock/skills) | 307.8k | +876 | Shell |
-| 10 | [**thinkrail**](https://github.com/JetBrains/thinkrail) | 6.7k | +722 | TypeScript |
+| 1 | [**t3code**](https://github.com/pingdotgg/t3code) | 36.5k | +3.1k | TypeScript |
+| 2 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 108.4k | +1.5k | TypeScript |
+| 3 | [**Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) | 31.6k | +970 | Shell |
+| 4 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | 12.7k | +953 | TypeScript |
+| 5 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | 10.1k | +919 | TypeScript |
+| 6 | [**browser**](https://github.com/lightpanda-io/browser) | 39.6k | +827 | Zig |
+| 7 | [**jailbreaks**](https://github.com/togg53192-cmd/jailbreaks) | 12.5k | +730 | — |
+| 8 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | 44.9k | +611 | Python |
+| 9 | [**Handy**](https://github.com/cjpais/Handy) | 36.0k | +611 | Rust |
+| 10 | [**ai-engineering-hub**](https://github.com/patchy631/ai-engineering-hub) | 39.7k | +573 | Jupyter Notebook |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 106.9k | AI & Data Science |
-| 🥈 | [**impeccable**](https://github.com/pbakaus/impeccable) | **1.00** | 97.6k | AI & Data Science |
-| 🥉 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | **1.00** | 11.8k | Otros |
-| 4 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 307.8k | Otros |
-| 5 | [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | **1.00** | 52.2k | Otros |
-| 6 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 309.7k | Python & Backend |
-| 7 | [**browser**](https://github.com/lightpanda-io/browser) | **1.00** | 38.7k | AI & Data Science |
-| 8 | [**t3code**](https://github.com/pingdotgg/t3code) | **0.99** | 33.3k | Otros |
-| 9 | [**skills**](https://github.com/anthropics/skills) | **0.99** | 185.6k | Otros |
-| 10 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **0.99** | 9.2k | Otros |
+| 🥇 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 108.4k | AI & Data Science |
+| 🥈 | [**browser**](https://github.com/lightpanda-io/browser) | **1.00** | 39.6k | AI & Data Science |
+| 🥉 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **1.00** | 44.9k | AI & Data Science |
+| 4 | [**t3code**](https://github.com/pingdotgg/t3code) | **1.00** | 36.5k | Otros |
+| 5 | [**public-apis**](https://github.com/public-apis/public-apis) | **1.00** | 494.0k | Otros |
+| 6 | [**Handy**](https://github.com/cjpais/Handy) | **1.00** | 36.0k | Otros |
+| 7 | [**Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) | **1.00** | 31.6k | AI & Data Science |
+| 8 | [**AiSOC**](https://github.com/beenuar/AiSOC) | **1.00** | 5.8k | Cybersecurity & Hacking |
+| 9 | [**ai-engineering-hub**](https://github.com/patchy631/ai-engineering-hub) | **1.00** | 39.7k | AI & Data Science |
+| 10 | [**ziwei-doushu**](https://github.com/Renhuai123/ziwei-doushu) | **0.99** | 12.7k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.76** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.88** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.79** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
