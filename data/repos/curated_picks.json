@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T01:00:12.202504+00:00",
+  "updated_at": "2026-11-02T02:05:07.589661+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W45",
+      "week_start": "2026-11-02",
+      "generated_at": "2026-11-02T02:05:07.589661+00:00",
+      "picks": [
+        {
+          "name": "RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "score": 0.8,
+          "stars": 100500,
+          "growth": 415,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "score": 0.75,
+          "stars": 290200,
+          "growth": 896,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "score": 0.73,
+          "stars": 116800,
+          "growth": 1395,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "score": 0.73,
+          "stars": 22600,
+          "growth": 214,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "score": 0.71,
+          "stars": 44900,
+          "growth": 611,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "score": 0.0,
+          "stars": 33700,
+          "growth": 3209,
+          "momentum": 0.4,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "score": 0.0,
+          "stars": 36500,
+          "growth": 3100,
+          "momentum": 0.9,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "score": 0.0,
+          "stars": 47700,
+          "growth": 2878,
+          "momentum": 0.5,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "score": 0.0,
+          "stars": 96300,
+          "growth": 2870,
+          "momentum": 0.2,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "score": 0.0,
+          "stars": 39800,
+          "growth": 2830,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W44",
       "week_start": "2026-10-26",
@@ -317,113 +424,6 @@
           "score": 0.0,
           "stars": 50700,
           "growth": 872,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W41",
-      "week_start": "2026-10-05",
-      "generated_at": "2026-10-05T01:31:06.358346+00:00",
-      "picks": [
-        {
-          "name": "ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "score": 0.75,
-          "stars": 272500,
-          "growth": 897,
-          "momentum": 0.2,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "VoiceStudio",
-          "url": "https://github.com/debpalash/VoiceStudio",
-          "score": 0.0,
-          "stars": 49600,
-          "growth": 4758,
-          "momentum": 0.3,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "hindsight",
-          "url": "https://github.com/vectorize-io/hindsight",
-          "score": 0.0,
-          "stars": 41900,
-          "growth": 4561,
-          "momentum": 0.3,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "paperclip",
-          "url": "https://github.com/paperclipai/paperclip",
-          "score": 0.0,
-          "stars": 93900,
-          "growth": 3197,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "OpenShell",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "score": 0.0,
-          "stars": 13600,
-          "growth": 2503,
-          "momentum": 0.8,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "score": 0.0,
-          "stars": 90200,
-          "growth": 1696,
-          "momentum": 0.9,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "score": 0.0,
-          "stars": 152200,
-          "growth": 1435,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "score": 0.0,
-          "stars": 60800,
-          "growth": 1287,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "univer",
-          "url": "https://github.com/dream-num/univer",
-          "score": 0.0,
-          "stars": 21600,
-          "growth": 1099,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "skills",
-          "url": "https://github.com/mattpocock/skills",
-          "score": 0.0,
-          "stars": 275000,
-          "growth": 955,
           "momentum": 0.1,
           "language": null,
           "description": null
