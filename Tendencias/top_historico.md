@@ -359,3 +359,6 @@
 | 2026-11-02 | **1** | [t3code](https://github.com/pingdotgg/t3code) | +3216 | 40.0k | `1.00` |
 | 2026-11-02 | **2** | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | +2243 | 8.0k | `0.97` |
 | 2026-11-02 | **3** | [claude-mem](https://github.com/thedotmack/claude-mem) | +1799 | 110.3k | `1.00` |
+| 2026-11-03 | **1** | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | +3792 | 11.6k | `1.00` |
+| 2026-11-03 | **2** | [Scrapling](https://github.com/D4Vinci/Scrapling) | +1658 | 93.8k | `1.00` |
+| 2026-11-03 | **3** | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | +1181 | 34.2k | `1.00` |
