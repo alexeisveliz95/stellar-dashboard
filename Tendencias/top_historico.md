@@ -362,3 +362,6 @@
 | 2026-11-03 | **1** | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | +3792 | 11.6k | `1.00` |
 | 2026-11-03 | **2** | [Scrapling](https://github.com/D4Vinci/Scrapling) | +1658 | 93.8k | `1.00` |
 | 2026-11-03 | **3** | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | +1181 | 34.2k | `1.00` |
+| 2026-11-04 | **1** | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | +2463 | 14.0k | `1.00` |
+| 2026-11-04 | **2** | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2053 | 3.7k | `1.00` |
+| 2026-11-04 | **3** | [Scrapling](https://github.com/D4Vinci/Scrapling) | +2006 | 95.8k | `1.00` |
