@@ -1,11 +1,97 @@
 [
   {
+    "id": "github_trending_NVIDIA_auto-ontology",
+    "name": "NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "stars": 3728,
+    "growth": 2053,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_max-sixty_worktrunk",
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "stars": 10789,
+    "growth": 524,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "git",
+      "worktrees"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 312274,
+    "growth": 1376,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_floci-io_floci",
+    "name": "floci-io/floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "url": "https://github.com/floci-io/floci",
+    "stars": 29244,
+    "growth": 1082,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "raw_topics": [
+      "aws",
+      "aws-emulation",
+      "devops",
+      "docker",
+      "ec2",
+      "ecs",
+      "localstack",
+      "s3",
+      "sqs",
+      "testcontainers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_thedotmack_claude-mem",
     "name": "thedotmack/claude-mem",
     "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
     "url": "https://github.com/thedotmack/claude-mem",
-    "stars": 111329,
-    "growth": 1138,
+    "stars": 112439,
+    "growth": 1165,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -44,8 +130,8 @@
     "name": "vercel-labs/agent-desktop",
     "description": "Computer use CLI for AI agents",
     "url": "https://github.com/vercel-labs/agent-desktop",
-    "stars": 11612,
-    "growth": 3792,
+    "stars": 14045,
+    "growth": 2463,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -72,45 +158,36 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_JustVugg_colibri",
-    "name": "JustVugg/colibri",
-    "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-    "url": "https://github.com/JustVugg/colibri",
-    "stars": 46949,
-    "growth": 803,
-    "score": 1.0,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "C",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 310835,
-    "growth": 1164,
+    "id": "github_trending_github_spec-kit",
+    "name": "github/spec-kit",
+    "description": "💫 Toolkit to help you get started with SDD or any other process!",
+    "url": "https://github.com/github/spec-kit",
+    "stars": 146935,
+    "growth": 810,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Shell",
+    "language": "Python",
+    "raw_topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_p-e-w_heretic",
-    "name": "p-e-w/heretic",
-    "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-    "url": "https://github.com/p-e-w/heretic",
-    "stars": 38475,
-    "growth": 699,
+    "id": "github_trending_harry0703_MoneyPrinterTurbo",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "stars": 138573,
+    "growth": 615,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -118,26 +195,76 @@
     "source": "github_trending",
     "language": "Python",
     "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai-video-generator",
+      "content-creation",
+      "ffmpeg",
+      "instagram-reels",
+      "llm",
+      "python",
+      "short-video",
+      "subtitles",
+      "text-to-speech",
+      "tiktok",
+      "video-automation",
+      "video-workflow",
+      "workflow-automation",
+      "youtube-shorts"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_garrytan_gstack",
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "url": "https://github.com/garrytan/gstack",
+    "stars": 139047,
+    "growth": 285,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_MichaelCade_90DaysOfDevOps",
+    "name": "MichaelCade/90DaysOfDevOps",
+    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "stars": 30158,
+    "growth": 156,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
       "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "abliteration",
-      "anti-censorship",
-      "anticensorship",
-      "censorship",
-      "censorship-resistance",
-      "llm",
-      "transformer"
+      "ansible",
+      "backup",
+      "containers",
+      "devops",
+      "iac",
+      "kubernetes",
+      "networking",
+      "terraform"
     ],
-    "raw_license": "AGPL-3.0"
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_D4Vinci_Scrapling",
     "name": "D4Vinci/Scrapling",
     "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "stars": 93761,
-    "growth": 1658,
+    "stars": 95770,
+    "growth": 2006,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -172,13 +299,67 @@
     "raw_license": "BSD-3-Clause"
   },
   {
-    "id": "github_trending_shiyu-coder_Kronos",
-    "name": "shiyu-coder/Kronos",
-    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "stars": 46235,
-    "growth": 503,
-    "score": 1.0,
+    "id": "github_trending_The-PR-Agent_pr-agent",
+    "name": "The-PR-Agent/pr-agent",
+    "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+    "url": "https://github.com/The-PR-Agent/pr-agent",
+    "stars": 14513,
+    "growth": 279,
+    "score": 0.9309,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "ai",
+      "anthropic",
+      "code-review",
+      "coding-assistant",
+      "devtools",
+      "ollama",
+      "openai",
+      "pull-request",
+      "pull-requests"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Thysrael_Horizon",
+    "name": "Thysrael/Horizon",
+    "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+    "url": "https://github.com/Thysrael/Horizon",
+    "stars": 12294,
+    "growth": 121,
+    "score": 0.9112,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "aggregator",
+      "feishu-bot",
+      "llm",
+      "mcp",
+      "news",
+      "openclaw",
+      "python",
+      "webhook"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_scenario-labs_skills",
+    "name": "scenario-labs/skills",
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+    "url": "https://github.com/scenario-labs/skills",
+    "stars": 2097,
+    "growth": 224,
+    "score": 0.9,
     "categories": [
       "AI & Data Science"
     ],
@@ -187,170 +368,43 @@
     "tags": [
       "nlp:ai-data-science"
     ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Donchitos_Claude-Code-Game-Studios",
-    "name": "Donchitos/Claude-Code-Game-Studios",
-    "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-    "stars": 34181,
-    "growth": 1181,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "tags": [
-      "ai"
-    ],
     "raw_topics": [
+      "3d-models",
+      "agent-skills",
       "ai-agents",
-      "ai-assisted-development",
-      "anthropic",
-      "claude",
+      "ai-art",
+      "blender",
       "claude-code",
-      "game-design",
-      "game-development",
-      "gamedev",
-      "godot",
-      "indie-game-dev",
-      "unity",
-      "unreal-engine"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_max-sixty_worktrunk",
-    "name": "max-sixty/worktrunk",
-    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-    "url": "https://github.com/max-sixty/worktrunk",
-    "stars": 10262,
-    "growth": 437,
-    "score": 0.9709,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agents",
-      "claude-code",
+      "claude-skills",
       "codex",
-      "developer-tools",
-      "git",
-      "worktrees"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
-    "id": "github_trending_Usagi-org_ai-goofish-monitor",
-    "name": "Usagi-org/ai-goofish-monitor",
-    "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-    "stars": 16123,
-    "growth": 204,
-    "score": 0.9483,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-assistant",
-      "ai-tools",
-      "automation",
-      "gemini",
-      "goofish",
-      "open-source",
-      "openai",
-      "playwright",
-      "tool",
-      "xian-yu",
-      "xianyu",
-      "xianyu-bot"
+      "game-assets",
+      "game-development",
+      "generative-ai",
+      "image-generation",
+      "maya",
+      "mcp",
+      "model-context-protocol",
+      "skills-sh",
+      "unity",
+      "unreal-engine",
+      "video-generation",
+      "zbrush"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_anomalyco_hex",
-    "name": "anomalyco/hex",
-    "description": "Local voice dictation for mac, windows and linux",
-    "url": "https://github.com/anomalyco/hex",
-    "stars": 4238,
-    "growth": 1134,
-    "score": 0.9462,
-    "categories": [
-      "PlayStation Homebrew & Linux"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:playstation-homebrew-linux"
-    ],
-    "raw_topics": [
-      "dictation",
-      "linux",
-      "local-first",
-      "macos",
-      "rust",
-      "speech-recognition",
-      "speech-to-text",
-      "voice-control"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_floci-io_floci",
-    "name": "floci-io/floci",
-    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-    "url": "https://github.com/floci-io/floci",
-    "stars": 28198,
-    "growth": 219,
-    "score": 0.8585,
+    "id": "github_trending_JiaFeiMiao-K-Cat_DiscImageStudio",
+    "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "description": "",
+    "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "stars": 6022,
+    "growth": 1792,
+    "score": 0.8623,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Java",
-    "raw_topics": [
-      "aws",
-      "aws-emulation",
-      "devops",
-      "docker",
-      "ec2",
-      "ecs",
-      "localstack",
-      "s3",
-      "sqs",
-      "testcontainers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_spotify_portal-ai-plugins",
-    "name": "spotify/portal-ai-plugins",
-    "description": "",
-    "url": "https://github.com/spotify/portal-ai-plugins",
-    "stars": 2920,
-    "growth": 94,
-    "score": 0.7325,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "Apache-2.0"
+    "language": "C#",
+    "raw_license": "GPL-3.0"
   }
 ]
