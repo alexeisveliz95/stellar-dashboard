@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **111.3k**
+> Actualizado: `2026-11-05 12:52`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**Scrapling**](https://github.com/D4Vinci/Scrapling) | **1.00** | 97.4k | `██████████` | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a… |
+| [**garden-skills**](https://github.com/ConardLi/garden-skills) | **0.86** | 14.0k | `████████░░` | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image… |
 
 ---

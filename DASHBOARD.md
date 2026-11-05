@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-04 14:09`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-05 12:52`
+> 📦 **36** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | 14.0k | +2.5k | Rust |
-| 2 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | 3.7k | +2.1k | Python |
-| 3 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | 95.8k | +2.0k | Python |
-| 4 | [**DiscImageStudio**](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | 6.0k | +1.8k | C# |
-| 5 | [**skills**](https://github.com/mattpocock/skills) | 312.3k | +1.4k | Shell |
-| 6 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | 112.4k | +1.2k | TypeScript |
-| 7 | [**floci**](https://github.com/floci-io/floci) | 29.2k | +1.1k | Java |
-| 8 | [**spec-kit**](https://github.com/github/spec-kit) | 146.9k | +810 | Python |
-| 9 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | 138.6k | +615 | Python |
-| 10 | [**worktrunk**](https://github.com/max-sixty/worktrunk) | 10.8k | +524 | Rust |
+| 1 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | 6.4k | +2.7k | Python |
+| 2 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | 16.2k | +2.2k | Rust |
+| 3 | [**skills**](https://github.com/mattpocock/skills) | 314.3k | +2.1k | Shell |
+| 4 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | 97.4k | +1.7k | Python |
+| 5 | [**DiscImageStudio**](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | 7.0k | +977 | C# |
+| 6 | [**floci**](https://github.com/floci-io/floci) | 30.0k | +784 | Java |
+| 7 | [**skills**](https://github.com/scenario-labs/skills) | 2.8k | +674 | Python |
+| 8 | [**gstack**](https://github.com/garrytan/gstack) | 139.6k | +608 | TypeScript |
+| 9 | [**worktrunk**](https://github.com/max-sixty/worktrunk) | 11.3k | +546 | Rust |
+| 10 | [**ai-goofish-monitor**](https://github.com/Usagi-org/ai-goofish-monitor) | 17.3k | +242 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | **1.00** | 3.7k | AI & Data Science |
-| 🥈 | [**worktrunk**](https://github.com/max-sixty/worktrunk) | **1.00** | 10.8k | AI & Data Science |
-| 🥉 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 312.3k | Otros |
-| 4 | [**floci**](https://github.com/floci-io/floci) | **1.00** | 29.2k | Otros |
-| 5 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | **1.00** | 112.4k | AI & Data Science |
-| 6 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | **1.00** | 14.0k | AI & Data Science |
-| 7 | [**spec-kit**](https://github.com/github/spec-kit) | **1.00** | 146.9k | Otros |
-| 8 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **1.00** | 138.6k | AI & Data Science |
-| 9 | [**gstack**](https://github.com/garrytan/gstack) | **1.00** | 139.0k | Otros |
-| 10 | [**90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps) | **1.00** | 30.2k | AI & Data Science |
+| 🥇 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | **1.00** | 6.4k | AI & Data Science |
+| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 314.3k | Otros |
+| 🥉 | [**gstack**](https://github.com/garrytan/gstack) | **1.00** | 139.6k | Otros |
+| 4 | [**ai-goofish-monitor**](https://github.com/Usagi-org/ai-goofish-monitor) | **1.00** | 17.3k | AI & Data Science |
+| 5 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | **1.00** | 97.4k | Web Development |
+| 6 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | **1.00** | 16.2k | AI & Data Science |
+| 7 | [**worktrunk**](https://github.com/max-sixty/worktrunk) | **1.00** | 11.3k | AI & Data Science |
+| 8 | [**skills**](https://github.com/scenario-labs/skills) | **1.00** | 2.8k | AI & Data Science |
+| 9 | [**VibeVoice**](https://github.com/microsoft/VibeVoice) | **1.00** | 55.4k | AI & Data Science |
+| 10 | [**floci**](https://github.com/floci-io/floci) | **1.00** | 30.0k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 7 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
