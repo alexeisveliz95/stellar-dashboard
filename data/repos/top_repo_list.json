@@ -4,8 +4,8 @@
     "name": "NVIDIA/auto-ontology",
     "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
     "url": "https://github.com/NVIDIA/auto-ontology",
-    "stars": 3728,
-    "growth": 2053,
+    "stars": 6419,
+    "growth": 2707,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -16,203 +16,20 @@
       "nlp:ai-data-science"
     ],
     "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_max-sixty_worktrunk",
-    "name": "max-sixty/worktrunk",
-    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-    "url": "https://github.com/max-sixty/worktrunk",
-    "stars": 10789,
-    "growth": 524,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agents",
-      "claude-code",
-      "codex",
-      "developer-tools",
-      "git",
-      "worktrees"
-    ],
-    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_mattpocock_skills",
     "name": "mattpocock/skills",
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
     "url": "https://github.com/mattpocock/skills",
-    "stars": 312274,
-    "growth": 1376,
+    "stars": 314251,
+    "growth": 2053,
     "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_floci-io_floci",
-    "name": "floci-io/floci",
-    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-    "url": "https://github.com/floci-io/floci",
-    "stars": 29244,
-    "growth": 1082,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "raw_topics": [
-      "aws",
-      "aws-emulation",
-      "devops",
-      "docker",
-      "ec2",
-      "ecs",
-      "localstack",
-      "s3",
-      "sqs",
-      "testcontainers"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_thedotmack_claude-mem",
-    "name": "thedotmack/claude-mem",
-    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "stars": 112439,
-    "growth": 1165,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "anthropic",
-      "artificial-intelligence",
-      "chromadb",
-      "claude",
-      "claude-agent-sdk",
-      "claude-agents",
-      "claude-code",
-      "claude-code-plugin",
-      "claude-skills",
-      "embeddings",
-      "long-term-memory",
-      "mem0",
-      "memory-engine",
-      "openmemory",
-      "rag",
-      "sqlite",
-      "supermemory"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_vercel-labs_agent-desktop",
-    "name": "vercel-labs/agent-desktop",
-    "description": "Computer use CLI for AI agents",
-    "url": "https://github.com/vercel-labs/agent-desktop",
-    "stars": 14045,
-    "growth": 2463,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "accessibility",
-      "accessibility-api",
-      "ai-agents",
-      "automation",
-      "cli",
-      "computer-use",
-      "computer-use-agent",
-      "computer-use-agents",
-      "desktop-automation",
-      "macos",
-      "mcp",
-      "rust"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_github_spec-kit",
-    "name": "github/spec-kit",
-    "description": "💫 Toolkit to help you get started with SDD or any other process!",
-    "url": "https://github.com/github/spec-kit",
-    "stars": 146935,
-    "growth": 810,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_harry0703_MoneyPrinterTurbo",
-    "name": "harry0703/MoneyPrinterTurbo",
-    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "stars": 138573,
-    "growth": 615,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai-video-generator",
-      "content-creation",
-      "ffmpeg",
-      "instagram-reels",
-      "llm",
-      "python",
-      "short-video",
-      "subtitles",
-      "text-to-speech",
-      "tiktok",
-      "video-automation",
-      "video-workflow",
-      "workflow-automation",
-      "youtube-shorts"
-    ],
     "raw_license": "MIT"
   },
   {
@@ -220,8 +37,8 @@
     "name": "garrytan/gstack",
     "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
     "url": "https://github.com/garrytan/gstack",
-    "stars": 139047,
-    "growth": 285,
+    "stars": 139642,
+    "growth": 608,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -231,40 +48,45 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_MichaelCade_90DaysOfDevOps",
-    "name": "MichaelCade/90DaysOfDevOps",
-    "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-    "stars": 30158,
-    "growth": 156,
+    "id": "github_trending_Usagi-org_ai-goofish-monitor",
+    "name": "Usagi-org/ai-goofish-monitor",
+    "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "stars": 17322,
+    "growth": 242,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Shell",
+    "language": "Python",
     "tags": [
-      "nlp:ai-data-science"
+      "ai"
     ],
     "raw_topics": [
-      "ansible",
-      "backup",
-      "containers",
-      "devops",
-      "iac",
-      "kubernetes",
-      "networking",
-      "terraform"
+      "ai",
+      "ai-assistant",
+      "ai-tools",
+      "automation",
+      "gemini",
+      "goofish",
+      "open-source",
+      "openai",
+      "playwright",
+      "tool",
+      "xian-yu",
+      "xianyu",
+      "xianyu-bot"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "MIT"
   },
   {
     "id": "github_trending_D4Vinci_Scrapling",
     "name": "D4Vinci/Scrapling",
     "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "stars": 95770,
-    "growth": 2006,
+    "stars": 97377,
+    "growth": 1661,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -299,67 +121,71 @@
     "raw_license": "BSD-3-Clause"
   },
   {
-    "id": "github_trending_The-PR-Agent_pr-agent",
-    "name": "The-PR-Agent/pr-agent",
-    "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-    "url": "https://github.com/The-PR-Agent/pr-agent",
-    "stars": 14513,
-    "growth": 279,
-    "score": 0.9309,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "ai",
-      "anthropic",
-      "code-review",
-      "coding-assistant",
-      "devtools",
-      "ollama",
-      "openai",
-      "pull-request",
-      "pull-requests"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_Thysrael_Horizon",
-    "name": "Thysrael/Horizon",
-    "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
-    "url": "https://github.com/Thysrael/Horizon",
-    "stars": 12294,
-    "growth": 121,
-    "score": 0.9112,
+    "id": "github_trending_vercel-labs_agent-desktop",
+    "name": "vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "url": "https://github.com/vercel-labs/agent-desktop",
+    "stars": 16189,
+    "growth": 2173,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "Rust",
+    "tags": [
+      "nlp:ai-data-science"
+    ],
+    "raw_topics": [
+      "accessibility",
+      "accessibility-api",
+      "ai-agents",
+      "automation",
+      "cli",
+      "computer-use",
+      "computer-use-agent",
+      "computer-use-agents",
+      "desktop-automation",
+      "macos",
+      "mcp",
+      "rust"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_max-sixty_worktrunk",
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "stars": 11323,
+    "growth": 546,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
     "tags": [
       "ai"
     ],
     "raw_topics": [
-      "aggregator",
-      "feishu-bot",
-      "llm",
-      "mcp",
-      "news",
-      "openclaw",
-      "python",
-      "webhook"
+      "agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "git",
+      "worktrees"
     ],
-    "raw_license": "MIT"
+    "raw_license": "NOASSERTION"
   },
   {
     "id": "github_trending_scenario-labs_skills",
     "name": "scenario-labs/skills",
     "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
     "url": "https://github.com/scenario-labs/skills",
-    "stars": 2097,
-    "growth": 224,
-    "score": 0.9,
+    "stars": 2770,
+    "growth": 674,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -393,18 +219,147 @@
     "raw_license": "MIT"
   },
   {
+    "id": "github_trending_microsoft_VibeVoice",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "stars": 55416,
+    "growth": 214,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_floci-io_floci",
+    "name": "floci-io/floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "url": "https://github.com/floci-io/floci",
+    "stars": 30018,
+    "growth": 784,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Java",
+    "raw_topics": [
+      "aws",
+      "aws-emulation",
+      "devops",
+      "docker",
+      "ec2",
+      "ecs",
+      "localstack",
+      "s3",
+      "sqs",
+      "testcontainers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_vercel-labs_agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "stars": 45632,
+    "growth": 132,
+    "score": 0.9962,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_google_skills",
+    "name": "google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "url": "https://github.com/google/skills",
+    "stars": 22118,
+    "growth": 199,
+    "score": 0.8902,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_ConardLi_garden-skills",
+    "name": "ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "stars": 13956,
+    "growth": 181,
+    "score": 0.8615,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "agent",
+      "claude",
+      "gpt-image-2",
+      "rag",
+      "skills",
+      "web-design"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_JiaFeiMiao-K-Cat_DiscImageStudio",
     "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
     "description": "",
     "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-    "stars": 6022,
-    "growth": 1792,
-    "score": 0.8623,
+    "stars": 7000,
+    "growth": 977,
+    "score": 0.8505,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "C#",
     "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_lz4_lz4",
+    "name": "lz4/lz4",
+    "description": "Extremely Fast Compression algorithm",
+    "url": "https://github.com/lz4/lz4",
+    "stars": 12238,
+    "growth": 16,
+    "score": 0.7381,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "raw_topics": [
+      "c",
+      "compression",
+      "lz4"
+    ],
+    "raw_license": "NOASSERTION"
   }
 ]
