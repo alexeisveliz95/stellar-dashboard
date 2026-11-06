@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-05 14:25`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-06 12:37`
+> 📦 **28** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | 6.4k | +2.7k | Python |
-| 2 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | 16.2k | +2.2k | Rust |
-| 3 | [**skills**](https://github.com/mattpocock/skills) | 314.3k | +2.1k | Shell |
-| 4 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | 97.4k | +1.7k | Python |
-| 5 | [**DiscImageStudio**](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | 7.0k | +977 | C# |
-| 6 | [**floci**](https://github.com/floci-io/floci) | 30.0k | +784 | Java |
-| 7 | [**skills**](https://github.com/scenario-labs/skills) | 2.8k | +674 | Python |
-| 8 | [**gstack**](https://github.com/garrytan/gstack) | 139.6k | +608 | TypeScript |
-| 9 | [**worktrunk**](https://github.com/max-sixty/worktrunk) | 11.3k | +546 | Rust |
-| 10 | [**ai-goofish-monitor**](https://github.com/Usagi-org/ai-goofish-monitor) | 17.3k | +242 | Python |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 62.8k | +2.5k | JavaScript |
+| 2 | [**skills**](https://github.com/mattpocock/skills) | 316.1k | +2.1k | Shell |
+| 3 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | 8.3k | +2.0k | Python |
+| 4 | [**skills**](https://github.com/google/skills) | 22.6k | +532 | Python |
+| 5 | [**lz4**](https://github.com/lz4/lz4) | 12.5k | +313 | C |
+| 6 | [**vscode**](https://github.com/microsoft/vscode) | 194.8k | +295 | TypeScript |
+| 7 | [**zed**](https://github.com/zed-industries/zed) | 93.0k | +292 | Rust |
+| 8 | [**react**](https://github.com/react/react) | 252.1k | +244 | JavaScript |
+| 9 | [**rust**](https://github.com/rust-lang/rust) | 121.2k | +186 | Rust |
+| 10 | [**prometheus**](https://github.com/prometheus/prometheus) | 67.0k | +140 | Go |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | **1.00** | 6.4k | AI & Data Science |
-| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 314.3k | Otros |
-| 🥉 | [**gstack**](https://github.com/garrytan/gstack) | **1.00** | 139.6k | Otros |
-| 4 | [**ai-goofish-monitor**](https://github.com/Usagi-org/ai-goofish-monitor) | **1.00** | 17.3k | AI & Data Science |
-| 5 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | **1.00** | 97.4k | Web Development |
-| 6 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | **1.00** | 16.2k | AI & Data Science |
-| 7 | [**worktrunk**](https://github.com/max-sixty/worktrunk) | **1.00** | 11.3k | AI & Data Science |
-| 8 | [**skills**](https://github.com/scenario-labs/skills) | **1.00** | 2.8k | AI & Data Science |
-| 9 | [**VibeVoice**](https://github.com/microsoft/VibeVoice) | **1.00** | 55.4k | AI & Data Science |
-| 10 | [**floci**](https://github.com/floci-io/floci) | **1.00** | 30.0k | Otros |
+| 🥇 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | **1.00** | 8.3k | AI & Data Science |
+| 🥈 | [**react**](https://github.com/react/react) | **1.00** | 252.1k | Web Development |
+| 🥉 | [**vscode**](https://github.com/microsoft/vscode) | **1.00** | 194.8k | Otros |
+| 4 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 316.1k | Otros |
+| 5 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 62.8k | Cybersecurity & Hacking |
+| 6 | [**zed**](https://github.com/zed-industries/zed) | **0.99** | 93.0k | Otros |
+| 7 | [**rust**](https://github.com/rust-lang/rust) | **0.95** | 121.2k | Otros |
+| 8 | [**skills**](https://github.com/google/skills) | **0.91** | 22.6k | Otros |
+| 9 | [**angular**](https://github.com/angular/angular) | **0.91** | 101.1k | Web Development |
+| 10 | [**prometheus**](https://github.com/prometheus/prometheus) | **0.90** | 67.0k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**Otros**](Categorias/Otros.md) | 12 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.80** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **0.71** |
 
 ---

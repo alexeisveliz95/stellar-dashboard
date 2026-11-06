@@ -368,3 +368,6 @@
 | 2026-11-05 | **1** | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2707 | 6.4k | `1.00` |
 | 2026-11-05 | **2** | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | +2173 | 16.2k | `1.00` |
 | 2026-11-05 | **3** | [skills](https://github.com/mattpocock/skills) | +2053 | 314.3k | `1.00` |
+| 2026-11-06 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2524 | 62.8k | `1.00` |
+| 2026-11-06 | **2** | [skills](https://github.com/mattpocock/skills) | +2058 | 316.1k | `1.00` |
+| 2026-11-06 | **3** | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2005 | 8.3k | `1.00` |
