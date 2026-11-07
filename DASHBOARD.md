@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-06 14:01`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-07 11:27`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 62.8k | +2.5k | JavaScript |
-| 2 | [**skills**](https://github.com/mattpocock/skills) | 316.1k | +2.1k | Shell |
-| 3 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | 8.3k | +2.0k | Python |
-| 4 | [**skills**](https://github.com/google/skills) | 22.6k | +532 | Python |
-| 5 | [**lz4**](https://github.com/lz4/lz4) | 12.5k | +313 | C |
-| 6 | [**vscode**](https://github.com/microsoft/vscode) | 194.8k | +295 | TypeScript |
-| 7 | [**zed**](https://github.com/zed-industries/zed) | 93.0k | +292 | Rust |
-| 8 | [**react**](https://github.com/react/react) | 252.1k | +244 | JavaScript |
-| 9 | [**rust**](https://github.com/rust-lang/rust) | 121.2k | +186 | Rust |
-| 10 | [**prometheus**](https://github.com/prometheus/prometheus) | 67.0k | +140 | Go |
+| 1 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | 64.7k | +2.5k | JavaScript |
+| 2 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | 16.2k | +2.0k | TypeScript |
+| 3 | [**sherlock**](https://github.com/sherlock-project/sherlock) | 99.3k | +1.8k | Python |
+| 4 | [**skills**](https://github.com/mattpocock/skills) | 317.1k | +1.1k | Shell |
+| 5 | [**skills**](https://github.com/google/skills) | 23.0k | +449 | Python |
+| 6 | [**skills**](https://github.com/anthropics/skills) | 188.3k | +386 | Python |
+| 7 | [**zed**](https://github.com/zed-industries/zed) | 94.0k | +306 | Rust |
+| 8 | [**astryx**](https://github.com/meta/astryx) | 14.1k | +198 | TypeScript |
+| 9 | [**billion-context**](https://github.com/ranxianglei/billion-context) | 4.4k | +185 | TypeScript |
+| 10 | [**localthings**](https://github.com/mbillow/localthings) | 930 | +184 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | **1.00** | 8.3k | AI & Data Science |
-| 🥈 | [**react**](https://github.com/react/react) | **1.00** | 252.1k | Web Development |
-| 🥉 | [**vscode**](https://github.com/microsoft/vscode) | **1.00** | 194.8k | Otros |
-| 4 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 316.1k | Otros |
-| 5 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 62.8k | Cybersecurity & Hacking |
-| 6 | [**zed**](https://github.com/zed-industries/zed) | **0.99** | 93.0k | Otros |
-| 7 | [**rust**](https://github.com/rust-lang/rust) | **0.95** | 121.2k | Otros |
-| 8 | [**skills**](https://github.com/google/skills) | **0.91** | 22.6k | Otros |
-| 9 | [**angular**](https://github.com/angular/angular) | **0.91** | 101.1k | Web Development |
-| 10 | [**prometheus**](https://github.com/prometheus/prometheus) | **0.90** | 67.0k | Otros |
+| 🥇 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | **1.00** | 64.7k | Cybersecurity & Hacking |
+| 🥈 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 317.1k | Otros |
+| 🥉 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 188.3k | Otros |
+| 4 | [**sherlock**](https://github.com/sherlock-project/sherlock) | **1.00** | 99.3k | Otros |
+| 5 | [**zed**](https://github.com/zed-industries/zed) | **1.00** | 94.0k | Otros |
+| 6 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **0.99** | 16.2k | Otros |
+| 7 | [**skills**](https://github.com/google/skills) | **0.96** | 23.0k | Otros |
+| 8 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | **0.94** | 46.4k | AI & Data Science |
+| 9 | [**tailwindcss**](https://github.com/tailwindlabs/tailwindcss) | **0.93** | 98.2k | Web Development |
+| 10 | [**prometheus**](https://github.com/prometheus/prometheus) | **0.90** | 67.3k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 1 | **0.94** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **0.88** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 9 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.93** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

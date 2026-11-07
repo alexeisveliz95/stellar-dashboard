@@ -371,3 +371,6 @@
 | 2026-11-06 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2524 | 62.8k | `1.00` |
 | 2026-11-06 | **2** | [skills](https://github.com/mattpocock/skills) | +2058 | 316.1k | `1.00` |
 | 2026-11-06 | **3** | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | +2005 | 8.3k | `1.00` |
+| 2026-11-07 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2548 | 64.7k | `1.00` |
+| 2026-11-07 | **2** | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1986 | 16.2k | `0.99` |
+| 2026-11-07 | **3** | [sherlock](https://github.com/sherlock-project/sherlock) | +1761 | 99.3k | `1.00` |
