@@ -374,3 +374,6 @@
 | 2026-11-07 | **1** | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +2548 | 64.7k | `1.00` |
 | 2026-11-07 | **2** | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1986 | 16.2k | `0.99` |
 | 2026-11-07 | **3** | [sherlock](https://github.com/sherlock-project/sherlock) | +1761 | 99.3k | `1.00` |
+| 2026-11-08 | **1** | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1955 | 17.6k | `1.00` |
+| 2026-11-08 | **2** | [sherlock](https://github.com/sherlock-project/sherlock) | +1766 | 101.6k | `1.00` |
+| 2026-11-08 | **3** | [skills](https://github.com/anthropics/skills) | +390 | 189.1k | `1.00` |
