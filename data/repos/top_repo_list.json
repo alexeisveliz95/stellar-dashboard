@@ -1,61 +1,11 @@
 [
   {
-    "id": "github_trending_cloudflare_security-audit-skill",
-    "name": "cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "stars": 64735,
-    "growth": 2548,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_mattpocock_skills",
-    "name": "mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "url": "https://github.com/mattpocock/skills",
-    "stars": 317136,
-    "growth": 1111,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Shell",
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_anthropics_skills",
-    "name": "anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "url": "https://github.com/anthropics/skills",
-    "stars": 188337,
-    "growth": 386,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "agent-skills"
-    ]
-  },
-  {
     "id": "github_trending_sherlock-project_sherlock",
     "name": "sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
     "url": "https://github.com/sherlock-project/sherlock",
-    "stars": 99280,
-    "growth": 1761,
+    "stars": 101629,
+    "growth": 1766,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -83,34 +33,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_zed-industries_zed",
-    "name": "zed-industries/zed",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-    "url": "https://github.com/zed-industries/zed",
-    "stars": 94019,
-    "growth": 306,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "gpui",
-      "rust-lang",
-      "text-editor",
-      "zed"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
     "id": "github_trending_milind-soni_OpenMausBot",
     "name": "milind-soni/OpenMausBot",
     "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
     "url": "https://github.com/milind-soni/OpenMausBot",
-    "stars": 16158,
-    "growth": 1986,
-    "score": 0.9892,
+    "stars": 17585,
+    "growth": 1955,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
@@ -123,7 +52,6 @@
       "computer-use",
       "docker",
       "electron",
-      "expo",
       "grok",
       "grok-bot",
       "grok-bot-alternative",
@@ -133,33 +61,13 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_google_skills",
-    "name": "google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "url": "https://github.com/google/skills",
-    "stars": 23046,
-    "growth": 449,
-    "score": 0.956,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "google",
-      "googlecloud",
-      "skills"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_vercel-labs_agent-browser",
     "name": "vercel-labs/agent-browser",
     "description": "Browser automation CLI for AI agents",
     "url": "https://github.com/vercel-labs/agent-browser",
-    "stars": 46392,
-    "growth": 180,
-    "score": 0.9403,
+    "stars": 47199,
+    "growth": 190,
+    "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
@@ -171,111 +79,55 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_tailwindlabs_tailwindcss",
-    "name": "tailwindlabs/tailwindcss",
-    "description": "A utility-first CSS framework for rapid UI development.",
-    "url": "https://github.com/tailwindlabs/tailwindcss",
-    "stars": 98188,
-    "growth": 152,
-    "score": 0.9261,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "css",
-      "css-framework",
-      "functional-css",
-      "postcss",
-      "responsive",
-      "tailwindcss",
-      "utility-classes"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_prometheus_prometheus",
-    "name": "prometheus/prometheus",
-    "description": "The Prometheus monitoring system and time series database.",
-    "url": "https://github.com/prometheus/prometheus",
-    "stars": 67282,
-    "growth": 148,
-    "score": 0.9042,
+    "id": "github_trending_anthropics_skills",
+    "name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "url": "https://github.com/anthropics/skills",
+    "stars": 189104,
+    "growth": 390,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "Python",
     "raw_topics": [
-      "alerting",
-      "graphing",
-      "hacktoberfest",
-      "metrics",
-      "monitoring",
-      "prometheus",
-      "time-series"
-    ],
-    "raw_license": "Apache-2.0"
+      "agent-skills"
+    ]
   },
   {
-    "id": "github_trending_mbillow_localthings",
-    "name": "mbillow/localthings",
-    "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-    "url": "https://github.com/mbillow/localthings",
-    "stars": 930,
-    "growth": 184,
-    "score": 0.8768,
+    "id": "github_trending_ranxianglei_billion-context",
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "url": "https://github.com/ranxianglei/billion-context",
+    "stars": 4828,
+    "growth": 191,
+    "score": 0.8451,
     "categories": [
-      "Automation & DevOps"
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "raw_topics": [
+      "dsh-plugin"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_anthropics_claude-quickstarts",
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "stars": 19163,
+    "growth": 28,
+    "score": 0.8441,
+    "categories": [
+      "Python & Backend"
     ],
     "source": "github_trending",
     "language": "Python",
     "tags": [
-      "nlp:automation-devops"
-    ],
-    "raw_topics": [
-      "coap-protocol",
-      "coap-server",
-      "custom-component",
-      "dtls",
-      "hacs",
-      "hacs-integration",
-      "home-assistant",
-      "home-automation",
-      "samsung",
-      "smartthings"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_astral-sh_ruff",
-    "name": "astral-sh/ruff",
-    "description": "An extremely fast Python linter and code formatter, written in Rust.",
-    "url": "https://github.com/astral-sh/ruff",
-    "stars": 50802,
-    "growth": 169,
-    "score": 0.8547,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "linter",
-      "pep8",
-      "python",
-      "python3",
-      "ruff",
-      "rust",
-      "rustpython",
-      "static-analysis",
-      "static-code-analysis",
-      "style-guide",
-      "styleguide"
+      "nlp:python-backend"
     ],
     "raw_license": "MIT"
   },
@@ -284,9 +136,9 @@
     "name": "dsx-ai-factory/nvke",
     "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
     "url": "https://github.com/dsx-ai-factory/nvke",
-    "stars": 332,
-    "growth": 125,
-    "score": 0.8407,
+    "stars": 677,
+    "growth": 123,
+    "score": 0.8385,
     "categories": [
       "Automation & DevOps"
     ],
@@ -305,31 +157,13 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_ranxianglei_billion-context",
-    "name": "ranxianglei/billion-context",
-    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-    "url": "https://github.com/ranxianglei/billion-context",
-    "stars": 4385,
-    "growth": 185,
-    "score": 0.8357,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "dsh-plugin"
-    ],
-    "raw_license": "NOASSERTION"
-  },
-  {
     "id": "github_trending_meta_astryx",
     "name": "meta/astryx",
     "description": "An open source design system that's fully customizable and agent ready",
     "url": "https://github.com/meta/astryx",
-    "stars": 14113,
-    "growth": 198,
-    "score": 0.7901,
+    "stars": 14970,
+    "growth": 96,
+    "score": 0.7585,
     "categories": [
       "Web Development"
     ],
@@ -339,5 +173,25 @@
       "nlp:web-development"
     ],
     "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_google-deepmind_mujoco",
+    "name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "stars": 16132,
+    "growth": 26,
+    "score": 0.7565,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "raw_topics": [
+      "mujoco",
+      "physics",
+      "robotics"
+    ],
+    "raw_license": "Apache-2.0"
   }
 ]
