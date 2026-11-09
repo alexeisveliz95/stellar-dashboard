@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-09 02:20`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-09 13:31`
+> 📦 **31** proyectos curados en **9** categorías
 
 ---
 
@@ -12,15 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | 17.6k | +2.0k | TypeScript |
-| 2 | [**sherlock**](https://github.com/sherlock-project/sherlock) | 101.6k | +1.8k | Python |
-| 3 | [**skills**](https://github.com/anthropics/skills) | 189.1k | +390 | Python |
-| 4 | [**billion-context**](https://github.com/ranxianglei/billion-context) | 4.8k | +191 | TypeScript |
-| 5 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | 47.2k | +190 | Rust |
-| 6 | [**nvke**](https://github.com/dsx-ai-factory/nvke) | 677 | +123 | Go |
-| 7 | [**astryx**](https://github.com/meta/astryx) | 15.0k | +96 | TypeScript |
-| 8 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | 19.2k | +28 | Python |
-| 9 | [**mujoco**](https://github.com/google-deepmind/mujoco) | 16.1k | +26 | C++ |
+| 1 | [**sherlock**](https://github.com/sherlock-project/sherlock) | 106.1k | +4.3k | Python |
+| 2 | [**astryx**](https://github.com/meta/astryx) | 18.6k | +3.3k | TypeScript |
+| 3 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | 19.3k | +1.6k | TypeScript |
+| 4 | [**skills**](https://github.com/anthropics/skills) | 190.3k | +1.1k | Python |
+| 5 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | 48.2k | +914 | Rust |
+| 6 | [**mujoco**](https://github.com/google-deepmind/mujoco) | 16.7k | +579 | C++ |
+| 7 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | 19.8k | +560 | Python |
+| 8 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | 68.5k | +505 | Python |
+| 9 | [**gbrain**](https://github.com/garrytan/gbrain) | 31.9k | +215 | TypeScript |
+| 10 | [**RuView**](https://github.com/ruvnet/RuView) | 103.2k | +203 | Rust |
 
 ---
 
@@ -30,15 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**sherlock**](https://github.com/sherlock-project/sherlock) | **1.00** | 101.6k | Otros |
-| 🥈 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **1.00** | 17.6k | Otros |
-| 🥉 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | **1.00** | 47.2k | AI & Data Science |
-| 4 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 189.1k | Otros |
-| 5 | [**billion-context**](https://github.com/ranxianglei/billion-context) | **0.85** | 4.8k | Otros |
-| 6 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | **0.84** | 19.2k | Python & Backend |
-| 7 | [**nvke**](https://github.com/dsx-ai-factory/nvke) | **0.84** | 677 | Automation & DevOps |
-| 8 | [**astryx**](https://github.com/meta/astryx) | **0.76** | 15.0k | Web Development |
-| 9 | [**mujoco**](https://github.com/google-deepmind/mujoco) | **0.76** | 16.1k | Otros |
+| 🥇 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 190.3k | Otros |
+| 🥈 | [**sherlock**](https://github.com/sherlock-project/sherlock) | **1.00** | 106.1k | Otros |
+| 🥉 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | **1.00** | 19.8k | Python & Backend |
+| 4 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | **1.00** | 48.2k | AI & Data Science |
+| 5 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 68.5k | AI & Data Science |
+| 6 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 103.2k | Otros |
+| 7 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **1.00** | 19.3k | Otros |
+| 8 | [**astryx**](https://github.com/meta/astryx) | **0.96** | 18.6k | Web Development |
+| 9 | [**mujoco**](https://github.com/google-deepmind/mujoco) | **0.92** | 16.7k | Otros |
+| 10 | [**gbrain**](https://github.com/garrytan/gbrain) | **0.88** | 31.9k | Otros |
 
 ---
 
@@ -85,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Otros**](Categorias/Otros.md) | 6 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.96** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
-> Actualizado: `2026-05-19 08:19`
+> **6 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **467.4k**
+> Actualizado: `2026-11-09 13:31`
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
-| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
-| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
-| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
-| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [**skills**](https://github.com/anthropics/skills) | **1.00** | 190.3k | `█░░░░░░░░░` | Public repository for Agent Skills |
+| [**sherlock**](https://github.com/sherlock-project/sherlock) | **1.00** | 106.1k | `█████░░░░░` | Hunt down social media accounts by username across social networks |
+| [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 103.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **1.00** | 19.3k | `██████████` | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [**mujoco**](https://github.com/google-deepmind/mujoco) | **0.92** | 16.7k | `████░░░░░░` | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| [**gbrain**](https://github.com/garrytan/gbrain) | **0.88** | 31.9k | `█░░░░░░░░░` | Garry's Opinionated OpenClaw/Hermes Agent Brain |
 
 ---
