@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T02:05:07.589661+00:00",
+  "updated_at": "2026-11-09T02:20:57.179413+00:00",
   "weeks": [
+    {
+      "week_id": "2026-W46",
+      "week_start": "2026-11-09",
+      "generated_at": "2026-11-09T02:20:57.179413+00:00",
+      "picks": [
+        {
+          "name": "MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "score": 0.73,
+          "stars": 138600,
+          "growth": 615,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "score": 0.71,
+          "stars": 45800,
+          "growth": 855,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "score": 0.0,
+          "stars": 11600,
+          "growth": 3792,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "score": 0.0,
+          "stars": 40000,
+          "growth": 3216,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "score": 0.0,
+          "stars": 6400,
+          "growth": 2707,
+          "momentum": 1.0,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "score": 0.0,
+          "stars": 64700,
+          "growth": 2548,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "skills",
+          "url": "https://github.com/mattpocock/skills",
+          "score": 0.0,
+          "stars": 316100,
+          "growth": 2058,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "score": 0.0,
+          "stars": 95800,
+          "growth": 2006,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "score": 0.0,
+          "stars": 16200,
+          "growth": 1986,
+          "momentum": 0.3,
+          "language": null,
+          "description": null
+        },
+        {
+          "name": "claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "score": 0.0,
+          "stars": 110300,
+          "growth": 1799,
+          "momentum": 0.1,
+          "language": null,
+          "description": null
+        }
+      ]
+    },
     {
       "week_id": "2026-W45",
       "week_start": "2026-11-02",
@@ -318,113 +425,6 @@
           "stars": 11300,
           "growth": 1502,
           "momentum": 0.8,
-          "language": null,
-          "description": null
-        }
-      ]
-    },
-    {
-      "week_id": "2026-W42",
-      "week_start": "2026-10-12",
-      "generated_at": "2026-10-12T02:00:22.693084+00:00",
-      "picks": [
-        {
-          "name": "rea",
-          "url": "https://github.com/morluto/rea",
-          "score": 0.0,
-          "stars": 85000,
-          "growth": 25793,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "AnyPS5",
-          "url": "https://github.com/boykopovar/AnyPS5",
-          "score": 0.0,
-          "stars": 24200,
-          "growth": 5868,
-          "momentum": 0.8,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "artcraft",
-          "url": "https://github.com/storytold/artcraft",
-          "score": 0.0,
-          "stars": 12800,
-          "growth": 3752,
-          "momentum": 1.0,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "skills",
-          "url": "https://github.com/mattpocock/skills",
-          "score": 0.0,
-          "stars": 281900,
-          "growth": 1774,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "diagram-design",
-          "url": "https://github.com/cathrynlavery/diagram-design",
-          "score": 0.0,
-          "stars": 48400,
-          "growth": 1739,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "e2e",
-          "url": "https://github.com/tester-army/e2e",
-          "score": 0.0,
-          "stars": 5500,
-          "growth": 1720,
-          "momentum": 0.7,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "openGym",
-          "url": "https://github.com/DuarteSantos8/openGym",
-          "score": 0.0,
-          "stars": 6300,
-          "growth": 1494,
-          "momentum": 0.6,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "Agent-Reach",
-          "url": "https://github.com/Panniantong/Agent-Reach",
-          "score": 0.0,
-          "stars": 91400,
-          "growth": 1156,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "impeccable",
-          "url": "https://github.com/pbakaus/impeccable",
-          "score": 0.0,
-          "stars": 77300,
-          "growth": 947,
-          "momentum": 0.1,
-          "language": null,
-          "description": null
-        },
-        {
-          "name": "gods-eye-view",
-          "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "score": 0.0,
-          "stars": 50700,
-          "growth": 872,
-          "momentum": 0.1,
           "language": null,
           "description": null
         }
