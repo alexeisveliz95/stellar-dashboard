@@ -380,3 +380,6 @@
 | 2026-11-09 | **1** | [sherlock](https://github.com/sherlock-project/sherlock) | +4294 | 106.1k | `1.00` |
 | 2026-11-09 | **2** | [astryx](https://github.com/meta/astryx) | +3324 | 18.6k | `0.96` |
 | 2026-11-09 | **3** | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) | +1589 | 19.3k | `1.00` |
+| 2026-11-10 | **1** | [astryx](https://github.com/meta/astryx) | +3111 | 21.6k | `1.00` |
+| 2026-11-10 | **2** | [sherlock](https://github.com/sherlock-project/sherlock) | +2387 | 108.3k | `1.00` |
+| 2026-11-10 | **3** | [skills](https://github.com/anthropics/skills) | +1676 | 191.8k | `1.00` |

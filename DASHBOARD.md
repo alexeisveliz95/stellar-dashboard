@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-09 15:48`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-10 13:09`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**sherlock**](https://github.com/sherlock-project/sherlock) | 106.1k | +4.3k | Python |
-| 2 | [**astryx**](https://github.com/meta/astryx) | 18.6k | +3.3k | TypeScript |
-| 3 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | 19.3k | +1.6k | TypeScript |
-| 4 | [**skills**](https://github.com/anthropics/skills) | 190.3k | +1.1k | Python |
-| 5 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | 48.2k | +914 | Rust |
-| 6 | [**mujoco**](https://github.com/google-deepmind/mujoco) | 16.7k | +579 | C++ |
-| 7 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | 19.8k | +560 | Python |
-| 8 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | 68.5k | +505 | Python |
-| 9 | [**gbrain**](https://github.com/garrytan/gbrain) | 31.9k | +215 | TypeScript |
-| 10 | [**RuView**](https://github.com/ruvnet/RuView) | 103.2k | +203 | Rust |
+| 1 | [**astryx**](https://github.com/meta/astryx) | 21.6k | +3.1k | TypeScript |
+| 2 | [**sherlock**](https://github.com/sherlock-project/sherlock) | 108.3k | +2.4k | Python |
+| 3 | [**skills**](https://github.com/anthropics/skills) | 191.8k | +1.7k | Python |
+| 4 | [**skills**](https://github.com/mattpocock/skills) | 320.4k | +1.2k | Shell |
+| 5 | [**ha-mcp**](https://github.com/homeassistant-ai/ha-mcp) | 6.4k | +792 | Python |
+| 6 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | 48.9k | +775 | Rust |
+| 7 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | 20.3k | +530 | Python |
+| 8 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 114.8k | +465 | JavaScript |
+| 9 | [**mujoco**](https://github.com/google-deepmind/mujoco) | 17.2k | +453 | C++ |
+| 10 | [**billion-context**](https://github.com/ranxianglei/billion-context) | 6.0k | +374 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 190.3k | Otros |
-| 🥈 | [**sherlock**](https://github.com/sherlock-project/sherlock) | **1.00** | 106.1k | Otros |
-| 🥉 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | **1.00** | 19.8k | Python & Backend |
-| 4 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | **1.00** | 48.2k | AI & Data Science |
-| 5 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 68.5k | AI & Data Science |
-| 6 | [**RuView**](https://github.com/ruvnet/RuView) | **1.00** | 103.2k | Otros |
-| 7 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | **1.00** | 19.3k | Otros |
-| 8 | [**astryx**](https://github.com/meta/astryx) | **0.96** | 18.6k | Web Development |
-| 9 | [**mujoco**](https://github.com/google-deepmind/mujoco) | **0.92** | 16.7k | Otros |
-| 10 | [**gbrain**](https://github.com/garrytan/gbrain) | **0.88** | 31.9k | Otros |
+| 🥇 | [**astryx**](https://github.com/meta/astryx) | **1.00** | 21.6k | Web Development |
+| 🥈 | [**skills**](https://github.com/anthropics/skills) | **1.00** | 191.8k | Otros |
+| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 114.8k | AI & Data Science |
+| 4 | [**claude-quickstarts**](https://github.com/anthropics/claude-quickstarts) | **1.00** | 20.3k | Python & Backend |
+| 5 | [**ha-mcp**](https://github.com/homeassistant-ai/ha-mcp) | **1.00** | 6.4k | AI & Data Science |
+| 6 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | **1.00** | 48.9k | AI & Data Science |
+| 7 | [**sherlock**](https://github.com/sherlock-project/sherlock) | **1.00** | 108.3k | Otros |
+| 8 | [**skills**](https://github.com/mattpocock/skills) | **1.00** | 320.4k | Otros |
+| 9 | [**mujoco**](https://github.com/google-deepmind/mujoco) | **0.96** | 17.2k | Otros |
+| 10 | [**billion-context**](https://github.com/ranxianglei/billion-context) | **0.90** | 6.0k | Otros |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
 | [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.80** |
+| [**Otros**](Categorias/Otros.md) | 5 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
