@@ -1,11 +1,29 @@
 [
   {
+    "id": "github_trending_meta_astryx",
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "url": "https://github.com/meta/astryx",
+    "stars": 21579,
+    "growth": 3111,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_anthropics_skills",
     "name": "anthropics/skills",
     "description": "Public repository for Agent Skills",
     "url": "https://github.com/anthropics/skills",
-    "stars": 190260,
-    "growth": 1052,
+    "stars": 191809,
+    "growth": 1676,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -17,12 +35,102 @@
     ]
   },
   {
+    "id": "github_trending_addyosmani_agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "stars": 114815,
+    "growth": 465,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_anthropics_claude-quickstarts",
+    "name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "stars": 20270,
+    "growth": 530,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_homeassistant-ai_ha-mcp",
+    "name": "homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "stars": 6355,
+    "growth": 792,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "ai",
+      "claude",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_vercel-labs_agent-browser",
+    "name": "vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "stars": 48915,
+    "growth": 775,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "ai"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
     "id": "github_trending_sherlock-project_sherlock",
     "name": "sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
     "url": "https://github.com/sherlock-project/sherlock",
-    "stars": 106072,
-    "growth": 4294,
+    "stars": 108290,
+    "growth": 2387,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -50,148 +158,18 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_anthropics_claude-quickstarts",
-    "name": "anthropics/claude-quickstarts",
-    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "url": "https://github.com/anthropics/claude-quickstarts",
-    "stars": 19766,
-    "growth": 560,
+    "id": "github_trending_mattpocock_skills",
+    "name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "url": "https://github.com/mattpocock/skills",
+    "stars": 320367,
+    "growth": 1223,
     "score": 1.0,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_vercel-labs_agent-browser",
-    "name": "vercel-labs/agent-browser",
-    "description": "Browser automation CLI for AI agents",
-    "url": "https://github.com/vercel-labs/agent-browser",
-    "stars": 48164,
-    "growth": 914,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_ZhuLinsen_daily_stock_analysis",
-    "name": "ZhuLinsen/daily_stock_analysis",
-    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "stars": 68505,
-    "growth": 505,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "a-stock",
-      "ai-agent",
-      "aigc",
-      "llm",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ruvnet_RuView",
-    "name": "ruvnet/RuView",
-    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "url": "https://github.com/ruvnet/RuView",
-    "stars": 103180,
-    "growth": 203,
-    "score": 0.9971,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Rust",
-    "raw_topics": [
-      "claude",
-      "claude-code",
-      "esp32",
-      "firmware",
-      "home-assistant",
-      "home-automation",
-      "iot",
-      "mcp",
-      "monitoring",
-      "networking",
-      "pose-estimation",
-      "react",
-      "rf",
-      "self-learning",
-      "spatial-intelligence",
-      "typescript",
-      "webassembly",
-      "wifi",
-      "wifi-security"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_milind-soni_OpenMausBot",
-    "name": "milind-soni/OpenMausBot",
-    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-    "url": "https://github.com/milind-soni/OpenMausBot",
-    "stars": 19255,
-    "growth": 1589,
-    "score": 0.9953,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "ai-agents",
-      "claude-code",
-      "codex",
-      "computer-use",
-      "docker",
-      "electron",
-      "grok",
-      "grok-bot",
-      "grok-bot-alternative",
-      "self-hosted",
-      "typescript"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_meta_astryx",
-    "name": "meta/astryx",
-    "description": "An open source design system that's fully customizable and agent ready",
-    "url": "https://github.com/meta/astryx",
-    "stars": 18552,
-    "growth": 3324,
-    "score": 0.9553,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
+    "language": "Shell",
     "raw_license": "MIT"
   },
   {
@@ -199,9 +177,9 @@
     "name": "google-deepmind/mujoco",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/google-deepmind/mujoco",
-    "stars": 16749,
-    "growth": 579,
-    "score": 0.9171,
+    "stars": 17174,
+    "growth": 453,
+    "score": 0.9635,
     "categories": [
       "Otros"
     ],
@@ -215,45 +193,56 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_garrytan_gbrain",
-    "name": "garrytan/gbrain",
-    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-    "url": "https://github.com/garrytan/gbrain",
-    "stars": 31898,
-    "growth": 215,
-    "score": 0.8816,
+    "id": "github_trending_ranxianglei_billion-context",
+    "name": "ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+    "url": "https://github.com/ranxianglei/billion-context",
+    "stars": 5997,
+    "growth": 374,
+    "score": 0.8967,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
     "language": "TypeScript",
-    "raw_license": "MIT"
+    "raw_topics": [
+      "dsh-plugin"
+    ],
+    "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_homeassistant-ai_ha-mcp",
-    "name": "homeassistant-ai/ha-mcp",
-    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-    "url": "https://github.com/homeassistant-ai/ha-mcp",
-    "stars": 5594,
-    "growth": 31,
-    "score": 0.7232,
+    "id": "github_trending_we-promise_sure",
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "url": "https://github.com/we-promise/sure",
+    "stars": 11459,
+    "growth": 184,
+    "score": 0.8032,
     "categories": [
-      "AI & Data Science"
+      "Mobile Development"
     ],
     "source": "github_trending",
-    "language": "Python",
+    "language": "Ruby",
     "tags": [
-      "ai"
+      "nlp:mobile-development"
     ],
-    "raw_topics": [
-      "ai",
-      "claude",
-      "hacs",
-      "home-assistant",
-      "home-automation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_tokio-rs_topcoat",
+    "name": "tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps",
+    "url": "https://github.com/tokio-rs/topcoat",
+    "stars": 6603,
+    "growth": 192,
+    "score": 0.7332,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Rust",
+    "tags": [
+      "nlp:web-development"
     ],
     "raw_license": "MIT"
   }

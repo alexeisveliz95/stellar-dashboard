@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **28.2k**
-> Actualizado: `2026-11-10 13:09`
+> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
+> Actualizado: `2026-05-18 08:39`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**astryx**](https://github.com/meta/astryx) | **1.00** | 21.6k | `██████████` | An open source design system that's fully customizable and agent ready |
-| [**topcoat**](https://github.com/tokio-rs/topcoat) | **0.73** | 6.6k | `██░░░░░░░░` | A batteries-included framework for building web apps |
+| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
 ---
