@@ -383,3 +383,6 @@
 | 2026-11-10 | **1** | [astryx](https://github.com/meta/astryx) | +3111 | 21.6k | `1.00` |
 | 2026-11-10 | **2** | [sherlock](https://github.com/sherlock-project/sherlock) | +2387 | 108.3k | `1.00` |
 | 2026-11-10 | **3** | [skills](https://github.com/anthropics/skills) | +1676 | 191.8k | `1.00` |
+| 2026-11-11 | **1** | [astryx](https://github.com/meta/astryx) | +2842 | 24.2k | `1.00` |
+| 2026-11-11 | **2** | [sure](https://github.com/we-promise/sure) | +1079 | 12.5k | `1.00` |
+| 2026-11-11 | **3** | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +960 | 69.8k | `1.00` |
