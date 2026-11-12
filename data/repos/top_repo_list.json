@@ -1,191 +1,12 @@
 [
   {
-    "id": "github_trending_meta_astryx",
-    "name": "meta/astryx",
-    "description": "An open source design system that's fully customizable and agent ready",
-    "url": "https://github.com/meta/astryx",
-    "stars": 24175,
-    "growth": 2842,
-    "score": 1.0,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ZhuLinsen_daily_stock_analysis",
-    "name": "ZhuLinsen/daily_stock_analysis",
-    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "stars": 69750,
-    "growth": 960,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "a-stock",
-      "ai-agent",
-      "aigc",
-      "llm",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_addyosmani_agent-skills",
-    "name": "addyosmani/agent-skills",
-    "description": "Production-grade engineering skills for AI coding agents.",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "stars": 115558,
-    "growth": 788,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_vercel-labs_agent-browser",
-    "name": "vercel-labs/agent-browser",
-    "description": "Browser automation CLI for AI agents",
-    "url": "https://github.com/vercel-labs/agent-browser",
-    "stars": 49586,
-    "growth": 712,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "ai"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_we-promise_sure",
-    "name": "we-promise/sure",
-    "description": "The personal finance app for everyone (by everyone)",
-    "url": "https://github.com/we-promise/sure",
-    "stars": 12496,
-    "growth": 1079,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Ruby",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_homeassistant-ai_ha-mcp",
-    "name": "homeassistant-ai/ha-mcp",
-    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-    "url": "https://github.com/homeassistant-ai/ha-mcp",
-    "stars": 6973,
-    "growth": 640,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "ai",
-      "claude",
-      "hacs",
-      "home-assistant",
-      "home-automation",
-      "llm",
-      "mcp",
-      "model-context-protocol"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_shadcn_improve",
-    "name": "shadcn/improve",
-    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-    "url": "https://github.com/shadcn/improve",
-    "stars": 10418,
-    "growth": 333,
-    "score": 0.9189,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_TheAlgorithms_Java",
-    "name": "TheAlgorithms/Java",
-    "description": "All Algorithms implemented in Java",
-    "url": "https://github.com/TheAlgorithms/Java",
-    "stars": 66859,
-    "growth": 39,
-    "score": 0.8695,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Java",
-    "raw_topics": [
-      "algorithm",
-      "algorithm-challenges",
-      "algorithms",
-      "algorithms-datastructures",
-      "data-structures",
-      "hacktoberfest",
-      "java",
-      "search",
-      "sort",
-      "sorting-algorithms"
-    ],
-    "raw_license": "MIT"
-  },
-  {
     "id": "github_trending_openai_codex-security",
     "name": "openai/codex-security",
     "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
     "url": "https://github.com/openai/codex-security",
-    "stars": 11407,
-    "growth": 20,
-    "score": 0.8601,
+    "stars": 12114,
+    "growth": 663,
+    "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
     ],
@@ -214,13 +35,57 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_GoogleChrome_modern-web-guidance-src",
-    "name": "GoogleChrome/modern-web-guidance-src",
-    "description": "",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "stars": 1424,
-    "growth": 133,
-    "score": 0.6635,
+    "id": "github_trending_we-promise_sure",
+    "name": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "url": "https://github.com/we-promise/sure",
+    "stars": 13521,
+    "growth": 974,
+    "score": 1.0,
+    "categories": [
+      "Mobile Development"
+    ],
+    "source": "github_trending",
+    "language": "Ruby",
+    "tags": [
+      "nlp:mobile-development"
+    ],
+    "raw_license": "AGPL-3.0"
+  },
+  {
+    "id": "github_trending_addyosmani_agent-skills",
+    "name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "stars": 116368,
+    "growth": 812,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_meta_astryx",
+    "name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "url": "https://github.com/meta/astryx",
+    "stars": 25995,
+    "growth": 1789,
+    "score": 1.0,
     "categories": [
       "Web Development"
     ],
@@ -228,6 +93,227 @@
     "language": "TypeScript",
     "tags": [
       "nlp:web-development"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_Alishahryar1_free-claude-code",
+    "name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "stars": 68904,
+    "growth": 636,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_ggml-org_llama_cpp",
+    "name": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "stars": 134289,
+    "growth": 162,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "C++",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "ggml"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_QwenLM_qwen-code",
+    "name": "QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "stars": 29579,
+    "growth": 151,
+    "score": 0.9705,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agentic",
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "qwen",
+      "terminal",
+      "typescript"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_nodejs_node",
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "url": "https://github.com/nodejs/node",
+    "stars": 123511,
+    "growth": 133,
+    "score": 0.9535,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "javascript",
+      "js",
+      "linux",
+      "macos",
+      "mit",
+      "node",
+      "nodejs",
+      "runtime",
+      "windows"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_GoogleChrome_modern-web-guidance-src",
+    "name": "GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "stars": 2295,
+    "growth": 799,
+    "score": 0.9053,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_nvm-sh_nvm",
+    "name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "url": "https://github.com/nvm-sh/nvm",
+    "stars": 95934,
+    "growth": 79,
+    "score": 0.9003,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "bash",
+      "install",
+      "lts",
+      "node",
+      "node-js",
+      "nodejs",
+      "nvm",
+      "nvmrc",
+      "posix",
+      "posix-compliant",
+      "shell",
+      "version-manager",
+      "zsh"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_CopilotKit_OpenBot",
+    "name": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "stars": 11256,
+    "growth": 291,
+    "score": 0.8897,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ag-ui",
+      "agent-governance",
+      "ai-agents",
+      "browser-automation",
+      "copilotkit",
+      "generative-ui",
+      "mcp"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_pookjw_HermesEnabler",
+    "name": "pookjw/HermesEnabler",
+    "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "url": "https://github.com/pookjw/HermesEnabler",
+    "stars": 1366,
+    "growth": 390,
+    "score": 0.8495,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "Objective-C",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_ashhart_TensorFold",
+    "name": "ashhart/TensorFold",
+    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "url": "https://github.com/ashhart/TensorFold",
+    "stars": 1841,
+    "growth": 58,
+    "score": 0.7875,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Zig",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "ai",
+      "ai-tools",
+      "llm",
+      "llm-inference",
+      "llm-tools"
     ],
     "raw_license": "Apache-2.0"
   }
