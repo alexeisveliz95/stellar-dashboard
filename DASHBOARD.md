@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-11 13:55`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-12 13:26`
+> 📦 **27** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**astryx**](https://github.com/meta/astryx) | 24.2k | +2.8k | TypeScript |
-| 2 | [**sure**](https://github.com/we-promise/sure) | 12.5k | +1.1k | Ruby |
-| 3 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | 69.8k | +960 | Python |
-| 4 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 115.6k | +788 | JavaScript |
-| 5 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | 49.6k | +712 | Rust |
-| 6 | [**ha-mcp**](https://github.com/homeassistant-ai/ha-mcp) | 7.0k | +640 | Python |
-| 7 | [**improve**](https://github.com/shadcn/improve) | 10.4k | +333 | — |
-| 8 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | 1.4k | +133 | TypeScript |
-| 9 | [**Java**](https://github.com/TheAlgorithms/Java) | 66.9k | +39 | Java |
-| 10 | [**codex-security**](https://github.com/openai/codex-security) | 11.4k | +20 | TypeScript |
+| 1 | [**astryx**](https://github.com/meta/astryx) | 26.0k | +1.8k | TypeScript |
+| 2 | [**sure**](https://github.com/we-promise/sure) | 13.5k | +974 | Ruby |
+| 3 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | 116.4k | +812 | JavaScript |
+| 4 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | 2.3k | +799 | TypeScript |
+| 5 | [**codex-security**](https://github.com/openai/codex-security) | 12.1k | +663 | TypeScript |
+| 6 | [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | 68.9k | +636 | Python |
+| 7 | [**HermesEnabler**](https://github.com/pookjw/HermesEnabler) | 1.4k | +390 | Objective-C |
+| 8 | [**OpenBot**](https://github.com/CopilotKit/OpenBot) | 11.3k | +291 | TypeScript |
+| 9 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | 134.3k | +162 | C++ |
+| 10 | [**qwen-code**](https://github.com/QwenLM/qwen-code) | 29.6k | +151 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**astryx**](https://github.com/meta/astryx) | **1.00** | 24.2k | Web Development |
-| 🥈 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 69.8k | AI & Data Science |
-| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 115.6k | AI & Data Science |
-| 4 | [**agent-browser**](https://github.com/vercel-labs/agent-browser) | **1.00** | 49.6k | AI & Data Science |
-| 5 | [**sure**](https://github.com/we-promise/sure) | **1.00** | 12.5k | Mobile Development |
-| 6 | [**ha-mcp**](https://github.com/homeassistant-ai/ha-mcp) | **1.00** | 7.0k | AI & Data Science |
-| 7 | [**improve**](https://github.com/shadcn/improve) | **0.92** | 10.4k | AI & Data Science |
-| 8 | [**Java**](https://github.com/TheAlgorithms/Java) | **0.87** | 66.9k | Otros |
-| 9 | [**codex-security**](https://github.com/openai/codex-security) | **0.86** | 11.4k | Cybersecurity & Hacking |
-| 10 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.66** | 1.4k | Web Development |
+| 🥇 | [**codex-security**](https://github.com/openai/codex-security) | **1.00** | 12.1k | Cybersecurity & Hacking |
+| 🥈 | [**sure**](https://github.com/we-promise/sure) | **1.00** | 13.5k | Mobile Development |
+| 🥉 | [**agent-skills**](https://github.com/addyosmani/agent-skills) | **1.00** | 116.4k | AI & Data Science |
+| 4 | [**astryx**](https://github.com/meta/astryx) | **1.00** | 26.0k | Web Development |
+| 5 | [**free-claude-code**](https://github.com/Alishahryar1/free-claude-code) | **1.00** | 68.9k | Web Development |
+| 6 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **1.00** | 134.3k | AI & Data Science |
+| 7 | [**qwen-code**](https://github.com/QwenLM/qwen-code) | **0.97** | 29.6k | AI & Data Science |
+| 8 | [**node**](https://github.com/nodejs/node) | **0.95** | 123.5k | Python & Backend |
+| 9 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.91** | 2.3k | Web Development |
+| 10 | [**nvm**](https://github.com/nvm-sh/nvm) | **0.90** | 95.9k | Python & Backend |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 4 | **1.00** |
 | [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
 | [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.85** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **0.95** |
+| [**Web Development**](Categorias/Web_Development.md) | 4 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
