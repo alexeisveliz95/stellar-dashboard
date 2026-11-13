@@ -389,3 +389,6 @@
 | 2026-11-12 | **1** | [astryx](https://github.com/meta/astryx) | +1789 | 26.0k | `1.00` |
 | 2026-11-12 | **2** | [sure](https://github.com/we-promise/sure) | +974 | 13.5k | `1.00` |
 | 2026-11-12 | **3** | [agent-skills](https://github.com/addyosmani/agent-skills) | +812 | 116.4k | `1.00` |
+| 2026-11-13 | **1** | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1875 | 4.2k | `0.95` |
+| 2026-11-13 | **2** | [sure](https://github.com/we-promise/sure) | +944 | 14.4k | `1.00` |
+| 2026-11-13 | **3** | [codex-security](https://github.com/openai/codex-security) | +754 | 12.8k | `1.00` |

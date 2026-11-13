@@ -1,8 +1,8 @@
 # 📂 Web Development
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.80** · Estrellas totales: **91.8k**
-> Actualizado: `2026-05-18 08:39`
+> **1 proyectos** · ⭐ Mejor score: **0.95** · Estrellas totales: **4.2k**
+> Actualizado: `2026-11-13 12:44`
 
 ---
 
@@ -10,6 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**bun**](https://github.com/oven-sh/bun) | **0.80** | 91.8k | `██████████` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.95** | 4.2k | `██████████` | Keep your coding agent up to date with the latest web best practices |
 
 ---
