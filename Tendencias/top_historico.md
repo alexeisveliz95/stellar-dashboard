@@ -392,3 +392,6 @@
 | 2026-11-13 | **1** | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1875 | 4.2k | `0.95` |
 | 2026-11-13 | **2** | [sure](https://github.com/we-promise/sure) | +944 | 14.4k | `1.00` |
 | 2026-11-13 | **3** | [codex-security](https://github.com/openai/codex-security) | +754 | 12.8k | `1.00` |
+| 2026-11-14 | **1** | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1225 | 5.3k | `0.93` |
+| 2026-11-14 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +897 | 51.0k | `1.00` |
+| 2026-11-14 | **3** | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +867 | 72.1k | `1.00` |

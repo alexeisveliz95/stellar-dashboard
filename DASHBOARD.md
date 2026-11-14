@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-13 14:21`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-14 11:54`
+> 📦 **17** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | 4.2k | +1.9k | TypeScript |
-| 2 | [**sure**](https://github.com/we-promise/sure) | 14.4k | +944 | Ruby |
-| 3 | [**codex-security**](https://github.com/openai/codex-security) | 12.8k | +754 | TypeScript |
-| 4 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | 71.3k | +272 | Python |
-| 5 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | 1.4k | +245 | C++ |
-| 6 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 50.2k | +206 | Go |
-| 7 | [**tailcat**](https://github.com/tailscale/tailcat) | 9.2k | +173 | Go |
-| 8 | [**plannotator**](https://github.com/backnotprop/plannotator) | 10.3k | +100 | TypeScript |
-| 9 | [**buzz**](https://github.com/block/buzz) | 37.2k | +95 | Rust |
-| 10 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | 93.6k | +61 | JavaScript |
+| 1 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | 5.3k | +1.2k | TypeScript |
+| 2 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 51.0k | +897 | Go |
+| 3 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | 72.1k | +867 | Python |
+| 4 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 55.9k | +673 | TypeScript |
+| 5 | [**sure**](https://github.com/we-promise/sure) | 15.0k | +659 | Ruby |
+| 6 | [**codex-security**](https://github.com/openai/codex-security) | 13.4k | +599 | TypeScript |
+| 7 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | 4.4k | +556 | Python |
+| 8 | [**tailcat**](https://github.com/tailscale/tailcat) | 9.7k | +490 | Go |
+| 9 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | 94.0k | +432 | JavaScript |
+| 10 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | 1.8k | +423 | C++ |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 50.2k | AI & Data Science |
-| 🥈 | [**codex-security**](https://github.com/openai/codex-security) | **1.00** | 12.8k | Cybersecurity & Hacking |
-| 🥉 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 71.3k | AI & Data Science |
-| 4 | [**sure**](https://github.com/we-promise/sure) | **1.00** | 14.4k | Mobile Development |
-| 5 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **1.00** | 93.6k | Automation & DevOps |
-| 6 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.95** | 4.2k | Web Development |
-| 7 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **0.89** | 55.2k | Otros |
-| 8 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | **0.87** | 1.4k | AI & Data Science |
-| 9 | [**buzz**](https://github.com/block/buzz) | **0.84** | 37.2k | Mobile Development |
-| 10 | [**plannotator**](https://github.com/backnotprop/plannotator) | **0.83** | 10.3k | PlayStation Homebrew & Linux |
+| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 51.0k | AI & Data Science |
+| 🥈 | [**codex-security**](https://github.com/openai/codex-security) | **1.00** | 13.4k | Cybersecurity & Hacking |
+| 🥉 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 72.1k | AI & Data Science |
+| 4 | [**sure**](https://github.com/we-promise/sure) | **1.00** | 15.0k | Mobile Development |
+| 5 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **1.00** | 94.0k | Automation & DevOps |
+| 6 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | **1.00** | 4.4k | Cybersecurity & Hacking |
+| 7 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **1.00** | 55.9k | Otros |
+| 8 | [**plannotator**](https://github.com/backnotprop/plannotator) | **0.98** | 10.7k | PlayStation Homebrew & Linux |
+| 9 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | **0.96** | 1.8k | AI & Data Science |
+| 10 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.93** | 5.3k | Web Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 2 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **0.98** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.93** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
