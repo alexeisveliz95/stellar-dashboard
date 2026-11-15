@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-14 13:17`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-15 12:22`
+> 📦 **16** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | 5.3k | +1.2k | TypeScript |
-| 2 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 51.0k | +897 | Go |
-| 3 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | 72.1k | +867 | Python |
-| 4 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 55.9k | +673 | TypeScript |
-| 5 | [**sure**](https://github.com/we-promise/sure) | 15.0k | +659 | Ruby |
-| 6 | [**codex-security**](https://github.com/openai/codex-security) | 13.4k | +599 | TypeScript |
-| 7 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | 4.4k | +556 | Python |
-| 8 | [**tailcat**](https://github.com/tailscale/tailcat) | 9.7k | +490 | Go |
-| 9 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | 94.0k | +432 | JavaScript |
-| 10 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | 1.8k | +423 | C++ |
+| 1 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | 6.6k | +1.2k | TypeScript |
+| 2 | [**plannotator**](https://github.com/backnotprop/plannotator) | 11.6k | +860 | TypeScript |
+| 3 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | 2.6k | +731 | C++ |
+| 4 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 56.6k | +718 | TypeScript |
+| 5 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | 5.1k | +707 | Python |
+| 6 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 51.7k | +688 | Go |
+| 7 | [**sure**](https://github.com/we-promise/sure) | 15.5k | +520 | Ruby |
+| 8 | [**univer**](https://github.com/dream-num/univer) | 25.2k | +495 | TypeScript |
+| 9 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | 94.4k | +352 | JavaScript |
+| 10 | [**airgorah**](https://github.com/martin-olivier/airgorah) | 6.2k | +270 | Rust |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 51.0k | AI & Data Science |
-| 🥈 | [**codex-security**](https://github.com/openai/codex-security) | **1.00** | 13.4k | Cybersecurity & Hacking |
-| 🥉 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | **1.00** | 72.1k | AI & Data Science |
-| 4 | [**sure**](https://github.com/we-promise/sure) | **1.00** | 15.0k | Mobile Development |
-| 5 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **1.00** | 94.0k | Automation & DevOps |
-| 6 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | **1.00** | 4.4k | Cybersecurity & Hacking |
-| 7 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **1.00** | 55.9k | Otros |
-| 8 | [**plannotator**](https://github.com/backnotprop/plannotator) | **0.98** | 10.7k | PlayStation Homebrew & Linux |
-| 9 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | **0.96** | 1.8k | AI & Data Science |
-| 10 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.93** | 5.3k | Web Development |
+| 🥇 | [**plannotator**](https://github.com/backnotprop/plannotator) | **1.00** | 11.6k | PlayStation Homebrew & Linux |
+| 🥈 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | **1.00** | 5.1k | Cybersecurity & Hacking |
+| 🥉 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **1.00** | 56.6k | Otros |
+| 4 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 51.7k | AI & Data Science |
+| 5 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 25.2k | AI & Data Science |
+| 6 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 120.3k | Web3 & Blockchain |
+| 7 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **1.00** | 94.4k | Automation & DevOps |
+| 8 | [**sure**](https://github.com/we-promise/sure) | **1.00** | 15.5k | Mobile Development |
+| 9 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | **1.00** | 2.6k | AI & Data Science |
+| 10 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.97** | 6.6k | Web Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 5 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 1 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 2 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **1.00** |
 | [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
-| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **0.97** |
+| [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 1 | **1.00** |
 
 ---

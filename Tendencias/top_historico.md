@@ -395,3 +395,6 @@
 | 2026-11-14 | **1** | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1225 | 5.3k | `0.93` |
 | 2026-11-14 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +897 | 51.0k | `1.00` |
 | 2026-11-14 | **3** | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +867 | 72.1k | `1.00` |
+| 2026-11-15 | **1** | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1220 | 6.6k | `0.97` |
+| 2026-11-15 | **2** | [plannotator](https://github.com/backnotprop/plannotator) | +860 | 11.6k | `1.00` |
+| 2026-11-15 | **3** | [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | +731 | 2.6k | `1.00` |
