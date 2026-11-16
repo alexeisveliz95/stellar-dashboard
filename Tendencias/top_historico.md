@@ -398,3 +398,6 @@
 | 2026-11-15 | **1** | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | +1220 | 6.6k | `0.97` |
 | 2026-11-15 | **2** | [plannotator](https://github.com/backnotprop/plannotator) | +860 | 11.6k | `1.00` |
 | 2026-11-15 | **3** | [Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | +731 | 2.6k | `1.00` |
+| 2026-11-16 | **1** | [univer](https://github.com/dream-num/univer) | +1878 | 27.5k | `1.00` |
+| 2026-11-16 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +946 | 52.7k | `1.00` |
+| 2026-11-16 | **3** | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | +841 | 6.0k | `1.00` |

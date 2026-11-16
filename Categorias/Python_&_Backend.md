@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
-> Actualizado: `2026-05-17 09:29`
+> **2 proyectos** · ⭐ Mejor score: **0.96** · Estrellas totales: **94.9k**
+> Actualizado: `2026-11-16 13:14`
 
 ---
 
@@ -10,6 +10,7 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [**svelte**](https://github.com/sveltejs/svelte) | **0.96** | 88.8k | `█░░░░░░░░░` | web development for the rest of us |
+| [**ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | **0.94** | 6.2k | `██████████` | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an… |
 
 ---

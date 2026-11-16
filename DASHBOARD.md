@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-16 02:32`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-16 13:14`
+> 📦 **23** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | 6.6k | +1.2k | TypeScript |
-| 2 | [**plannotator**](https://github.com/backnotprop/plannotator) | 11.6k | +860 | TypeScript |
-| 3 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | 2.6k | +731 | C++ |
-| 4 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 56.6k | +718 | TypeScript |
-| 5 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | 5.1k | +707 | Python |
-| 6 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 51.7k | +688 | Go |
-| 7 | [**sure**](https://github.com/we-promise/sure) | 15.5k | +520 | Ruby |
-| 8 | [**univer**](https://github.com/dream-num/univer) | 25.2k | +495 | TypeScript |
-| 9 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | 94.4k | +352 | JavaScript |
-| 10 | [**airgorah**](https://github.com/martin-olivier/airgorah) | 6.2k | +270 | Rust |
+| 1 | [**univer**](https://github.com/dream-num/univer) | 27.5k | +1.9k | TypeScript |
+| 2 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 52.7k | +946 | Go |
+| 3 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | 6.0k | +841 | Python |
+| 4 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 57.4k | +837 | TypeScript |
+| 5 | [**ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | 18.4k | +790 | TypeScript |
+| 6 | [**plannotator**](https://github.com/backnotprop/plannotator) | 12.2k | +689 | TypeScript |
+| 7 | [**ffmpeg-skill**](https://github.com/kajisho5/ffmpeg-skill) | 6.2k | +331 | Python |
+| 8 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | 1.0k | +306 | Python |
+| 9 | [**jiangshan-map**](https://github.com/DeanChensj/jiangshan-map) | 6.5k | +285 | JavaScript |
+| 10 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | 9.6k | +247 | TypeScript |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**plannotator**](https://github.com/backnotprop/plannotator) | **1.00** | 11.6k | PlayStation Homebrew & Linux |
-| 🥈 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | **1.00** | 5.1k | Cybersecurity & Hacking |
-| 🥉 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **1.00** | 56.6k | Otros |
-| 4 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 51.7k | AI & Data Science |
-| 5 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 25.2k | AI & Data Science |
-| 6 | [**caveman**](https://github.com/JuliusBrussee/caveman) | **1.00** | 120.3k | Web3 & Blockchain |
-| 7 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **1.00** | 94.4k | Automation & DevOps |
-| 8 | [**sure**](https://github.com/we-promise/sure) | **1.00** | 15.5k | Mobile Development |
-| 9 | [**Veyra-NRVideo**](https://github.com/Likely7/Veyra-NRVideo) | **1.00** | 2.6k | AI & Data Science |
-| 10 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | **0.97** | 6.6k | Web Development |
+| 🥇 | [**ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | **1.00** | 18.4k | Web Development |
+| 🥈 | [**plannotator**](https://github.com/backnotprop/plannotator) | **1.00** | 12.2k | PlayStation Homebrew & Linux |
+| 🥉 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 27.5k | AI & Data Science |
+| 4 | [**claude-trading-skills**](https://github.com/tradermonty/claude-trading-skills) | **1.00** | 6.0k | Cybersecurity & Hacking |
+| 5 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | **1.00** | 9.6k | Automation & DevOps |
+| 6 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 52.7k | AI & Data Science |
+| 7 | [**chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | **1.00** | 57.4k | Otros |
+| 8 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **0.97** | 67.8k | Web Development |
+| 9 | [**svelte**](https://github.com/sveltejs/svelte) | **0.96** | 88.8k | Python & Backend |
+| 10 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | **0.95** | 1.0k | Cybersecurity & Hacking |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 2 | **1.00** |
 | [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
-| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Otros**](Categorias/Otros.md) | 2 | **1.00** |
+| [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 1 | **1.00** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **0.96** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
