@@ -1,11 +1,36 @@
 [
   {
+    "id": "github_trending_ag-ui-protocol_ag-ui",
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "stars": 18394,
+    "growth": 790,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ag-ui-protocol",
+      "agent-frontend",
+      "agent-ui",
+      "agentic-workflow",
+      "ai-agents"
+    ],
+    "raw_license": "MIT"
+  },
+  {
     "id": "github_trending_backnotprop_plannotator",
     "name": "backnotprop/plannotator",
     "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
     "url": "https://github.com/backnotprop/plannotator",
-    "stars": 11555,
-    "growth": 860,
+    "stars": 12232,
+    "growth": 689,
     "score": 1.0,
     "categories": [
       "PlayStation Homebrew & Linux"
@@ -29,81 +54,12 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_tradermonty_claude-trading-skills",
-    "name": "tradermonty/claude-trading-skills",
-    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-    "url": "https://github.com/tradermonty/claude-trading-skills",
-    "stars": 5149,
-    "growth": 707,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ChromeDevTools_chrome-devtools-mcp",
-    "name": "ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "stars": 56597,
-    "growth": 718,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "browser",
-      "chrome",
-      "chrome-devtools",
-      "debugging",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "puppeteer"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_alibaba_open-code-review",
-    "name": "alibaba/open-code-review",
-    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "url": "https://github.com/alibaba/open-code-review",
-    "stars": 51705,
-    "growth": 688,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_dream-num_univer",
     "name": "dream-num/univer",
     "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
     "url": "https://github.com/dream-num/univer",
-    "stars": 25219,
-    "growth": 495,
+    "stars": 27477,
+    "growth": 1878,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -138,266 +94,311 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_JuliusBrussee_caveman",
-    "name": "JuliusBrussee/caveman",
-    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "stars": 120314,
-    "growth": 227,
+    "id": "github_trending_tradermonty_claude-trading-skills",
+    "name": "tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "url": "https://github.com/tradermonty/claude-trading-skills",
+    "stars": 5999,
+    "growth": 841,
     "score": 1.0,
     "categories": [
-      "Web3 & Blockchain"
+      "Cybersecurity & Hacking"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "Python",
     "tags": [
-      "nlp:web3-blockchain"
+      "nlp:cybersecurity-hacking"
     ],
-    "raw_topics": [
-      "ai",
-      "anthropic",
-      "caveman",
-      "claude",
-      "claude-code",
-      "llm",
-      "meme",
-      "prompt-engineering",
-      "skill",
-      "tokens"
-    ],
-    "raw_license": "Apache-2.0"
+    "raw_license": "MIT"
   },
   {
-    "id": "github_trending_louislam_uptime-kuma",
-    "name": "louislam/uptime-kuma",
-    "description": "A fancy self-hosted monitoring tool",
-    "url": "https://github.com/louislam/uptime-kuma",
-    "stars": 94380,
-    "growth": 352,
+    "id": "github_trending_google-labs-code_stitch-skills",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "stars": 9584,
+    "growth": 247,
     "score": 1.0,
     "categories": [
       "Automation & DevOps"
     ],
     "source": "github_trending",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "tags": [
-      "nlp:automation-devops"
+      "cli"
     ],
-    "raw_topics": [
-      "docker",
-      "monitor",
-      "monitoring",
-      "responsive",
-      "self-hosted",
-      "selfhosted",
-      "single-page-app",
-      "socket-io",
-      "uptime",
-      "uptime-monitoring",
-      "webapp",
-      "websocket"
-    ],
-    "raw_license": "MIT"
+    "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_we-promise_sure",
-    "name": "we-promise/sure",
-    "description": "The personal finance app for everyone (by everyone)",
-    "url": "https://github.com/we-promise/sure",
-    "stars": 15527,
-    "growth": 520,
-    "score": 1.0,
-    "categories": [
-      "Mobile Development"
-    ],
-    "source": "github_trending",
-    "language": "Ruby",
-    "tags": [
-      "nlp:mobile-development"
-    ],
-    "raw_license": "AGPL-3.0"
-  },
-  {
-    "id": "github_trending_Likely7_Veyra-NRVideo",
-    "name": "Likely7/Veyra-NRVideo",
-    "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
-    "url": "https://github.com/Likely7/Veyra-NRVideo",
-    "stars": 2596,
-    "growth": 731,
+    "id": "github_trending_alibaba_open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "url": "https://github.com/alibaba/open-code-review",
+    "stars": 52671,
+    "growth": 946,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "C++",
+    "language": "Go",
     "tags": [
-      "ai"
+      "nlp:ai-data-science"
     ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_GoogleChrome_modern-web-guidance-src",
-    "name": "GoogleChrome/modern-web-guidance-src",
-    "description": "Keep your coding agent up to date with the latest web best practices",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "stars": 6583,
-    "growth": 1220,
-    "score": 0.9739,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
+    "raw_topics": [
+      "agent",
+      "agent-skills",
+      "code-review",
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
     ],
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_martin-olivier_airgorah",
-    "name": "martin-olivier/airgorah",
-    "description": "A WiFi security auditing software",
-    "url": "https://github.com/martin-olivier/airgorah",
-    "stars": 6153,
-    "growth": 270,
-    "score": 0.9683,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Rust",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "gui",
-      "kali",
-      "linux-app",
-      "security",
-      "security-audit",
-      "wifi",
-      "wifi-security",
-      "wireless"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_QwenLM_qwen-code",
-    "name": "QwenLM/qwen-code",
-    "description": "An open-source AI coding agent that lives in your terminal.",
-    "url": "https://github.com/QwenLM/qwen-code",
-    "stars": 30496,
-    "growth": 64,
-    "score": 0.9622,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agentic",
-      "ai",
-      "ai-agent",
-      "ai-coding",
-      "cli",
-      "coding-agent",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "qwen",
-      "terminal",
-      "typescript"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_ag-ui-protocol_ag-ui",
-    "name": "ag-ui-protocol/ag-ui",
-    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-    "url": "https://github.com/ag-ui-protocol/ag-ui",
-    "stars": 17548,
-    "growth": 9,
-    "score": 0.8345,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ag-ui-protocol",
-      "agent-frontend",
-      "agent-ui",
-      "agentic-workflow",
-      "ai-agents"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_ashhart_TensorFold",
-    "name": "ashhart/TensorFold",
-    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-    "url": "https://github.com/ashhart/TensorFold",
-    "stars": 2233,
-    "growth": 37,
-    "score": 0.7697,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Zig",
-    "tags": [
-      "llm"
-    ],
-    "raw_topics": [
-      "ai",
-      "ai-tools",
-      "llm",
-      "llm-inference",
-      "llm-tools"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_Tencent_LoopForge",
-    "name": "Tencent/LoopForge",
-    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-    "url": "https://github.com/Tencent/LoopForge",
-    "stars": 1150,
-    "growth": 33,
-    "score": 0.6687,
+    "id": "github_trending_ChromeDevTools_chrome-devtools-mcp",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "stars": 57431,
+    "growth": 837,
+    "score": 1.0,
     "categories": [
       "Otros"
     ],
     "source": "github_trending",
-    "language": "Go",
+    "language": "TypeScript",
     "raw_topics": [
-      "agent-orchestration",
-      "agentic-workflow",
-      "ai-agents",
-      "ai-coding",
-      "claude-code",
-      "code-review",
-      "codebuddy",
-      "codex",
-      "coding-agents",
-      "cursor",
-      "developer-tools",
-      "human-on-the-loop",
-      "llm",
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
       "mcp",
-      "multi-agent",
-      "sdlc",
-      "self-hosted",
-      "sop",
-      "workflow-automation",
-      "workflow-engine"
+      "mcp-server",
+      "puppeteer"
     ],
-    "raw_license": "NOASSERTION"
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_mvanhorn_last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "stars": 67843,
+    "growth": 122,
+    "score": 0.9697,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_sveltejs_svelte",
+    "name": "sveltejs/svelte",
+    "description": "web development for the rest of us",
+    "url": "https://github.com/sveltejs/svelte",
+    "stars": 88761,
+    "growth": 58,
+    "score": 0.959,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "compiler",
+      "template",
+      "ui"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_google-research_paper-orchestra",
+    "name": "google-research/paper-orchestra",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "url": "https://github.com/google-research/paper-orchestra",
+    "stars": 1037,
+    "growth": 306,
+    "score": 0.9466,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-research-assistant",
+      "multi-agent-systems"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_kajisho5_ffmpeg-skill",
+    "name": "kajisho5/ffmpeg-skill",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+    "url": "https://github.com/kajisho5/ffmpeg-skill",
+    "stars": 6158,
+    "growth": 331,
+    "score": 0.9352,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "agent-skills",
+      "ai-agents",
+      "audio-processing",
+      "captions",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "cursor",
+      "ffmpeg",
+      "gemini-cli-extension",
+      "loudness-normalization",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "python",
+      "subtitles",
+      "transcoding",
+      "video",
+      "video-editing",
+      "whisper"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_DeanChensj_jiangshan-map",
+    "name": "DeanChensj/jiangshan-map",
+    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+    "url": "https://github.com/DeanChensj/jiangshan-map",
+    "stars": 6499,
+    "growth": 285,
+    "score": 0.9029,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "raw_topics": [
+      "ancient-china",
+      "cartography",
+      "china-map",
+      "chinese-history",
+      "classical-chinese-poetry",
+      "digital-humanities",
+      "gis",
+      "historical-atlas",
+      "historical-map",
+      "interactive-map"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
+    "id": "github_trending_NVIDIA_SkillEvaluator",
+    "name": "NVIDIA/SkillEvaluator",
+    "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "url": "https://github.com/NVIDIA/SkillEvaluator",
+    "stars": 2248,
+    "growth": 122,
+    "score": 0.8879,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "ai"
+    ],
+    "raw_topics": [
+      "agent-evaluation",
+      "agent-plugins",
+      "agent-security",
+      "agent-skills",
+      "agentic-ai",
+      "benchmark",
+      "claude-code",
+      "codex",
+      "evaluate",
+      "evaluation",
+      "plugin",
+      "plugin-evaluation",
+      "security-scanner",
+      "skill-eval",
+      "skill-evals",
+      "skill-evaluation",
+      "skill-evaluator",
+      "skills"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_getarcaneapp_arcane",
+    "name": "getarcaneapp/arcane",
+    "description": "Modern Docker Management, Designed for Everyone",
+    "url": "https://github.com/getarcaneapp/arcane",
+    "stars": 8428,
+    "growth": 31,
+    "score": 0.8043,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "tags": [
+      "nlp:automation-devops"
+    ],
+    "raw_topics": [
+      "compose",
+      "container-management",
+      "containers",
+      "docker",
+      "docker-compose",
+      "docker-management",
+      "go",
+      "self-hosted",
+      "sveltekit",
+      "typescript",
+      "web-ui"
+    ],
+    "raw_license": "BSD-3-Clause"
   }
 ]
