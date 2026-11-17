@@ -401,3 +401,6 @@
 | 2026-11-16 | **1** | [univer](https://github.com/dream-num/univer) | +1878 | 27.5k | `1.00` |
 | 2026-11-16 | **2** | [open-code-review](https://github.com/alibaba/open-code-review) | +946 | 52.7k | `1.00` |
 | 2026-11-16 | **3** | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | +841 | 6.0k | `1.00` |
+| 2026-11-17 | **1** | [superpowers](https://github.com/obra/superpowers) | +1905 | 319.0k | `1.00` |
+| 2026-11-17 | **2** | [univer](https://github.com/dream-num/univer) | +1776 | 28.7k | `1.00` |
+| 2026-11-17 | **3** | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | +1444 | 19.8k | `1.00` |
