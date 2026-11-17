@@ -1,8 +1,8 @@
 # 📂 Cybersecurity & Hacking
 
 > [!info] Resumen de Categoría
-> **3 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **315.7k**
-> Actualizado: `2026-11-17 14:01`
+> **5 proyectos** · ⭐ Mejor score: **0.75** · Estrellas totales: **248.1k**
+> Actualizado: `2026-07-06 18:15`
 
 ---
 
@@ -10,8 +10,10 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | **1.00** | 8.3k | `██░░░░░░░░` | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash… |
-| [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 305.1k | `█░░░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
-| [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | **1.00** | 2.3k | `██████████` | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
+| [**awesome-hermes-agent**](https://github.com/0xNyk/awesome-hermes-agent) | **0.75** | 4.5k | `░░░░░░░░░░` | A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous… |
+| [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 226.7k | `░░░░░░░░░░` | The agent harness performance optimization system. Skills, instincts, memory, security, and… |
+| [**SkillSpector**](https://github.com/NVIDIA/SkillSpector) | **0.73** | 12.1k | `░░░░░░░░░░` | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security… |
+| [**vps-audit**](https://github.com/vernu/vps-audit) | **0.73** | 2.0k | `░░░░░░░░░░` | lightweight, dependency-free bash script for security, performance auditing and infrastructure… |
+| [**QuantAgent**](https://github.com/Y-Research-SBU/QuantAgent) | **0.71** | 2.8k | `░░░░░░░░░░` | Official Repository for QuantAgent |
 
 ---

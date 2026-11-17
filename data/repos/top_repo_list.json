@@ -1,55 +1,103 @@
 [
   {
-    "id": "github_trending_ag-ui-protocol_ag-ui",
-    "name": "ag-ui-protocol/ag-ui",
-    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-    "url": "https://github.com/ag-ui-protocol/ag-ui",
-    "stars": 18394,
-    "growth": 790,
+    "id": "github_trending_elementalsouls_Claude-BugHunter",
+    "name": "elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "stars": 8312,
+    "growth": 1007,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "vulnerability"
+    ],
+    "raw_topics": [
+      "ai-security",
+      "anthropic",
+      "application-security",
+      "bug-bounty",
+      "bugbounty",
+      "bugcrowd",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "ethical-hacking",
+      "hackerone",
+      "offensive-security",
+      "pentesting",
+      "red-team",
+      "security-tools",
+      "web-security"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_mvanhorn_last30days-skill",
+    "name": "mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "stars": 68626,
+    "growth": 772,
     "score": 1.0,
     "categories": [
       "Web Development"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Python",
     "tags": [
       "nlp:web-development"
     ],
     "raw_topics": [
-      "ag-ui-protocol",
-      "agent-frontend",
-      "agent-ui",
-      "agentic-workflow",
-      "ai-agents"
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
     ],
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_backnotprop_plannotator",
-    "name": "backnotprop/plannotator",
-    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-    "url": "https://github.com/backnotprop/plannotator",
-    "stars": 12232,
-    "growth": 689,
+    "id": "github_trending_alibaba_open-code-review",
+    "name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "url": "https://github.com/alibaba/open-code-review",
+    "stars": 53437,
+    "growth": 764,
     "score": 1.0,
     "categories": [
-      "PlayStation Homebrew & Linux"
+      "AI & Data Science"
     ],
     "source": "github_trending",
-    "language": "TypeScript",
+    "language": "Go",
     "tags": [
-      "nlp:playstation-homebrew-linux"
+      "nlp:ai-data-science"
     ],
     "raw_topics": [
-      "agents",
-      "claude-code",
+      "agent",
+      "agent-skills",
       "code-review",
-      "codex",
-      "obsidian",
-      "opencode",
-      "pi-mono",
-      "plan-mode",
-      "skills"
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
     ],
     "raw_license": "Apache-2.0"
   },
@@ -58,8 +106,8 @@
     "name": "dream-num/univer",
     "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
     "url": "https://github.com/dream-num/univer",
-    "stars": 27477,
-    "growth": 1878,
+    "stars": 28686,
+    "growth": 1776,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -94,290 +142,13 @@
     "raw_license": "Apache-2.0"
   },
   {
-    "id": "github_trending_tradermonty_claude-trading-skills",
-    "name": "tradermonty/claude-trading-skills",
-    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-    "url": "https://github.com/tradermonty/claude-trading-skills",
-    "stars": 5999,
-    "growth": 841,
-    "score": 1.0,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_google-labs-code_stitch-skills",
-    "name": "google-labs-code/stitch-skills",
-    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-    "url": "https://github.com/google-labs-code/stitch-skills",
-    "stars": 9584,
-    "growth": 247,
-    "score": 1.0,
-    "categories": [
-      "Automation & DevOps"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "tags": [
-      "cli"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_alibaba_open-code-review",
-    "name": "alibaba/open-code-review",
-    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "url": "https://github.com/alibaba/open-code-review",
-    "stars": 52671,
-    "growth": 946,
-    "score": 1.0,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Go",
-    "tags": [
-      "nlp:ai-data-science"
-    ],
-    "raw_topics": [
-      "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_ChromeDevTools_chrome-devtools-mcp",
-    "name": "ChromeDevTools/chrome-devtools-mcp",
-    "description": "Chrome DevTools for coding agents",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "stars": 57431,
-    "growth": 837,
-    "score": 1.0,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript",
-    "raw_topics": [
-      "browser",
-      "chrome",
-      "chrome-devtools",
-      "debugging",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "puppeteer"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_mvanhorn_last30days-skill",
-    "name": "mvanhorn/last30days-skill",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "stars": 67843,
-    "growth": 122,
-    "score": 0.9697,
-    "categories": [
-      "Web Development"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:web-development"
-    ],
-    "raw_topics": [
-      "ai-prompts",
-      "ai-skill",
-      "bluesky",
-      "claude",
-      "claude-code",
-      "clawhub",
-      "deep-research",
-      "hackernews",
-      "instagram",
-      "openclaw",
-      "polymarket",
-      "recency",
-      "reddit",
-      "research",
-      "social-media",
-      "tiktok",
-      "trends",
-      "twitter",
-      "web-search",
-      "youtube"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_sveltejs_svelte",
-    "name": "sveltejs/svelte",
-    "description": "web development for the rest of us",
-    "url": "https://github.com/sveltejs/svelte",
-    "stars": 88761,
-    "growth": 58,
-    "score": 0.959,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "compiler",
-      "template",
-      "ui"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_google-research_paper-orchestra",
-    "name": "google-research/paper-orchestra",
-    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-    "url": "https://github.com/google-research/paper-orchestra",
-    "stars": 1037,
-    "growth": 306,
-    "score": 0.9466,
-    "categories": [
-      "Cybersecurity & Hacking"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:cybersecurity-hacking"
-    ],
-    "raw_topics": [
-      "ai-research-assistant",
-      "multi-agent-systems"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
-    "id": "github_trending_kajisho5_ffmpeg-skill",
-    "name": "kajisho5/ffmpeg-skill",
-    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-    "url": "https://github.com/kajisho5/ffmpeg-skill",
-    "stars": 6158,
-    "growth": 331,
-    "score": 0.9352,
-    "categories": [
-      "Python & Backend"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "nlp:python-backend"
-    ],
-    "raw_topics": [
-      "agent-skills",
-      "ai-agents",
-      "audio-processing",
-      "captions",
-      "claude-code",
-      "codex",
-      "coding-agent",
-      "cursor",
-      "ffmpeg",
-      "gemini-cli-extension",
-      "loudness-normalization",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "python",
-      "subtitles",
-      "transcoding",
-      "video",
-      "video-editing",
-      "whisper"
-    ],
-    "raw_license": "MIT"
-  },
-  {
-    "id": "github_trending_DeanChensj_jiangshan-map",
-    "name": "DeanChensj/jiangshan-map",
-    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-    "url": "https://github.com/DeanChensj/jiangshan-map",
-    "stars": 6499,
-    "growth": 285,
-    "score": 0.9029,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "JavaScript",
-    "raw_topics": [
-      "ancient-china",
-      "cartography",
-      "china-map",
-      "chinese-history",
-      "classical-chinese-poetry",
-      "digital-humanities",
-      "gis",
-      "historical-atlas",
-      "historical-map",
-      "interactive-map"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
-    "id": "github_trending_NVIDIA_SkillEvaluator",
-    "name": "NVIDIA/SkillEvaluator",
-    "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-    "url": "https://github.com/NVIDIA/SkillEvaluator",
-    "stars": 2248,
-    "growth": 122,
-    "score": 0.8879,
-    "categories": [
-      "AI & Data Science"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "tags": [
-      "ai"
-    ],
-    "raw_topics": [
-      "agent-evaluation",
-      "agent-plugins",
-      "agent-security",
-      "agent-skills",
-      "agentic-ai",
-      "benchmark",
-      "claude-code",
-      "codex",
-      "evaluate",
-      "evaluation",
-      "plugin",
-      "plugin-evaluation",
-      "security-scanner",
-      "skill-eval",
-      "skill-evals",
-      "skill-evaluation",
-      "skill-evaluator",
-      "skills"
-    ],
-    "raw_license": "Apache-2.0"
-  },
-  {
     "id": "github_trending_getarcaneapp_arcane",
     "name": "getarcaneapp/arcane",
     "description": "Modern Docker Management, Designed for Everyone",
     "url": "https://github.com/getarcaneapp/arcane",
-    "stars": 8428,
-    "growth": 31,
-    "score": 0.8043,
+    "stars": 9088,
+    "growth": 654,
+    "score": 1.0,
     "categories": [
       "Automation & DevOps"
     ],
@@ -400,5 +171,251 @@
       "web-ui"
     ],
     "raw_license": "BSD-3-Clause"
+  },
+  {
+    "id": "github_trending_google-labs-code_stitch-skills",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "stars": 9942,
+    "growth": 350,
+    "score": 1.0,
+    "categories": [
+      "Automation & DevOps"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "cli"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_obra_superpowers",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers",
+    "stars": 319014,
+    "growth": 1905,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "Shell",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_ag-ui-protocol_ag-ui",
+    "name": "ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "stars": 19808,
+    "growth": 1444,
+    "score": 1.0,
+    "categories": [
+      "Web Development"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:web-development"
+    ],
+    "raw_topics": [
+      "ag-ui-protocol",
+      "agent-frontend",
+      "agent-ui",
+      "agentic-workflow",
+      "ai-agents"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_backnotprop_plannotator",
+    "name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "url": "https://github.com/backnotprop/plannotator",
+    "stars": 12915,
+    "growth": 691,
+    "score": 1.0,
+    "categories": [
+      "PlayStation Homebrew & Linux"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript",
+    "tags": [
+      "nlp:playstation-homebrew-linux"
+    ],
+    "raw_topics": [
+      "agents",
+      "claude-code",
+      "code-review",
+      "codex",
+      "obsidian",
+      "opencode",
+      "pi-mono",
+      "plan-mode",
+      "skills"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_sveltejs_svelte",
+    "name": "sveltejs/svelte",
+    "description": "web development for the rest of us",
+    "url": "https://github.com/sveltejs/svelte",
+    "stars": 89316,
+    "growth": 533,
+    "score": 1.0,
+    "categories": [
+      "Python & Backend"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:python-backend"
+    ],
+    "raw_topics": [
+      "compiler",
+      "template",
+      "ui"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_affaan-m_ECC",
+    "name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "url": "https://github.com/affaan-m/ECC",
+    "stars": 305069,
+    "growth": 902,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "JavaScript",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "raw_license": "MIT"
+  },
+  {
+    "id": "github_trending_jingyaogong_minimind",
+    "name": "jingyaogong/minimind",
+    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "url": "https://github.com/jingyaogong/minimind",
+    "stars": 65701,
+    "growth": 188,
+    "score": 1.0,
+    "categories": [
+      "AI & Data Science"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "llm"
+    ],
+    "raw_topics": [
+      "artificial-intelligence",
+      "large-language-model"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_google-research_paper-orchestra",
+    "name": "google-research/paper-orchestra",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "url": "https://github.com/google-research/paper-orchestra",
+    "stars": 2286,
+    "growth": 1175,
+    "score": 1.0,
+    "categories": [
+      "Cybersecurity & Hacking"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "tags": [
+      "nlp:cybersecurity-hacking"
+    ],
+    "raw_topics": [
+      "ai-research-assistant",
+      "multi-agent-systems"
+    ],
+    "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_Tencent_LoopForge",
+    "name": "Tencent/LoopForge",
+    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "url": "https://github.com/Tencent/LoopForge",
+    "stars": 2850,
+    "growth": 590,
+    "score": 0.9355,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Go",
+    "raw_topics": [
+      "agent-orchestration",
+      "agentic-workflow",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "code-review",
+      "codebuddy",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "developer-tools",
+      "human-on-the-loop",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "sdlc",
+      "self-hosted",
+      "sop",
+      "workflow-automation",
+      "workflow-engine"
+    ],
+    "raw_license": "NOASSERTION"
+  },
+  {
+    "id": "github_trending_cursor_plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "url": "https://github.com/cursor/plugins",
+    "stars": 16761,
+    "growth": 196,
+    "score": 0.8189,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript"
   }
 ]
