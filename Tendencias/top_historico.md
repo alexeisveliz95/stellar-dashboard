@@ -404,3 +404,6 @@
 | 2026-11-17 | **1** | [superpowers](https://github.com/obra/superpowers) | +1905 | 319.0k | `1.00` |
 | 2026-11-17 | **2** | [univer](https://github.com/dream-num/univer) | +1776 | 28.7k | `1.00` |
 | 2026-11-17 | **3** | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) | +1444 | 19.8k | `1.00` |
+| 2026-11-18 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +2322 | 10.5k | `1.00` |
+| 2026-11-18 | **2** | [paper-orchestra](https://github.com/google-research/paper-orchestra) | +1529 | 3.8k | `1.00` |
+| 2026-11-18 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1109 | 306.1k | `1.00` |

@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-17 15:46`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-18 13:32`
+> 📦 **26** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**superpowers**](https://github.com/obra/superpowers) | 319.0k | +1.9k | Shell |
-| 2 | [**univer**](https://github.com/dream-num/univer) | 28.7k | +1.8k | TypeScript |
-| 3 | [**ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | 19.8k | +1.4k | TypeScript |
-| 4 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | 2.3k | +1.2k | Python |
-| 5 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | 8.3k | +1.0k | Python |
-| 6 | [**ECC**](https://github.com/affaan-m/ECC) | 305.1k | +902 | JavaScript |
-| 7 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 68.6k | +772 | Python |
-| 8 | [**open-code-review**](https://github.com/alibaba/open-code-review) | 53.4k | +764 | Go |
-| 9 | [**plannotator**](https://github.com/backnotprop/plannotator) | 12.9k | +691 | TypeScript |
-| 10 | [**arcane**](https://github.com/getarcaneapp/arcane) | 9.1k | +654 | Go |
+| 1 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | 10.5k | +2.3k | Python |
+| 2 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | 3.8k | +1.5k | Python |
+| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 306.1k | +1.1k | JavaScript |
+| 4 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 69.6k | +1.1k | Python |
+| 5 | [**jiangshan-map**](https://github.com/DeanChensj/jiangshan-map) | 7.8k | +991 | JavaScript |
+| 6 | [**SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | 3.5k | +869 | Python |
+| 7 | [**superpowers**](https://github.com/obra/superpowers) | 319.7k | +823 | Shell |
+| 8 | [**svelte**](https://github.com/sveltejs/svelte) | 89.7k | +694 | JavaScript |
+| 9 | [**arcane**](https://github.com/getarcaneapp/arcane) | 9.6k | +547 | Go |
+| 10 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | 59.4k | +384 | Python |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | **1.00** | 8.3k | Cybersecurity & Hacking |
-| 🥈 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 68.6k | Web Development |
-| 🥉 | [**open-code-review**](https://github.com/alibaba/open-code-review) | **1.00** | 53.4k | AI & Data Science |
-| 4 | [**univer**](https://github.com/dream-num/univer) | **1.00** | 28.7k | AI & Data Science |
-| 5 | [**arcane**](https://github.com/getarcaneapp/arcane) | **1.00** | 9.1k | Automation & DevOps |
-| 6 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | **1.00** | 9.9k | Automation & DevOps |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 319.0k | Python & Backend |
-| 8 | [**ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | **1.00** | 19.8k | Web Development |
-| 9 | [**plannotator**](https://github.com/backnotprop/plannotator) | **1.00** | 12.9k | PlayStation Homebrew & Linux |
-| 10 | [**svelte**](https://github.com/sveltejs/svelte) | **1.00** | 89.3k | Python & Backend |
+| 🥇 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | **1.00** | 10.5k | Cybersecurity & Hacking |
+| 🥈 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 69.6k | Web Development |
+| 🥉 | [**arcane**](https://github.com/getarcaneapp/arcane) | **1.00** | 9.6k | Automation & DevOps |
+| 4 | [**SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | **1.00** | 3.5k | AI & Data Science |
+| 5 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | **1.00** | 3.8k | Cybersecurity & Hacking |
+| 6 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | **1.00** | 10.3k | Automation & DevOps |
+| 7 | [**svelte**](https://github.com/sveltejs/svelte) | **1.00** | 89.7k | Python & Backend |
+| 8 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 319.7k | Python & Backend |
+| 9 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 306.1k | Cybersecurity & Hacking |
+| 10 | [**n8n**](https://github.com/n8n-io/n8n) | **1.00** | 210.9k | Automation & DevOps |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 2 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **1.00** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 3 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 1 | **0.97** |
+| [**Otros**](Categorias/Otros.md) | 4 | **0.95** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 3 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 3 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---
