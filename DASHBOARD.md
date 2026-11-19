@@ -1,8 +1,8 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-18 15:26`
-> 📦 **49** proyectos curados en **9** categorías
+> 🕒 Última actualización: `2026-11-19 14:00`
+> 📦 **22** proyectos curados en **9** categorías
 
 ---
 
@@ -12,16 +12,16 @@
 
 | # | Repositorio | ⭐ Stars | 📈 Growth | 🌐 Lang |
 | :---: | :--- | ---: | ---: | :--- |
-| 1 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | 10.5k | +2.3k | Python |
-| 2 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | 3.8k | +1.5k | Python |
-| 3 | [**ECC**](https://github.com/affaan-m/ECC) | 306.1k | +1.1k | JavaScript |
-| 4 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 69.6k | +1.1k | Python |
-| 5 | [**jiangshan-map**](https://github.com/DeanChensj/jiangshan-map) | 7.8k | +991 | JavaScript |
-| 6 | [**SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | 3.5k | +869 | Python |
-| 7 | [**superpowers**](https://github.com/obra/superpowers) | 319.7k | +823 | Shell |
-| 8 | [**svelte**](https://github.com/sveltejs/svelte) | 89.7k | +694 | JavaScript |
-| 9 | [**arcane**](https://github.com/getarcaneapp/arcane) | 9.6k | +547 | Go |
-| 10 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | 59.4k | +384 | Python |
+| 1 | [**superpowers**](https://github.com/obra/superpowers) | 321.7k | +2.0k | Shell |
+| 2 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | 11.9k | +1.4k | Python |
+| 3 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 70.5k | +952 | Python |
+| 4 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | 60.3k | +899 | Python |
+| 5 | [**firecrawl**](https://github.com/firecrawl/firecrawl) | 203.7k | +795 | TypeScript |
+| 6 | [**minimind**](https://github.com/jingyaogong/minimind) | 66.7k | +687 | Python |
+| 7 | [**app-store-compliance**](https://github.com/mjmirza/app-store-compliance) | 1.6k | +542 | Shell |
+| 8 | [**Ghost-Downloader-3**](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 12.4k | +432 | Python |
+| 9 | [**plugins**](https://github.com/cursor/plugins) | 17.4k | +383 | TypeScript |
+| 10 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | 68.4k | +332 | HTML |
 
 ---
 
@@ -31,16 +31,16 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🏷️ Category |
 | :---: | :--- | ---: | ---: | :--- |
-| 🥇 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | **1.00** | 10.5k | Cybersecurity & Hacking |
-| 🥈 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 69.6k | Web Development |
-| 🥉 | [**arcane**](https://github.com/getarcaneapp/arcane) | **1.00** | 9.6k | Automation & DevOps |
-| 4 | [**SkillEvaluator**](https://github.com/NVIDIA/SkillEvaluator) | **1.00** | 3.5k | AI & Data Science |
-| 5 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | **1.00** | 3.8k | Cybersecurity & Hacking |
-| 6 | [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) | **1.00** | 10.3k | Automation & DevOps |
-| 7 | [**svelte**](https://github.com/sveltejs/svelte) | **1.00** | 89.7k | Python & Backend |
-| 8 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 319.7k | Python & Backend |
-| 9 | [**ECC**](https://github.com/affaan-m/ECC) | **1.00** | 306.1k | Cybersecurity & Hacking |
-| 10 | [**n8n**](https://github.com/n8n-io/n8n) | **1.00** | 210.9k | Automation & DevOps |
+| 🥇 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | **1.00** | 11.9k | Cybersecurity & Hacking |
+| 🥈 | [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 321.7k | Python & Backend |
+| 🥉 | [**CLI-Anything**](https://github.com/HKUDS/CLI-Anything) | **1.00** | 60.3k | Mobile Development |
+| 4 | [**minimind**](https://github.com/jingyaogong/minimind) | **1.00** | 66.7k | AI & Data Science |
+| 5 | [**firecrawl**](https://github.com/firecrawl/firecrawl) | **1.00** | 203.7k | Python & Backend |
+| 6 | [**diagram-design**](https://github.com/cathrynlavery/diagram-design) | **1.00** | 68.4k | Web Development |
+| 7 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | **1.00** | 70.5k | Web Development |
+| 8 | [**AFFiNE**](https://github.com/toeverything/AFFiNE) | **1.00** | 74.9k | Otros |
+| 9 | [**Ghost-Downloader-3**](https://github.com/XiaoYouChR/Ghost-Downloader-3) | **0.96** | 12.4k | Otros |
+| 10 | [**app-store-compliance**](https://github.com/mjmirza/app-store-compliance) | **0.95** | 1.6k | Mobile Development |
 
 ---
 
@@ -87,14 +87,14 @@
 
 | Categoría | Proyectos | Mejor Score |
 | :--- | ---: | ---: |
-| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 21 | **0.78** |
-| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 4 | **0.73** |
-| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 5 | **0.75** |
-| [**Mobile Development**](Categorias/Mobile_Development.md) | 5 | **0.50** |
-| [**Otros**](Categorias/Otros.md) | 6 | **0.83** |
+| [**AI & Data Science**](Categorias/AI_&_Data_Science.md) | 3 | **1.00** |
+| [**Automation & DevOps**](Categorias/Automation_&_DevOps.md) | 2 | **0.95** |
+| [**Cybersecurity & Hacking**](Categorias/Cybersecurity_&_Hacking.md) | 1 | **1.00** |
+| [**Mobile Development**](Categorias/Mobile_Development.md) | 2 | **1.00** |
+| [**Otros**](Categorias/Otros.md) | 4 | **1.00** |
 | [**PlayStation Homebrew & Linux**](Categorias/PlayStation_Homebrew_&_Linux.md) | 2 | **0.34** |
-| [**Python & Backend**](Categorias/Python_&_Backend.md) | 1 | **0.40** |
-| [**Web Development**](Categorias/Web_Development.md) | 1 | **0.80** |
+| [**Python & Backend**](Categorias/Python_&_Backend.md) | 2 | **1.00** |
+| [**Web Development**](Categorias/Web_Development.md) | 2 | **1.00** |
 | [**Web3 & Blockchain**](Categorias/Web3_&_Blockchain.md) | 4 | **0.50** |
 
 ---

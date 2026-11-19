@@ -407,3 +407,6 @@
 | 2026-11-18 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +2322 | 10.5k | `1.00` |
 | 2026-11-18 | **2** | [paper-orchestra](https://github.com/google-research/paper-orchestra) | +1529 | 3.8k | `1.00` |
 | 2026-11-18 | **3** | [ECC](https://github.com/affaan-m/ECC) | +1109 | 306.1k | `1.00` |
+| 2026-11-19 | **1** | [superpowers](https://github.com/obra/superpowers) | +2029 | 321.7k | `1.00` |
+| 2026-11-19 | **2** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1353 | 11.9k | `1.00` |
+| 2026-11-19 | **3** | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | +952 | 70.5k | `1.00` |
