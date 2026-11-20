@@ -1,8 +1,8 @@
 # 📂 Python & Backend
 
 > [!info] Resumen de Categoría
-> **2 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **527.4k**
-> Actualizado: `2026-11-20 13:42`
+> **1 proyectos** · ⭐ Mejor score: **0.40** · Estrellas totales: **37.2k**
+> Actualizado: `2026-05-17 09:29`
 
 ---
 
@@ -10,7 +10,6 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**superpowers**](https://github.com/obra/superpowers) | **1.00** | 322.5k | `█████░░░░░` | An agentic skills framework & software development methodology that works. |
-| [**firecrawl**](https://github.com/firecrawl/firecrawl) | **1.00** | 204.8k | `██████████` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers… |
+| [**drawdb**](https://github.com/drawdb-io/drawdb) | **0.40** | 37.2k | `░░░░░░░░░░` | Free, simple, and intuitive online database diagram editor and SQL generator. |
 
 ---
