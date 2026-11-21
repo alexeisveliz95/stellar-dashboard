@@ -1,8 +1,8 @@
 # 📂 Otros
 
 > [!info] Resumen de Categoría
-> **4 proyectos** · ⭐ Mejor score: **1.00** · Estrellas totales: **140.8k**
-> Actualizado: `2026-11-21 13:07`
+> **6 proyectos** · ⭐ Mejor score: **0.83** · Estrellas totales: **130.3k**
+> Actualizado: `2026-05-19 08:19`
 
 ---
 
@@ -10,9 +10,11 @@
 
 | Proyecto | Score | Stars | Momentum | Descripción |
 | :--- | ---: | ---: | ---: | :--- |
-| [**AFFiNE**](https://github.com/toeverything/AFFiNE) | **1.00** | 76.0k | `█░░░░░░░░░` | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge… |
-| [**Ghost-Downloader-3**](https://github.com/XiaoYouChR/Ghost-Downloader-3) | **1.00** | 14.1k | `██████████` | The only downloader you need. 下载器的集大成者。 |
-| [**nginx**](https://github.com/nginx/nginx) | **0.88** | 32.6k | `█░░░░░░░░░` | The official NGINX Open Source repository. |
-| [**plugins**](https://github.com/cursor/plugins) | **0.86** | 18.0k | `███░░░░░░░` | Cursor plugin specification and official plugins |
+| [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) | **0.83** | 12.9k | `██████████` | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [**CloakBrowser**](https://github.com/CloakHQ/CloakBrowser) | **0.83** | 15.7k | `████████░░` | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with… |
+| [**Sana**](https://github.com/NVlabs/Sana) | **0.82** | 6.8k | `█████░░░░░` | SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer |
+| [**analytics**](https://github.com/plausible/analytics) | **0.81** | 26.1k | `██░░░░░░░░` | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics… |
+| [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 60.2k | `█░░░░░░░░░` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign… |
+| [**supertonic**](https://github.com/supertone-inc/supertonic) | **0.73** | 8.5k | `████████░░` | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
 ---
