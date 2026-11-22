@@ -416,3 +416,6 @@
 | 2026-11-21 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1794 | 15.2k | `1.00` |
 | 2026-11-21 | **2** | [firecrawl](https://github.com/firecrawl/firecrawl) | +999 | 205.8k | `1.00` |
 | 2026-11-21 | **3** | [superpowers](https://github.com/obra/superpowers) | +884 | 323.3k | `1.00` |
+| 2026-11-22 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1721 | 16.9k | `1.00` |
+| 2026-11-22 | **2** | [firecrawl](https://github.com/firecrawl/firecrawl) | +910 | 206.6k | `1.00` |
+| 2026-11-22 | **3** | [superpowers](https://github.com/obra/superpowers) | +785 | 323.8k | `1.00` |
