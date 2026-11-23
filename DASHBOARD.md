@@ -1,7 +1,7 @@
 # 🚀 Stellar Content Engine — Dashboard
 
 > [!tip] **Estado del Sistema**
-> 🕒 Última actualización: `2026-11-22 14:23`
+> 🕒 Última actualización: `2026-11-23 03:29`
 > 📦 **49** proyectos curados en **9** categorías
 
 ---
@@ -50,36 +50,36 @@
 
 | # | Repositorio | Score | ⭐ Stars | 🚀 Growth | 🏷️ Category |
 | :---: | :--- | ---: | ---: | ---: | :--- |
-| 1 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 103.2k | +203 | `W47` |
-| 2 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **0.73** | 94.0k | +432 | `W47` |
-| 3 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.73** | 134.3k | +162 | `W47` |
-| 4 | [**sherlock**](https://github.com/sherlock-project/sherlock) | — | 106.1k | +4294 | `W47` |
-| 5 | [**astryx**](https://github.com/meta/astryx) | — | 18.6k | +3324 | `W47` |
-| 6 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | — | 4.2k | +1875 | `W47` |
-| 7 | [**skills**](https://github.com/anthropics/skills) | — | 191.8k | +1676 | `W47` |
-| 8 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | — | 19.3k | +1589 | `W47` |
-| 9 | [**sure**](https://github.com/we-promise/sure) | — | 12.5k | +1079 | `W47` |
-| 10 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | — | 69.8k | +960 | `W47` |
-| 11 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **0.73** | 138.6k | +615 | `W46` |
-| 12 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 45.8k | +855 | `W46` |
-| 13 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | — | 11.6k | +3792 | `W46` |
-| 14 | [**t3code**](https://github.com/pingdotgg/t3code) | — | 40.0k | +3216 | `W46` |
-| 15 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | — | 6.4k | +2707 | `W46` |
-| 16 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | — | 64.7k | +2548 | `W46` |
-| 17 | [**skills**](https://github.com/mattpocock/skills) | — | 316.1k | +2058 | `W46` |
-| 18 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | — | 95.8k | +2006 | `W46` |
-| 19 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | — | 16.2k | +1986 | `W46` |
-| 20 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | — | 110.3k | +1799 | `W46` |
-| 21 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 100.5k | +415 | `W45` |
-| 22 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 290.2k | +896 | `W45` |
-| 23 | [**TradingAgents**](https://github.com/TauricResearch/TradingAgents) | **0.73** | 116.8k | +1395 | `W45` |
-| 24 | [**SkillSpector**](https://github.com/NVIDIA/SkillSpector) | **0.73** | 22.6k | +214 | `W45` |
-| 25 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 44.9k | +611 | `W45` |
-| 26 | [**LinkSwift**](https://github.com/hmjz100/LinkSwift) | — | 33.7k | +3209 | `W45` |
-| 27 | [**t3code**](https://github.com/pingdotgg/t3code) | — | 36.5k | +3100 | `W45` |
-| 28 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | — | 47.7k | +2878 | `W45` |
-| 29 | [**impeccable**](https://github.com/pbakaus/impeccable) | — | 96.3k | +2870 | `W45` |
-| 30 | [**hallmark**](https://github.com/Nutlope/hallmark) | — | 39.8k | +2830 | `W45` |
+| 1 | [**ECC**](https://github.com/affaan-m/ECC) | **0.75** | 306.1k | +1109 | `W48` |
+| 2 | [**n8n**](https://github.com/n8n-io/n8n) | **0.73** | 210.9k | +315 | `W48` |
+| 3 | [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter) | — | 10.5k | +2322 | `W48` |
+| 4 | [**superpowers**](https://github.com/obra/superpowers) | — | 321.7k | +2029 | `W48` |
+| 5 | [**univer**](https://github.com/dream-num/univer) | — | 27.5k | +1878 | `W48` |
+| 6 | [**paper-orchestra**](https://github.com/google-research/paper-orchestra) | — | 3.8k | +1529 | `W48` |
+| 7 | [**ag-ui**](https://github.com/ag-ui-protocol/ag-ui) | — | 19.8k | +1444 | `W48` |
+| 8 | [**firecrawl**](https://github.com/firecrawl/firecrawl) | — | 204.8k | +1226 | `W48` |
+| 9 | [**Ghost-Downloader-3**](https://github.com/XiaoYouChR/Ghost-Downloader-3) | — | 13.4k | +1082 | `W48` |
+| 10 | [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | — | 69.6k | +1062 | `W48` |
+| 11 | [**RuView**](https://github.com/ruvnet/RuView) | **0.80** | 103.2k | +203 | `W47` |
+| 12 | [**uptime-kuma**](https://github.com/louislam/uptime-kuma) | **0.73** | 94.0k | +432 | `W47` |
+| 13 | [**llama.cpp**](https://github.com/ggml-org/llama.cpp) | **0.73** | 134.3k | +162 | `W47` |
+| 14 | [**sherlock**](https://github.com/sherlock-project/sherlock) | — | 106.1k | +4294 | `W47` |
+| 15 | [**astryx**](https://github.com/meta/astryx) | — | 18.6k | +3324 | `W47` |
+| 16 | [**modern-web-guidance-src**](https://github.com/GoogleChrome/modern-web-guidance-src) | — | 4.2k | +1875 | `W47` |
+| 17 | [**skills**](https://github.com/anthropics/skills) | — | 191.8k | +1676 | `W47` |
+| 18 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | — | 19.3k | +1589 | `W47` |
+| 19 | [**sure**](https://github.com/we-promise/sure) | — | 12.5k | +1079 | `W47` |
+| 20 | [**daily_stock_analysis**](https://github.com/ZhuLinsen/daily_stock_analysis) | — | 69.8k | +960 | `W47` |
+| 21 | [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | **0.73** | 138.6k | +615 | `W46` |
+| 22 | [**Kronos**](https://github.com/shiyu-coder/Kronos) | **0.71** | 45.8k | +855 | `W46` |
+| 23 | [**agent-desktop**](https://github.com/vercel-labs/agent-desktop) | — | 11.6k | +3792 | `W46` |
+| 24 | [**t3code**](https://github.com/pingdotgg/t3code) | — | 40.0k | +3216 | `W46` |
+| 25 | [**auto-ontology**](https://github.com/NVIDIA/auto-ontology) | — | 6.4k | +2707 | `W46` |
+| 26 | [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) | — | 64.7k | +2548 | `W46` |
+| 27 | [**skills**](https://github.com/mattpocock/skills) | — | 316.1k | +2058 | `W46` |
+| 28 | [**Scrapling**](https://github.com/D4Vinci/Scrapling) | — | 95.8k | +2006 | `W46` |
+| 29 | [**OpenMausBot**](https://github.com/milind-soni/OpenMausBot) | — | 16.2k | +1986 | `W46` |
+| 30 | [**claude-mem**](https://github.com/thedotmack/claude-mem) | — | 110.3k | +1799 | `W46` |
 
 ---
 
