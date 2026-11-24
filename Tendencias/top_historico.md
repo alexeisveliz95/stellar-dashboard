@@ -422,3 +422,6 @@
 | 2026-11-23 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +2037 | 19.1k | `1.00` |
 | 2026-11-23 | **2** | [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | +1078 | 16.0k | `1.00` |
 | 2026-11-23 | **3** | [firecrawl](https://github.com/firecrawl/firecrawl) | +920 | 207.6k | `1.00` |
+| 2026-11-24 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1833 | 20.9k | `1.00` |
+| 2026-11-24 | **2** | [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | +1102 | 17.1k | `1.00` |
+| 2026-11-24 | **3** | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +1075 | 64.4k | `1.00` |
