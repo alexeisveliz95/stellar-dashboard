@@ -425,3 +425,6 @@
 | 2026-11-24 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1833 | 20.9k | `1.00` |
 | 2026-11-24 | **2** | [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | +1102 | 17.1k | `1.00` |
 | 2026-11-24 | **3** | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | +1075 | 64.4k | `1.00` |
+| 2026-11-25 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1644 | 22.5k | `1.00` |
+| 2026-11-25 | **2** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +1133 | 72.7k | `1.00` |
+| 2026-11-25 | **3** | [firecrawl](https://github.com/firecrawl/firecrawl) | +1131 | 209.7k | `1.00` |
