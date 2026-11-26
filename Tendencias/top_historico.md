@@ -428,3 +428,6 @@
 | 2026-11-25 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1644 | 22.5k | `1.00` |
 | 2026-11-25 | **2** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +1133 | 72.7k | `1.00` |
 | 2026-11-25 | **3** | [firecrawl](https://github.com/firecrawl/firecrawl) | +1131 | 209.7k | `1.00` |
+| 2026-11-26 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1600 | 24.0k | `1.00` |
+| 2026-11-26 | **2** | [firecrawl](https://github.com/firecrawl/firecrawl) | +1042 | 210.6k | `1.00` |
+| 2026-11-26 | **3** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +951 | 73.6k | `1.00` |
