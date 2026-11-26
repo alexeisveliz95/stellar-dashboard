@@ -2,10 +2,10 @@
   {
     "id": "github_trending_elementalsouls_Claude-BugHunter",
     "name": "elementalsouls/Claude-BugHunter",
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
     "url": "https://github.com/elementalsouls/Claude-BugHunter",
-    "stars": 22467,
-    "growth": 1644,
+    "stars": 23970,
+    "growth": 1600,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -40,8 +40,8 @@
     "name": "obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "url": "https://github.com/obra/superpowers",
-    "stars": 326339,
-    "growth": 902,
+    "stars": 327149,
+    "growth": 853,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -68,8 +68,8 @@
     "name": "HKUDS/CLI-Anything",
     "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
     "url": "https://github.com/HKUDS/CLI-Anything",
-    "stars": 65441,
-    "growth": 1094,
+    "stars": 66118,
+    "growth": 744,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -86,8 +86,8 @@
     "name": "jingyaogong/minimind",
     "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
     "url": "https://github.com/jingyaogong/minimind",
-    "stars": 70812,
-    "growth": 828,
+    "stars": 71474,
+    "growth": 701,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -108,8 +108,8 @@
     "name": "firecrawl/firecrawl",
     "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 209661,
-    "growth": 1131,
+    "stars": 210609,
+    "growth": 1042,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -147,8 +147,8 @@
     "name": "cathrynlavery/diagram-design",
     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 72679,
-    "growth": 1133,
+    "stars": 73574,
+    "growth": 951,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -175,8 +175,8 @@
     "name": "mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "url": "https://github.com/mvanhorn/last30days-skill",
-    "stars": 74836,
-    "growth": 950,
+    "stars": 75512,
+    "growth": 755,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -215,8 +215,8 @@
     "name": "toeverything/AFFiNE",
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "url": "https://github.com/toeverything/AFFiNE",
-    "stars": 78289,
-    "growth": 578,
+    "stars": 78790,
+    "growth": 521,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -248,10 +248,10 @@
   {
     "id": "github_trending_zhouxiaoka_autoclip",
     "name": "zhouxiaoka/autoclip",
-    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+    "description": "The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
     "url": "https://github.com/zhouxiaoka/autoclip",
-    "stars": 15983,
-    "growth": 868,
+    "stars": 16706,
+    "growth": 770,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -264,17 +264,22 @@
     "raw_topics": [
       "ai-agent",
       "ai-video-editor",
+      "claude-code",
       "content-repurposing",
       "desktop-app",
       "douyin",
       "instagram-reels",
+      "local-first",
       "mcp",
+      "mcp-server",
       "open-source",
+      "opusclip-alternative",
       "podcast",
       "subtitles",
       "tiktok",
       "video-clipping",
       "video-editing-software",
+      "whisper",
       "xiaohongshu",
       "youtube-shorts"
     ],
@@ -285,9 +290,9 @@
     "name": "XiaoYouChR/Ghost-Downloader-3",
     "description": "The only downloader you need. 下载器的集大成者。",
     "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-    "stars": 17988,
-    "growth": 950,
-    "score": 0.9965,
+    "stars": 18852,
+    "growth": 887,
+    "score": 0.996,
     "categories": [
       "Otros"
     ],
@@ -321,9 +326,9 @@
     "name": "google-labs-code/stitch-skills",
     "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
     "url": "https://github.com/google-labs-code/stitch-skills",
-    "stars": 12883,
-    "growth": 352,
-    "score": 0.9943,
+    "stars": 13172,
+    "growth": 308,
+    "score": 0.972,
     "categories": [
       "Automation & DevOps"
     ],
@@ -339,9 +344,9 @@
     "name": "Tracer-Cloud/opensre",
     "description": "The open-source agent for CI/CD reliability.",
     "url": "https://github.com/Tracer-Cloud/opensre",
-    "stars": 15401,
-    "growth": 343,
-    "score": 0.9782,
+    "stars": 15696,
+    "growth": 325,
+    "score": 0.9691,
     "categories": [
       "Automation & DevOps"
     ],
@@ -372,11 +377,11 @@
   {
     "id": "github_trending_mjmirza_app-store-compliance",
     "name": "mjmirza/app-store-compliance",
-    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
     "url": "https://github.com/mjmirza/app-store-compliance",
-    "stars": 6293,
-    "growth": 853,
-    "score": 0.9389,
+    "stars": 6834,
+    "growth": 561,
+    "score": 0.9349,
     "categories": [
       "Mobile Development"
     ],
@@ -410,59 +415,13 @@
     "raw_license": "NOASSERTION"
   },
   {
-    "id": "github_trending_cursor_plugins",
-    "name": "cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "url": "https://github.com/cursor/plugins",
-    "stars": 19450,
-    "growth": 408,
-    "score": 0.9168,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "TypeScript"
-  },
-  {
-    "id": "github_trending_nginx_nginx",
-    "name": "nginx/nginx",
-    "description": "The official NGINX Open Source repository.",
-    "url": "https://github.com/nginx/nginx",
-    "stars": 33314,
-    "growth": 174,
-    "score": 0.8661,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "C",
-    "raw_topics": [
-      "content-cache",
-      "http",
-      "http2",
-      "http3",
-      "https",
-      "load-balancer",
-      "mail-proxy-server",
-      "nginx",
-      "quic",
-      "reverse-proxy",
-      "security",
-      "tcp-proxy-server",
-      "tls",
-      "udp-proxy-server",
-      "web-server"
-    ],
-    "raw_license": "BSD-2-Clause"
-  },
-  {
     "id": "github_trending_openvinotoolkit_openvino",
     "name": "openvinotoolkit/openvino",
     "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
     "url": "https://github.com/openvinotoolkit/openvino",
-    "stars": 12587,
-    "growth": 188,
-    "score": 0.8626,
+    "stars": 12755,
+    "growth": 176,
+    "score": 0.8565,
     "categories": [
       "AI & Data Science"
     ],
@@ -493,5 +452,51 @@
       "yolo"
     ],
     "raw_license": "Apache-2.0"
+  },
+  {
+    "id": "github_trending_nginx_nginx",
+    "name": "nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "url": "https://github.com/nginx/nginx",
+    "stars": 33463,
+    "growth": 150,
+    "score": 0.8541,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "C",
+    "raw_topics": [
+      "content-cache",
+      "http",
+      "http2",
+      "http3",
+      "https",
+      "load-balancer",
+      "mail-proxy-server",
+      "nginx",
+      "quic",
+      "reverse-proxy",
+      "security",
+      "tcp-proxy-server",
+      "tls",
+      "udp-proxy-server",
+      "web-server"
+    ],
+    "raw_license": "BSD-2-Clause"
+  },
+  {
+    "id": "github_trending_cursor_plugins",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "url": "https://github.com/cursor/plugins",
+    "stars": 19691,
+    "growth": 268,
+    "score": 0.8463,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "TypeScript"
   }
 ]
