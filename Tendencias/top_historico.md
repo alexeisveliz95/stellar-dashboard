@@ -431,3 +431,6 @@
 | 2026-11-26 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1600 | 24.0k | `1.00` |
 | 2026-11-26 | **2** | [firecrawl](https://github.com/firecrawl/firecrawl) | +1042 | 210.6k | `1.00` |
 | 2026-11-26 | **3** | [diagram-design](https://github.com/cathrynlavery/diagram-design) | +951 | 73.6k | `1.00` |
+| 2026-11-27 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1615 | 25.5k | `1.00` |
+| 2026-11-27 | **2** | [superpowers](https://github.com/obra/superpowers) | +916 | 328.0k | `1.00` |
+| 2026-11-27 | **3** | [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | +843 | 19.6k | `1.00` |
