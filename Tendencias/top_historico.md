@@ -434,3 +434,6 @@
 | 2026-11-27 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1615 | 25.5k | `1.00` |
 | 2026-11-27 | **2** | [superpowers](https://github.com/obra/superpowers) | +916 | 328.0k | `1.00` |
 | 2026-11-27 | **3** | [Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | +843 | 19.6k | `1.00` |
+| 2026-11-28 | **1** | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | +1372 | 26.8k | `1.00` |
+| 2026-11-28 | **2** | [app-store-compliance](https://github.com/mjmirza/app-store-compliance) | +907 | 8.3k | `0.94` |
+| 2026-11-28 | **3** | [superpowers](https://github.com/obra/superpowers) | +809 | 328.7k | `1.00` |
