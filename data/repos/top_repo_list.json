@@ -4,8 +4,8 @@
     "name": "elementalsouls/Claude-BugHunter",
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
     "url": "https://github.com/elementalsouls/Claude-BugHunter",
-    "stars": 25508,
-    "growth": 1615,
+    "stars": 26752,
+    "growth": 1372,
     "score": 1.0,
     "categories": [
       "Cybersecurity & Hacking"
@@ -40,8 +40,8 @@
     "name": "obra/superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "url": "https://github.com/obra/superpowers",
-    "stars": 328008,
-    "growth": 916,
+    "stars": 328743,
+    "growth": 809,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -68,8 +68,8 @@
     "name": "HKUDS/CLI-Anything",
     "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
     "url": "https://github.com/HKUDS/CLI-Anything",
-    "stars": 66760,
-    "growth": 668,
+    "stars": 67268,
+    "growth": 561,
     "score": 1.0,
     "categories": [
       "Mobile Development"
@@ -86,8 +86,8 @@
     "name": "jingyaogong/minimind",
     "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
     "url": "https://github.com/jingyaogong/minimind",
-    "stars": 72081,
-    "growth": 667,
+    "stars": 72432,
+    "growth": 391,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -108,8 +108,8 @@
     "name": "firecrawl/firecrawl",
     "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 211390,
-    "growth": 833,
+    "stars": 212021,
+    "growth": 717,
     "score": 1.0,
     "categories": [
       "Python & Backend"
@@ -147,8 +147,8 @@
     "name": "cathrynlavery/diagram-design",
     "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "stars": 74259,
-    "growth": 731,
+    "stars": 74728,
+    "growth": 499,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -175,8 +175,8 @@
     "name": "mvanhorn/last30days-skill",
     "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "url": "https://github.com/mvanhorn/last30days-skill",
-    "stars": 76160,
-    "growth": 664,
+    "stars": 76631,
+    "growth": 519,
     "score": 1.0,
     "categories": [
       "Web Development"
@@ -215,8 +215,8 @@
     "name": "toeverything/AFFiNE",
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "url": "https://github.com/toeverything/AFFiNE",
-    "stars": 79240,
-    "growth": 469,
+    "stars": 79694,
+    "growth": 495,
     "score": 1.0,
     "categories": [
       "Otros"
@@ -246,12 +246,48 @@
     "raw_license": "NOASSERTION"
   },
   {
+    "id": "github_trending_XiaoYouChR_Ghost-Downloader-3",
+    "name": "XiaoYouChR/Ghost-Downloader-3",
+    "description": "The only downloader you need. 下载器的集大成者。",
+    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "stars": 20281,
+    "growth": 664,
+    "score": 1.0,
+    "categories": [
+      "Otros"
+    ],
+    "source": "github_trending",
+    "language": "Python",
+    "raw_topics": [
+      "async",
+      "asyncio",
+      "bittorent",
+      "bt",
+      "cross-platform",
+      "download-manager",
+      "downloader",
+      "fluent-design",
+      "ftp",
+      "http3",
+      "magnet",
+      "pyqt",
+      "pyside6",
+      "python",
+      "qt",
+      "quic",
+      "react",
+      "software",
+      "streaming"
+    ],
+    "raw_license": "GPL-3.0"
+  },
+  {
     "id": "github_trending_zhouxiaoka_autoclip",
     "name": "zhouxiaoka/autoclip",
     "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
     "url": "https://github.com/zhouxiaoka/autoclip",
-    "stars": 17412,
-    "growth": 733,
+    "stars": 17897,
+    "growth": 517,
     "score": 1.0,
     "categories": [
       "AI & Data Science"
@@ -286,49 +322,13 @@
     "raw_license": "MIT"
   },
   {
-    "id": "github_trending_XiaoYouChR_Ghost-Downloader-3",
-    "name": "XiaoYouChR/Ghost-Downloader-3",
-    "description": "The only downloader you need. 下载器的集大成者。",
-    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-    "stars": 19635,
-    "growth": 843,
-    "score": 0.9957,
-    "categories": [
-      "Otros"
-    ],
-    "source": "github_trending",
-    "language": "Python",
-    "raw_topics": [
-      "async",
-      "asyncio",
-      "bittorent",
-      "bt",
-      "cross-platform",
-      "download-manager",
-      "downloader",
-      "fluent-design",
-      "ftp",
-      "http3",
-      "magnet",
-      "pyqt",
-      "pyside6",
-      "python",
-      "qt",
-      "quic",
-      "react",
-      "software",
-      "streaming"
-    ],
-    "raw_license": "GPL-3.0"
-  },
-  {
     "id": "github_trending_google-labs-code_stitch-skills",
     "name": "google-labs-code/stitch-skills",
     "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
     "url": "https://github.com/google-labs-code/stitch-skills",
-    "stars": 13476,
-    "growth": 311,
-    "score": 0.9735,
+    "stars": 13762,
+    "growth": 293,
+    "score": 0.9643,
     "categories": [
       "Automation & DevOps"
     ],
@@ -344,9 +344,9 @@
     "name": "Tracer-Cloud/opensre",
     "description": "The open-source agent for CI/CD reliability.",
     "url": "https://github.com/Tracer-Cloud/opensre",
-    "stars": 16010,
-    "growth": 326,
-    "score": 0.9695,
+    "stars": 16275,
+    "growth": 270,
+    "score": 0.9412,
     "categories": [
       "Automation & DevOps"
     ],
@@ -379,9 +379,9 @@
     "name": "mjmirza/app-store-compliance",
     "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
     "url": "https://github.com/mjmirza/app-store-compliance",
-    "stars": 7400,
-    "growth": 531,
-    "score": 0.9341,
+    "stars": 8286,
+    "growth": 907,
+    "score": 0.937,
     "categories": [
       "Mobile Development"
     ],
@@ -419,9 +419,9 @@
     "name": "nginx/nginx",
     "description": "The official NGINX Open Source repository.",
     "url": "https://github.com/nginx/nginx",
-    "stars": 33617,
-    "growth": 148,
-    "score": 0.8531,
+    "stars": 33720,
+    "growth": 131,
+    "score": 0.8445,
     "categories": [
       "Otros"
     ],
@@ -451,9 +451,9 @@
     "name": "openvinotoolkit/openvino",
     "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
     "url": "https://github.com/openvinotoolkit/openvino",
-    "stars": 12902,
-    "growth": 152,
-    "score": 0.8444,
+    "stars": 12997,
+    "growth": 111,
+    "score": 0.8236,
     "categories": [
       "AI & Data Science"
     ],
@@ -490,9 +490,9 @@
     "name": "cursor/plugins",
     "description": "Cursor plugin specification and official plugins",
     "url": "https://github.com/cursor/plugins",
-    "stars": 19924,
-    "growth": 242,
-    "score": 0.8332,
+    "stars": 20109,
+    "growth": 214,
+    "score": 0.8003,
     "categories": [
       "Otros"
     ],
